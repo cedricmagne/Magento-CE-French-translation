@@ -4,11 +4,11 @@ msgstr "Action"
 
 #: An error occurred while writing to the backup file \"%s\".
 msgid "An error occurred while writing to the backup file \"%s\"."
-msgstr "Erreur lors de l'Ã©criture dans le fichier de sauvegarde \"%s\"."
+msgstr "Erreur lors de l'écriture dans le fichier de sauvegarde \"%s\"."
 
 #: Backup file \"%s\" cannot be read from or written to.
 msgid "Backup file \"%s\" cannot be read from or written to."
-msgstr "Impossible de lire ou d'Ã©crire dans le fichier de sauvegarde \"%s\"."
+msgstr "Impossible de lire ou d'écrire dans le fichier de sauvegarde \"%s\"."
 
 #: Backup file \"%s\" does not exist.
 msgid "Backup file \"%s\" does not exist."
@@ -20,11 +20,11 @@ msgstr "Le fichier de sauvegarde n'existe pas."
 
 #: Backup file handler was unspecified.
 msgid "Backup file handler was unspecified."
-msgstr "Le gestionnaire de fichier de sauvegarde n'a pas Ã©tÃ© spÃ©cifiÃ©."
+msgstr "Le gestionnaire de fichier de sauvegarde n'a pas été spécifié."
 
 #: Backup file path was not specified.
 msgid "Backup file path was not specified."
-msgstr "Le chemin du fichier de sauvegarde n'a pas Ã©tÃ© spÃ©cifiÃ©."
+msgstr "Le chemin du fichier de sauvegarde n'a pas été spécifié."
 
 #: Backups
 msgid "Backups"
@@ -36,7 +36,7 @@ msgstr "Impossible de lire le fichier de sauvegarde."
 
 #: Create Backup
 msgid "Create Backup"
-msgstr "CrÃ©er une sauvegarde"
+msgstr "Créer une sauvegarde"
 
 #: DB
 msgid "DB"
@@ -44,11 +44,11 @@ msgstr "BDD"
 
 #: Database was successfuly backed up.
 msgid "Database was successfuly backed up."
-msgstr "La base de donnÃ©es a Ã©tÃ© sauvegardÃ©e avec succÃ¨s !"
+msgstr "La base de données a été sauvegardée avec succès !"
 
 #: Download
 msgid "Download"
-msgstr "TÃ©lÃ©charger"
+msgstr "Télécharger"
 
 #: Size, Bytes
 msgid "Size, Bytes"
@@ -56,7 +56,7 @@ msgstr "Taille en octets"
 
 #: The file was compressed with Zlib, but this extension is not installed on server.
 msgid "The file was compressed with Zlib, but this extension is not installed on server."
-msgstr "Le fichier a Ã©tÃ© compressÃ© avec Zlib, mais cette extension n'est pas installÃ©e sur le serveur."
+msgstr "Le fichier a été compressé avec Zlib, mais cette extension n'est pas installée sur le serveur."
 
 #: Time
 msgid "Time"
@@ -68,19 +68,19 @@ msgstr "Type"
 
 #: Unable to create backup. Please, try again later.
 msgid "Unable to create backup. Please, try again later."
-msgstr "Impossible de faire une sauvegarde. Veuillez rÃ©essayer ultÃ©rieurement."
+msgstr "Impossible de faire une sauvegarde. Veuillez réessayer ultérieurement."
 
 #: Wrong order of creation for new backup.
 msgid "Wrong order of creation for new backup."
-msgstr "Ordre de crÃ©ation erronÃ© pour la nouvelle sauvegarde."
+msgstr "Ordre de création erroné pour la nouvelle sauvegarde."
 
 #: An error occurred while creating the backup.
 msgid "An error occurred while creating the backup."
-msgstr "Erreur lors de la crÃ©ation de la sauvegarde."
+msgstr "Erreur lors de la création de la sauvegarde."
 
 #: Are you sure you want to delete the selected backup(s)?
 msgid "Are you sure you want to delete the selected backup(s)?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir effacer les sauvegardes sÃ©lectionnÃ©es ?"
+msgstr "Êtes-vous sûr(e) de vouloir effacer les sauvegardes sélectionnées ?"
 
 #: Backup Type
 msgid "Backup Type"
@@ -88,19 +88,19 @@ msgstr "Type de sauvegarde"
 
 #: Backup file not found
 msgid "Backup file not found"
-msgstr "Fichier de sauvegarde non trouvÃ©"
+msgstr "Fichier de sauvegarde non trouvé"
 
 #: Database Backup
 msgid "Database Backup"
-msgstr "Sauvegarde de base de donnÃ©es"
+msgstr "Sauvegarde de base de données"
 
 #: Database and Media Backup
 msgid "Database and Media Backup"
-msgstr "Sauvegarde de base de donnÃ©es et media"
+msgstr "Sauvegarde de base de données et media"
 
 #: Enable Scheduled Backup
 msgid "Enable Scheduled Backup"
-msgstr "Activer la sauvegarde programmÃ©e"
+msgstr "Activer la sauvegarde programmée"
 
 #: Failed to connect to FTP
 msgid "Failed to connect to FTP"
@@ -112,7 +112,7 @@ msgstr "Erreur lors de l'effacement d'une ou plusieurs sauvegardes."
 
 #: Failed to rollback
 msgid "Failed to rollback"
-msgstr "Erreur lors du retour arriÃ¨re (rollback)"
+msgstr "Erreur lors du retour arrière (rollback)"
 
 #: Failed to validate FTP
 msgid "Failed to validate FTP"
@@ -120,7 +120,7 @@ msgstr "Erreur lors de la validation du FTP"
 
 #: Frequency
 msgid "Frequency"
-msgstr "FrÃ©quence"
+msgstr "Fréquence"
 
 #: Invalid Password.
 msgid "Invalid Password."
@@ -136,67 +136,67 @@ msgstr "Nom"
 
 #: Not enough free space to create backup.
 msgid "Not enough free space to create backup."
-msgstr "Espace libre insuffisant pour crÃ©er une sauvegarde."
+msgstr "Espace libre insuffisant pour créer une sauvegarde."
 
 #: Not enough permissions to create backup.
 msgid "Not enough permissions to create backup."
-msgstr "Permissions insuffisantes pour crÃ©er la sauvegarde."
+msgstr "Permissions insuffisantes pour créer la sauvegarde."
 
 #: Not enough permissions to perform rollback
 msgid "Not enough permissions to perform rollback"
-msgstr "Permissions insuffisantes pour rÃ©aliser le retour arriÃ¨re (rollback)"
+msgstr "Permissions insuffisantes pour réaliser le retour arrière (rollback)"
 
 #: Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the backup.\"
 msgid "Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the backup.\""
-msgstr "Veuillez dÃ©selectionner la case Ã  cocher \"Mettre la boutique en mode maintenance\" ou mettez Ã  jour les permissions pour continuer la sauvegarde."
+msgstr "Veuillez déselectionner la case à cocher \"Mettre la boutique en mode maintenance\" ou mettez à jour les permissions pour continuer la sauvegarde."
 
 #: Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the rollback.\"
 msgid "Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the rollback.\""
-msgstr "Veuillez dÃ©selectionner la case Ã  cocher \"Mettre la boutique en mode maintenance\" ou mettez Ã  jour les permissions pour continuer le retour arriÃ¨re (rollback)."
+msgstr "Veuillez déselectionner la case à cocher \"Mettre la boutique en mode maintenance\" ou mettez à jour les permissions pour continuer le retour arrière (rollback)."
 
 #: Put store on the maintenance mode while backup's creation
 msgid "Put store on the maintenance mode while backup's creation"
-msgstr "Mettre la boutique en mode maintenance pendant la crÃ©ation de la sauvegarde"
+msgstr "Mettre la boutique en mode maintenance pendant la création de la sauvegarde"
 
 #: Rollback
 msgid "Rollback"
-msgstr "Retour arriÃ¨re (rollback)"
+msgstr "Retour arrière (rollback)"
 
 #: Scheduled Backup Settings
 msgid "Scheduled Backup Settings"
-msgstr "ParamÃ¨tres de sauvegarde programmÃ©e"
+msgstr "Paramètres de sauvegarde programmée"
 
 #: Start Time
 msgid "Start Time"
-msgstr "Heure de dÃ©but"
+msgstr "Heure de début"
 
 #: System Backup
 msgid "System Backup"
-msgstr "Sauvegarde systÃ¨me"
+msgstr "Sauvegarde système"
 
 #: System couldn't put store on the maintenance mode
 msgid "System couldn't put store on the maintenance mode"
-msgstr "Le systÃ¨me n'a pas pu mettre la boutique en mode maintenance"
+msgstr "Le système n'a pas pu mettre la boutique en mode maintenance"
 
 #: The database and media backup has been created.
 msgid "The database and media backup has been created."
-msgstr "La sauvegarde de la base de donnÃ©es et des media a bien Ã©tÃ© crÃ©Ã©e."
+msgstr "La sauvegarde de la base de données et des media a bien été créée."
 
 #: The database backup has been created.
 msgid "The database backup has been created."
-msgstr "La sauvegarde de la base de donnÃ©es a bien Ã©tÃ© crÃ©Ã©e."
+msgstr "La sauvegarde de la base de données a bien été créée."
 
 #: The selected backup(s) has been deleted.
 msgid "The selected backup(s) has been deleted."
-msgstr "Les sauvegardes sÃ©lectionnÃ©es ont Ã©tÃ© effacÃ©es."
+msgstr "Les sauvegardes sélectionnées ont été effacées."
 
 #: The system (excluding Media) backup has been created.
 msgid "The system (excluding Media) backup has been created."
-msgstr "La sauvegarde du systÃ¨me (exceptÃ© les media) a Ã©tÃ© crÃ©Ã©e."
+msgstr "La sauvegarde du système (excepté les media) a été créée."
 
 #: The system backup has been created.
 msgid "The system backup has been created."
-msgstr "La sauvegarde du systÃ¨me a Ã©tÃ© crÃ©Ã©e."
+msgstr "La sauvegarde du système a été créée."
 
 #: Unable to save the cron expression.
 msgid "Unable to save the cron expression."
@@ -204,5 +204,5 @@ msgstr "Impossible d'enregistrer l'expression cron"
 
 #: You do not have sufficient permissions to enable Maintenance Mode during this operation.
 msgid "You do not have sufficient permissions to enable Maintenance Mode during this operation."
-msgstr "Vous n'avez pas les permissions suffisantes pour activer le mode maintenance pendant cette opÃ©ration."
+msgstr "Vous n'avez pas les permissions suffisantes pour activer le mode maintenance pendant cette opération."
 

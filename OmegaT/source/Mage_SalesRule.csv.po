@@ -1,6 +1,6 @@
 #: %d Shopping Cart Price Rules based on \"%s\" attribute have been disabled.
 msgid "%d Shopping Cart Price Rules based on \"%s\" attribute have been disabled."
-msgstr "%d rÃ¨gles de prix catalogue basÃ©es sur l'attribut \"%s\" ont Ã©tÃ© dÃ©sactivÃ©es."
+msgstr "%d règles de prix catalogue basées sur l'attribut \"%s\" ont été désactivées."
 
 #: Actions
 msgid "Actions"
@@ -12,7 +12,7 @@ msgstr "Actif"
 
 #: Add New Rule
 msgid "Add New Rule"
-msgstr "Ajouter une nouvelle rÃ¨gle"
+msgstr "Ajouter une nouvelle règle"
 
 #: Apply
 msgid "Apply"
@@ -20,19 +20,19 @@ msgstr "Appliquer"
 
 #: Apply To
 msgid "Apply To"
-msgstr "S'applique Ã "
+msgstr "S'applique à"
 
 #: Apply the rule only if the following conditions are met (leave blank for all products)
 msgid "Apply the rule only if the following conditions are met (leave blank for all products)"
-msgstr "Appliquer la rÃ¨gle seulement si les conditions suivantes sont remplies (laisser vide pour appliquer Ã  tous les produits)"
+msgstr "Appliquer la règle seulement si les conditions suivantes sont remplies (laisser vide pour appliquer à tous les produits)"
 
 #: Apply the rule only to cart items matching the following conditions (leave blank for all items)
 msgid "Apply the rule only to cart items matching the following conditions (leave blank for all items)"
-msgstr "Appliquer la rÃ¨gle seulement aux articles du panier qui remplissent les conditions suivantes (laisser vide pour appliquer Ã  tous les produits du panier)"
+msgstr "Appliquer la règle seulement aux articles du panier qui remplissent les conditions suivantes (laisser vide pour appliquer à tous les produits du panier)"
 
 #: Apply the rule to cart items matching the following conditions
 msgid "Apply the rule to cart items matching the following conditions"
-msgstr "Appliquer la rÃ¨gle aux articles du panier qui remplissent les conditions suivantes"
+msgstr "Appliquer la règle aux articles du panier qui remplissent les conditions suivantes"
 
 #: Apply to Shipping Amount
 msgid "Apply to Shipping Amount"
@@ -44,7 +44,7 @@ msgstr "Auto"
 
 #: Buy X get Y free (discount amount is Y)
 msgid "Buy X get Y free (discount amount is Y)"
-msgstr "X achetÃ©s, Y gratuits (la valeur de la remise est Y)"
+msgstr "X achetés, Y gratuits (la valeur de la remise est Y)"
 
 #: By Fixed Amount
 msgid "By Fixed Amount"
@@ -64,7 +64,7 @@ msgstr "En pourcentage du prix d'origine"
 
 #: Can\'t acquire coupon.
 msgid "Can\'t acquire coupon."
-msgstr "Impossible d'obtenir le bon de rÃ©duction."
+msgstr "Impossible d'obtenir le bon de réduction."
 
 #: Cart Attribute
 msgid "Cart Attribute"
@@ -84,11 +84,11 @@ msgstr "Combinaison de conditions"
 
 #: Coupon
 msgid "Coupon"
-msgstr "Bon de rÃ©duction"
+msgstr "Bon de réduction"
 
 #: Coupon Code
 msgid "Coupon Code"
-msgstr "Code du bon de rÃ©duction"
+msgstr "Code du bon de réduction"
 
 #: Customer Groups
 msgid "Customer Groups"
@@ -100,7 +100,7 @@ msgstr "Le client est un nouvel acheteur : %s"
 
 #: Customer registered: %s
 msgid "Customer registered: %s"
-msgstr "Client enregistrÃ© : %s"
+msgstr "Client enregistré : %s"
 
 #: Date Expire
 msgid "Date Expire"
@@ -108,19 +108,19 @@ msgstr "Date d'expiration"
 
 #: Date Start
 msgid "Date Start"
-msgstr "Date de dÃ©marrage"
+msgstr "Date de démarrage"
 
 #: Default Label
 msgid "Default Label"
-msgstr "LibellÃ© par dÃ©faut"
+msgstr "Libellé par défaut"
 
 #: Default Rule Label for All Store Views
 msgid "Default Rule Label for All Store Views"
-msgstr "LibellÃ© de rÃ¨gle par dÃ©faut pour toutes les vues magasin"
+msgstr "Libellé de règle par défaut pour toutes les vues magasin"
 
 #: Delete Rule
 msgid "Delete Rule"
-msgstr "Supprimer la rÃ¨gle"
+msgstr "Supprimer la règle"
 
 #: Description
 msgid "Description"
@@ -136,15 +136,15 @@ msgstr "Remise"
 
 #: Discount Qty Step (Buy X)
 msgid "Discount Qty Step (Buy X)"
-msgstr "QuantitÃ© pour obtenir la remise (Achetez-en X)"
+msgstr "Quantité pour obtenir la remise (Achetez-en X)"
 
 #: Edit Rule
 msgid "Edit Rule"
-msgstr "Ã‰diter la rÃ¨gle"
+msgstr "Éditer la règle"
 
 #: Edit Rule '%s'
 msgid "Edit Rule '%s'"
-msgstr "Ã‰diter la rÃ¨gle '%s'"
+msgstr "Éditer la règle '%s'"
 
 #: Expire at: %s
 msgid "Expire at: %s"
@@ -164,7 +164,7 @@ msgstr "Pour les objets concordants seulement"
 
 #: For shipment with matching items
 msgid "For shipment with matching items"
-msgstr "Pour les expÃ©ditions avec articles concordants"
+msgstr "Pour les expéditions avec articles concordants"
 
 #: Free Shipping
 msgid "Free Shipping"
@@ -172,11 +172,11 @@ msgstr "Livraison gratuite"
 
 #: From Date
 msgid "From Date"
-msgstr "Date de dÃ©but"
+msgstr "Date de début"
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: ID
 msgid "ID"
@@ -188,19 +188,19 @@ msgstr "Inactif"
 
 #: Item totals are not set for rule.
 msgid "Item totals are not set for rule."
-msgstr "Les totaux d'articles ne sont pas dÃ©finis pour la rÃ¨gle."
+msgstr "Les totaux d'articles ne sont pas définis pour la règle."
 
 #: Labels
 msgid "Labels"
-msgstr "LibellÃ©s"
+msgstr "Libellés"
 
 #: Maximum Qty Discount is Applied To
 msgid "Maximum Qty Discount is Applied To"
-msgstr "QtÃ© maxi Ã  laquelle la remise est appliquÃ©e"
+msgstr "Qté maxi à laquelle la remise est appliquée"
 
 #: NOT LOGGED IN
 msgid "NOT LOGGED IN"
-msgstr "NON CONNECTÃ‰"
+msgstr "NON CONNECTÉ"
 
 #: Name: %s
 msgid "Name: %s"
@@ -208,7 +208,7 @@ msgstr "Nom : %s"
 
 #: New Rule
 msgid "New Rule"
-msgstr "Nouvelle rÃ¨gle"
+msgstr "Nouvelle règle"
 
 #: No
 msgid "No"
@@ -216,7 +216,7 @@ msgstr "Non"
 
 #: No Coupon
 msgid "No Coupon"
-msgstr "Pas de coupon de rÃ©duction"
+msgstr "Pas de coupon de réduction"
 
 #: Number of Uses
 msgid "Number of Uses"
@@ -232,7 +232,7 @@ msgstr "Remise en pourcentage du prix du produit"
 
 #: Period
 msgid "Period"
-msgstr "PÃ©riode"
+msgstr "Période"
 
 #: Price in cart
 msgid "Price in cart"
@@ -240,7 +240,7 @@ msgstr "Prix dans le panier"
 
 #: Priority
 msgid "Priority"
-msgstr "PrioritÃ©"
+msgstr "Priorité"
 
 #: Product attribute combination
 msgid "Product attribute combination"
@@ -248,7 +248,7 @@ msgstr "Combinaison d'attributs de produit"
 
 #: Products subselection
 msgid "Products subselection"
-msgstr "Sous-sÃ©lection de produits"
+msgstr "Sous-sélection de produits"
 
 #: Promotions
 msgid "Promotions"
@@ -260,7 +260,7 @@ msgstr "Public dans le flux RSS"
 
 #: Quantity in cart
 msgid "Quantity in cart"
-msgstr "QuantitÃ© dans le panier"
+msgstr "Quantité dans le panier"
 
 #: Row total in cart
 msgid "Row total in cart"
@@ -268,11 +268,11 @@ msgstr "Total de la ligne du panier"
 
 #: Rule Information
 msgid "Rule Information"
-msgstr "Informations rÃ¨gle"
+msgstr "Informations règle"
 
 #: Rule Name
 msgid "Rule Name"
-msgstr "Nom de la rÃ¨gle"
+msgstr "Nom de la règle"
 
 #: Sales Discount Amount
 msgid "Sales Discount Amount"
@@ -288,11 +288,11 @@ msgstr "Montant du total"
 
 #: Save Rule
 msgid "Save Rule"
-msgstr "Sauvegarder la rÃ¨gle"
+msgstr "Sauvegarder la règle"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Shipping Country
 msgid "Shipping Country"
@@ -308,31 +308,31 @@ msgstr "Code postal de livraison"
 
 #: Shipping Region
 msgid "Shipping Region"
-msgstr "RÃ©gion de livraison"
+msgstr "Région de livraison"
 
 #: Shipping State/Province
 msgid "Shipping State/Province"
-msgstr "Ã‰tat/rÃ©gion de livraison"
+msgstr "État/région de livraison"
 
 #: Shopping Cart Price Rule
 msgid "Shopping Cart Price Rule"
-msgstr "RÃ¨gle de prix panier"
+msgstr "Règle de prix panier"
 
 #: Shopping Cart Price Rules
 msgid "Shopping Cart Price Rules"
-msgstr "RÃ¨gles de prix panier"
+msgstr "Règles de prix panier"
 
 #: Special Price
 msgid "Special Price"
-msgstr "Prix spÃ©cial"
+msgstr "Prix spécial"
 
 #: Specific Coupon
 msgid "Specific Coupon"
-msgstr "Bon de rÃ©duction spÃ©cifique"
+msgstr "Bon de réduction spécifique"
 
 #: Start at: %s
 msgid "Start at: %s"
-msgstr "DÃ©bute le : %s"
+msgstr "Débute le : %s"
 
 #: Status
 msgid "Status"
@@ -340,11 +340,11 @@ msgstr "Statut"
 
 #: Stop Further Rules Processing
 msgid "Stop Further Rules Processing"
-msgstr "Ne pas traiter les rÃ¨gles suivantes (non cumulable)"
+msgstr "Ne pas traiter les règles suivantes (non cumulable)"
 
 #: Store View Specific Labels
 msgid "Store View Specific Labels"
-msgstr "LibellÃ©s spÃ©cifiques par vue magasin"
+msgstr "Libellés spécifiques par vue magasin"
 
 #: Subtotal
 msgid "Subtotal"
@@ -356,15 +356,15 @@ msgstr "Montant du sous-total"
 
 #: The rule has been deleted.
 msgid "The rule has been deleted."
-msgstr "La rÃ¨gle a Ã©tÃ© supprimÃ©e."
+msgstr "La règle a été supprimée."
 
 #: The rule has been saved.
 msgid "The rule has been saved."
-msgstr "La rÃ¨gle a Ã©tÃ© sauvegardÃ©e."
+msgstr "La règle a été sauvegardée."
 
 #: This rule no longer exists.
 msgid "This rule no longer exists."
-msgstr "Cette rÃ¨gle n'existe plus."
+msgstr "Cette règle n'existe plus."
 
 #: To Date
 msgid "To Date"
@@ -396,7 +396,7 @@ msgstr "Montant du total"
 
 #: Total Items Quantity
 msgid "Total Items Quantity"
-msgstr "QuantitÃ© totale d'articles"
+msgstr "Quantité totale d'articles"
 
 #: Total Weight
 msgid "Total Weight"
@@ -404,23 +404,23 @@ msgstr "Poids total"
 
 #: Unable to find a rule to delete.
 msgid "Unable to find a rule to delete."
-msgstr "Impossible de trouver la rÃ¨gle Ã  supprimer."
+msgstr "Impossible de trouver la règle à supprimer."
 
 #: Update Prices Using the Following Information
 msgid "Update Prices Using the Following Information"
-msgstr "Mettre Ã  jour les prix en utilisant l'information suivante"
+msgstr "Mettre à jour les prix en utilisant l'information suivante"
 
 #: Update prices using the following information
 msgid "Update prices using the following information"
-msgstr "Mettre Ã  jour les prix en utilisant l'information suivante"
+msgstr "Mettre à jour les prix en utilisant l'information suivante"
 
 #: Update product's %s %s: %s
 msgid "Update product's %s %s: %s"
-msgstr "Mettre Ã  jour le %s du produit %s : %s"
+msgstr "Mettre à jour le %s du produit %s : %s"
 
 #: Update the Product
 msgid "Update the Product"
-msgstr "Mettre Ã  jour le produit"
+msgstr "Mettre à jour le produit"
 
 #: Uses per Coupon
 msgid "Uses per Coupon"
@@ -432,7 +432,7 @@ msgstr "Nombre d'utilisations par client"
 
 #: Wrong rule specified.
 msgid "Wrong rule specified."
-msgstr "Mauvaise rÃ¨gle spÃ©cifiÃ©e"
+msgstr "Mauvaise règle spécifiée"
 
 #: Yes
 msgid "Yes"
@@ -440,19 +440,19 @@ msgstr "Oui"
 
 #: Coupon with the same code
 msgid "Coupon with the same code"
-msgstr "Coupon de rÃ©duction avec le mÃªme code"
+msgstr "Coupon de réduction avec le même code"
 
 #: If an item is %s in the cart with %s of these conditions true:
 msgid "If an item is %s in the cart with %s of these conditions true:"
-msgstr "Si un article est %s panier et qu'il rÃ©pond Ã  %s ces conditions :"
+msgstr "Si un article est %s panier et qu'il répond à %s ces conditions :"
 
 #: If %s %s %s for a subselection of items in cart matching %s of these conditions:
 msgid "If %s %s %s for a subselection of items in cart matching %s of these conditions:"
-msgstr "Si %s %s %s pour une sous-sÃ©lection d'articles dans le panier rÃ©pondant Ã  %s ces conditions :"
+msgstr "Si %s %s %s pour une sous-sélection d'articles dans le panier répondant à %s ces conditions :"
 
 #: total quantity
 msgid "total quantity"
-msgstr "la quantitÃ© totale"
+msgstr "la quantité totale"
 
 #: total amount
 msgid "total amount"
@@ -460,7 +460,7 @@ msgstr "le montant total"
 
 #: FOUND
 msgid "FOUND"
-msgstr "PRÃ‰SENT DANS LE"
+msgstr "PRÉSENT DANS LE"
 
 #: NOT FOUND
 msgid "NOT FOUND"
@@ -472,113 +472,113 @@ msgstr "Impossible d'appliquer le bon."
 
 #: %s Coupon(s) have been generated
 msgid "%s Coupon(s) have been generated"
-msgstr ""
+msgstr "%s bon(s) de réduction ont été générés"
 
 #: Alphabetical
 msgid "Alphabetical"
-msgstr ""
+msgstr "Alphabétique"
 
 #: Alphanumeric
 msgid "Alphanumeric"
-msgstr ""
+msgstr "Alphanumérique"
 
 #: An error occurred while generating coupons. Please review the log and try again.
 msgid "An error occurred while generating coupons. Please review the log and try again."
-msgstr ""
+msgstr "Erreur lors de la génération des bons de réduction. Vérifiez les logs et réessayez."
 
 #: Are you sure you want to delete the selected coupon(s)?
 msgid "Are you sure you want to delete the selected coupon(s)?"
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir supprimer les bons de réduction sélectionné(s)?"
 
 #: Auto Generated Specific Coupon Codes
 msgid "Auto Generated Specific Coupon Codes"
-msgstr ""
+msgstr "Bons de réduction spécifiques générés automatiquement"
 
 #: Code Format
 msgid "Code Format"
-msgstr ""
+msgstr "Format du code"
 
 #: Code Length
 msgid "Code Length"
-msgstr ""
+msgstr "Longueur du code"
 
 #: Code Prefix
 msgid "Code Prefix"
-msgstr ""
+msgstr "Préfix du code"
 
 #: Code Suffix
 msgid "Code Suffix"
-msgstr ""
+msgstr "Suffixe du code"
 
 #: Coupon Qty
 msgid "Coupon Qty"
-msgstr ""
+msgstr "Qté de bons de réduction"
 
 #: Coupons Information
 msgid "Coupons Information"
-msgstr ""
+msgstr "Informations des bons de réduction"
 
 #: Created On
 msgid "Created On"
-msgstr ""
+msgstr "Créé le"
 
 #: Dash Every X Characters
 msgid "Dash Every X Characters"
-msgstr ""
+msgstr "Tiret tous les X caractères"
 
 #: Excluding prefix, suffix and separators.
 msgid "Excluding prefix, suffix and separators."
-msgstr ""
+msgstr "Exclure les prefixes, suffixes et les séparateurs."
 
 #: Generate
 msgid "Generate"
-msgstr ""
+msgstr "Générer"
 
 #: If empty no separation.
 msgid "If empty no separation."
-msgstr ""
+msgstr "Pas de séparation si non renseigné."
 
 #: If you select and save the rule you will be able to generate multiple coupon codes.
 msgid "If you select and save the rule you will be able to generate multiple coupon codes."
-msgstr ""
+msgstr "Si vous sélectionnez et sauvegardez la règle, vous allez générer plusieurs bons de réduction."
 
 #: Manage Coupon Codes
 msgid "Manage Coupon Codes"
-msgstr ""
+msgstr "Gérer les bons de réduction"
 
 #: Not valid data provided
 msgid "Not valid data provided"
-msgstr ""
+msgstr "Aucune donnée valide fournie"
 
 #: Numeric
 msgid "Numeric"
-msgstr ""
+msgstr "Numérique"
 
 #: Rule is not defined
 msgid "Rule is not defined"
-msgstr ""
+msgstr "La règle n'est pas définie"
 
 #: Times Used
 msgid "Times Used"
-msgstr ""
+msgstr "Nombre d'utilisation "
 
 #: Unable to create requested Coupon Qty. Please check settings and try again.
 msgid "Unable to create requested Coupon Qty. Please check settings and try again."
-msgstr ""
+msgstr "Impossible de créer la quantité de bons de réduction demandée. Vérifiez les réglages et réessayez."
 
 #: Use Auto Generation
 msgid "Use Auto Generation"
-msgstr ""
+msgstr "Utiliser la génération automatique"
 
 #: Used
 msgid "Used"
-msgstr ""
+msgstr "Utilisé"
 
 #: Website
 msgid "Website"
-msgstr ""
+msgstr "Site web"
 
 #: Websites
 msgid "Websites"
-msgstr ""
+msgstr "Sites web"
 

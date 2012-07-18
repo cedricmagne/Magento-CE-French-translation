@@ -12,7 +12,7 @@ msgstr "* Champs obligatoires"
 
 #: <strong>%s</strong> requests access to your account
 msgid "<strong>%s</strong> requests access to your account"
-msgstr "<strong>%s</strong> nÃ©cessite l'accÃ¨s Ã  votre compte"
+msgstr "<strong>%s</strong> nécessite l'accès à votre compte"
 
 #: Admin
 msgid "Admin"
@@ -20,7 +20,7 @@ msgstr "Administration"
 
 #: After authorization application will have access to you account.
 msgid "After authorization application will have access to you account."
-msgstr "AprÃ¨s l'autorisation, l'application aura accÃ¨s Ã  votre compte."
+msgstr "Après l'autorisation, l'application aura accès à votre compte."
 
 #: An error occurred on confirm authorize.
 msgid "An error occurred on confirm authorize."
@@ -96,7 +96,7 @@ msgstr ""
 
 #: Authorization confirmed
 msgid "Authorization confirmed"
-msgstr "Autorisation confirmÃ©e"
+msgstr "Autorisation confirmée"
 
 #: Authorization confirmed.
 msgid "Authorization confirmed."
@@ -160,7 +160,7 @@ msgstr ""
 
 #: Created At
 msgid "Created At"
-msgstr "CrÃ©Ã© le"
+msgstr "Créé le"
 
 #: Customer
 msgid "Customer"
@@ -176,15 +176,15 @@ msgstr "Supprimer"
 
 #: Disable
 msgid "Disable"
-msgstr "DÃ©sactiver"
+msgstr "Désactiver"
 
 #: Disabled
 msgid "Disabled"
-msgstr "DÃ©sactivÃ©"
+msgstr "Désactivé"
 
 #: Edit
 msgid "Edit"
-msgstr "Ã‰diter"
+msgstr "Éditer"
 
 #: Edit Consumer
 msgid "Edit Consumer"
@@ -204,7 +204,7 @@ msgstr "Activer"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Entry with ID #%s not found.
 msgid "Entry with ID #%s not found."
@@ -216,7 +216,7 @@ msgstr ""
 
 #: Give the verifier code to application administrator
 msgid "Give the verifier code to application administrator"
-msgstr "Donner le code de vÃ©rification Ã  l'administrateur de l'application"
+msgstr "Donner le code de vérification à l'administrateur de l'application"
 
 #: ID
 msgid "ID"
@@ -244,7 +244,7 @@ msgstr ""
 
 #: Key
 msgid "Key"
-msgstr "ClÃ©"
+msgstr "Clé"
 
 #: Log In
 msgid "Log In"
@@ -380,7 +380,7 @@ msgstr ""
 
 #: Role Name
 msgid "Role Name"
-msgstr "Nom du rÃ´le"
+msgstr "Nom du rôle"
 
 #: Save
 msgid "Save"
@@ -388,7 +388,7 @@ msgstr "Sauvegarder"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Secret
 msgid "Secret"
@@ -412,7 +412,7 @@ msgstr "Statut"
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: The application access request is rejected.
 msgid "The application access request is rejected."
@@ -452,7 +452,7 @@ msgstr "Type d'utilisateur"
 
 #: Verifier code: %s
 msgid "Verifier code: %s"
-msgstr "Code de vÃ©rification : %s"
+msgstr "Code de vérification : %s"
 
 #: You have no applications.
 msgid "You have no applications."

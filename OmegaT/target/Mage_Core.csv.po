@@ -4,11 +4,11 @@ msgstr "%s"
 
 #: %s already exists
 msgid "%s already exists"
-msgstr "%s existe dÃ©jÃ "
+msgstr "%s existe déjà"
 
 #: %s already exists.
 msgid "%s already exists."
-msgstr "%s existe dÃ©jÃ ."
+msgstr "%s existe déjà."
 
 #: -- Please Select --
 msgid "-- Please Select --"
@@ -16,7 +16,7 @@ msgstr "-- Faites un choix --"
 
 #: A category object is required for determining the product request path.
 msgid "A category object is required for determining the product request path."
-msgstr "Un objet catÃ©gorie est obligatoire pour dÃ©terminer le chemin de requÃªte du produit."
+msgstr "Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit."
 
 #: Add Block Names to Hints
 msgid "Add Block Names to Hints"
@@ -24,7 +24,7 @@ msgstr "Ajouter les noms des blocs aux astuces"
 
 #: Add Secret Key to URLs
 msgid "Add Secret Key to URLs"
-msgstr "Ajouter une clÃ© secrÃ¨te aux URLs"
+msgstr "Ajouter une clé secrète aux URLs"
 
 #: Add Store Code to Urls
 msgid "Add Store Code to Urls"
@@ -44,7 +44,7 @@ msgstr "Emails de l'administrateur"
 
 #: Advanced
 msgid "Advanced"
-msgstr "AvancÃ©"
+msgstr "Avancé"
 
 #: Allow Countries
 msgid "Allow Countries"
@@ -52,27 +52,27 @@ msgstr "Autoriser les pays"
 
 #: Allowed IPs (comma separated)
 msgid "Allowed IPs (comma separated)"
-msgstr "IPs autorisÃ©es (sÃ©parÃ©es par des virgules)"
+msgstr "IPs autorisées (séparées par des virgules)"
 
 #: Allowed file types: ICO, PNG, GIF, JPEG, APNG, SVG. Not all browsers support all these formats!
 msgid "Allowed file types: ICO, PNG, GIF, JPEG, APNG, SVG. Not all browsers support all these formats!"
-msgstr "Types de fichiers autorisÃ©s : ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportÃ©s par certains navigateurs."
+msgstr "Types de fichiers autorisés : ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportés par certains navigateurs."
 
 #: Allows customers to stay logged in when switching between different stores.
 msgid "Allows customers to stay logged in when switching between different stores."
-msgstr "Permet aux clients de rester connectÃ©s s'ils basculent entre les diffÃ©rentes boutiques."
+msgstr "Permet aux clients de rester connectés s'ils basculent entre les différentes boutiques."
 
 #: Alternative text for next link in pagination menu. If empty, default arrow image will used.
 msgid "Alternative text for next link in pagination menu. If empty, default arrow image will used."
-msgstr "Texte alternatif pour le lien Â«Â suivantÂ Â» dans le menu de pagination. Si vous le laissez vide, c'est la flÃªche par dÃ©faut qui sera utilisÃ©e."
+msgstr "Texte alternatif pour le lien « suivant » dans le menu de pagination. Si vous le laissez vide, c'est la flêche par défaut qui sera utilisée."
 
 #: Alternative text for previous link in pagination menu. If empty, default arrow image will used.
 msgid "Alternative text for previous link in pagination menu. If empty, default arrow image will used."
-msgstr "Texte alternatif pour le lien Â«Â prÃ©cÃ©dentÂ Â» dans le menu de pagination. Si vous le laissez vide, c'est la flÃªche par dÃ©faut qui sera utilisÃ©e."
+msgstr "Texte alternatif pour le lien « précédent » dans le menu de pagination. Si vous le laissez vide, c'est la flêche par défaut qui sera utilisée."
 
 #: An error occurred while saving. Please review the error log.
 msgid "An error occurred while saving. Please review the error log."
-msgstr "Erreur lors de la sauvegarde. VÃ©rifiez les logs."
+msgstr "Erreur lors de la sauvegarde. Vérifiez les logs."
 
 #: Anchor Text for Next
 msgid "Anchor Text for Next"
@@ -80,19 +80,19 @@ msgstr "Texte d'ancrage pour Suivant"
 
 #: Anchor Text for Previous
 msgid "Anchor Text for Previous"
-msgstr "Texte d'ancrage pour PrÃ©cÃ©dent"
+msgstr "Texte d'ancrage pour Précédent"
 
 #: Anchor symbol (#) is not supported in request path
 msgid "Anchor symbol (#) is not supported in request path"
-msgstr "Le symbole diÃ¨se (#) n'est pas supportÃ© dans le chemin de requÃªte"
+msgstr "Le symbole dièse (#) n'est pas supporté dans le chemin de requête"
 
 #: Anchor symbol (#) is not supported in url rewrite suffix
 msgid "Anchor symbol (#) is not supported in url rewrite suffix"
-msgstr "Le symbole diÃ¨se (#) n'est pas supportÃ© le suffixe de rÃ©Ã©criture d'url"
+msgstr "Le symbole dièse (#) n'est pas supporté le suffixe de réécriture d'url"
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: Auto-redirect to Base URL
 msgid "Auto-redirect to Base URL"
@@ -128,23 +128,23 @@ msgstr "URL de base"
 
 #: Before modifying the store view code please make sure that it is not used in index.php.
 msgid "Before modifying the store view code please make sure that it is not used in index.php."
-msgstr "Avant de modifier le code de vue magasin, assurez-vous qu'il n'est pas utilisÃ© dans le fichier index.php."
+msgstr "Avant de modifier le code de vue magasin, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
 
 #: Before modifying the website code please make sure that it is not used in index.php.
 msgid "Before modifying the website code please make sure that it is not used in index.php."
-msgstr "Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisÃ© dans le fichier index.php."
+msgstr "Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
 
 #: Block with name \"%s\" already exists
 msgid "Block with name \"%s\" already exists"
-msgstr "Un bloc portant le nom \"%s\" existe dÃ©jÃ "
+msgstr "Un bloc portant le nom \"%s\" existe déjà"
 
 #: Browser Capabilities Detection
 msgid "Browser Capabilities Detection"
-msgstr "DÃ©tection des capacitÃ©s du navigateur"
+msgstr "Détection des capacités du navigateur"
 
 #: CSS Settings
 msgid "CSS Settings"
-msgstr "ParamÃ¨tres CSS"
+msgstr "Paramètres CSS"
 
 #: Cache Storage Management
 msgid "Cache Storage Management"
@@ -152,11 +152,11 @@ msgstr "Gestion du cache"
 
 #: Cache storage may contain another data. Are you sure that you want flush it?
 msgid "Cache storage may contain another data. Are you sure that you want flush it?"
-msgstr "Le stockage de cache peut contenir d'autres donnÃ©es. ÃŠtes-vous sÃ»r(e) de vouloir le purger ?"
+msgstr "Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
 
 #: Can't retrieve request object
 msgid "Can't retrieve request object"
-msgstr "Impossible de rÃ©cupÃ©rer l'objet de requÃªte"
+msgstr "Impossible de récupérer l'objet de requête"
 
 #: Cancel
 msgid "Cancel"
@@ -164,15 +164,15 @@ msgstr "Annuler"
 
 #: Cannot complete this operation from non-admin area.
 msgid "Cannot complete this operation from non-admin area."
-msgstr "Impossible d'accomplir cette opÃ©ration en dehors de la section d'admin."
+msgstr "Impossible d'accomplir cette opération en dehors de la section d'admin."
 
 #: Cannot retrieve entity config: %s
 msgid "Cannot retrieve entity config: %s"
-msgstr "Impossible de retrouver la configuration de l'entitÃ© : %s"
+msgstr "Impossible de retrouver la configuration de l'entité : %s"
 
 #: Card type does not match credit card number.
 msgid "Card type does not match credit card number."
-msgstr "Le type de carte ne correspond pas au numÃ©ro de carte."
+msgstr "Le type de carte ne correspond pas au numéro de carte."
 
 #: Code
 msgid "Code"
@@ -180,7 +180,7 @@ msgstr "Code"
 
 #: Controller file was loaded but class does not exist
 msgid "Controller file was loaded but class does not exist"
-msgstr "Le fichier de controller a Ã©tÃ© chargÃ© mais la classe n'existe pas"
+msgstr "Le fichier de controller a été chargé mais la classe n'existe pas"
 
 #: Cookie Domain
 msgid "Cookie Domain"
@@ -188,7 +188,7 @@ msgstr "Domaine du cookie"
 
 #: Cookie Lifetime
 msgid "Cookie Lifetime"
-msgstr "DurÃ©e de vie des cookies"
+msgstr "Durée de vie des cookies"
 
 #: Cookie Path
 msgid "Cookie Path"
@@ -204,19 +204,19 @@ msgstr "Options de pays"
 
 #: Create Store
 msgid "Create Store"
-msgstr "CrÃ©er un magasin"
+msgstr "Créer un magasin"
 
 #: Create Store View
 msgid "Create Store View"
-msgstr "CrÃ©er une vue magasin"
+msgstr "Créer une vue magasin"
 
 #: Create Website
 msgid "Create Website"
-msgstr "CrÃ©er un site web"
+msgstr "Créer un site web"
 
 #: Credit card number does not match credit card type.
 msgid "Credit card number does not match credit card type."
-msgstr "Le numÃ©ro de carte ne correspond pas au type de carte."
+msgstr "Le numéro de carte ne correspond pas au type de carte."
 
 #: Current Package Name
 msgid "Current Package Name"
@@ -224,23 +224,23 @@ msgstr "Nom de l'interface"
 
 #: Custom Admin URL
 msgid "Custom Admin URL"
-msgstr "URL d'admin personnalisÃ©"
+msgstr "URL d'admin personnalisé"
 
 #: Custom Design
 msgid "Custom Design"
-msgstr "Design personnalisÃ©"
+msgstr "Design personnalisé"
 
 #: Custom Email 1
 msgid "Custom Email 1"
-msgstr "Email personnalisÃ© 1"
+msgstr "Email personnalisé 1"
 
 #: Custom Email 2
 msgid "Custom Email 2"
-msgstr "Email personnalisÃ© 2"
+msgstr "Email personnalisé 2"
 
 #: Custom Variables
 msgid "Custom Variables"
-msgstr "Variables personnalisÃ©es"
+msgstr "Variables personnalisées"
 
 #: Customer Support
 msgid "Customer Support"
@@ -260,55 +260,55 @@ msgstr "et le"
 
 #: Date/time format \"%s\" is not supported.
 msgid "Date/time format \"%s\" is not supported."
-msgstr "Le format de date/heure \"%s\" n'est pas supportÃ©."
+msgstr "Le format de date/heure \"%s\" n'est pas supporté."
 
 #: Debug
 msgid "Debug"
-msgstr "DÃ©boguage"
+msgstr "Déboguage"
 
 #: Default
 msgid "Default"
-msgstr "Par dÃ©faut"
+msgstr "Par défaut"
 
 #: Default Country
 msgid "Default Country"
-msgstr "Pays par dÃ©faut"
+msgstr "Pays par défaut"
 
 #: Default Description
 msgid "Default Description"
-msgstr "Description par dÃ©faut"
+msgstr "Description par défaut"
 
 #: Default Keywords
 msgid "Default Keywords"
-msgstr "Mots-clÃ©s par dÃ©faut"
+msgstr "Mots-clés par défaut"
 
 #: Default No-route URL
 msgid "Default No-route URL"
-msgstr "URL par dÃ©faut de la page pour une ressource non trouvÃ©e"
+msgstr "URL par défaut de la page pour une ressource non trouvée"
 
 #: Default Pages
 msgid "Default Pages"
-msgstr "Pages par dÃ©faut"
+msgstr "Pages par défaut"
 
 #: Default Robots
 msgid "Default Robots"
-msgstr "Robots par dÃ©faut"
+msgstr "Robots par défaut"
 
 #: Default Store
 msgid "Default Store"
-msgstr "Magasin par dÃ©faut"
+msgstr "Magasin par défaut"
 
 #: Default Store View
 msgid "Default Store View"
-msgstr "Vue magasin par dÃ©faut"
+msgstr "Vue magasin par défaut"
 
 #: Default Title
 msgid "Default Title"
-msgstr "Titre par dÃ©faut"
+msgstr "Titre par défaut"
 
 #: Default Web URL
 msgid "Default Web URL"
-msgstr "URL web par dÃ©faut"
+msgstr "URL web par défaut"
 
 #: Delete
 msgid "Delete"
@@ -328,7 +328,7 @@ msgstr "Supprimer le site web"
 
 #: Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s.
 msgid "Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s."
-msgstr "Effacer un %1$s n'effacera pas les informations associÃ©es avec le %1$s (par ex. catÃ©gories, produits, etc.), mais il ne sera pas possible de restaurer le %1$s. Nous vous suggÃ©rons de crÃ©er une sauvegarde de la base de donnÃ©es avant d'effacer le %1$s."
+msgstr "Effacer un %1$s n'effacera pas les informations associées avec le %1$s (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1$s. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1$s."
 
 #: Design
 msgid "Design"
@@ -340,23 +340,23 @@ msgstr "Changement de design"
 
 #: Developer
 msgid "Developer"
-msgstr "DÃ©veloppeur"
+msgstr "Développeur"
 
 #: Developer Client Restrictions
 msgid "Developer Client Restrictions"
-msgstr "Restrictions client dÃ©veloppeur"
+msgstr "Restrictions client développeur"
 
 #: Disable Email Communications
 msgid "Disable Email Communications"
-msgstr "DÃ©sactiver les envois d'email"
+msgstr "Désactiver les envois d'email"
 
 #: Disable Modules Output
 msgid "Disable Modules Output"
-msgstr "DÃ©sactiver la sortie des modules"
+msgstr "Désactiver la sortie des modules"
 
 #: Display Demo Store Notice
 msgid "Display Demo Store Notice"
-msgstr "Afficher le message d'avertissement de boutique de dÃ©mo"
+msgstr "Afficher le message d'avertissement de boutique de démo"
 
 #: Duplicate Of Template Name
 msgid "Duplicate Of Template Name"
@@ -364,7 +364,7 @@ msgstr "Duplication du nom de gabarit"
 
 #: Edit Design Change
 msgid "Edit Design Change"
-msgstr "Ã‰diter le changement de design"
+msgstr "Éditer le changement de design"
 
 #: Edit Store
 msgid "Edit Store"
@@ -372,7 +372,7 @@ msgstr "Modifier le magasin"
 
 #: Edit Store View
 msgid "Edit Store View"
-msgstr "Ã‰diter la vue magasin"
+msgstr "Éditer la vue magasin"
 
 #: Edit Website
 msgid "Edit Website"
@@ -392,19 +392,19 @@ msgstr "Activer les graphiques"
 
 #: Enable Prototype Deprecation Log
 msgid "Enable Prototype Deprecation Log"
-msgstr "Activer le log de dÃ©prÃ©ciation Prototype"
+msgstr "Activer le log de dépréciation Prototype"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Enabled for Admin
 msgid "Enabled for Admin"
-msgstr "ActivÃ©e pour l'admin"
+msgstr "Activée pour l'admin"
 
 #: Enabled for Frontend
 msgid "Enabled for Frontend"
-msgstr "ActivÃ©e pour le frontend"
+msgstr "Activée pour le frontend"
 
 #: Error in file: \"%s\" - %s
 msgid "Error in file: \"%s\" - %s"
@@ -412,7 +412,7 @@ msgstr "Erreur dans le fichier : \"%s\" - %s"
 
 #: Error: Passwords do not match
 msgid "Error: Passwords do not match"
-msgstr "Erreur : les mots de passe sont diffÃ©rents"
+msgstr "Erreur : les mots de passe sont différents"
 
 #: Exceptions Log File Name
 msgid "Exceptions Log File Name"
@@ -420,7 +420,7 @@ msgstr "Nom du fichier de log d'exceptions"
 
 #: Favicon Icon
 msgid "Favicon Icon"
-msgstr "IcÃ´ne favicon"
+msgstr "Icône favicon"
 
 #: First Day of Week
 msgid "First Day of Week"
@@ -440,7 +440,7 @@ msgstr "Pied de page"
 
 #: Forgot Password Email Sender
 msgid "Forgot Password Email Sender"
-msgstr "ExpÃ©diteur du mail d'oubli de mot de passe"
+msgstr "Expéditeur du mail d'oubli de mot de passe"
 
 #: Forgot Password Email Template
 msgid "Forgot Password Email Template"
@@ -448,15 +448,15 @@ msgstr "Gabarit du mail d'oubli de mot de passe"
 
 #: General
 msgid "General"
-msgstr "GÃ©nÃ©ral"
+msgstr "Général"
 
 #: General Contact
 msgid "General Contact"
-msgstr "Contact gÃ©nÃ©ral"
+msgstr "Contact général"
 
 #: General Settings
 msgid "General Settings"
-msgstr "ParamÃ¨tres gÃ©nÃ©raux"
+msgstr "Paramètres généraux"
 
 #: Global
 msgid "Global"
@@ -464,11 +464,11 @@ msgstr "Global"
 
 #: HTML Head
 msgid "HTML Head"
-msgstr "En-tÃªte HTML"
+msgstr "En-tête HTML"
 
 #: Header
 msgid "Header"
-msgstr "En-tÃªte"
+msgstr "En-tête"
 
 #: Host
 msgid "Host"
@@ -476,19 +476,19 @@ msgstr "Serveur"
 
 #: How many links to display at once.
 msgid "How many links to display at once."
-msgstr "Nombre de liens Ã  afficher Ã  la fois."
+msgstr "Nombre de liens à afficher à la fois."
 
 #: ID Path for Specified Store
 msgid "ID Path for Specified Store"
-msgstr "Identifiant de chemin pour le magasin spÃ©cifiÃ©"
+msgstr "Identifiant de chemin pour le magasin spécifié"
 
 #: If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.
 msgid "If the current frame position does not cover utmost pages, will render link to current position plus/minus this value."
-msgstr "Si la trame de pagination ne couvre pas les pages aux extrÃ©mitÃ©s, Magento affichera les liens vers la page en cours plus ou moins la valeur ci-dessus."
+msgstr "Si la trame de pagination ne couvre pas les pages aux extrémités, Magento affichera les liens vers la page en cours plus ou moins la valeur ci-dessus."
 
 #: Incorrect credit card expiration date.
 msgid "Incorrect credit card expiration date."
-msgstr "Mauvaise date d'expiration de carte de crÃ©dit."
+msgstr "Mauvaise date d'expiration de carte de crédit."
 
 #: Invalid base url type
 msgid "Invalid base url type"
@@ -508,7 +508,7 @@ msgstr "Bloc non valide : %s"
 
 #: Invalid layout update handle
 msgid "Invalid layout update handle"
-msgstr "Manipulation de mise Ã  jour de l'agencement non valide"
+msgstr "Manipulation de mise à jour de l'agencement non valide"
 
 #: Invalid messages storage \"%s\" for layout messages initialization
 msgid "Invalid messages storage \"%s\" for layout messages initialization"
@@ -524,7 +524,7 @@ msgstr "Chemin de configuration de site web invalide : %s"
 
 #: JavaScript Settings
 msgid "JavaScript Settings"
-msgstr "ParamÃ¨tres JavaScript"
+msgstr "Paramètres JavaScript"
 
 #: Layout
 msgid "Layout"
@@ -532,7 +532,7 @@ msgstr "Agencement"
 
 #: Leave empty for access from any location.
 msgid "Leave empty for access from any location."
-msgstr "Laissez vide si vous souhaitez y accÃ©der depuis n'importe oÃ¹."
+msgstr "Laissez vide si vous souhaitez y accéder depuis n'importe où."
 
 #: Locale
 msgid "Locale"
@@ -544,19 +544,19 @@ msgstr "Options de localisation"
 
 #: Log Settings
 msgid "Log Settings"
-msgstr "ParamÃ¨tres de log"
+msgstr "Paramètres de log"
 
 #: Logging from Mage::log(). File is located in {{base_dir}}/var/log
 msgid "Logging from Mage::log(). File is located in {{base_dir}}/var/log"
-msgstr "Log depuis Mage::log(). Le fichier se trouve dansÂ {{base_dir}}/var/log"
+msgstr "Log depuis Mage::log(). Le fichier se trouve dans {{base_dir}}/var/log"
 
 #: Logging from Mage::logException(). File is located in {{base_dir}}/var/log
 msgid "Logging from Mage::logException(). File is located in {{base_dir}}/var/log"
-msgstr "Log depuis Mage::logException(). Le fichier se trouve dansÂ {{base_dir}}/var/log"
+msgstr "Log depuis Mage::logException(). Le fichier se trouve dans {{base_dir}}/var/log"
 
 #: Login is Case Sensitive
 msgid "Login is Case Sensitive"
-msgstr "L'identifiant utilisateur est sensible Ã  la casse"
+msgstr "L'identifiant utilisateur est sensible à la casse"
 
 #: Logo Image Alt
 msgid "Logo Image Alt"
@@ -568,7 +568,7 @@ msgstr "Source du logo"
 
 #: Mail Sending Settings
 msgid "Mail Sending Settings"
-msgstr "ParamÃ¨tres d'envoi des emails"
+msgstr "Paramètres d'envoi des emails"
 
 #: Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/
 msgid "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/"
@@ -580,11 +580,11 @@ msgstr "Gestion des magasins"
 
 #: Match expressions in the same order as displayed in the configuration.
 msgid "Match expressions in the same order as displayed in the configuration."
-msgstr "Faire coÃ¯ncider les expressions dans l'ordre d'affichage de la configuration."
+msgstr "Faire coïncider les expressions dans l'ordre d'affichage de la configuration."
 
 #: Maximum length exceeded.
 msgid "Maximum length exceeded."
-msgstr "DÃ©passement de la longueur maximum"
+msgstr "Dépassement de la longueur maximum"
 
 #: Merge CSS Files (beta)
 msgid "Merge CSS Files (beta)"
@@ -604,19 +604,19 @@ msgstr "Scripts divers"
 
 #: Model class does not exist: %s.
 msgid "Model class does not exist: %s."
-msgstr "La classe modÃ¨le n'existe pas : %s."
+msgstr "La classe modèle n'existe pas : %s."
 
 #: Model collection resource name is not defined.
 msgid "Model collection resource name is not defined."
-msgstr "Le nom de ressource de collection n'est pas dÃ©fini."
+msgstr "Le nom de ressource de collection n'est pas défini."
 
 #: Module \"%1$s\" cannot depend on \"%2$s\".
 msgid "Module \"%1$s\" cannot depend on \"%2$s\"."
-msgstr "Le module \"%1$s\" ne peut pas dÃ©pendre de \"%2$s\"."
+msgstr "Le module \"%1$s\" ne peut pas dépendre de \"%2$s\"."
 
 #: Module \"%1$s\" requires module \"%2$s\".
 msgid "Module \"%1$s\" requires module \"%2$s\"."
-msgstr "Le module \"%1$s\" nÃ©cessite le module \"%2$s\"."
+msgstr "Le module \"%1$s\" nécessite le module \"%2$s\"."
 
 #: Name
 msgid "Name"
@@ -660,39 +660,39 @@ msgstr "Taille de la trame de pagination"
 
 #: Please choose to register or to checkout as a guest
 msgid "Please choose to register or to checkout as a guest"
-msgstr "Choisissez de vous enregistrer ou de passer votre commande en tant qu'invitÃ©"
+msgstr "Choisissez de vous enregistrer ou de passer votre commande en tant qu'invité"
 
 #: Please define flag code.
 msgid "Please define flag code."
-msgstr "Veuillez dÃ©finir un code de drapeau."
+msgstr "Veuillez définir un code de drapeau."
 
 #: Please enter 6 or more characters.
 msgid "Please enter 6 or more characters."
-msgstr "Veuillez saisir au moins 6 caractÃ¨res."
+msgstr "Veuillez saisir au moins 6 caractères."
 
 #: Please enter 6 or more characters. Leading or trailing spaces will be ignored.
 msgid "Please enter 6 or more characters. Leading or trailing spaces will be ignored."
-msgstr "Veuillez saisir au moins 6 caractÃ¨res. Les espaces en dÃ©but ou en fin de chaÃ®ne seront ignorÃ©s."
+msgstr "Veuillez saisir au moins 6 caractères. Les espaces en début ou en fin de chaîne seront ignorés."
 
 #: Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.
 msgid "Please enter 7 or more characters. Password should contain both numeric and alphabetic characters."
-msgstr "Veuillez saisir au moins 7 caractÃ¨res. Le mot de passe doit contenir Ã  la fois des caractÃ¨res numÃ©riques et alphabÃ©tiques."
+msgstr "Veuillez saisir au moins 7 caractères. Le mot de passe doit contenir à la fois des caractères numériques et alphabétiques."
 
 #: Please enter a number 0 or greater in this field.
 msgid "Please enter a number 0 or greater in this field."
-msgstr "Veuillez saisir un nombre supÃ©rieur ou Ã©gal Ã  0 dans ce champ."
+msgstr "Veuillez saisir un nombre supérieur ou égal à 0 dans ce champ."
 
 #: Please enter a number greater than 0 in this field.
 msgid "Please enter a number greater than 0 in this field."
-msgstr "Veuillez saisir un nombre supÃ©rieur Ã  0 dans ce champ."
+msgstr "Veuillez saisir un nombre supérieur à 0 dans ce champ."
 
 #: Please enter a number lower than 100.
 msgid "Please enter a number lower than 100."
-msgstr "Veuillez saisir un nombre infÃ©rieur Ã  100."
+msgstr "Veuillez saisir un nombre inférieur à 100."
 
 #: Please enter a valid $ amount. For example $100.00.
 msgid "Please enter a valid $ amount. For example $100.00."
-msgstr "Veuillez saisir un montant valide. Par exemple 100.00 â‚¬."
+msgstr "Veuillez saisir un montant valide. Par exemple 100.00 €."
 
 #: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".
 msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
@@ -712,11 +712,11 @@ msgstr "Veuillez saisir un identifiant XML valide. Par exemple, quelquechose_1, 
 
 #: Please enter a valid credit card number.
 msgid "Please enter a valid credit card number."
-msgstr "Veuillez saisir un numÃ©ro de carte bancaire valide."
+msgstr "Veuillez saisir un numéro de carte bancaire valide."
 
 #: Please enter a valid credit card verification number.
 msgid "Please enter a valid credit card verification number."
-msgstr "Veuillez saisir un numÃ©ro de vÃ©rification de carte bancaire valide."
+msgstr "Veuillez saisir un numéro de vérification de carte bancaire valide."
 
 #: Please enter a valid date.
 msgid "Please enter a valid date."
@@ -728,7 +728,7 @@ msgstr "Veuillez saisir une adresse email valide. Par exemple prenom.nom@domaine
 
 #: Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.
 msgid "Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890."
-msgstr "Veuillez saisir un numÃ©ro de fax valide. Par exemple 0123456789."
+msgstr "Veuillez saisir un numéro de fax valide. Par exemple 0123456789."
 
 #: Please enter a valid number in this field.
 msgid "Please enter a valid number in this field."
@@ -736,11 +736,11 @@ msgstr "Veuillez saisir un nombre valide."
 
 #: Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.
 msgid "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890."
-msgstr "Veuillez saisir un numÃ©ro de tÃ©lÃ©phone valide."
+msgstr "Veuillez saisir un numéro de téléphone valide."
 
 #: Please enter a valid social security number. For example 123-45-6789.
 msgid "Please enter a valid social security number. For example 123-45-6789."
-msgstr "Veuillez saisir un numÃ©ro de sÃ©curitÃ© sociale valide. Par exemple 123-45-6789."
+msgstr "Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789."
 
 #: Please enter a valid zip code.
 msgid "Please enter a valid zip code."
@@ -752,7 +752,7 @@ msgstr "Veuillez saisir un code postal valide. Par exemple 92100."
 
 #: Please enter issue number or start date for switch/solo card type.
 msgid "Please enter issue number or start date for switch/solo card type."
-msgstr "Veuillez saisir le numÃ©ro de problÃ¨me ou une date de dÃ©but pour le type de carte switch/solo."
+msgstr "Veuillez saisir le numéro de problème ou une date de début pour le type de carte switch/solo."
 
 #: Please enter valid password.
 msgid "Please enter valid password."
@@ -764,15 +764,15 @@ msgstr "Veuillez saisir une longueur CSS valide. Par exemple 100px ou 77pt ou 20
 
 #: Please make sure your passwords match.
 msgid "Please make sure your passwords match."
-msgstr "VÃ©rifiez que vos mots de passe concordent."
+msgstr "Vérifiez que vos mots de passe concordent."
 
 #: Please select State/Province.
 msgid "Please select State/Province."
-msgstr "Veuillez choisir un Ã©tat/province."
+msgstr "Veuillez choisir un état/province."
 
 #: Please select an option.
 msgid "Please select an option."
-msgstr "SÃ©lectionnez une option"
+msgstr "Sélectionnez une option"
 
 #: Please select one of the above options.
 msgid "Please select one of the above options."
@@ -784,7 +784,7 @@ msgstr "Veuillez choisir une des options."
 
 #: Please specify either a category or a product, or both.
 msgid "Please specify either a category or a product, or both."
-msgstr "SpÃ©cifiez une catÃ©gorie, un produit ou les deux."
+msgstr "Spécifiez une catégorie, un produit ou les deux."
 
 #: Please specify payment method.
 msgid "Please specify payment method."
@@ -804,39 +804,39 @@ msgstr "Veuillez utiliser uniquement des lettres (a-z) dans ce champ."
 
 #: Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.
 msgid "Please use numbers only in this field. please avoid spaces or other characters such as dots or commas."
-msgstr "Seuls les chiffres sont autorisÃ©s dans ce champ. Ã‰vitez les espaces ou autres caractÃ¨res tels que les points ou les virgules."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
 
 #: Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
 msgid "Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractÃ¨res ne sont pas autorisÃ©s."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
 
 #: Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.
 msgid "Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field."
-msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des diÃ¨ses (#) dans ce champ."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ."
 
 #: Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter.
 msgid "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."
-msgstr "Utilisez uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractÃ¨re doit Ãªtre une lettre."
+msgstr "Utilisez uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre."
 
 #: Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
 msgid "Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractÃ¨res ne sont pas autorisÃ©s."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
 
 #: Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.
 msgid "Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field."
-msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des diÃ¨ses (#) dans ce champ."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ."
 
 #: Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
 msgid "Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
-msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_) dans ce champ, en commenÃ§ant par une lettre."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_) dans ce champ, en commençant par une lettre."
 
 #: Please use only visible characters and spaces.
 msgid "Please use only visible characters and spaces."
-msgstr "Veuillez utiliser uniquement des caractÃ¨res visibles et des espaces."
+msgstr "Veuillez utiliser uniquement des caractères visibles et des espaces."
 
 #: Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.
 msgid "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
-msgstr "Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 DÃ©cembre 2012."
+msgstr "Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012."
 
 #: Please wait, loading...
 msgid "Please wait, loading..."
@@ -856,27 +856,27 @@ msgstr "Profileur"
 
 #: Request Path for Specified Store
 msgid "Request Path for Specified Store"
-msgstr "Chemin de requÃªte pour le magasin spÃ©cifiÃ©"
+msgstr "Chemin de requête pour le magasin spécifié"
 
 #: Requested invalid store \"%s\"
 msgid "Requested invalid store \"%s\""
-msgstr "Le magasin demandÃ© \"%s\" n'est pas valide"
+msgstr "Le magasin demandé \"%s\" n'est pas valide"
 
 #: Resource is not set.
 msgid "Resource is not set."
-msgstr "La ressource n'est pas renseignÃ©e."
+msgstr "La ressource n'est pas renseignée."
 
 #: Return-Path Email
 msgid "Return-Path Email"
-msgstr "Adresse email de rÃ©ponse"
+msgstr "Adresse email de réponse"
 
 #: Root Category
 msgid "Root Category"
-msgstr "CatÃ©gorie racine"
+msgstr "Catégorie racine"
 
 #: Sales Representative
 msgid "Sales Representative"
-msgstr "ReprÃ©sentant des ventes"
+msgstr "Représentant des ventes"
 
 #: Save
 msgid "Save"
@@ -900,23 +900,23 @@ msgstr "Optimisation pour les moteurs de recherche"
 
 #: Secure
 msgid "Secure"
-msgstr "SÃ©curisÃ©"
+msgstr "Sécurisé"
 
 #: Security
 msgid "Security"
-msgstr "SÃ©curitÃ©"
+msgstr "Sécurité"
 
 #: Select Date
 msgid "Select Date"
-msgstr "SÃ©lectionner une date"
+msgstr "Sélectionner une date"
 
 #: Sender Email
 msgid "Sender Email"
-msgstr "Email de l'expÃ©diteur"
+msgstr "Email de l'expéditeur"
 
 #: Sender Name
 msgid "Sender Name"
-msgstr "Nom de l'expÃ©diteur"
+msgstr "Nom de l'expéditeur"
 
 #: Services
 msgid "Services"
@@ -928,11 +928,11 @@ msgstr "Gestion des cookies de session"
 
 #: Session Lifetime (seconds)
 msgid "Session Lifetime (seconds)"
-msgstr "DurÃ©e des sessions (secondes)"
+msgstr "Durée des sessions (secondes)"
 
 #: Session Validation Settings
 msgid "Session Validation Settings"
-msgstr "ParamÃ¨tres de validation de session"
+msgstr "Paramètres de validation de session"
 
 #: Set Return-Path
 msgid "Set Return-Path"
@@ -940,7 +940,7 @@ msgstr "Renseigner le chemin de retour"
 
 #: Set as Default
 msgid "Set as Default"
-msgstr "DÃ©finir par dÃ©faut"
+msgstr "Définir par défaut"
 
 #: Skin (Images / CSS)
 msgid "Skin (Images / CSS)"
@@ -952,15 +952,15 @@ msgstr "Ordre de tri"
 
 #: Specified date/time \"%1$s\" do not match format \"%2$s\".
 msgid "Specified date/time \"%1$s\" do not match format \"%2$s\"."
-msgstr "La date/heure spÃ©cifiÃ©e \"%1$s\" ne correspond pas au format \"%2$s\""
+msgstr "La date/heure spécifiée \"%1$s\" ne correspond pas au format \"%2$s\""
 
 #: Start date cannot be greater than end date.
 msgid "Start date cannot be greater than end date."
-msgstr "La date de dÃ©but doit Ãªtre antÃ©rieure Ã  la date de fin."
+msgstr "La date de début doit être antérieure à la date de fin."
 
 #: Startup Page
 msgid "Startup Page"
-msgstr "Page de dÃ©marrage"
+msgstr "Page de démarrage"
 
 #: Status
 msgid "Status"
@@ -980,7 +980,7 @@ msgstr "Informations de contact du magasin"
 
 #: Store Contact Telephone
 msgid "Store Contact Telephone"
-msgstr "TÃ©lÃ©phone de contact du magasin"
+msgstr "Téléphone de contact du magasin"
 
 #: Store Email Addresses
 msgid "Store Email Addresses"
@@ -1012,15 +1012,15 @@ msgstr "La vue magasin n'existe pas"
 
 #: Store with the same code
 msgid "Store with the same code"
-msgstr "Magasin avec le mÃªme code"
+msgstr "Magasin avec le même code"
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: System Log File Name
 msgid "System Log File Name"
-msgstr "Nom de fichier de logs systÃ¨me"
+msgstr "Nom de fichier de logs système"
 
 #: Template Path Hints
 msgid "Template Path Hints"
@@ -1036,19 +1036,19 @@ msgstr "Gabarits"
 
 #: Text length does not satisfy specified text range.
 msgid "Text length does not satisfy specified text range."
-msgstr "La longueur du texte ne satisfait pas la plage de texte spÃ©cifiÃ©e."
+msgstr "La longueur du texte ne satisfait pas la plage de texte spécifiée."
 
 #: The %s you entered is invalid. Please make sure that it follows \"http://domain.com/\" format.
 msgid "The %s you entered is invalid. Please make sure that it follows \"http://domain.com/\" format."
-msgstr "Le %s que vous avez saisi n'est pas valide. Veuillez vÃ©rifier qu'il respecte le format \"http://domaine.com/\"."
+msgstr "Le %s que vous avez saisi n'est pas valide. Veuillez vérifier qu'il respecte le format \"http://domaine.com/\"."
 
 #: The model collection resource name is not defined.
 msgid "The model collection resource name is not defined."
-msgstr "Le nom de ressource de collection de modÃ¨le n'est pas dÃ©fini."
+msgstr "Le nom de ressource de collection de modèle n'est pas défini."
 
 #: The store code may contain only letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter
 msgid "The store code may contain only letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter"
-msgstr "Le code du magasin ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractÃ¨re doit Ãªtre une lettre."
+msgstr "Le code du magasin ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre."
 
 #: The store does not exist
 msgid "The store does not exist"
@@ -1056,27 +1056,27 @@ msgstr "Le magasin n'existe pas."
 
 #: The store has been deleted.
 msgid "The store has been deleted."
-msgstr "Le magasin a Ã©tÃ© supprimÃ©."
+msgstr "Le magasin a été supprimé."
 
 #: The store has been saved.
 msgid "The store has been saved."
-msgstr "Le magasin a Ã©tÃ© sauvegardÃ©."
+msgstr "Le magasin a été sauvegardé."
 
 #: The store view has been deleted.
 msgid "The store view has been deleted."
-msgstr "La vue magasin a Ã©tÃ© supprimÃ©e."
+msgstr "La vue magasin a été supprimée."
 
 #: The store view has been saved
 msgid "The store view has been saved"
-msgstr "La vue magasin a Ã©tÃ© sauvegardÃ©e."
+msgstr "La vue magasin a été sauvegardée."
 
 #: The template Name must not be empty.
 msgid "The template Name must not be empty."
-msgstr "Le nom du gabarit ne doit pas Ãªtre vide."
+msgstr "Le nom du gabarit ne doit pas être vide."
 
 #: The value is not within the specified range.
 msgid "The value is not within the specified range."
-msgstr "La valeur n'est pas dans la plage spÃ©cifiÃ©e."
+msgstr "La valeur n'est pas dans la plage spécifiée."
 
 #: The website does not exist.
 msgid "The website does not exist."
@@ -1084,31 +1084,31 @@ msgstr "Le site web n'existe pas."
 
 #: The website has been deleted.
 msgid "The website has been deleted."
-msgstr "Le site web a Ã©tÃ© supprimÃ©."
+msgstr "Le site web a été supprimé."
 
 #: The website has been saved.
 msgid "The website has been saved."
-msgstr "Le site web a Ã©tÃ© sauvegardÃ©."
+msgstr "Le site web a été sauvegardé."
 
 #: Themes
 msgid "Themes"
-msgstr "ThÃ¨mes"
+msgstr "Thèmes"
 
 #: This category and all its child elements
 msgid "This category and all its child elements"
-msgstr "Cette catÃ©gorie et tous ses descendants"
+msgstr "Cette catégorie et tous ses descendants"
 
 #: This category and its child categories only
 msgid "This category and its child categories only"
-msgstr "Cette catÃ©gorie et toutes ses sous-catÃ©gories"
+msgstr "Cette catégorie et toutes ses sous-catégories"
 
 #: This category and its products only
 msgid "This category and its products only"
-msgstr "Cette catÃ©gorie et ses produits seulement"
+msgstr "Cette catégorie et ses produits seulement"
 
 #: This category only
 msgid "This category only"
-msgstr "Cette catÃ©gorie seulement"
+msgstr "Cette catégorie seulement"
 
 #: This date is a required value.
 msgid "This date is a required value."
@@ -1120,19 +1120,19 @@ msgstr "Ce champ est obligatoire."
 
 #: This store cannot be deleted.
 msgid "This store cannot be deleted."
-msgstr "Ce magasin ne peut pas Ãªtre effacÃ©."
+msgstr "Ce magasin ne peut pas être effacé."
 
 #: This store view cannot be deleted.
 msgid "This store view cannot be deleted."
-msgstr "Cette vue magasin ne peut pas Ãªtre effacÃ©e."
+msgstr "Cette vue magasin ne peut pas être effacée."
 
 #: This website cannot be deleted.
 msgid "This website cannot be deleted."
-msgstr "Ce site web ne peut pas Ãªtre effacÃ©."
+msgstr "Ce site web ne peut pas être effacé."
 
 #: This will be displayed just before body closing tag.
 msgid "This will be displayed just before body closing tag."
-msgstr "Ceci sera affichÃ© juste avant la balise de fermeture de body"
+msgstr "Ceci sera affiché juste avant la balise de fermeture de body"
 
 #: This will be included before head closing tag in page HTML.
 msgid "This will be included before head closing tag in page HTML."
@@ -1144,7 +1144,7 @@ msgstr "Fuseau horaire"
 
 #: Title Prefix
 msgid "Title Prefix"
-msgstr "PrÃ©fixe du titre"
+msgstr "Préfixe du titre"
 
 #: Title Suffix
 msgid "Title Suffix"
@@ -1156,7 +1156,7 @@ msgstr "Traduire en ligne"
 
 #: Translate cache should be disabled for both frontend and admin inline translations.
 msgid "Translate cache should be disabled for both frontend and admin inline translations."
-msgstr "Le cache de traduction devrait Ãªtre dÃ©sactivÃ© pour les traductions en ligne du front office ou du back office."
+msgstr "Le cache de traduction devrait être désactivé pour les traductions en ligne du front office ou du back office."
 
 #: Translations
 msgid "Translations"
@@ -1164,39 +1164,39 @@ msgstr "Traductions"
 
 #: Two and more slashes together are not permitted in request path
 msgid "Two and more slashes together are not permitted in request path"
-msgstr "Il n'est pas autorisÃ© d'utiliser 2 slashes ou plus Ã  la suite dans le chemin de requÃªte."
+msgstr "Il n'est pas autorisé d'utiliser 2 slashes ou plus à la suite dans le chemin de requête."
 
 #: Two and more slashes together are not permitted in url rewrite suffix
 msgid "Two and more slashes together are not permitted in url rewrite suffix"
-msgstr "Il n'est pas autorisÃ© d'utiliser 2 slashes ou plus Ã  la suite dans le suffixe de rÃ©Ã©criture d'URL."
+msgstr "Il n'est pas autorisé d'utiliser 2 slashes ou plus à la suite dans le suffixe de réécriture d'URL."
 
 #: Unable to delete store view. Please, try again later.
 msgid "Unable to delete store view. Please, try again later."
-msgstr "Impossible de supprimer la vue magasin. Veuillez rÃ©essayer ultÃ©rieurement."
+msgstr "Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement."
 
 #: Unable to delete store. Please, try again later.
 msgid "Unable to delete store. Please, try again later."
-msgstr "Impossible de supprimer le magasin. Veuillez rÃ©essayer ultÃ©rieurement."
+msgstr "Impossible de supprimer le magasin. Veuillez réessayer ultérieurement."
 
 #: Unable to delete website. Please, try again later.
 msgid "Unable to delete website. Please, try again later."
-msgstr "Impossible de supprimer le site web. Veuillez rÃ©essayer ultÃ©rieurement."
+msgstr "Impossible de supprimer le site web. Veuillez réessayer ultérieurement."
 
 #: Unable to proceed. Please, try again
 msgid "Unable to proceed. Please, try again"
-msgstr "Impossible de continuer. Veuillez rÃ©essayer ultÃ©rieurement."
+msgstr "Impossible de continuer. Veuillez réessayer ultérieurement."
 
 #: Unable to proceed. Please, try again.
 msgid "Unable to proceed. Please, try again."
-msgstr "Impossible de continuer. Veuillez rÃ©essayer ultÃ©rieurement."
+msgstr "Impossible de continuer. Veuillez réessayer ultérieurement."
 
 #: Unknown scope \"%s\".
 msgid "Unknown scope \"%s\"."
-msgstr "PortÃ©e inconnue \"%s\"."
+msgstr "Portée inconnue \"%s\"."
 
 #: Unsecure
 msgid "Unsecure"
-msgstr "Non sÃ©curisÃ©"
+msgstr "Non sécurisé"
 
 #: Url Options
 msgid "Url Options"
@@ -1204,7 +1204,7 @@ msgstr "Options d'URL"
 
 #: Use Custom Admin URL
 msgid "Use Custom Admin URL"
-msgstr "Utiliser une URL d'admin personnalisÃ©e"
+msgstr "Utiliser une URL d'admin personnalisée"
 
 #: Use HTTP Only
 msgid "Use HTTP Only"
@@ -1216,15 +1216,15 @@ msgstr "Utiliser un SID dans le front office"
 
 #: Use Secure URLs in Admin
 msgid "Use Secure URLs in Admin"
-msgstr "Utiliser des URLs sÃ©curisÃ©es dans l'administration"
+msgstr "Utiliser des URLs sécurisées dans l'administration"
 
 #: Use Secure URLs in Frontend
 msgid "Use Secure URLs in Frontend"
-msgstr "Utiliser des URLs sÃ©curisÃ©es pour le front office (mon compte et passage de commande)"
+msgstr "Utiliser des URLs sécurisées pour le front office (mon compte et passage de commande)"
 
 #: Use Web Server Rewrites
 msgid "Use Web Server Rewrites"
-msgstr "Utiliser les rÃ©Ã©critures du serveur web"
+msgstr "Utiliser les réécritures du serveur web"
 
 #: Validate HTTP_USER_AGENT
 msgid "Validate HTTP_USER_AGENT"
@@ -1244,15 +1244,15 @@ msgstr "Valider REMOTE_ADDR"
 
 #: Validation has failed.
 msgid "Validation has failed."
-msgstr "La validation a Ã©chouÃ©."
+msgstr "La validation a échoué."
 
 #: Values less than 60 are ignored. Note that changes will apply after logout.
 msgid "Values less than 60 are ignored. Note that changes will apply after logout."
-msgstr "Les valeurs infÃ©rieures Ã  60 sont ignorÃ©es. Notez que ces changements prendront effet aprÃ¨s dÃ©connexion."
+msgstr "Les valeurs inférieures à 60 sont ignorées. Notez que ces changements prendront effet après déconnexion."
 
 #: Variable Code must be unique.
 msgid "Variable Code must be unique."
-msgstr "Le code de variable doit Ãªtre unique"
+msgstr "Le code de variable doit être unique"
 
 #: Web
 msgid "Web"
@@ -1272,11 +1272,11 @@ msgstr "Nom du site web"
 
 #: Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter
 msgid "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter"
-msgstr "Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractÃ¨re doit Ãªtre une lettre."
+msgstr "Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre."
 
 #: Website with the same code
 msgid "Website with the same code"
-msgstr "Site web avec le mÃªme code"
+msgstr "Site web avec le même code"
 
 #: Weekend Days
 msgid "Weekend Days"
@@ -1288,7 +1288,7 @@ msgstr "Texte de bienvenue"
 
 #: Wrong number of arguments for %s
 msgid "Wrong number of arguments for %s"
-msgstr "Nombre d'arguments erronÃ© pour %s"
+msgstr "Nombre d'arguments erroné pour %s"
 
 #: Yes
 msgid "Yes"
@@ -1296,7 +1296,7 @@ msgstr "Oui"
 
 #: Your design change for the specified store intersects with another one, please specify another date range.
 msgid "Your design change for the specified store intersects with another one, please specify another date range."
-msgstr "Votre changement de design pour le magasin spÃ©cifiÃ© interfÃ¨re avec un autre. SpÃ©cifiez une autre tranche de dates."
+msgstr "Votre changement de design pour le magasin spécifié interfère avec un autre. Spécifiez une autre tranche de dates."
 
 #: Your order cannot be completed at this time as there is no payment methods available for it.
 msgid "Your order cannot be completed at this time as there is no payment methods available for it."
@@ -1308,15 +1308,15 @@ msgstr "Vous ne pouvez pas continuer votre commande car aucun mode de livraison 
 
 #: Your session has been expired, you will be relogged in now.
 msgid "Your session has been expired, you will be relogged in now."
-msgstr "Votre session a expirÃ©, veuillez vous connecter Ã  nouveau."
+msgstr "Votre session a expiré, veuillez vous connecter à nouveau."
 
 #: There are no recurring profiles yet.
 msgid "There are no recurring profiles yet."
-msgstr "Aucun profil rÃ©current."
+msgstr "Aucun profil récurrent."
 
 #: System(config.xml, local.xml) and modules configuration files(config.xml).
 msgid "System(config.xml, local.xml) and modules configuration files(config.xml)."
-msgstr "SystÃ¨me (config.xml, local.xml) et configuration de modules (config.xml)."
+msgstr "Système (config.xml, local.xml) et configuration de modules (config.xml)."
 
 #: Layouts
 msgid "Layouts"
@@ -1340,11 +1340,11 @@ msgstr "Fichiers de traduction."
 
 #: Collections Data
 msgid "Collections Data"
-msgstr "DonnÃ©es de collections"
+msgstr "Données de collections"
 
 #: Collection data files.
 msgid "Collection data files."
-msgstr "Fichiers de donnÃ©es de collection."
+msgstr "Fichiers de données de collection."
 
 #: EAV types and attributes
 msgid "EAV types and attributes"
@@ -1352,7 +1352,7 @@ msgstr "Types EAV et attributs"
 
 #: Entity types declaration cache.
 msgid "Entity types declaration cache."
-msgstr "Cache de dÃ©claration des types d'entitÃ©."
+msgstr "Cache de déclaration des types d'entité."
 
 #: Web Services Configuration
 msgid "Web Services Configuration"
@@ -1360,7 +1360,7 @@ msgstr "Configuration des Web Services"
 
 #: Web Services definition files (api.xml).
 msgid "Web Services definition files (api.xml)."
-msgstr "Fichiers de dÃ©finition des Web Services (api.xml)."
+msgstr "Fichiers de définition des Web Services (api.xml)."
 
 #: Small Image
 msgid "Small Image"
@@ -1376,7 +1376,7 @@ msgstr "Exemple de format : 200x300"
 
 #: Allowed file types: jpeg, gif, png.
 msgid "Allowed file types: jpeg, gif, png."
-msgstr "Types de fichiers autorisÃ©s : jpeg, gif, png."
+msgstr "Types de fichiers autorisés : jpeg, gif, png."
 
 #: I.e. redirect from http://example.com/store/ to http://www.example.com/store/
 msgid "I.e. redirect from http://example.com/store/ to http://www.example.com/store/"
@@ -1388,7 +1388,7 @@ msgstr "Pour les serveurs windows uniquement."
 
 #: Experimental. Turn this feature off if there are troubles with relative urls inside css-files.
 msgid "Experimental. Turn this feature off if there are troubles with relative urls inside css-files."
-msgstr "ExpÃ©rimental. DÃ©sactivez cette fonctionnalitÃ© si vous rencontrez des problÃ¨mes avec les urls contenues dans les fichiers CSS."
+msgstr "Expérimental. Désactivez cette fonctionnalité si vous rencontrez des problèmes avec les urls contenues dans les fichiers CSS."
 
 #: Your order cannot be completed at this time as there is no shipping methods available for it. Please make neccessary changes in your shipping address.
 msgid "Your order cannot be completed at this time as there is no shipping methods available for it. Please make neccessary changes in your shipping address."
@@ -1400,7 +1400,7 @@ msgstr "<strong style=\"color:red\">Attention !</strong> Lors de l'utilisation d
 
 #: Cache storage may contain additional data. Are you sure that you want flush it?
 msgid "Cache storage may contain additional data. Are you sure that you want flush it?"
-msgstr "Le stockage de cache peut contenir d'autres donnÃ©es. ÃŠtes-vous sÃ»r(e) de vouloir le purger ?"
+msgstr "Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
 
 #: File %s does not exist
 msgid "File %s does not exist"
@@ -1412,7 +1412,7 @@ msgstr "Le fichier %s n'est pas lisible"
 
 #: File system
 msgid "File system"
-msgstr "SystÃ¨me de fichiers"
+msgstr "Système de fichiers"
 
 #: Invalid transactional email code:
 msgid "Invalid transactional email code:"
@@ -1432,7 +1432,7 @@ msgstr "Fusionner les fichiers CSS"
 
 #: Parent directory does not exist: %s
 msgid "Parent directory does not exist: %s"
-msgstr "Le rÃ©pertoire parent n'existe pas : %s"
+msgstr "Le répertoire parent n'existe pas : %s"
 
 #: Please enter a valid day (1-%d).
 msgid "Please enter a valid day (1-%d)."
@@ -1440,7 +1440,7 @@ msgstr "Veuillez saisir un jour valide (1-%d)."
 
 #: Please enter a valid full date
 msgid "Please enter a valid full date"
-msgstr "Veuillez saisir une date complÃ¨te valide."
+msgstr "Veuillez saisir une date complète valide."
 
 #: Please enter a valid month (1-12).
 msgid "Please enter a valid month (1-12)."
@@ -1448,15 +1448,15 @@ msgstr "Veuillez saisir un mois valide (1-12)."
 
 #: Please enter a valid year (1900-%d).
 msgid "Please enter a valid year (1900-%d)."
-msgstr "Veuillez saisir une annÃ©e valide (1900-%d)."
+msgstr "Veuillez saisir une année valide (1900-%d)."
 
 #: Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.
 msgid "Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
-msgstr "Seuls les chiffres sont autorisÃ©s dans ce champ. Ã‰vitez les espaces ou autres caractÃ¨res tels que les points ou les virgules."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
 
 #: Select Media Database
 msgid "Select Media Database"
-msgstr "SÃ©lectionner la base de donnÃ©es des media"
+msgstr "Sélectionner la base de données des media"
 
 #: Storage Configuration for Media
 msgid "Storage Configuration for Media"
@@ -1464,11 +1464,11 @@ msgstr "Configuration du stockage des media"
 
 #: Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.
 msgid "Translate, blocks and other output caches should be disabled for both frontend and admin inline translations."
-msgstr "Les caches de traduction, de blocs et autres sorties doivent Ãªtre dÃ©sactivÃ©s pour utiliser la traduction en ligne."
+msgstr "Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne."
 
 #: Unable to create directory: %s
 msgid "Unable to create directory: %s"
-msgstr "Impossible de crÃ©er le rÃ©pertoire : %s"
+msgstr "Impossible de créer le répertoire : %s"
 
 #: Unable to save file \"%s\" at \"%s\"
 msgid "Unable to save file \"%s\" at \"%s\""
@@ -1484,13 +1484,13 @@ msgstr "Mauvais format d'informations de fichier"
 
 #: database \"%s\"
 msgid "database \"%s\""
-msgstr "Base de donnÃ©e \"%s\""
+msgstr "Base de donnée \"%s\""
 
 #: "After selecting a new media storage location, press the Synchronize button
 msgid "After selecting a new media storage location, press the Synchronize button\n                                to transfer all media to that location. Media will not be available in the new\n                                location until the synchronization process is complete."
-msgstr "AprÃ¨s avoir sÃ©lectionnÃ© un emplacement de stockage des nouveaux mÃ©dias, appuyez sur le bouton Synchroniser\n"
-"                                pour transfÃ©rer tous les mÃ©dias Ã  cet emplacement. Les mÃ©dias ne seront pas disponibles dans le nouvel\n"
-"                                emplacement jusqu'Ã  ce que le process de synchronisation soit terminÃ©."
+msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser\n"
+"                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel\n"
+"                                emplacement jusqu'à ce que le process de synchronisation soit terminé."
 
 #: Allow Symlinks
 msgid "Allow Symlinks"
@@ -1498,23 +1498,23 @@ msgstr "Autoriser les liens symboliques"
 
 #: Can not create invoice. Order was not found.
 msgid "Can not create invoice. Order was not found."
-msgstr "Impossible de crÃ©er la facture. La commande n'a pas Ã©tÃ© trouvÃ©e."
+msgstr "Impossible de créer la facture. La commande n'a pas été trouvée."
 
 #: Can't retrieve entity config: %s
 msgid "Can't retrieve entity config: %s"
-msgstr "Impossible de retrouver la configuration de l'entitÃ© : %s"
+msgstr "Impossible de retrouver la configuration de l'entité : %s"
 
 #: Custom Admin Path
 msgid "Custom Admin Path"
-msgstr "Chemin d'accÃ¨s au back office personnalisÃ©"
+msgstr "Chemin d'accès au back office personnalisé"
 
 #: Environment Update Time
 msgid "Environment Update Time"
-msgstr "Temps de mise Ã  jour de l'environnement"
+msgstr "Temps de mise à jour de l'environnement"
 
 #: Input type \"%value%\" not found in the input types list.
 msgid "Input type \"%value%\" not found in the input types list."
-msgstr "Le type d'entrÃ©e \"%value%\" n'a pas Ã©tÃ© trouvÃ© dans la liste des types d'entrÃ©e."
+msgstr "Le type d'entrée \"%value%\" n'a pas été trouvé dans la liste des types d'entrée."
 
 #: Invalid connection
 msgid "Invalid connection"
@@ -1522,23 +1522,23 @@ msgstr "Connexion invalide"
 
 #: Invalid query
 msgid "Invalid query"
-msgstr "RequÃªte invalide"
+msgstr "Requête invalide"
 
 #: Offloader header
 msgid "Offloader header"
-msgstr "En-tÃªte de transcodeur"
+msgstr "En-tête de transcodeur"
 
 #: Path \"%value%\" is not available and cannot be used.
 msgid "Path \"%value%\" is not available and cannot be used."
-msgstr "Le chemin \"%value%\" n'est pas correct et ne peut pas Ãªtre utilisÃ©."
+msgstr "Le chemin \"%value%\" n'est pas correct et ne peut pas être utilisé."
 
 #: Path \"%value%\" is protected and cannot be used.
 msgid "Path \"%value%\" is protected and cannot be used."
-msgstr "Le chemin \"%value%\" est protÃ©gÃ© et ne peut pas Ãªtre utilisÃ©."
+msgstr "Le chemin \"%value%\" est protégé et ne peut pas être utilisé."
 
 #: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\""
 msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\""
-msgstr "Le chemin \"%value%\" ne peut pas remonter vers le rÃ©pertoire parent (\"../\", \"..\\\")."
+msgstr "Le chemin \"%value%\" ne peut pas remonter vers le répertoire parent (\"../\", \"..\\\")."
 
 #: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
 msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
@@ -1550,11 +1550,11 @@ msgstr "Veuillez saisir une date valide entre %s et %s"
 
 #: Please enter a valid date equal to or greater than %s
 msgid "Please enter a valid date equal to or greater than %s"
-msgstr "Veuillez saisir une date valide Ã©gale ou supÃ©rieure Ã  %s"
+msgstr "Veuillez saisir une date valide égale ou supérieure à %s"
 
 #: Please enter a valid date less than or equal to %s
 msgid "Please enter a valid date less than or equal to %s"
-msgstr "Veuillez saisir une date valide infÃ©rieure ou Ã©gale Ã  %s"
+msgstr "Veuillez saisir une date valide inférieure ou égale à %s"
 
 #: Please set available and/or protected paths list(s) before validation.
 msgid "Please set available and/or protected paths list(s) before validation."
@@ -1562,31 +1562,31 @@ msgstr "Veuillez renseigner correctement la liste des chemins avant validation."
 
 #: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\""
 msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\""
-msgstr "Le chemin demandÃ© ne peut pas remonter vers le rÃ©pertoire parent (\"../\", \"..\\\")."
+msgstr "Le chemin demandé ne peut pas remonter vers le répertoire parent (\"../\", \"..\\\")."
 
 #: Template Settings
 msgid "Template Settings"
-msgstr "ParamÃ¨tres de gabarit"
+msgstr "Paramètres de gabarit"
 
 #: Unknown old style column type definition: {$definition}.
 msgid "Unknown old style column type definition: {$definition}."
-msgstr "Ancien style de dÃ©finition de type de colonne inconnu : {$definition}."
+msgstr "Ancien style de définition de type de colonne inconnu : {$definition}."
 
 #: Use Custom Admin Path
 msgid "Use Custom Admin Path"
-msgstr "Utiliser le chemin d'accÃ¨s au back office personnalisÃ©"
+msgstr "Utiliser le chemin d'accès au back office personnalisé"
 
 #: Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.
 msgid "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk."
-msgstr "Attention ! L'activation de cette fonctionnalitÃ© n'est pas recommandÃ©e dans un environnement de production car elle prÃ©sente un risque de sÃ©curitÃ© potentiel."
+msgstr "Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel."
 
 #: Wrong old style column type definition: {$definition}.
 msgid "Wrong old style column type definition: {$definition}."
-msgstr "Ancien style de dÃ©finition de type de colonne erronÃ© : {$definition}."
+msgstr "Ancien style de définition de type de colonne erroné : {$definition}."
 
 #: You will have to log in after you save your custom admin path.
 msgid "You will have to log in after you save your custom admin path."
-msgstr "Vous devrez vous reconnecter aprÃ¨s avoir enregistrÃ© le chemin personnalisÃ©."
+msgstr "Vous devrez vous reconnecter après avoir enregistré le chemin personnalisé."
 
 #: Currency
 msgid "Currency"
@@ -1594,39 +1594,39 @@ msgstr "Devise"
 
 #: About the calendar
 msgid "About the calendar"
-msgstr "Ã€ propos du calendrier"
+msgstr "À propos du calendrier"
 
 #: DHTML Date/Time Selector
 msgid "DHTML Date/Time Selector"
-msgstr "SÃ©lecteur de date/heure DHTML"
+msgstr "Sélecteur de date/heure DHTML"
 
 #: For latest version visit: %s
 msgid "For latest version visit: %s"
-msgstr "Pour la visite de la derniÃ¨re version : %s"
+msgstr "Pour la visite de la dernière version : %s"
 
 #: Distributed under GNU LGPL. See %s for details.
 msgid "Distributed under GNU LGPL. See %s for details."
-msgstr "DistribuÃ© sous licence GNU LGPL. Voir %s pour plus de dÃ©tails."
+msgstr "Distribué sous licence GNU LGPL. Voir %s pour plus de détails."
 
 #: Date selection:
 msgid "Date selection:"
-msgstr "SÃ©lection de date :"
+msgstr "Sélection de date :"
 
 #: - Use the %s, %s buttons to select year
 msgid "- Use the %s, %s buttons to select year"
-msgstr "- Utilisez les boutons %s, %s pour sÃ©lectionner l'annÃ©e"
+msgstr "- Utilisez les boutons %s, %s pour sélectionner l'année"
 
 #: - Use the %s buttons to select month
 msgid "- Use the %s buttons to select month"
-msgstr "- Utilisez les boutons %s pour sÃ©lectionner le mois"
+msgstr "- Utilisez les boutons %s pour sélectionner le mois"
 
 #: - Hold mouse button on any of the above buttons for faster selection.
 msgid "- Hold mouse button on any of the above buttons for faster selection."
-msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sÃ©lection rapide"
+msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sélection rapide"
 
 #: Time selection:
 msgid "Time selection:"
-msgstr "SÃ©lection de l'heure :"
+msgstr "Sélection de l'heure :"
 
 #: - Click on any of the time parts to increase it
 msgid "- Click on any of the time parts to increase it"
@@ -1634,23 +1634,23 @@ msgstr "- Cliquez sur n'importe quelle partie de l'heure pour l'augmenter"
 
 #: - or Shift-click to decrease it
 msgid "- or Shift-click to decrease it"
-msgstr "- ou cliquez en maintenant la touche shift enfoncÃ©e pour l'augmenter"
+msgstr "- ou cliquez en maintenant la touche shift enfoncée pour l'augmenter"
 
 #: - or click and drag for faster selection.
 msgid "- or click and drag for faster selection."
-msgstr "- ou cliquez et glissez pour une sÃ©lection plus rapide"
+msgstr "- ou cliquez et glissez pour une sélection plus rapide"
 
 #: Prev. year (hold for menu)
 msgid "Prev. year (hold for menu)"
-msgstr "AnnÃ©e prÃ©cÃ©dente (maintenez pour le menu)"
+msgstr "Année précédente (maintenez pour le menu)"
 
 #: Prev. month (hold for menu)
 msgid "Prev. month (hold for menu)"
-msgstr "Mois prÃ©cÃ©dent (maintenez pour le menu)"
+msgstr "Mois précédent (maintenez pour le menu)"
 
 #: Go Today
 msgid "Go Today"
-msgstr "Aller Ã  aujourd'hui"
+msgstr "Aller à aujourd'hui"
 
 #: Next month (hold for menu)
 msgid "Next month (hold for menu)"
@@ -1658,15 +1658,15 @@ msgstr "Mois suivant (maintenez pour le menu)"
 
 #: Next year (hold for menu)
 msgid "Next year (hold for menu)"
-msgstr "AnnÃ©e prochaine (maintenez pour le menu)"
+msgstr "Année prochaine (maintenez pour le menu)"
 
 #: Select date
 msgid "Select date"
-msgstr "SÃ©lectionner la date"
+msgstr "Sélectionner la date"
 
 #: Drag to move
 msgid "Drag to move"
-msgstr "Glisser pour dÃ©placer"
+msgstr "Glisser pour déplacer"
 
 #: Display %s first
 msgid "Display %s first"
@@ -1678,7 +1678,7 @@ msgstr "Fermer"
 
 #: (Shift-)Click or drag to change value
 msgid "(Shift-)Click or drag to change value"
-msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncÃ©e ou glissez"
+msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncée ou glissez"
 
 #: Time:
 msgid "Time:"
@@ -1702,15 +1702,15 @@ msgstr ""
 
 #: "After selecting a new media storage location, press the Synchronize button
 msgid ""After selecting a new media storage location, press the Synchronize button"
-msgstr "AprÃ¨s avoir sÃ©lectionnÃ© un emplacement de stockage des nouveaux mÃ©dias, appuyez sur le bouton Synchroniser"
+msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser"
 
 #: to transfer all media to that location. Media will not be available in the new
 msgid "to transfer all media to that location. Media will not be available in the new"
-msgstr "                                pour transfÃ©rer tous les mÃ©dias Ã  cet emplacement. Les mÃ©dias ne seront pas disponibles dans le nouvel"
+msgstr "                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel"
 
 #: location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button
 msgid "location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button"
-msgstr "AprÃ¨s avoir sÃ©lectionnÃ© un emplacement de stockage des nouveaux mÃ©dias, appuyez sur le bouton Synchroniser"
+msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser"
 
 #: location until the synchronization process is complete."
 msgid "location until the synchronization process is complete.""
@@ -1818,7 +1818,7 @@ msgstr ""
 
 #: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page"
 msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page""
-msgstr "Saisissez une clÃ© d'url valide. Par exemple, \"page-exemple\", \"page-exemple.html\" ou \"autreniveau/page-exemple\"."
+msgstr "Saisissez une clé d'url valide. Par exemple, \"page-exemple\", \"page-exemple.html\" ou \"autreniveau/page-exemple\"."
 
 #: Please select a file
 msgid "Please select a file"
@@ -1866,5 +1866,5 @@ msgstr "Emails transactionnels"
 
 #: VAT Number
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 

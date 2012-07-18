@@ -1,10 +1,10 @@
 #: %1$s has been added to your wishlist. Click <a href=\"%2$s\">here</a> to continue shopping
 msgid "%1$s has been added to your wishlist. Click <a href=\"%2$s\">here</a> to continue shopping"
-msgstr "%1$s a Ã©tÃ© ajoutÃ© Ã  votre liste d'envies. Cliquez <a href=\"%2$s\">ici</a> pour continuer vos achats."
+msgstr "%1$s a été ajouté à votre liste d'envies. Cliquez <a href=\"%2$s\">ici</a> pour continuer vos achats."
 
 #: %d product(s) have been added to shopping cart: %s.
 msgid "%d product(s) have been added to shopping cart: %s."
-msgstr "%d produits ont Ã©tÃ© ajoutÃ©s Ã  votre panier : %s."
+msgstr "%d produits ont été ajoutés à votre panier : %s."
 
 #: %s's Wishlist
 msgid "%s's Wishlist"
@@ -24,35 +24,35 @@ msgstr "Ajouter au panier"
 
 #: Add to Wishlist
 msgid "Add to Wishlist"
-msgstr "Ajouter Ã  la liste d'envies"
+msgstr "Ajouter à la liste d'envies"
 
 #: Added On
 msgid "Added On"
-msgstr "AjoutÃ© le"
+msgstr "Ajouté le"
 
 #: An error occurred while adding item to wishlist.
 msgid "An error occurred while adding item to wishlist."
-msgstr "Erreur lors de l'ajout de produit Ã  votre liste d'envies."
+msgstr "Erreur lors de l'ajout de produit à votre liste d'envies."
 
 #: An error occurred while adding item to wishlist: %s
 msgid "An error occurred while adding item to wishlist: %s"
-msgstr "Erreur lors de l'ajout de produit Ã  la liste d'envies : %s."
+msgstr "Erreur lors de l'ajout de produit à la liste d'envies : %s."
 
 #: An error occurred while deleting the item from wishlist.
 msgid "An error occurred while deleting the item from wishlist."
-msgstr "Erreur lors de la suppression de produit Ã  votre liste d'envies."
+msgstr "Erreur lors de la suppression de produit à votre liste d'envies."
 
 #: An error occurred while deleting the item from wishlist: %s
 msgid "An error occurred while deleting the item from wishlist: %s"
-msgstr "Erreur lors de la suppression de produit Ã  la liste d'envies : %s."
+msgstr "Erreur lors de la suppression de produit à la liste d'envies : %s."
 
 #: Are you sure you want to remove this product from your wishlist?
 msgid "Are you sure you want to remove this product from your wishlist?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir enlever ce produit de votre liste d'envies ?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever ce produit de votre liste d'envies ?"
 
 #: Are you sure you would like to remove this item from the wishlist?
 msgid "Are you sure you would like to remove this item from the wishlist?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir enlever cet article de votre liste d'envies ?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever cet article de votre liste d'envies ?"
 
 #: Back
 msgid "Back"
@@ -64,7 +64,7 @@ msgstr "Impossible de sauvegarder la description %s"
 
 #: Can\'t update wishlist
 msgid "Can\'t update wishlist"
-msgstr "Impossible de mettre Ã  jour la liste d'envies."
+msgstr "Impossible de mettre à jour la liste d'envies."
 
 #: Cannot add item to shopping cart
 msgid "Cannot add item to shopping cart"
@@ -76,19 +76,19 @@ msgstr "Impossible d'ajouter le produit au panier"
 
 #: Cannot create wishlist.
 msgid "Cannot create wishlist."
-msgstr "Impossible de crÃ©er la liste d'envies"
+msgstr "Impossible de créer la liste d'envies"
 
 #: Cannot specify product.
 msgid "Cannot specify product."
-msgstr "Impossible de spÃ©cifier le produit"
+msgstr "Impossible de spécifier le produit"
 
 #: Cannot specify wishlist.
 msgid "Cannot specify wishlist."
-msgstr "Impossible de spÃ©cifier la liste d'envies"
+msgstr "Impossible de spécifier la liste d'envies"
 
 #: Cannot update wishlist
 msgid "Cannot update wishlist"
-msgstr "Impossible de mettre Ã  jour la liste d'envies"
+msgstr "Impossible de mettre à jour la liste d'envies"
 
 #: Check this checkbox if you want to add a link to an rss feed to your wishlist.
 msgid "Check this checkbox if you want to add a link to an rss feed to your wishlist."
@@ -112,11 +112,11 @@ msgstr "Formulaire de partage de liste d'envies"
 
 #: Customer Shared Wishlist View
 msgid "Customer Shared Wishlist View"
-msgstr "Vue de liste d'envies partagÃ©e"
+msgstr "Vue de liste d'envies partagée"
 
 #: Email Sender
 msgid "Email Sender"
-msgstr "ExpÃ©diteur du mail"
+msgstr "Expéditeur du mail"
 
 #: Email Template
 msgid "Email Template"
@@ -124,27 +124,27 @@ msgstr "Gabarit du mail"
 
 #: Email address can\'t be empty.
 msgid "Email address can\'t be empty."
-msgstr "L'email ne peut pas Ãªtre vide."
+msgstr "L'email ne peut pas être vide."
 
 #: Email addresses, separated by commas
 msgid "Email addresses, separated by commas"
-msgstr "Adresses email, sÃ©parÃ©es par des virgules"
+msgstr "Adresses email, séparées par des virgules"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: General Options
 msgid "General Options"
-msgstr "Options gÃ©nÃ©rales"
+msgstr "Options générales"
 
 #: Go to Wishlist
 msgid "Go to Wishlist"
-msgstr "Aller Ã  la liste d'envies"
+msgstr "Aller à la liste d'envies"
 
 #: Last Added Items
 msgid "Last Added Items"
-msgstr "Derniers articles ajoutÃ©s"
+msgstr "Derniers articles ajoutés"
 
 #: Message
 msgid "Message"
@@ -168,11 +168,11 @@ msgstr "Ma liste d'envies <small>(%d)</small>"
 
 #: Out of stock
 msgid "Out of stock"
-msgstr "Ã‰puisÃ©"
+msgstr "Épuisé"
 
 #: Please enter a valid email addresses, separated by commas. For example johndoe@domain.com, johnsmith@domain.com.
 msgid "Please enter a valid email addresses, separated by commas. For example johndoe@domain.com, johnsmith@domain.com."
-msgstr "Saisissez une liste d'adresses email valides, sÃ©parÃ©es par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com"
+msgstr "Saisissez une liste d'adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com"
 
 #: Please input a valid email address.
 msgid "Please input a valid email address."
@@ -188,11 +188,11 @@ msgstr "Produit"
 
 #: Product(s) %s are grouped. Each of them can be added to cart separately only.
 msgid "Product(s) %s are grouped. Each of them can be added to cart separately only."
-msgstr "Les produits %s sont groupÃ©s. Ils ne peuvent Ãªtre ajoutÃ©s au panier que sÃ©parÃ©ment."
+msgstr "Les produits %s sont groupés. Ils ne peuvent être ajoutés au panier que séparément."
 
 #: Product(s) %s have required options. Each of them can be added to cart separately only.
 msgid "Product(s) %s have required options. Each of them can be added to cart separately only."
-msgstr "Les produits %s ont des options obligatoires. Ils ne peuvent Ãªtre ajoutÃ©s au panier que sÃ©parÃ©ment."
+msgstr "Les produits %s ont des options obligatoires. Ils ne peuvent être ajoutés au panier que séparément."
 
 #: RSS Feed
 msgid "RSS Feed"
@@ -208,7 +208,7 @@ msgstr "Supprimer l'article"
 
 #: Remove This Item
 msgid "Remove This Item"
-msgstr "Supprimer cet Ã©lÃ©ment"
+msgstr "Supprimer cet élément"
 
 #: Remove item
 msgid "Remove item"
@@ -232,7 +232,7 @@ msgstr "Information de partage"
 
 #: This product(s) is currently out of stock
 msgid "This product(s) is currently out of stock"
-msgstr "Ce produit est momentanÃ©ment Ã©puisÃ©"
+msgstr "Ce produit est momentanément épuisé"
 
 #: Unable to add the following product(s) to shopping cart: %s.
 msgid "Unable to add the following product(s) to shopping cart: %s."
@@ -240,7 +240,7 @@ msgstr "Impossible d'ajouter au panier les produits suivants : %s."
 
 #: Update Wishlist
 msgid "Update Wishlist"
-msgstr "Mettre Ã  jour"
+msgstr "Mettre à jour"
 
 #: View Product
 msgid "View Product"
@@ -268,11 +268,11 @@ msgstr "Vous n'avez pas d'article dans votre liste d'envies."
 
 #: Your Wishlist has been shared.
 msgid "Your Wishlist has been shared."
-msgstr "Votre liste d'envies a Ã©tÃ© partagÃ©e."
+msgstr "Votre liste d'envies a été partagée."
 
 #: %1$s has been updated in your wishlist.
 msgid "%1$s has been updated in your wishlist."
-msgstr "%1$s a Ã©tÃ© mis Ã  jour dans votre liste d'envies."
+msgstr "%1$s a été mis à jour dans votre liste d'envies."
 
 #: %s for \"%s\".
 msgid "%s for \"%s\"."
@@ -284,11 +284,11 @@ msgstr "Ajouter au comparateur"
 
 #: Added From
 msgid "Added From"
-msgstr "AjoutÃ© depuis"
+msgstr "Ajouté depuis"
 
 #: An error occurred while updating wishlist.
 msgid "An error occurred while updating wishlist."
-msgstr "Erreur lors de la mise Ã  jour de la liste d'envies."
+msgstr "Erreur lors de la mise à jour de la liste d'envies."
 
 #: Can't delete item from wishlist
 msgid "Can't delete item from wishlist"
@@ -300,7 +300,7 @@ msgstr "Impossible d'enregistrer la description %s"
 
 #: Can't update wishlist
 msgid "Can't update wishlist"
-msgstr "Impossible de mettre Ã  jour la liste d'envies"
+msgstr "Impossible de mettre à jour la liste d'envies"
 
 #: Cannot configure product
 msgid "Cannot configure product"
@@ -312,7 +312,7 @@ msgstr "Impossible de charger l'article de la liste d'envies"
 
 #: Cannot specify wishlist item.
 msgid "Cannot specify wishlist item."
-msgstr "Impossible de spÃ©cifier l'article de la liste d'envies."
+msgstr "Impossible de spécifier l'article de la liste d'envies."
 
 #: Configure Wishlist Item
 msgid "Configure Wishlist Item"
@@ -332,19 +332,19 @@ msgstr "Jours dans la liste d'envies"
 
 #: Display Wishlist Summary
 msgid "Display Wishlist Summary"
-msgstr "Afficher le rÃ©sumÃ© de la liste d'envies"
+msgstr "Afficher le résumé de la liste d'envies"
 
 #: Edit
 msgid "Edit"
-msgstr "Ã‰diter"
+msgstr "Éditer"
 
 #: Email address can't be empty.
 msgid "Email address can't be empty."
-msgstr "L'adresse email ne peut pas Ãªtre vide."
+msgstr "L'adresse email ne peut pas être vide."
 
 #: Helper for wishlist options rendering doesn't implement required interface.
 msgid "Helper for wishlist options rendering doesn't implement required interface."
-msgstr "Le helper utilisÃ© pour le rendu des options de liste d'envies n'implÃ©mente pas l'interface requise."
+msgstr "Le helper utilisé pour le rendu des options de liste d'envies n'implémente pas l'interface requise."
 
 #: My Wishlist Link
 msgid "My Wishlist Link"
@@ -352,7 +352,7 @@ msgstr "Lien vers ma liste d'envies"
 
 #: Options Details
 msgid "Options Details"
-msgstr "DÃ©tails des options"
+msgstr "Détails des options"
 
 #: User description
 msgid "User description"
@@ -360,7 +360,7 @@ msgstr "Description utilisateur"
 
 #: View Details
 msgid "View Details"
-msgstr "Voir les dÃ©tails"
+msgstr "Voir les détails"
 
 #: Click for price
 msgid "Click for price"

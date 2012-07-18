@@ -4,7 +4,7 @@ msgstr "URL de la passerelle d'API"
 
 #: Accepted Currency
 msgid "Accepted Currency"
-msgstr "Devise acceptÃ©e"
+msgstr "Devise acceptée"
 
 #: An error has occurred
 msgid "An error has occurred"
@@ -12,7 +12,7 @@ msgstr "Une erreur est survenue"
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: Click <a href=\"%s\">here</a> to continue shopping.
 msgid "Click <a href=\"%s\">here</a> to continue shopping."
@@ -20,15 +20,15 @@ msgstr "Cliquez <a href=\"%s\">ici</a> pour continuer vos achats."
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"
-msgstr "<strong>NumÃ©ro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit Card Type: %s
 msgid "Credit Card Type: %s"
@@ -40,7 +40,7 @@ msgstr "Types de cartes de paiement"
 
 #: Credit Card Verification
 msgid "Credit Card Verification"
-msgstr "VÃ©rification de carte de paiement"
+msgstr "Vérification de carte de paiement"
 
 #: Customer ID
 msgid "Customer ID"
@@ -48,15 +48,15 @@ msgstr "ID de client"
 
 #: Customer was redirected to eWAY.
 msgid "Customer was redirected to eWAY."
-msgstr "Le client a Ã©tÃ© redirigÃ© vers eWay."
+msgstr "Le client a été redirigé vers eWay."
 
 #: Debug Flag
 msgid "Debug Flag"
-msgstr "Indicateur de dÃ©bug"
+msgstr "Indicateur de débug"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Expiration Date
 msgid "Expiration Date"
@@ -64,7 +64,7 @@ msgstr "Date d'expiration"
 
 #: Name on Card
 msgid "Name on Card"
-msgstr "PropriÃ©taire de la carte"
+msgstr "Propriétaire de la carte"
 
 #: Name on the Card: %s
 msgid "Name on the Card: %s"
@@ -76,19 +76,19 @@ msgstr "Statut d'une nouvelle commande"
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr "Mode de paiement autorisÃ© pour"
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr "Mode de paiement autorisÃ© pour les pays spÃ©cifiques"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Please Select
 msgid "Please Select"
-msgstr "Veuillez sÃ©lectionner"
+msgstr "Veuillez sélectionner"
 
 #: Selected currency code (%s) is not compatible with eWAY.
 msgid "Selected currency code (%s) is not compatible with eWAY."
-msgstr "Le code de devise sÃ©lectionnÃ© (%s) est incompatible avec eWAY."
+msgstr "Le code de devise sélectionné (%s) est incompatible avec eWAY."
 
 #: Sort Order
 msgid "Sort Order"
@@ -100,7 +100,7 @@ msgstr "Le client est revenu de eWAY."
 
 #: The customer was rejected by eWAY.
 msgid "The customer was rejected by eWAY."
-msgstr "Le client a Ã©tÃ© rejetÃ© par eWAY."
+msgstr "Le client a été rejeté par eWAY."
 
 #: There has been an error processing your payment.
 msgid "There has been an error processing your payment."
@@ -108,7 +108,7 @@ msgstr "Erreur lors du traitement de votre paiement."
 
 #: There has been an error processing your payment. Please try later or contact us for help.
 msgid "There has been an error processing your payment. Please try later or contact us for help."
-msgstr "Une erreur est survenue lors du traitement de votre paiement. Veuillez rÃ©essayer plus tard ou nous contacter pour obtenir de l'aide."
+msgstr "Une erreur est survenue lors du traitement de votre paiement. Veuillez réessayer plus tard ou nous contacter pour obtenir de l'aide."
 
 #: Title
 msgid "Title"
@@ -124,19 +124,19 @@ msgstr "Aide ?"
 
 #: You will be redirected to eWAY 3D-Secure in a few seconds.
 msgid "You will be redirected to eWAY 3D-Secure in a few seconds."
-msgstr "Vous allez Ãªtre redirigÃ© vers eWAY 3D-Secure dans quelques secondes."
+msgstr "Vous allez être redirigé vers eWAY 3D-Secure dans quelques secondes."
 
 #: You will be redirected to eWAY 3D-Secure website when you place an order.
 msgid "You will be redirected to eWAY 3D-Secure website when you place an order."
-msgstr "Vous serez redirigÃ© vers le site de eWAY 3D-Secure Ã  l'issue de votre commande."
+msgstr "Vous serez redirigé vers le site de eWAY 3D-Secure à l'issue de votre commande."
 
 #: You will be redirected to eWAY in a few seconds.
 msgid "You will be redirected to eWAY in a few seconds."
-msgstr "Vous serez redirigÃ© vers le site de eWAY 3D-Secure dans quelques secondes."
+msgstr "Vous serez redirigé vers le site de eWAY 3D-Secure dans quelques secondes."
 
 #: You will be redirected to eWAY website when you place an order.
 msgid "You will be redirected to eWAY website when you place an order."
-msgstr "Vous serez redirigÃ© vers le site de eWAY Ã  l'issue de votre commande."
+msgstr "Vous serez redirigé vers le site de eWAY à l'issue de votre commande."
 
 #: eWAY 3D-Secure
 msgid "eWAY 3D-Secure"
@@ -148,5 +148,5 @@ msgstr "eWAY Direct"
 
 #: eWAY Shared
 msgid "eWAY Shared"
-msgstr "eWAY partagÃ©"
+msgstr "eWAY partagé"
 

@@ -1,6 +1,6 @@
 #: Accepted Currency
 msgid "Accepted Currency"
-msgstr "Devise acceptÃ©e"
+msgstr "Devise acceptée"
 
 #: An error has occurred
 msgid "An error has occurred"
@@ -28,7 +28,7 @@ msgstr "URL CGI"
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: ChronoPay Gateway
 msgid "ChronoPay Gateway"
@@ -40,15 +40,15 @@ msgstr "ChronoPay Standard"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"
-msgstr "<strong>NumÃ©ro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit Card Type: %s
 msgid "Credit Card Type: %s"
@@ -64,15 +64,15 @@ msgstr "Langue de l'interface client"
 
 #: Debug
 msgid "Debug"
-msgstr "DÃ©boguage"
+msgstr "Déboguage"
 
 #: Dutch
 msgid "Dutch"
-msgstr "NÃ©erlandais"
+msgstr "Néerlandais"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: English
 msgid "English"
@@ -84,7 +84,7 @@ msgstr "Date d'expiration"
 
 #: Gateway request error: %s
 msgid "Gateway request error: %s"
-msgstr "Erreur de requÃªte passerelle : %s"
+msgstr "Erreur de requête passerelle : %s"
 
 #: German
 msgid "German"
@@ -92,19 +92,19 @@ msgstr "Allemand"
 
 #: Invalid operation code.
 msgid "Invalid operation code."
-msgstr "Code d'opÃ©ration invalide."
+msgstr "Code d'opération invalide."
 
 #: Invalid response format.
 msgid "Invalid response format."
-msgstr "Format de rÃ©ponse invalide."
+msgstr "Format de réponse invalide."
 
 #: Issue Number
 msgid "Issue Number"
-msgstr "NumÃ©ro de problÃ¨me"
+msgstr "Numéro de problème"
 
 #: Name on Card
 msgid "Name on Card"
-msgstr "PropriÃ©taire de la carte"
+msgstr "Propriétaire de la carte"
 
 #: Name on the Card: %s
 msgid "Name on the Card: %s"
@@ -116,11 +116,11 @@ msgstr "Statut d'une nouvelle commande"
 
 #: Order #%s
 msgid "Order #%s"
-msgstr "Commande nÂ°%s"
+msgstr "Commande n°%s"
 
 #: Order number will be used if left empty.
 msgid "Order number will be used if left empty."
-msgstr "C'est le numÃ©ro de commande qui sera utilisÃ© si ce champ est vide."
+msgstr "C'est le numéro de commande qui sera utilisé si ce champ est vide."
 
 #: Payment Action
 msgid "Payment Action"
@@ -128,15 +128,15 @@ msgstr "Action de paiement"
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr "Mode de paiement autorisÃ© pour"
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr "Mode de paiement autorisÃ© pour les pays spÃ©cifiques"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Please Select
 msgid "Please Select"
-msgstr "Veuillez sÃ©lectionner"
+msgstr "Veuillez sélectionner"
 
 #: Product ID
 msgid "Product ID"
@@ -148,7 +148,7 @@ msgstr "Russe"
 
 #: Shared Secret
 msgid "Shared Secret"
-msgstr "Secret partagÃ©"
+msgstr "Secret partagé"
 
 #: Site ID
 msgid "Site ID"
@@ -160,11 +160,11 @@ msgstr "Ordre de tri"
 
 #: Specify access URL: {STORE_URL}/chronopay/standard/success in the ChronoPay client admin.
 msgid "Specify access URL: {STORE_URL}/chronopay/standard/success in the ChronoPay client admin."
-msgstr "SpÃ©cifiez l'url d'accÃ¨s : {URL_BOUTIQUE}/chronopay/standard/success dans l'admin du client ChronoPay."
+msgstr "Spécifiez l'url d'accès : {URL_BOUTIQUE}/chronopay/standard/success dans l'admin du client ChronoPay."
 
 #: Start Date
 msgid "Start Date"
-msgstr "Date de dÃ©but"
+msgstr "Date de début"
 
 #: Switch/Solo Only
 msgid "Switch/Solo Only"
@@ -176,11 +176,11 @@ msgstr "Le client est revenu de Chronopay."
 
 #: The customer was redirected to Chronopay.
 msgid "The customer was redirected to Chronopay."
-msgstr "Le client a Ã©tÃ© redirigÃ© vers Chronopay."
+msgstr "Le client a été redirigé vers Chronopay."
 
 #: The selected currency code (%s) is not compatible with ChronoPay.
 msgid "The selected currency code (%s) is not compatible with ChronoPay."
-msgstr "Le code de devise sÃ©lectionnÃ© (%s) est incompatible avec ChronoPay."
+msgstr "Le code de devise sélectionné (%s) est incompatible avec ChronoPay."
 
 #: The transaction ID is invalid.
 msgid "The transaction ID is invalid."
@@ -200,9 +200,9 @@ msgstr "Aide ?"
 
 #: You will be redirected to ChronoPay in a few seconds.
 msgid "You will be redirected to ChronoPay in a few seconds."
-msgstr "Vous serez redirigÃ© vers ChronoPay dans quelques secondes."
+msgstr "Vous serez redirigé vers ChronoPay dans quelques secondes."
 
 #: You will be redirected to Chronopay website when you place an order.
 msgid "You will be redirected to Chronopay website when you place an order."
-msgstr "Vous serez redirigÃ© vers le site de ChronoPay Ã  l'issue de votre commande."
+msgstr "Vous serez redirigé vers le site de ChronoPay à l'issue de votre commande."
 

@@ -16,11 +16,11 @@ msgstr "Erreur lors de la sauvegarde du message cadeau"
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: Check this checkbox if you want to add gift messages to your items.
 msgid "Check this checkbox if you want to add gift messages to your items."
-msgstr "Cochez cette case si vous voulez ajouter des messages cadeau Ã  vos articles."
+msgstr "Cochez cette case si vous voulez ajouter des messages cadeau à vos articles."
 
 #: Check this checkbox if you want to add gift messages.
 msgid "Check this checkbox if you want to add gift messages."
@@ -32,7 +32,7 @@ msgstr "Y a-t-il des articles cadeaux dans votre commande ?"
 
 #: Edit
 msgid "Edit"
-msgstr "Ã‰diter"
+msgstr "Éditer"
 
 #: Enter a gift message for each item in your order.
 msgid "Enter a gift message for each item in your order."
@@ -72,23 +72,23 @@ msgstr "Sauvegarder le message cadeau"
 
 #: The gift message has been removed
 msgid "The gift message has been removed"
-msgstr "Le message cadeau a bien Ã©tÃ© supprimÃ©"
+msgstr "Le message cadeau a bien été supprimé"
 
 #: The gift message has been saved
 msgid "The gift message has been saved"
-msgstr "Le message cadeau a bien Ã©tÃ© sauvegardÃ©."
+msgstr "Le message cadeau a bien été sauvegardé."
 
 #: The gift message has been saved.
 msgid "The gift message has been saved."
-msgstr "Le message cadeau a bien Ã©tÃ© sauvegardÃ©."
+msgstr "Le message cadeau a bien été sauvegardé."
 
 #: To
 msgid "To"
-msgstr "Ã€"
+msgstr "À"
 
 #: Unknown entity type
 msgid "Unknown entity type"
-msgstr "Type d'entitÃ© inconnu"
+msgstr "Type d'entité inconnu"
 
 #: Use config
 msgid "Use config"

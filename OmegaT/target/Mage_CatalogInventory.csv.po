@@ -1,26 +1,26 @@
 #: \"%s\" is not available in the requested quantity. %s of the items will be backordered.
 msgid "\"%s\" is not available in the requested quantity. %s of the items will be backordered."
-msgstr "La quantitÃ© demandÃ©e n'est pas en stock. %s articles seront expÃ©diÃ©s dÃ¨s que les stocks seront rÃ©approvisionnÃ©s."
+msgstr "La quantité demandée n'est pas en stock. %s articles seront expédiés dès que les stocks seront réapprovisionnés."
 
 #: %s is not a correct comparsion method.
 msgid "%s is not a correct comparsion method."
-msgstr "%s n'est pas une mÃ©thode de comparaison correcte."
+msgstr "%s n'est pas une méthode de comparaison correcte."
 
 #: <strong>Note</strong> that these settings are applicable to cart line items, not the whole cart.
 msgid "<strong>Note</strong> that these settings are applicable to cart line items, not the whole cart."
-msgstr "<strong>Notez</strong> que ces paramÃ¨tres sont applicables aux lignes du panier, pas Ã  l'ensemble du panier."
+msgstr "<strong>Notez</strong> que ces paramètres sont applicables aux lignes du panier, pas à l'ensemble du panier."
 
 #: Add Minimum Qty
 msgid "Add Minimum Qty"
-msgstr "Ajouter une quantitÃ© mini"
+msgstr "Ajouter une quantité mini"
 
 #: Allow Qty Below 0
 msgid "Allow Qty Below 0"
-msgstr "Autoriser les quantitÃ©s nÃ©gatives"
+msgstr "Autoriser les quantités négatives"
 
 #: Allow Qty Below 0 and Notify Customer
 msgid "Allow Qty Below 0 and Notify Customer"
-msgstr "Autoriser les quantitÃ©s nÃ©gatives et prÃ©venir le client"
+msgstr "Autoriser les quantités négatives et prévenir le client"
 
 #: Automatically Return Credit Memo Item to Stock
 msgid "Automatically Return Credit Memo Item to Stock"
@@ -40,7 +40,7 @@ msgstr "remise en %%"
 
 #: Cannot specify product identifier for the order item.
 msgid "Cannot specify product identifier for the order item."
-msgstr "Impossible de spÃ©cifier l'identifiant de produit pour l'article de commande."
+msgstr "Impossible de spécifier l'identifiant de produit pour l'article de commande."
 
 #: Catalog Inventory
 msgid "Catalog Inventory"
@@ -48,11 +48,11 @@ msgstr "Inventaire catalogue"
 
 #: Decrease Stock When Order is Placed
 msgid "Decrease Stock When Order is Placed"
-msgstr "DÃ©crÃ©menter le stock quand la commande est validÃ©e"
+msgstr "Décrémenter le stock quand la commande est validée"
 
 #: Enable Qty Increments
 msgid "Enable Qty Increments"
-msgstr "Activer les incrÃ©ments de quantitÃ©s"
+msgstr "Activer les incréments de quantités"
 
 #: In Stock
 msgid "In Stock"
@@ -76,31 +76,31 @@ msgstr "Section inventaire"
 
 #: Manage Stock
 msgid "Manage Stock"
-msgstr "GÃ©rer les stocks"
+msgstr "Gérer les stocks"
 
 #: Maximum Qty Allowed in Shopping Cart
 msgid "Maximum Qty Allowed in Shopping Cart"
-msgstr "QuantitÃ© maxi autorisÃ©e dans le panier"
+msgstr "Quantité maxi autorisée dans le panier"
 
 #: Minimum Qty
 msgid "Minimum Qty"
-msgstr "QuantitÃ© mini"
+msgstr "Quantité mini"
 
 #: Minimum Qty Allowed in Shopping Cart
 msgid "Minimum Qty Allowed in Shopping Cart"
-msgstr "QuantitÃ© mini autorisÃ©e dans le panier"
+msgstr "Quantité mini autorisée dans le panier"
 
 #: No Backorders
 msgid "No Backorders"
-msgstr "Pas de commandes au delÃ  des stocks"
+msgstr "Pas de commandes au delà des stocks"
 
 #: Not all products are available in the requested quantity
 msgid "Not all products are available in the requested quantity"
-msgstr "Certains produits ne sont pas disponibles dans la quantitÃ© demandÃ©e."
+msgstr "Certains produits ne sont pas disponibles dans la quantité demandée."
 
 #: Notify for Quantity Below
 msgid "Notify for Quantity Below"
-msgstr "Notifier quand la quantitÃ© passe en dessous de"
+msgstr "Notifier quand la quantité passe en dessous de"
 
 #: Only X left Threshold
 msgid "Only X left Threshold"
@@ -108,7 +108,7 @@ msgstr "Seuil pour afficher 'Plus que X produits restant'"
 
 #: Out of Stock
 msgid "Out of Stock"
-msgstr "Ã‰puisÃ©"
+msgstr "Épuisé"
 
 #: Product Stock Options
 msgid "Product Stock Options"
@@ -116,19 +116,19 @@ msgstr "Options de stock de produits"
 
 #: Qty Increments
 msgid "Qty Increments"
-msgstr "IncrÃ©ments de quantitÃ©s"
+msgstr "Incréments de quantités"
 
 #: Qty for Items' Status to Become Out of Stock
 msgid "Qty for Items' Status to Become Out of Stock"
-msgstr "QuantitÃ© pour que l'article soit considÃ©rÃ© comme Ã©puisÃ©"
+msgstr "Quantité pour que l'article soit considéré comme épuisé"
 
 #: Retrieve stock data
 msgid "Retrieve stock data"
-msgstr "RÃ©cupÃ©rer les donnÃ©es de stock"
+msgstr "Récupérer les données de stock"
 
 #: Retrieve stock data by product ids
 msgid "Retrieve stock data by product ids"
-msgstr "RÃ©cupÃ©rer les donnÃ©es de stock par identifiants de produits"
+msgstr "Récupérer les données de stock par identifiants de produits"
 
 #: Rule price
 msgid "Rule price"
@@ -136,19 +136,19 @@ msgstr "prix"
 
 #: Set Items' Status to be In Stock When Order is Cancelled
 msgid "Set Items' Status to be In Stock When Order is Cancelled"
-msgstr "Passer le statut des articles Ã  \"Disponible\" quand une commande est annulÃ©e"
+msgstr "Passer le statut des articles à \"Disponible\" quand une commande est annulée"
 
 #: Some of the products are currently out of stock
 msgid "Some of the products are currently out of stock"
-msgstr "Certains des produits sont actuellement Ã©puisÃ©s"
+msgstr "Certains des produits sont actuellement épuisés"
 
 #: Some of the products cannot be ordered in requested quantity.
 msgid "Some of the products cannot be ordered in requested quantity."
-msgstr "Certains produits ne sont pas disponibles dans la quantitÃ© demandÃ©e."
+msgstr "Certains produits ne sont pas disponibles dans la quantité demandée."
 
 #: Some of the products cannot be ordered in the requested quantity.
 msgid "Some of the products cannot be ordered in the requested quantity."
-msgstr "Certains produits ne sont pas disponibles dans la quantitÃ© demandÃ©e."
+msgstr "Certains produits ne sont pas disponibles dans la quantité demandée."
 
 #: Stock Options
 msgid "Stock Options"
@@ -156,23 +156,23 @@ msgstr "Options de stock"
 
 #: Stock Status
 msgid "Stock Status"
-msgstr "Ã‰tat du stock"
+msgstr "État du stock"
 
 #: The maximum quantity allowed for purchase is %s.
 msgid "The maximum quantity allowed for purchase is %s."
-msgstr "La quantitÃ© maximale autorisÃ©e pour la commande est %s."
+msgstr "La quantité maximale autorisée pour la commande est %s."
 
 #: The minimum quantity allowed for purchase is %s.
 msgid "The minimum quantity allowed for purchase is %s."
-msgstr "La quantitÃ© minimale autorisÃ©e pour la commande est %s."
+msgstr "La quantité minimale autorisée pour la commande est %s."
 
 #: The requested quantity for \"%s\" is not available.
 msgid "The requested quantity for \"%s\" is not available."
-msgstr "La quantitÃ© demandÃ©e pour \"%s\" n'est pas disponible."
+msgstr "La quantité demandée pour \"%s\" n'est pas disponible."
 
 #: The requested quantity is not available.
 msgid "The requested quantity is not available."
-msgstr "La quantitÃ© demandÃ©e n'est pas disponible."
+msgstr "La quantité demandée n'est pas disponible."
 
 #: The stock item for Product in option is not valid.
 msgid "The stock item for Product in option is not valid."
@@ -184,15 +184,15 @@ msgstr "L'article en stock pour ce produit n'est pas valide."
 
 #: This product is available for purchase in increments of %s only.
 msgid "This product is available for purchase in increments of %s only."
-msgstr "Ce produit ne peut Ãªtre commandÃ© que par multiples de %s."
+msgstr "Ce produit ne peut être commandé que par multiples de %s."
 
 #: This product is currently out of stock.
 msgid "This product is currently out of stock."
-msgstr "Ce produit est Ã©puisÃ©."
+msgstr "Ce produit est épuisé."
 
 #: This product is not available in the requested quantity. %s of the items will be backordered.
 msgid "This product is not available in the requested quantity. %s of the items will be backordered."
-msgstr "La quantitÃ© demandÃ©e n'est pas en stock. %s articles seront expÃ©diÃ©s dÃ¨s que les stocks seront rÃ©approvisionnÃ©s."
+msgstr "La quantité demandée n'est pas en stock. %s articles seront expédiés dès que les stocks seront réapprovisionnés."
 
 #: To Fixed Value
 msgid "To Fixed Value"
@@ -204,27 +204,27 @@ msgstr "nouveau prix en %%"
 
 #: Undefined product type.
 msgid "Undefined product type."
-msgstr "Type de produit indÃ©fini."
+msgstr "Type de produit indéfini."
 
 #: Update
 msgid "Update"
-msgstr "Mettre Ã  jour"
+msgstr "Mettre à jour"
 
 #: Update product stock data
 msgid "Update product stock data"
-msgstr "Mettre Ã  jour les donnÃ©es de stock du produit"
+msgstr "Mettre à jour les données de stock du produit"
 
 #: Update the Product
 msgid "Update the Product"
-msgstr "Mettre Ã  jour le produit"
+msgstr "Mettre à jour le produit"
 
 #: Display Out of Stock Products
 msgid "Display Out of Stock Products"
-msgstr "Afficher les produits Ã©puisÃ©s"
+msgstr "Afficher les produits épuisés"
 
 #: %s is available for purchase in increments of %s only.
 msgid "%s is available for purchase in increments of %s only."
-msgstr "%s ne peut Ãªtre commandÃ© que par multiples de %s."
+msgstr "%s ne peut être commandé que par multiples de %s."
 
 #: Only %s left
 msgid "Only %s left"
@@ -232,5 +232,5 @@ msgstr "Plus que %s en stock"
 
 #: Qty for Item's Status to Become Out of Stock
 msgid "Qty for Item's Status to Become Out of Stock"
-msgstr "QtÃ© pour que le statut du produit passe Ã  Ã©puisÃ©"
+msgstr "Qté pour que le statut du produit passe à épuisé"
 

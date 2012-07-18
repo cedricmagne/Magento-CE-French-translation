@@ -1,6 +1,6 @@
 #: Collected Files Count
 msgid "Collected Files Count"
-msgstr "Nombre de fichiers collectÃ©s"
+msgstr "Nombre de fichiers collectés"
 
 #: Compilation
 msgid "Compilation"
@@ -8,7 +8,7 @@ msgstr "Compilation"
 
 #: Compilation State
 msgid "Compilation State"
-msgstr "Ã‰tat de la compilation"
+msgstr "État de la compilation"
 
 #: Compilation error
 msgid "Compilation error"
@@ -16,11 +16,11 @@ msgstr "Erreur de compilation"
 
 #: Compiled
 msgid "Compiled"
-msgstr "CompilÃ©"
+msgstr "Compilé"
 
 #: Compiled Scopes Count
 msgid "Compiled Scopes Count"
-msgstr "Compteur des diffÃ©rents champs d'application compilÃ©s"
+msgstr "Compteur des différents champs d'application compilés"
 
 #: Compiler Status
 msgid "Compiler Status"
@@ -28,23 +28,23 @@ msgstr "Statut du compilateur"
 
 #: Compiler include path is disabled.
 msgid "Compiler include path is disabled."
-msgstr "Le chemin d'inclusion du compilateur est dÃ©sactivÃ©."
+msgstr "Le chemin d'inclusion du compilateur est désactivé."
 
 #: Compiler include path is enabled.
 msgid "Compiler include path is enabled."
-msgstr "Le chemin d'inclusion du compilateur est activÃ©."
+msgstr "Le chemin d'inclusion du compilateur est activé."
 
 #: Directory \"%s\" must be writeable
 msgid "Directory \"%s\" must be writeable"
-msgstr "Le chemin \"%s\" doit Ãªtre autorisÃ© en Ã©criture"
+msgstr "Le chemin \"%s\" doit être autorisé en écriture"
 
 #: Disable
 msgid "Disable"
-msgstr "DÃ©sactiver"
+msgstr "Désactiver"
 
 #: Disabled
 msgid "Disabled"
-msgstr "DÃ©sactivÃ©"
+msgstr "Désactivé"
 
 #: Enable
 msgid "Enable"
@@ -52,15 +52,15 @@ msgstr "Activer"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: File \"%s\" must be writeable
 msgid "File \"%s\" must be writeable"
-msgstr "Le fichier \"%s\" doit Ãªtre autorisÃ© en Ã©criture"
+msgstr "Le fichier \"%s\" doit être autorisé en écriture"
 
 #: Not Compiled
 msgid "Not Compiled"
-msgstr "Non compilÃ©"
+msgstr "Non compilé"
 
 #: Run Compilation Process
 msgid "Run Compilation Process"
@@ -68,15 +68,15 @@ msgstr "Lancer le processus de compilation"
 
 #: Scopes Compilation Settings
 msgid "Scopes Compilation Settings"
-msgstr "ParamÃ¨tres de portÃ©e de la compilation"
+msgstr "Paramètres de portée de la compilation"
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: The compilation has completed.
 msgid "The compilation has completed."
-msgstr "La compilation est terminÃ©e."
+msgstr "La compilation est terminée."
 
 #: Tools
 msgid "Tools"

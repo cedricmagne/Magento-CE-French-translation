@@ -1,14 +1,14 @@
 #:  was not delivered nor scanned
 msgid " was not delivered nor scanned"
-msgstr " n'a Ã©tÃ© ni livrÃ© ni scannÃ©"
+msgstr " n'a été ni livré ni scanné"
 
 #: 1 Day Freight
 msgid "1 Day Freight"
-msgstr "FrÃªt 1 jour"
+msgstr "Frêt 1 jour"
 
 #: 2 Day Freight
 msgid "2 Day Freight"
-msgstr "FrÃªt 2 jours"
+msgstr "Frêt 2 jours"
 
 #: 2Day
 msgid "2Day"
@@ -32,7 +32,7 @@ msgstr "2nd Day Air Letter"
 
 #: 3 Day Freight
 msgid "3 Day Freight"
-msgstr "FrÃªt 3 jours"
+msgstr "Frêt 3 jours"
 
 #: 3 Day Select
 msgid "3 Day Select"
@@ -40,11 +40,11 @@ msgstr "3 Day Select"
 
 #: Access ID
 msgid "Access ID"
-msgstr "ID d'accÃ¨s"
+msgstr "ID d'accès"
 
 #: Access License Number
 msgid "Access License Number"
-msgstr "NumÃ©ro de permis d'accÃ¨s"
+msgstr "Numéro de permis d'accès"
 
 #: Account ID
 msgid "Account ID"
@@ -52,27 +52,27 @@ msgstr "ID de compte"
 
 #: Account Number
 msgid "Account Number"
-msgstr "NumÃ©ro de compte"
+msgstr "Numéro de compte"
 
 #: Additional Protection Configuration Value
 msgid "Additional Protection Configuration Value"
-msgstr "Valeur de configuration de protection supplÃ©mentaire"
+msgstr "Valeur de configuration de protection supplémentaire"
 
 #: Additional Protection Enabled
 msgid "Additional Protection Enabled"
-msgstr "Protection supplÃ©mentaire activÃ©e"
+msgstr "Protection supplémentaire activée"
 
 #: Additional Protection Min Subtotal
 msgid "Additional Protection Min Subtotal"
-msgstr "Sous-total mini de protection supplÃ©mentaire"
+msgstr "Sous-total mini de protection supplémentaire"
 
 #: Additional Protection Value
 msgid "Additional Protection Value"
-msgstr "Valeur de protection supplÃ©mentaire"
+msgstr "Valeur de protection supplémentaire"
 
 #: Additional Protection Value Rounding Method
 msgid "Additional Protection Value Rounding Method"
-msgstr "MÃ©thode d'arrondi de valeur de protection supplÃ©mentaire"
+msgstr "Méthode d'arrondi de valeur de protection supplémentaire"
 
 #: All Services
 msgid "All Services"
@@ -80,11 +80,11 @@ msgstr "Tous les services"
 
 #: Allowed Methods
 msgid "Allowed Methods"
-msgstr "Modes de livraison autorisÃ©s"
+msgstr "Modes de livraison autorisés"
 
 #: Bound Printed Matter
 msgid "Bound Printed Matter"
-msgstr "ImprimÃ©"
+msgstr "Imprimé"
 
 #: Business Service Center
 msgid "Business Service Center"
@@ -100,7 +100,7 @@ msgstr "Canada standard"
 
 #: Cannot retrieve shipping rates
 msgid "Cannot retrieve shipping rates"
-msgstr "Impossible de rÃ©cupÃ©rer les taux de livraison"
+msgstr "Impossible de récupérer les taux de livraison"
 
 #: Commercial
 msgid "Commercial"
@@ -124,23 +124,23 @@ msgstr "DHL"
 
 #: Debug
 msgid "Debug"
-msgstr "DÃ©boguage"
+msgstr "Déboguage"
 
 #: Default Package Height
 msgid "Default Package Height"
-msgstr "Hauteur par dÃ©faut du paquet"
+msgstr "Hauteur par défaut du paquet"
 
 #: Default Package Length
 msgid "Default Package Length"
-msgstr "Longueur par dÃ©faut du paquet"
+msgstr "Longueur par défaut du paquet"
 
 #: Default Package Width
 msgid "Default Package Width"
-msgstr "Largeur par dÃ©faut du paquet"
+msgstr "Largeur par défaut du paquet"
 
 #: Delivered
 msgid "Delivered"
-msgstr "LivrÃ©"
+msgstr "Livré"
 
 #: Destination Type
 msgid "Destination Type"
@@ -148,11 +148,11 @@ msgstr "Type de destination"
 
 #: Development
 msgid "Development"
-msgstr "DÃ©veloppement"
+msgstr "Développement"
 
 #: Displayed Error Message
 msgid "Displayed Error Message"
-msgstr "Message d'erreur affichÃ©"
+msgstr "Message d'erreur affiché"
 
 #: Domestic Shipment Days
 msgid "Domestic Shipment Days"
@@ -160,35 +160,35 @@ msgstr "Domestic Shipment Days"
 
 #: Drop Box
 msgid "Drop Box"
-msgstr "BoÃ®te de dÃ©pÃ´t"
+msgstr "Boîte de dépôt"
 
 #: Dropoff
 msgid "Dropoff"
-msgstr "DÃ©poser"
+msgstr "Déposer"
 
 #: Empty response
 msgid "Empty response"
-msgstr "RÃ©ponse vide"
+msgstr "Réponse vide"
 
 #: Enable Negotiated Rates
 msgid "Enable Negotiated Rates"
-msgstr "Activer les taux nÃ©gociÃ©s"
+msgstr "Activer les taux négociés"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Enables/Disables SSL verification of Magento server by UPS.
 msgid "Enables/Disables SSL verification of Magento server by UPS."
-msgstr "Active/dÃ©sactive la vÃ©rification SSL du server Magento par UPS."
+msgstr "Active/désactive la vérification SSL du server Magento par UPS."
 
 #: Error #%s : %s (%s)
 msgid "Error #%s : %s (%s)"
-msgstr "Erreur nÂ°%s : %s (%s)"
+msgstr "Erreur n°%s : %s (%s)"
 
 #: Error #%s: %s
 msgid "Error #%s: %s"
-msgstr "Erreur nÂ°%s : %s"
+msgstr "Erreur n°%s : %s"
 
 #: Europe First Priority
 msgid "Europe First Priority"
@@ -212,7 +212,7 @@ msgstr "Samedi Express"
 
 #: Express Saver
 msgid "Express Saver"
-msgstr "Express Ã©conome"
+msgstr "Express économe"
 
 #: Failed to parse xml document: %s
 msgid "Failed to parse xml document: %s"
@@ -224,15 +224,15 @@ msgstr "FedEx"
 
 #: FedEx 10kg Box
 msgid "FedEx 10kg Box"
-msgstr "BoÃ®te 10kg FedEx"
+msgstr "Boîte 10kg FedEx"
 
 #: FedEx 25kg Box
 msgid "FedEx 25kg Box"
-msgstr "BoÃ®te 25kg FedEx"
+msgstr "Boîte 25kg FedEx"
 
 #: FedEx Box
 msgid "FedEx Box"
-msgstr "BoÃ®te FedEx"
+msgstr "Boîte FedEx"
 
 #: FedEx Envelope
 msgid "FedEx Envelope"
@@ -252,7 +252,7 @@ msgstr "Lendemain"
 
 #: First-Class
 msgid "First-Class"
-msgstr "PremiÃ¨re classe"
+msgstr "Première classe"
 
 #: Flat
 msgid "Flat"
@@ -260,7 +260,7 @@ msgstr "Plat"
 
 #: Flat-Rate Box
 msgid "Flat-Rate Box"
-msgstr "BoÃ®te taux fixe"
+msgstr "Boîte taux fixe"
 
 #: Flat-Rate Envelope
 msgid "Flat-Rate Envelope"
@@ -296,7 +296,7 @@ msgstr "Ground Residential"
 
 #: Handling Applied
 msgid "Handling Applied"
-msgstr "Frais de dossier appliquÃ©s"
+msgstr "Frais de dossier appliqués"
 
 #: Handling Fee
 msgid "Handling Fee"
@@ -304,11 +304,11 @@ msgstr "Frais de traitement"
 
 #: Home Delivery
 msgid "Home Delivery"
-msgstr "Livraison Ã  domicile"
+msgstr "Livraison à domicile"
 
 #: International Economy
 msgid "International Economy"
-msgstr "International Ã©co"
+msgstr "International éco"
 
 #: International Express
 msgid "International Express"
@@ -320,7 +320,7 @@ msgstr "Premier international"
 
 #: International Priority
 msgid "International Priority"
-msgstr "PrioritÃ© internationale"
+msgstr "Priorité internationale"
 
 #: International Shipment Days
 msgid "International Shipment Days"
@@ -328,11 +328,11 @@ msgstr "International Shipment Days"
 
 #: Intl Economy Freight
 msgid "Intl Economy Freight"
-msgstr "FrÃªt Ã©co international"
+msgstr "Frêt éco international"
 
 #: Intl Priority Freight
 msgid "Intl Priority Freight"
-msgstr "FrÃªt prioritaire international"
+msgstr "Frêt prioritaire international"
 
 #: Invalid DHL XML code for type %s: %s.
 msgid "Invalid DHL XML code for type %s: %s."
@@ -380,7 +380,7 @@ msgstr "Lettre"
 
 #: Library
 msgid "Library"
-msgstr "BibliothÃ¨que"
+msgstr "Bibliothèque"
 
 #: Live
 msgid "Live"
@@ -412,7 +412,7 @@ msgstr "Mode"
 
 #: Next Afternoon
 msgid "Next Afternoon"
-msgstr "AprÃ¨s-midi suivante"
+msgstr "Après-midi suivante"
 
 #: Next Day Air
 msgid "Next Day Air"
@@ -496,7 +496,7 @@ msgstr "Saisissez le poids du paquet"
 
 #: Please make sure to use only digits here. No dashes are allowed.
 msgid "Please make sure to use only digits here. No dashes are allowed."
-msgstr "Veuillez utiliser uniquement des chiffres. Les tirets ne sont pas acceptÃ©s."
+msgstr "Veuillez utiliser uniquement des chiffres. Les tirets ne sont pas acceptés."
 
 #: Pounds
 msgid "Pounds"
@@ -520,11 +520,11 @@ msgstr "Rectangulaire"
 
 #: Regular
 msgid "Regular"
-msgstr "RÃ©gulier"
+msgstr "Régulier"
 
 #: Regular Pickup
 msgid "Regular Pickup"
-msgstr "Ramassage rÃ©gulier"
+msgstr "Ramassage régulier"
 
 #: Request Courier
 msgid "Request Courier"
@@ -540,7 +540,7 @@ msgstr "Residential Delivery"
 
 #: Response is in the wrong format
 msgid "Response is in the wrong format"
-msgstr "La rÃ©ponse n'est pas dans le bon format"
+msgstr "La réponse n'est pas dans le bon format"
 
 #: Round
 msgid "Round"
@@ -548,11 +548,11 @@ msgstr "Arrondi"
 
 #: Second Day Service
 msgid "Second Day Service"
-msgstr "Service deuxiÃ¨me jour"
+msgstr "Service deuxième jour"
 
 #: Sender
 msgid "Sender"
-msgstr "ExpÃ©diteur"
+msgstr "Expéditeur"
 
 #: Ship to Applicable Countries
 msgid "Ship to Applicable Countries"
@@ -560,7 +560,7 @@ msgstr "Livrer aux pays applicables"
 
 #: Ship to Specific Countries
 msgid "Ship to Specific Countries"
-msgstr "Livrer aux pays spÃ©cifiques"
+msgstr "Livrer aux pays spécifiques"
 
 #: Shipment Contains Hazardous Materials
 msgid "Shipment Contains Hazardous Materials"
@@ -584,19 +584,19 @@ msgstr "La livraison n'est pas disponible."
 
 #: Shipment picked up
 msgid "Shipment picked up"
-msgstr "Colis rÃ©cupÃ©rÃ©"
+msgstr "Colis récupéré"
 
 #: Shipper Number
 msgid "Shipper Number"
-msgstr "NumÃ©ro du livreur"
+msgstr "Numéro du livreur"
 
 #: Shipping Key
 msgid "Shipping Key"
-msgstr "ClÃ© de livraison"
+msgstr "Clé de livraison"
 
 #: Shipping Key (International)
 msgid "Shipping Key (International)"
-msgstr "ClÃ© de livraison (international)"
+msgstr "Clé de livraison (international)"
 
 #: Show Method if Not Applicable
 msgid "Show Method if Not Applicable"
@@ -628,7 +628,7 @@ msgstr "Sous-total avec remise"
 
 #: The response is in wrong format.
 msgid "The response is in wrong format."
-msgstr "La rÃ©ponse n'est pas dans le bon format."
+msgstr "La réponse n'est pas dans le bon format."
 
 #: There is no available method for selected shipping address.
 msgid "There is no available method for selected shipping address."
@@ -776,7 +776,7 @@ msgstr "USPS"
 
 #: Unable to retrieve tracking
 msgid "Unable to retrieve tracking"
-msgstr "Impossible de rÃ©cupÃ©rer les informations de suivi"
+msgstr "Impossible de récupérer les informations de suivi"
 
 #: United Parcel Service
 msgid "United Parcel Service"
@@ -792,7 +792,7 @@ msgstr "Erreur inconnue"
 
 #: Used only when \"Additional Protection Value\" is set to \"Configuration\". Can contain only numeric amount.
 msgid "Used only when \"Additional Protection Value\" is set to \"Configuration\". Can contain only numeric amount."
-msgstr "UtilisÃ© uniquement si \"Valeur de protection supplÃ©mentaire\" est fixÃ© Ã  \"Configuration\". Ne peut obtenir que des montants numÃ©riques."
+msgstr "Utilisé uniquement si \"Valeur de protection supplémentaire\" est fixé à \"Configuration\". Ne peut obtenir que des montants numériques."
 
 #: User ID
 msgid "User ID"
@@ -808,7 +808,7 @@ msgstr "Variable"
 
 #: Weight Unit
 msgid "Weight Unit"
-msgstr "UnitÃ© de poids"
+msgstr "Unité de poids"
 
 #: Worldwide Expedited
 msgid "Worldwide Expedited"
@@ -844,7 +844,7 @@ msgstr "Votre paquet"
 
 #: was not delivered nor scanned
 msgid "was not delivered nor scanned"
-msgstr "n'a Ã©tÃ© ni livrÃ© ni scannÃ©"
+msgstr "n'a été ni livré ni scanné"
 
 #: 2 Day
 msgid "2 Day"
@@ -876,7 +876,7 @@ msgstr ""
 
 #: Enabled for Checkout
 msgid "Enabled for Checkout"
-msgstr "ActivÃ© pour commander"
+msgstr "Activé pour commander"
 
 #: Freight
 msgid "Freight"
@@ -888,7 +888,7 @@ msgstr "Cadeau"
 
 #: Girth
 msgid "Girth"
-msgstr "CirconfÃ©rence"
+msgstr "Circonférence"
 
 #: Height
 msgid "Height"
@@ -904,7 +904,7 @@ msgstr "Sol international"
 
 #: Key
 msgid "Key"
-msgstr "ClÃ©"
+msgstr "Clé"
 
 #: Large Express Box
 msgid "Large Express Box"
@@ -924,7 +924,7 @@ msgstr "Marchandises"
 
 #: Meter Number
 msgid "Meter Number"
-msgstr "NumÃ©ro du compteur"
+msgstr "Numéro du compteur"
 
 #: National Freight
 msgid "National Freight"
@@ -932,7 +932,7 @@ msgstr "Fret National"
 
 #: No packages for request
 msgid "No packages for request"
-msgstr "Pas de paquet demandÃ©"
+msgstr "Pas de paquet demandé"
 
 #: Not Required
 msgid "Not Required"
@@ -956,7 +956,7 @@ msgstr "Obligatoire"
 
 #: Required for negotiated rates; 6-character UPS.
 msgid "Required for negotiated rates; 6-character UPS."
-msgstr "Obligatoire pour les tarifs nÃ©gociÃ©s; 6 caractÃ¨res UPS."
+msgstr "Obligatoire pour les tarifs négociés; 6 caractères UPS."
 
 #: Return
 msgid "Return"
@@ -972,7 +972,7 @@ msgstr "Mode Sandbox"
 
 #: Secure Gateway URL
 msgid "Secure Gateway URL"
-msgstr "URL sÃ©curisÃ©e de la passerelle"
+msgstr "URL sécurisée de la passerelle"
 
 #: Service type does not match
 msgid "Service type does not match"
@@ -1156,7 +1156,7 @@ msgstr "Aucun"
 
 #: Order #%s
 msgid "Order #%s"
-msgstr "Commande nÂ°%s"
+msgstr "Commande n°%s"
 
 #: Origin serviceAreaCode is missing
 msgid "Origin serviceAreaCode is missing"
@@ -1260,7 +1260,7 @@ msgstr ""
 
 #: cm
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 #: inch
 msgid "inch"

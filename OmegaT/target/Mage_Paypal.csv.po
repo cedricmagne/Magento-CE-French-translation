@@ -4,7 +4,7 @@ msgstr "-OU-"
 
 #: 2-pixel perimeter around the header space.
 msgid "2-pixel perimeter around the header space."
-msgstr "PÃ©rimÃ¨tre de 2 pixels autour de l'espace d'en-tÃªte"
+msgstr "Périmètre de 2 pixels autour de l'espace d'en-tête"
 
 #: 3D Secure
 msgid "3D Secure"
@@ -16,27 +16,27 @@ msgstr "Validation carte 3D Secure"
 
 #: 3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>.
 msgid "3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
-msgstr "La validation 3D Secure est obligatoire pour les cartes Maetro. Le support des cartes American Express nÃ©cessite un accord supplÃ©mentaire. Pour en savoir plus : <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
+msgstr "La validation 3D Secure est obligatoire pour les cartes Maetro. Le support des cartes American Express nécessite un accord supplémentaire. Pour en savoir plus : <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
 
 #: <a href=\"http://www.magentocommerce.com/paypal\">Start accepting payments via PayPal!</a>
 msgid "<a href=\"http://www.magentocommerce.com/paypal\">Start accepting payments via PayPal!</a>"
-msgstr "<a href=\"http://www.magentocommerce.com/paypal\">Commencez Ã  accepter les paiements avec PayPal !</a>"
+msgstr "<a href=\"http://www.magentocommerce.com/paypal\">Commencez à accepter les paiements avec PayPal !</a>"
 
 #: A value is required for live mode. Refer to your CardinalCommerce agreement.
 msgid "A value is required for live mode. Refer to your CardinalCommerce agreement."
-msgstr "Une valeur est exigÃ©e pour le mode en direct. RÃ©fÃ©rez-vous Ã  votre accord cardinal de commerce."
+msgstr "Une valeur est exigée pour le mode en direct. Référez-vous à votre accord cardinal de commerce."
 
 #: ACH Deposit (Hold for Dispute or Other Investigation)
 msgid "ACH Deposit (Hold for Dispute or Other Investigation)"
-msgstr "DÃ©pÃ´t d'ACH (prise pour le conflit ou toute autre recherche)"
+msgstr "Dépôt d'ACH (prise pour le conflit ou toute autre recherche)"
 
 #: ACH Deposit (Reversal)
 msgid "ACH Deposit (Reversal)"
-msgstr "DÃ©pÃ´t d'ACH (inversion)"
+msgstr "Dépôt d'ACH (inversion)"
 
 #: ACH Funding for Funds Recovery from Account Balance
 msgid "ACH Funding for Funds Recovery from Account Balance"
-msgstr "Placement d'ACH pour le rÃ©tablissement de fonds de l'Ã©quilibre de compte"
+msgstr "Placement d'ACH pour le rétablissement de fonds de l'équilibre de compte"
 
 #: ACH Withdrawal
 msgid "ACH Withdrawal"
@@ -60,15 +60,15 @@ msgstr "API utilisant un proxy"
 
 #: API/Integration
 msgid "API/Integration"
-msgstr "API/IntÃ©gration"
+msgstr "API/Intégration"
 
 #: API/Integration Settings
 msgid "API/Integration Settings"
-msgstr "ParamÃ¨tres d'API/intÃ©gration"
+msgstr "Paramètres d'API/intégration"
 
 #: Ability for buyer to purchase without PayPal account.
 msgid "Ability for buyer to purchase without PayPal account."
-msgstr "CapacitÃ© pour l'acheteur d'acheter sans compte PayPal."
+msgstr "Capacité pour l'acheteur d'acheter sans compte PayPal."
 
 #: Accept PayPal payments in your shopping cart. PayPal will process your credit card payments through the Payflow Pro Gateway.
 msgid "Accept PayPal payments in your shopping cart. PayPal will process your credit card payments through the Payflow Pro Gateway."
@@ -76,7 +76,7 @@ msgstr "Accepter les paiements PayPal dans votre panier. PayPal traite vos paiem
 
 #: Accept payments without customers leaving your website. Many popular web-hosting services and shopping carts come with the Payflow payment gateways built in, so they are easy to set up.
 msgid "Accept payments without customers leaving your website. Many popular web-hosting services and shopping carts come with the Payflow payment gateways built in, so they are easy to set up."
-msgstr "Acceptez les paiements sans que les clients de quitter votre site.Beaucoup de services web et de caddies viennent avec la passerelle de paiement de Payflow incorporÃ©s, ainsi il est plus facile de les installer."
+msgstr "Acceptez les paiements sans que les clients de quitter votre site.Beaucoup de services web et de caddies viennent avec la passerelle de paiement de Payflow incorporés, ainsi il est plus facile de les installer."
 
 #: Acceptance Mark
 msgid "Acceptance Mark"
@@ -88,11 +88,11 @@ msgstr "Image de marque d'acceptation"
 
 #: Account-to-Account Payment, initiated by PayPal
 msgid "Account-to-Account Payment, initiated by PayPal"
-msgstr "Paiement de Compte Ã  compte, initiÃ© par PayPal"
+msgstr "Paiement de Compte à compte, initié par PayPal"
 
 #: Add an Express Checkout button to your existing shopping cart for quick and easy credit card payments. PayPal handles all payment processing.
 msgid "Add an Express Checkout button to your existing shopping cart for quick and easy credit card payments. PayPal handles all payment processing."
-msgstr "Ajoutez un bouton exprÃ¨s de contrÃ´le Ã  votre caddie existant pour des paiements par carte de crÃ©dit rapides et faciles. PayPal effectue tout le traitement de paiement."
+msgstr "Ajoutez un bouton exprès de contrôle à votre caddie existant pour des paiements par carte de crédit rapides et faciles. PayPal effectue tout le traitement de paiement."
 
 #: Additional Options
 msgid "Additional Options"
@@ -100,11 +100,11 @@ msgstr "Options additionnelles"
 
 #: Address Verification System Response
 msgid "Address Verification System Response"
-msgstr "Adresse du systÃ¨me de vÃ©rification de rÃ©ponse"
+msgstr "Adresse du système de vérification de réponse"
 
 #: All the address information matched
 msgid "All the address information matched"
-msgstr "VÃ©rification de toutes les informations de l'adresse"
+msgstr "Vérification de toutes les informations de l'adresse"
 
 #: Allow in Billing Agreement Wizard
 msgid "Allow in Billing Agreement Wizard"
@@ -112,19 +112,19 @@ msgstr "Autoriser dans l'assistant d'entente de facturation"
 
 #: Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).
 msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile)."
-msgstr "Valeurs acceptÃ©es : \"paypal\", \"primaire\" (par dÃ©faut), votre_valeur_personnalisÃ©e (page de paiement personnalisÃ©e pour votre profil de compte marchand)"
+msgstr "Valeurs acceptées : \"paypal\", \"primaire\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
 
 #: Allowed Credit Card Types
 msgid "Allowed Credit Card Types"
-msgstr "Types de cartes de crÃ©dit autorisÃ©es"
+msgstr "Types de cartes de crédit autorisées"
 
 #: Also affects mini-shopping cart.
 msgid "Also affects mini-shopping cart."
-msgstr "Affecte Ã©galement le panier de mini-achats."
+msgstr "Affecte également le panier de mini-achats."
 
 #: Api/Integration
 msgid "Api/Integration"
-msgstr "Api/IntÃ©gration"
+msgstr "Api/Intégration"
 
 #: Ask Customer
 msgid "Ask Customer"
@@ -132,23 +132,23 @@ msgstr "Demandez au client"
 
 #: Attempted Authentication, Bad Result
 msgid "Attempted Authentication, Bad Result"
-msgstr "Tentative d'authentification. Mauvais rÃ©sultat"
+msgstr "Tentative d'authentification. Mauvais résultat"
 
 #: Attempted Authentication, Good Result
 msgid "Attempted Authentication, Good Result"
-msgstr "Tentative d'authentification. Bon rÃ©sultat"
+msgstr "Tentative d'authentification. Bon résultat"
 
 #: Auction Payment other than through eBay
 msgid "Auction Payment other than through eBay"
-msgstr "Paiement des enchÃ¨res autres que par le biais d'eBay"
+msgstr "Paiement des enchères autres que par le biais d'eBay"
 
 #: Authenticated, Bad Result
 msgid "Authenticated, Bad Result"
-msgstr "AuthentifiÃ©. Mauvais rÃ©sultat"
+msgstr "Authentifié. Mauvais résultat"
 
 #: Authenticated, Good Result
 msgid "Authenticated, Good Result"
-msgstr "AuthentifiÃ©. Bon rÃ©sultat"
+msgstr "Authentifié. Bon résultat"
 
 #: Authorization
 msgid "Authorization"
@@ -156,7 +156,7 @@ msgstr "Autorisation"
 
 #: Authorization transaction is required to void.
 msgid "Authorization transaction is required to void."
-msgstr "Transaction d'autorisation nÃ©cessaire pour annuler."
+msgstr "Transaction d'autorisation nécessaire pour annuler."
 
 #: Auto
 msgid "Auto"
@@ -188,23 +188,23 @@ msgstr "Informations de facturation"
 
 #: Bonus for first ACH Use
 msgid "Bonus for first ACH Use"
-msgstr "Bonus pour la premiÃ¨re utilisation ACH"
+msgstr "Bonus pour la première utilisation ACH"
 
 #: Buyer Credit Payment
 msgid "Buyer Credit Payment"
-msgstr "Paiement de crÃ©dit acheteur"
+msgstr "Paiement de crédit acheteur"
 
 #: By default it is \"reports.paypal.com\".
 msgid "By default it is \"reports.paypal.com\"."
-msgstr "Par dÃ©faut il est \"reports.paypal.com\"."
+msgstr "Par défaut il est \"reports.paypal.com\"."
 
 #: CVV2 Check Result by PayPal
 msgid "CVV2 Check Result by PayPal"
-msgstr "RÃ©sultat de vÃ©rification de CVV2 par PayPal"
+msgstr "Résultat de vérification de CVV2 par PayPal"
 
 #: Cannot create target file for reading reports.
 msgid "Cannot create target file for reading reports."
-msgstr "Impossible de crÃ©er le fichier cible pour la lecture des rapports."
+msgstr "Impossible de créer le fichier cible pour la lecture des rapports."
 
 #: Centinel API URL
 msgid "Centinel API URL"
@@ -216,7 +216,7 @@ msgstr "URL Api de Centinel"
 
 #: Centinel Custom Api URL
 msgid "Centinel Custom Api URL"
-msgstr "URL personnalisÃ©e de l'API de Centinel"
+msgstr "URL personnalisée de l'API de Centinel"
 
 #: Change Payment Method
 msgid "Change Payment Method"
@@ -244,11 +244,11 @@ msgstr "Commander avec PayPal"
 
 #: Completion Date
 msgid "Completion Date"
-msgstr "Date d'achÃ¨vement"
+msgstr "Date d'achèvement"
 
 #: Connecting to PayPal SFTP server to fetch new reports. Are you sure you want to proceed?
 msgid "Connecting to PayPal SFTP server to fetch new reports. Are you sure you want to proceed?"
-msgstr "Connexion au serveur sFTP de PayPal pour rÃ©cupÃ©rer les nouveaux rapports. ÃŠtes-vous sÃ»r(e) de vouloir continuer ?"
+msgstr "Connexion au serveur sFTP de PayPal pour récupérer les nouveaux rapports. Êtes-vous sûr(e) de vouloir continuer ?"
 
 #: Countries Payment Applicable From
 msgid "Countries Payment Applicable From"
@@ -260,27 +260,27 @@ msgstr "Remboursement de coupon"
 
 #: Credit
 msgid "Credit"
-msgstr "CrÃ©dit"
+msgstr "Crédit"
 
 #: Credit Card Settings
 msgid "Credit Card Settings"
-msgstr "ParamÃ¨tres de carte de crÃ©dit"
+msgstr "Paramètres de carte de crédit"
 
 #: Currency Conversion required to cover negative balance
 msgid "Currency Conversion required to cover negative balance"
-msgstr "Conversion des devises nÃ©cessaires pour couvrir un solde nÃ©gatif"
+msgstr "Conversion des devises nécessaires pour couvrir un solde négatif"
 
 #: Custom
 msgid "Custom"
-msgstr "PersonnalisÃ©"
+msgstr "Personnalisé"
 
 #: Custom Endpoint Hostname or IP-Address
 msgid "Custom Endpoint Hostname or IP-Address"
-msgstr "CritÃ¨re PersonnalisÃ© Hostname ou adresse IP"
+msgstr "Critère Personnalisé Hostname ou adresse IP"
 
 #: Custom Path
 msgid "Custom Path"
-msgstr "Chemin d'accÃ¨s personnalisÃ©"
+msgstr "Chemin d'accès personnalisé"
 
 #: Customer complaint.
 msgid "Customer complaint."
@@ -288,11 +288,11 @@ msgstr "Plainte client."
 
 #: Customer did not include a confirmed address.
 msgid "Customer did not include a confirmed address."
-msgstr "Le client n'a pas inclus une adresse confirmÃ©e."
+msgstr "Le client n'a pas inclus une adresse confirmée."
 
 #: Customer triggered a money-back guarantee.
 msgid "Customer triggered a money-back guarantee."
-msgstr "Client a dÃ©clenchÃ© une garantie de remboursement."
+msgstr "Client a déclenché une garantie de remboursement."
 
 #: Daily
 msgid "Daily"
@@ -300,19 +300,19 @@ msgstr "Quotidien"
 
 #: Debit
 msgid "Debit"
-msgstr "DÃ©bit"
+msgstr "Débit"
 
 #: Debit Card Cash Back
 msgid "Debit Card Cash Back"
-msgstr "Retour d'argent par carte de dÃ©bit"
+msgstr "Retour d'argent par carte de débit"
 
 #: Debit Card Transaction
 msgid "Debit Card Transaction"
-msgstr "Transaction par carte de dÃ©bit"
+msgstr "Transaction par carte de débit"
 
 #: Debit or Credit
 msgid "Debit or Credit"
-msgstr "DÃ©bit ou crÃ©dit"
+msgstr "Débit ou crédit"
 
 #: Debug Mode
 msgid "Debug Mode"
@@ -332,7 +332,7 @@ msgstr "L'affichage sur les pages de catalogue et l'accueil"
 
 #: Does not work if there are more than 10 shipping options available.
 msgid "Does not work if there are more than 10 shipping options available."
-msgstr "Ne fonctionne pas si il ya plus de 10 options d'expÃ©dition disponibles."
+msgstr "Ne fonctionne pas si il ya plus de 10 options d'expédition disponibles."
 
 #: Don't have a PayPal account? Simply enter your email address.
 msgid "Don't have a PayPal account? Simply enter your email address."
@@ -348,7 +348,7 @@ msgstr "Dynamique"
 
 #: EFT Funding (German banking)
 msgid "EFT Funding (German banking)"
-msgstr "Placement d'EFT (opÃ©rations bancaires allemandes)"
+msgstr "Placement d'EFT (opérations bancaires allemandes)"
 
 #: Edit Shopping Cart
 msgid "Edit Shopping Cart"
@@ -356,27 +356,27 @@ msgstr "Modifier le panier"
 
 #: Email Associated with PayPal Merchant Account
 msgid "Email Associated with PayPal Merchant Account"
-msgstr "Email associÃ©e Ã  Compte Marchand PayPal"
+msgstr "Email associée à Compte Marchand PayPal"
 
 #: Enable Automatic Fetching
 msgid "Enable Automatic Fetching"
-msgstr "Activer la rÃ©cupÃ©ration automatique"
+msgstr "Activer la récupération automatique"
 
 #: Enable PayPal Guest Checkout
 msgid "Enable PayPal Guest Checkout"
-msgstr "Activer le passage de commande pour invitÃ© avec PayPal"
+msgstr "Activer le passage de commande pour invité avec PayPal"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Event
 msgid "Event"
-msgstr "EvÃ©nement"
+msgstr "Evénement"
 
 #: Event Code
 msgid "Event Code"
-msgstr "Code d'Ã©vÃ©nement"
+msgstr "Code d'événement"
 
 #: Every 10 days
 msgid "Every 10 days"
@@ -408,11 +408,11 @@ msgstr "Correspondance exacte. Adresse et code postal. International"
 
 #: Exact Match. Address and Postal Code. UK-specific
 msgid "Exact Match. Address and Postal Code. UK-specific"
-msgstr "Correspondance exacte. Adresse et code postal. SpÃ©cifique au Royaume-Uni"
+msgstr "Correspondance exacte. Adresse et code postal. Spécifique au Royaume-Uni"
 
 #: Exact Match. Address and nine-digit ZIP code
 msgid "Exact Match. Address and nine-digit ZIP code"
-msgstr "Correspondance exacte. Adresse et code postal Ã  neuf chiffres"
+msgstr "Correspondance exacte. Adresse et code postal à neuf chiffres"
 
 #: Express Checkout
 msgid "Express Checkout"
@@ -420,7 +420,7 @@ msgstr "Express Checkout"
 
 #: Express Checkout (Payflow Edition) Settings
 msgid "Express Checkout (Payflow Edition) Settings"
-msgstr "Express Checkout (Edition Payflow) ParamÃ¨tres"
+msgstr "Express Checkout (Edition Payflow) Paramètres"
 
 #: Express Checkout APIs
 msgid "Express Checkout APIs"
@@ -428,19 +428,19 @@ msgstr "APIs de Express Checkout"
 
 #: Express Checkout Settings
 msgid "Express Checkout Settings"
-msgstr "Express Checkout ParamÃ¨tres"
+msgstr "Express Checkout Paramètres"
 
 #: Express Checkout and Order have been canceled.
 msgid "Express Checkout and Order have been canceled."
-msgstr "Le paiement Express Chackout et la commande ont Ã©tÃ© annulÃ©s."
+msgstr "Le paiement Express Chackout et la commande ont été annulés."
 
 #: Express Checkout has been canceled.
 msgid "Express Checkout has been canceled."
-msgstr "Le paiement Express Checkout a Ã©tÃ© annulÃ©."
+msgstr "Le paiement Express Checkout a été annulé."
 
 #: Failed to fetch reports from '%s@%s'.
 msgid "Failed to fetch reports from '%s@%s'."
-msgstr "Impossible de rÃ©cupÃ©rer des rapports de '%s@%s'."
+msgstr "Impossible de récupérer des rapports de '%s@%s'."
 
 #: Fee Amount
 msgid "Fee Amount"
@@ -448,7 +448,7 @@ msgstr "Montant des Frais"
 
 #: Fee Debit or Credit
 msgid "Fee Debit or Credit"
-msgstr "Frais de dÃ©bit ou de crÃ©dit"
+msgstr "Frais de débit ou de crédit"
 
 #: Fee Reversal
 msgid "Fee Reversal"
@@ -456,7 +456,7 @@ msgstr "Frais d'inversion"
 
 #: Fee: Foreign ACH Withdrawal
 msgid "Fee: Foreign ACH Withdrawal"
-msgstr "Frais : Retrait ACH Ã©trangÃ¨res"
+msgstr "Frais : Retrait ACH étrangères"
 
 #: Fee: Mass Pay Request
 msgid "Fee: Mass Pay Request"
@@ -468,7 +468,7 @@ msgstr "Frais : Paiements du site Web de compte mensuel Pro"
 
 #: Fee: WorldLink Check Withdrawal
 msgid "Fee: WorldLink Check Withdrawal"
-msgstr "Frais : retrait par chÃ¨que WorldLink"
+msgstr "Frais : retrait par chèque WorldLink"
 
 #: Fetch
 msgid "Fetch"
@@ -476,15 +476,15 @@ msgstr "Rapporter"
 
 #: Fetch Updates
 msgid "Fetch Updates"
-msgstr "Mises Ã  jour chercher"
+msgstr "Mises à jour chercher"
 
 #: Fetched %s report rows from '%s@%s'.
 msgid "Fetched %s report rows from '%s@%s'."
-msgstr "rÃ©cupÃ©rÃ©s %s lignes du rapport de '%s@%s'."
+msgstr "récupérés %s lignes du rapport de '%s@%s'."
 
 #: Frontend Experience Settings
 msgid "Frontend Experience Settings"
-msgstr "ParamÃ¨tres d'expÃ©rience en frontend"
+msgstr "Paramètres d'expérience en frontend"
 
 #: Funding
 msgid "Funding"
@@ -492,95 +492,95 @@ msgstr "Financement"
 
 #: General (Authorization)
 msgid "General (Authorization)"
-msgstr "GÃ©nÃ©ral (Autorisation)"
+msgstr "Général (Autorisation)"
 
 #: General (Dividend)
 msgid "General (Dividend)"
-msgstr "GÃ©nÃ©ral (dividendes)"
+msgstr "Général (dividendes)"
 
 #: General (Funds Transfer from PayPal Account to Another)
 msgid "General (Funds Transfer from PayPal Account to Another)"
-msgstr "GÃ©nÃ©ral (transfert de fonds de compte PayPal Ã  un autre)"
+msgstr "Général (transfert de fonds de compte PayPal à un autre)"
 
 #: General (Purchase with a credit card)
 msgid "General (Purchase with a credit card)"
-msgstr "GÃ©nÃ©raux (achat avec une carte de crÃ©dit)"
+msgstr "Généraux (achat avec une carte de crédit)"
 
 #: General Adjustment without businessrelated event
 msgid "General Adjustment without businessrelated event"
-msgstr "Ajustement gÃ©nÃ©ral sans Ã©vÃ©nement liÃ© au marchÃ©"
+msgstr "Ajustement général sans événement lié au marché"
 
 #: General Currency Conversion
 msgid "General Currency Conversion"
-msgstr "Conversion de devises gÃ©nÃ©ral"
+msgstr "Conversion de devises général"
 
 #: General Funding of PayPal Account
 msgid "General Funding of PayPal Account "
-msgstr "Financement gÃ©nÃ©ral de compte PayPal "
+msgstr "Financement général de compte PayPal "
 
 #: General Redemption
 msgid "General Redemption"
-msgstr "Remboursement gÃ©nÃ©ral"
+msgstr "Remboursement général"
 
 #: General Withdrawal from PayPal Account
 msgid "General Withdrawal from PayPal Account"
-msgstr "Retrait gÃ©nÃ©ral de compte PayPal"
+msgstr "Retrait général de compte PayPal"
 
 #: General. Product no longer supported
 msgid "General. Product no longer supported"
-msgstr "GÃ©nÃ©ralitÃ©s. Ce produit n'est plus pris en charge"
+msgstr "Généralités. Ce produit n'est plus pris en charge"
 
 #: General: Use of PayPal account for purchasing as well as receiving payments
 msgid "General: Use of PayPal account for purchasing as well as receiving payments"
-msgstr "Compte gÃ©nÃ©ral : utilisation de PayPal pour l'achat ainsi que la rÃ©ception des paiements"
+msgstr "Compte général : utilisation de PayPal pour l'achat ainsi que la réception des paiements"
 
 #: General: Withdrawal from PayPal Account
 msgid "General: Withdrawal from PayPal Account"
-msgstr "GÃ©nÃ©ral : Retrait de compte PayPal"
+msgstr "Général : Retrait de compte PayPal"
 
 #: General: Withdrawal to Non-Bank Entity
 msgid "General: Withdrawal to Non-Bank Entity"
-msgstr "GÃ©nÃ©ral : Retrait Ã  l'entitÃ© non-bancaire"
+msgstr "Général : Retrait à l'entité non-bancaire"
 
 #: General: adjustment of a type not belonging to the other T12xx categories
 msgid "General: adjustment of a type not belonging to the other T12xx categories"
-msgstr "GÃ©nÃ©ral : ajustement d'un type n'appartenant pas aux autres catÃ©gories de T12xx"
+msgstr "Général : ajustement d'un type n'appartenant pas aux autres catégories de T12xx"
 
 #: General: bonus of a type not belonging to the other T08xx categories
 msgid "General: bonus of a type not belonging to the other T08xx categories"
-msgstr "GÃ©nÃ©ral : bonification d'un type n'appartenant pas aux autres catÃ©gories de T08xx"
+msgstr "Général : bonification d'un type n'appartenant pas aux autres catégories de T08xx"
 
 #: General: event not yet categorized
 msgid "General: event not yet categorized"
-msgstr "GÃ©nÃ©ral : Ã©vÃ©nement pas encore classÃ© par catÃ©gorie"
+msgstr "Général : événement pas encore classé par catégorie"
 
 #: General: non-payment fee of a type not belonging to the other T01xx categories
 msgid "General: non-payment fee of a type not belonging to the other T01xx categories"
-msgstr "GÃ©nÃ©ral : Taxe de non-paiement d'un type qui n'appartiennent pas aux autres catÃ©gories T01xx"
+msgstr "Général : Taxe de non-paiement d'un type qui n'appartiennent pas aux autres catégories T01xx"
 
 #: General: received payment of a type not belonging to the other T00xx categories
 msgid "General: received payment of a type not belonging to the other T00xx categories"
-msgstr "GÃ©nÃ©ral : paiement reÃ§u d'un type n'appartenant pas aux autres catÃ©gories de T00xx"
+msgstr "Général : paiement reçu d'un type n'appartenant pas aux autres catégories de T00xx"
 
 #: General: reversal of a type not belonging to the other T11xx categories
 msgid "General: reversal of a type not belonging to the other T11xx categories"
-msgstr "GÃ©nÃ©ral : inversion d'un type n'appartenant pas aux autres catÃ©gories de T11xx"
+msgstr "Général : inversion d'un type n'appartenant pas aux autres catégories de T11xx"
 
 #: General: temporary hold of a type not belonging to the other T15xx categories
 msgid "General: temporary hold of a type not belonging to the other T15xx categories"
-msgstr "GÃ©nÃ©ral : suspension temporaire d'un type qui n'appartiennent pas aux autres catÃ©gories T15xx"
+msgstr "Général : suspension temporaire d'un type qui n'appartiennent pas aux autres catégories T15xx"
 
 #: Get Credentials from PayPal
 msgid "Get Credentials from PayPal"
-msgstr "Obtenez les informations d'accÃ¨s de PayPal"
+msgstr "Obtenez les informations d'accès de PayPal"
 
 #: Gift Certificate Payment: purchase of Gift Certificate
 msgid "Gift Certificate Payment: purchase of Gift Certificate"
-msgstr "Paiement par chÃ¨que cadeau : achat de chÃ¨ques cadeaux"
+msgstr "Paiement par chèque cadeau : achat de chèques cadeaux"
 
 #: Gift Certificate Redemption
 msgid "Gift Certificate Redemption"
-msgstr "Rachat de ChÃ¨que Cadeau"
+msgstr "Rachat de Chèque Cadeau"
 
 #: Gross Amount
 msgid "Gross Amount"
@@ -588,15 +588,15 @@ msgstr "Montant brut"
 
 #: Header Background Color
 msgid "Header Background Color"
-msgstr "Couleur d'arriÃ¨re plan de l'entÃªte"
+msgstr "Couleur d'arrière plan de l'entête"
 
 #: Header Border Color
 msgid "Header Border Color"
-msgstr "Couleur de la bordure de l'entÃªte"
+msgstr "Couleur de la bordure de l'entête"
 
 #: Header Image URL
 msgid "Header Image URL"
-msgstr "URL de l'image d'entÃªte"
+msgstr "URL de l'image d'entête"
 
 #: Help
 msgid "Help"
@@ -604,11 +604,11 @@ msgstr "Aide"
 
 #: Hidden Virtual PayPal Debit Card Transaction
 msgid "Hidden Virtual PayPal Debit Card Transaction"
-msgstr "Transaction virtuelle cachÃ©e de carte de dÃ©bit de PayPal"
+msgstr "Transaction virtuelle cachée de carte de débit de PayPal"
 
 #: Hold for Dispute Investigation
 msgid "Hold for Dispute Investigation"
-msgstr "Bloquer pendant l'enquÃªte de litige"
+msgstr "Bloquer pendant l'enquête de litige"
 
 #: IPN \"%s\".
 msgid "IPN \"%s\"."
@@ -616,15 +616,15 @@ msgstr "IPN \"%s\"."
 
 #: If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.
 msgid "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement."
-msgstr "Si ce champ est vide, la valeur par dÃ©faut sera utilisÃ©e. Une URL personnalisÃ©e peut Ãªtre fournie par un accord CardinalCommerce."
+msgstr "Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce."
 
 #: If not specified, Default Country from General Config will be used
 msgid "If not specified, Default Country from General Config will be used"
-msgstr "S'il n'est pas spÃ©cifiÃ©, le pays par dÃ©faut dans la configuration gÃ©nÃ©ral sera utilisÃ©"
+msgstr "S'il n'est pas spécifié, le pays par défaut dans la configuration général sera utilisé"
 
 #: If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.
 msgid "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only."
-msgstr "Si cette option est activÃ©e, le client peut changer l'adresse de livraison et d'expÃ©dition mÃ©thode sur le site de PayPal. Travail en mode direct via le protocole HTTPS uniquement."
+msgstr "Si cette option est activée, le client peut changer l'adresse de livraison et d'expédition méthode sur le site de PayPal. Travail en mode direct via le protocole HTTPS uniquement."
 
 #: Impossible to issue a refund transaction because the capture transaction does not exist.
 msgid "Impossible to issue a refund transaction because the capture transaction does not exist."
@@ -644,15 +644,15 @@ msgstr "ID Facture"
 
 #: Issuer Liability
 msgid "Issuer Liability"
-msgstr "ResponsabilitÃ© de l'Ã©metteur"
+msgstr "Responsabilité de l'émetteur"
 
 #: It is recommended to set this value to \"Debit or Credit Card\" per store views.
 msgid "It is recommended to set this value to \"Debit or Credit Card\" per store views."
-msgstr "Il est recommandÃ© de fixer cette valeur Ã  \"Carte de dÃ©bit ou de crÃ©dit\" pour chaque vue magasin."
+msgstr "Il est recommandé de fixer cette valeur à \"Carte de débit ou de crédit\" pour chaque vue magasin."
 
 #: It is recommended to set this value to \"PayPal\" per store views.
 msgid "It is recommended to set this value to \"PayPal\" per store views."
-msgstr "Il est recommandÃ© de fixer cette valeur Ã  \"PayPal\" par vues de magasin."
+msgstr "Il est recommandé de fixer cette valeur à \"PayPal\" par vues de magasin."
 
 #: Items in Your Shopping Cart
 msgid "Items in Your Shopping Cart"
@@ -660,11 +660,11 @@ msgstr "Articles dans votre panier"
 
 #: Last Correlation ID
 msgid "Last Correlation ID"
-msgstr "Dernier ID de corrÃ©lation"
+msgstr "Dernier ID de corrélation"
 
 #: Last Transaction ID
 msgid "Last Transaction ID"
-msgstr "ID de la derniÃ¨re transaction"
+msgstr "ID de la dernière transaction"
 
 #: Learn More
 msgid "Learn More"
@@ -676,7 +676,7 @@ msgstr "Connexion"
 
 #: Looking for PayPal? We have our own tab to the left under Sales.
 msgid "Looking for PayPal? We have our own tab to the left under Sales."
-msgstr "Vous cherchez Paypal ? Nous avons notre propre onglet Ã  gauche sous les ventes."
+msgstr "Vous cherchez Paypal ? Nous avons notre propre onglet à gauche sous les ventes."
 
 #: Mass Pay Payment
 msgid "Mass Pay Payment"
@@ -720,11 +720,11 @@ msgstr "Pays du marchand"
 
 #: Merchant Liability
 msgid "Merchant Liability"
-msgstr "ResponsabilitÃ© du marchand"
+msgstr "Responsabilité du marchand"
 
 #: Merchant Protection Eligibility
 msgid "Merchant Protection Eligibility"
-msgstr "Protection Ã  l'Ã©ligibilitÃ© du Marchand"
+msgstr "Protection à l'éligibilité du Marchand"
 
 #: Merchant Referral Bonus
 msgid "Merchant Referral Bonus"
@@ -732,23 +732,23 @@ msgstr "Prime de recommandation marchande"
 
 #: Merchant holds a non-U.S. account and does not have a withdrawal mechanism.
 msgid "Merchant holds a non-U.S. account and does not have a withdrawal mechanism."
-msgstr "Marchand est titulaire d'un compte non-US et n'a pas un mÃ©canisme de retrait."
+msgstr "Marchand est titulaire d'un compte non-US et n'a pas un mécanisme de retrait."
 
 #: Merchant reference ID format is not supported.
 msgid "Merchant reference ID format is not supported."
-msgstr "rÃ©fÃ©rence ID format Marchand n'est pas supportÃ©."
+msgstr "référence ID format Marchand n'est pas supporté."
 
 #: Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
 msgid "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account."
-msgstr "Les commerÃ§ants ont besoin d'appliquer l'option chez PayPal pour permettre aux ententes de facturation de fonctionner. Ne pas activer cette option jusqu'Ã  ce que PayPal confirme que les ententes de facturation sont activÃ©es pour votre compte marchand."
+msgstr "Les commerçants ont besoin d'appliquer l'option chez PayPal pour permettre aux ententes de facturation de fonctionner. Ne pas activer cette option jusqu'à ce que PayPal confirme que les ententes de facturation sont activées pour votre compte marchand."
 
 #: Mobile Payment (made via a mobile phone)
 msgid "Mobile Payment (made via a mobile phone)"
-msgstr "Paiement par mobile (rÃ©alisÃ©es par l'intermÃ©diaire d'un tÃ©lÃ©phone mobile)"
+msgstr "Paiement par mobile (réalisées par l'intermédiaire d'un téléphone mobile)"
 
 #: N/A. Address not checked, or acquirer had no response. Service not available
 msgid "N/A. Address not checked, or acquirer had no response. Service not available"
-msgstr "N/A. L'adresse n'a pas Ã©tÃ© vÃ©rifiÃ©, ou l'acquÃ©reur n'a pas donnÃ© de rÃ©ponse. Service non disponible"
+msgstr "N/A. L'adresse n'a pas été vérifié, ou l'acquéreur n'a pas donné de réponse. Service non disponible"
 
 #: N/A. Global Unavailable
 msgid "N/A. Global Unavailable"
@@ -760,19 +760,19 @@ msgstr "N/A. International Indisponible"
 
 #: N/A. Merchant has indicated that CVV2 is not present on card
 msgid "N/A. Merchant has indicated that CVV2 is not present on card"
-msgstr "N/A. CVV2 n'est pas prÃ©sent sur la carte"
+msgstr "N/A. CVV2 n'est pas présent sur la carte"
 
 #: N/A. No response
 msgid "N/A. No response"
-msgstr "N/A. Aucune rÃ©ponse"
+msgstr "N/A. Aucune réponse"
 
 #: N/A. Not allowed for MOTO (Internet/Phone) transactions
 msgid "N/A. Not allowed for MOTO (Internet/Phone) transactions"
-msgstr "N/A. Transaction non autorisÃ©. MOTO (Internet/Phone)"
+msgstr "N/A. Transaction non autorisé. MOTO (Internet/Phone)"
 
 #: N/A. Not processed
 msgid "N/A. Not processed"
-msgstr "N/A. Non traitÃ©e"
+msgstr "N/A. Non traitée"
 
 #: N/A. Retry
 msgid "N/A. Retry"
@@ -780,7 +780,7 @@ msgstr "N/A. Recommencer"
 
 #: N/A. Service not Supported
 msgid "N/A. Service not Supported"
-msgstr "N/A. Service non supportÃ©"
+msgstr "N/A. Service non supporté"
 
 #: N/A. Service not available
 msgid "N/A. Service not available"
@@ -788,15 +788,15 @@ msgstr "N/A. Service indisponible"
 
 #: N/A. Service not supported
 msgid "N/A. Service not supported"
-msgstr "N/A. Service non supportÃ©"
+msgstr "N/A. Service non supporté"
 
 #: N/A. The merchant did not provide AVS information
 msgid "N/A. The merchant did not provide AVS information"
-msgstr "N/A. Le commerÃ§ant ne possÃ¨de pas d'information AVS"
+msgstr "N/A. Le commerçant ne possède pas d'information AVS"
 
 #: N/A. The merchant has not implemented CVV2 code handling
 msgid "N/A. The merchant has not implemented CVV2 code handling"
-msgstr "N/A. Le commerÃ§ant n'a pas mis en Å“uvre de code CVV2"
+msgstr "N/A. Le commerçant n'a pas mis en œuvre de code CVV2"
 
 #: N/A. Unavailable
 msgid "N/A. Unavailable"
@@ -804,7 +804,7 @@ msgstr "N/A. Indisponible."
 
 #: Negative Balance
 msgid "Negative Balance"
-msgstr "Solde nÃ©gatif"
+msgstr "Solde négatif"
 
 #: Never
 msgid "Never"
@@ -816,15 +816,15 @@ msgstr "Non"
 
 #: No Details matched
 msgid "No Details matched"
-msgstr "Aucune correspondance trouvÃ©e"
+msgstr "Aucune correspondance trouvée"
 
 #: No Details matched. International
 msgid "No Details matched. International"
-msgstr "Aucune correspondance trouvÃ©e. International"
+msgstr "Aucune correspondance trouvée. International"
 
 #: No Liability Shift
 msgid "No Liability Shift"
-msgstr "Absence de responsabilitÃ©"
+msgstr "Absence de responsabilité"
 
 #: No Logo
 msgid "No Logo"
@@ -836,7 +836,7 @@ msgstr "Aucune correspondance"
 
 #: None of the address information matched
 msgid "None of the address information matched"
-msgstr "Aucune correspondance trouvÃ©e dans l'adresse"
+msgstr "Aucune correspondance trouvée dans l'adresse"
 
 #: Note: %s
 msgid "Note: %s"
@@ -844,23 +844,23 @@ msgstr "Note : %s"
 
 #: Nothing to fetch because of an empty configuration.
 msgid "Nothing to fetch because of an empty configuration."
-msgstr "Rien Ã  rÃ©cupÃ©rer en raison d'une configuration vide."
+msgstr "Rien à récupérer en raison d'une configuration vide."
 
 #: Notified customer about creditmemo #%s.
 msgid "Notified customer about creditmemo #%s."
-msgstr "Notifier le client pour le remboursement nÂ°%s."
+msgstr "Notifier le client pour le remboursement n°%s."
 
 #: Notified customer about invoice #%s.
 msgid "Notified customer about invoice #%s."
-msgstr "Notifier le client pour la facture nÂ°%s."
+msgstr "Notifier le client pour la facture n°%s."
 
 #: Now accepting PayPal (150 X 40)
 msgid "Now accepting PayPal (150 X 40)"
-msgstr "Nous acceptons dÃ©sormais PayPal (150 X 40)"
+msgstr "Nous acceptons désormais PayPal (150 X 40)"
 
 #: Now accepting PayPal (150 X 60)
 msgid "Now accepting PayPal (150 X 60)"
-msgstr "Nous acceptons dÃ©sormais PayPal (150 X 60)"
+msgstr "Nous acceptons désormais PayPal (150 X 60)"
 
 #: Open Authorization
 msgid "Open Authorization"
@@ -876,7 +876,7 @@ msgstr "ID Commande"
 
 #: Page Background Color
 msgid "Page Background Color"
-msgstr "Couleur d'arriÃ¨re plan de la page"
+msgstr "Couleur d'arrière plan de la page"
 
 #: Page Style
 msgid "Page Style"
@@ -884,7 +884,7 @@ msgstr "Style de page"
 
 #: Part of the address information matched
 msgid "Part of the address information matched"
-msgstr "Correspondance trouvÃ©e sur une partie de l'adresse."
+msgstr "Correspondance trouvée sur une partie de l'adresse."
 
 #: Partner
 msgid "Partner"
@@ -908,11 +908,11 @@ msgstr "PayPal bonus garantie acheteur"
 
 #: PayPal Debit Card Cash Advance
 msgid "PayPal Debit Card Cash Advance"
-msgstr "PayPal avance de trÃ©sorerie de dÃ©bit par carte"
+msgstr "PayPal avance de trésorerie de débit par carte"
 
 #: PayPal Debit Card Withdrawal from ATM
 msgid "PayPal Debit Card Withdrawal from ATM"
-msgstr "PayPal par carte de dÃ©bit Retrait ATM"
+msgstr "PayPal par carte de débit Retrait ATM"
 
 #: PayPal Express Checkout Shortcut Wrapper
 msgid "PayPal Express Checkout Shortcut Wrapper"
@@ -944,15 +944,15 @@ msgstr "bonus de protection PayPal"
 
 #: PayPal Reference ID
 msgid "PayPal Reference ID"
-msgstr "RÃ©fÃ©rence PayPal ID"
+msgstr "Référence PayPal ID"
 
 #: PayPal Reference ID Type
 msgid "PayPal Reference ID Type"
-msgstr "RÃ©fÃ©rence PayPal ID Type"
+msgstr "Référence PayPal ID Type"
 
 #: PayPal Settlement Reports
 msgid "PayPal Settlement Reports"
-msgstr "Rapports de rÃ¨glements PayPal"
+msgstr "Rapports de règlements PayPal"
 
 #: PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process.
 msgid "PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process."
@@ -960,11 +960,11 @@ msgstr "PayPal ne peut pas traiter les commande d'un montant nul. Pour terminer 
 
 #: PayPal gateway has rejected request. %s
 msgid "PayPal gateway has rejected request. %s"
-msgstr "La passerelle PayPal a rejetÃ© la demande. %s"
+msgstr "La passerelle PayPal a rejeté la demande. %s"
 
 #: PayPal processes all of your orders, and you get paid.
 msgid "PayPal processes all of your orders, and you get paid."
-msgstr "PayPal traite tous de vos commandes, et vous Ãªtes payÃ©."
+msgstr "PayPal traite tous de vos commandes, et vous êtes payé."
 
 #: PayPal retains reports for 45 days.
 msgid "PayPal retains reports for 45 days."
@@ -972,7 +972,7 @@ msgstr "PayPal conserve des rapports pendant 45 jours."
 
 #: PayPal/Centinel Electronic Commerce Indicator
 msgid "PayPal/Centinel Electronic Commerce Indicator"
-msgstr "PayPal/Centinel Indicateur de Commerce Ã‰lectronique"
+msgstr "PayPal/Centinel Indicateur de Commerce Électronique"
 
 #: PayPal/Centinel Visa Payer Authentication Service Result
 msgid "PayPal/Centinel Visa Payer Authentication Service Result"
@@ -1004,7 +1004,7 @@ msgstr "Statut du Payeur"
 
 #: Payer is not identified.
 msgid "Payer is not identified."
-msgstr "Payeur non identifiÃ©"
+msgstr "Payeur non identifié"
 
 #: Payflow Pro Gateway
 msgid "Payflow Pro Gateway"
@@ -1012,7 +1012,7 @@ msgstr "Payflow Pro passerelle"
 
 #: Payflow Pro Settings
 msgid "Payflow Pro Settings"
-msgstr "Payflow Pro ParamÃ¨tres"
+msgstr "Payflow Pro Paramètres"
 
 #: Payment Action
 msgid "Payment Action"
@@ -1028,7 +1028,7 @@ msgstr "Mode de paiement"
 
 #: Payment Refund initiated by merchant
 msgid "Payment Refund initiated by merchant"
-msgstr "Remboursement de paiement initiÃ© par le marchand"
+msgstr "Remboursement de paiement initié par le marchand"
 
 #: Payments by PayPal (150 X 40)
 msgid "Payments by PayPal (150 X 40)"
@@ -1040,7 +1040,7 @@ msgstr "Paiements par PayPal (150 X 60)"
 
 #: Paypal Billing Agreement Settings
 msgid "Paypal Billing Agreement Settings"
-msgstr "ParamÃ¨tres d'entente de facturation PayPal"
+msgstr "Paramètres d'entente de facturation PayPal"
 
 #: Pending PayPal
 msgid "Pending PayPal"
@@ -1052,7 +1052,7 @@ msgstr "Passez la commande"
 
 #: Please select a shipping method...
 msgid "Please select a shipping method..."
-msgstr "SÃ©lectionnez un mode de livraison..."
+msgstr "Sélectionnez un mode de livraison..."
 
 #: Points Incentive Redemption
 msgid "Points Incentive Redemption"
@@ -1064,11 +1064,11 @@ msgstr "Frais de port paiement soit USPS ou UPS"
 
 #: Preapproved Payment (BillUser API), either sent or received
 msgid "Preapproved Payment (BillUser API), either sent or received"
-msgstr "Paiement prÃ©-approuvÃ©s (BillUser API), envoyÃ© ou reÃ§u des"
+msgstr "Paiement pré-approuvés (BillUser API), envoyé ou reçu des"
 
 #: Preapproved Payment ID
 msgid "Preapproved Payment ID"
-msgstr "Paiement prÃ©-approuvÃ©s ID"
+msgstr "Paiement pré-approuvés ID"
 
 #: Price
 msgid "Price"
@@ -1084,7 +1084,7 @@ msgstr "Nom du produit"
 
 #: Proxy Host
 msgid "Proxy Host"
-msgstr "HÃ´te proxy"
+msgstr "Hôte proxy"
 
 #: Proxy Port
 msgid "Proxy Port"
@@ -1092,27 +1092,27 @@ msgstr "Port de proxy"
 
 #: Qty
 msgid "Qty"
-msgstr "QtÃ©"
+msgstr "Qté"
 
 #: Reauthorization
 msgid "Reauthorization"
-msgstr "RÃ©autorisation"
+msgstr "Réautorisation"
 
 #: Reference Information
 msgid "Reference Information"
-msgstr "Information sur la rÃ©fÃ©rence"
+msgstr "Information sur la référence"
 
 #: Refund issued by merchant.
 msgid "Refund issued by merchant."
-msgstr "Remboursement dÃ©livrÃ© par le marchand."
+msgstr "Remboursement délivré par le marchand."
 
 #: Reimbursement for a chargeback.
 msgid "Reimbursement for a chargeback."
-msgstr "Remboursement des frais de rejet de dÃ©bit."
+msgstr "Remboursement des frais de rejet de débit."
 
 #: Reimbursement of Chargeback
 msgid "Reimbursement of Chargeback"
-msgstr "Remboursement des rejets de dÃ©bit."
+msgstr "Remboursement des rejets de débit."
 
 #: Report Date
 msgid "Report Date"
@@ -1124,7 +1124,7 @@ msgstr "Rapports"
 
 #: Require CVV Entry
 msgid "Require CVV Entry"
-msgstr "EntrÃ©e CVV Exiger"
+msgstr "Entrée CVV Exiger"
 
 #: Reversal
 msgid "Reversal"
@@ -1132,7 +1132,7 @@ msgstr "Inversion"
 
 #: Reversal of General Account Hold
 msgid "Reversal of General Account Hold"
-msgstr "Inversion de prise de compte gÃ©nÃ©ral"
+msgstr "Inversion de prise de compte général"
 
 #: Reversal of Points Usage
 msgid "Reversal of Points Usage"
@@ -1144,19 +1144,19 @@ msgstr "Inversion d'un ajustement."
 
 #: Reversal of hold for Dispute Investigation
 msgid "Reversal of hold for Dispute Investigation"
-msgstr "DÃ©bloquer pendant l'enquÃªte de litige"
+msgstr "Débloquer pendant l'enquête de litige"
 
 #: Review Order
 msgid "Review Order"
-msgstr "VÃ©rifier la commande"
+msgstr "Vérifier la commande"
 
 #: Reward Voucher Redemption
 msgid "Reward Voucher Redemption"
-msgstr "Rachat de bon de rÃ©compense"
+msgstr "Rachat de bon de récompense"
 
 #: SFTP Credentials
 msgid "SFTP Credentials"
-msgstr "Informations d'accÃ¨s SFTP"
+msgstr "Informations d'accès SFTP"
 
 #: Sale
 msgid "Sale"
@@ -1168,7 +1168,7 @@ msgstr "Ventes"
 
 #: Sandbox Credentials
 msgid "Sandbox Credentials"
-msgstr "Informations d'accÃ¨s en mode Sandbox"
+msgstr "Informations d'accès en mode Sandbox"
 
 #: Sandbox Mode
 msgid "Sandbox Mode"
@@ -1184,7 +1184,7 @@ msgstr "La description de Liste est trop longue."
 
 #: Scheduled Fetching
 msgid "Scheduled Fetching"
-msgstr "RÃ©cupÃ©ration de ligne"
+msgstr "Récupération de ligne"
 
 #: Select a PayPal Solution
 msgid "Select a PayPal Solution"
@@ -1192,27 +1192,27 @@ msgstr "Choisissez une solution PayPal"
 
 #: Settlement Consolidation
 msgid "Settlement Consolidation"
-msgstr "Consolidation de rÃ¨glement"
+msgstr "Consolidation de règlement"
 
 #: Settlement Report Settings
 msgid "Settlement Report Settings"
-msgstr "Les paramÃ¨tres du rapport de rÃ¨glement"
+msgstr "Les paramètres du rapport de règlement"
 
 #: Settlement of a chargeback.
 msgid "Settlement of a chargeback."
-msgstr "Le rÃ¨glement d'un rejet de dÃ©bit."
+msgstr "Le règlement d'un rejet de débit."
 
 #: Severe 3D Secure Card Validation
 msgid "Severe 3D Secure Card Validation"
-msgstr "VÃ©rification 3D Secure stricte"
+msgstr "Vérification 3D Secure stricte"
 
 #: Severe Validation Removes Chargeback Liability on Merchant
 msgid "Severe Validation Removes Chargeback Liability on Merchant"
-msgstr "La vÃ©rification 3D Secure stricte annule la responsabilitÃ© de rÃ©trofacturation du marchand"
+msgstr "La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand"
 
 #: Severe validation removes chargeback liability on merchant.
 msgid "Severe validation removes chargeback liability on merchant."
-msgstr "La vÃ©rification 3D Secure stricte annule la responsabilitÃ© de rÃ©trofacturation du marchand"
+msgstr "La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand"
 
 #: Shipping
 msgid "Shipping"
@@ -1256,7 +1256,7 @@ msgstr "Raccourci sur le panier"
 
 #: Sign a billing agreement to streamline further purchases with PayPal.
 msgid "Sign a billing agreement to streamline further purchases with PayPal."
-msgstr "Signer une entente de facturation afin de rationaliser les achats supplÃ©mentaires auprÃ¨s de PayPal."
+msgstr "Signer une entente de facturation afin de rationaliser les achats supplémentaires auprès de PayPal."
 
 #: Solo
 msgid "Solo"
@@ -1280,7 +1280,7 @@ msgstr "Les informations de commande sont en cours d'envoi..."
 
 #: Subscriber name is too long.
 msgid "Subscriber name is too long."
-msgstr "Le nom d'abonnÃ© est trop long."
+msgstr "Le nom d'abonné est trop long."
 
 #: Subscription ID
 msgid "Subscription ID"
@@ -1288,7 +1288,7 @@ msgstr "ID Abonnement"
 
 #: Subscription Payment, either payment sent or payment received
 msgid "Subscription Payment, either payment sent or payment received"
-msgstr "Paiement d'abonnement, paiement envoyÃ© ou paiement reÃ§u"
+msgstr "Paiement d'abonnement, paiement envoyé ou paiement reçu"
 
 #: Subtotal
 msgid "Subtotal"
@@ -1296,11 +1296,11 @@ msgstr "Sous-total"
 
 #: Summary Text for Aggregated Cart
 msgid "Summary Text for Aggregated Cart"
-msgstr "Texte rÃ©capitulatif sur les paniers validÃ©s"
+msgstr "Texte récapitulatif sur les paniers validés"
 
 #: Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>.
 msgid "Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
-msgstr "Le support des cartes American Express nÃ©cessite un accord supplÃ©mentaire. Pour en savoir plus : <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
+msgstr "Le support des cartes American Express nécessite un accord supplémentaire. Pour en savoir plus : <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
 
 #: Switch/Maestro
 msgid "Switch/Maestro"
@@ -1312,43 +1312,43 @@ msgstr "Mode test"
 
 #: The background color for the checkout page around the header and payment form.
 msgid "The background color for the checkout page around the header and payment form."
-msgstr "Couleur d'arriÃ¨re plan entre l'entÃªte et le formulaire de paiement."
+msgstr "Couleur d'arrière plan entre l'entête et le formulaire de paiement."
 
 #: The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
 msgid "The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII."
-msgstr "Couleur de fond pour l'entÃªte de la page de paiement. Insensible Ã  la casse (Six caractÃ¨res de couleur hexadÃ©cimal HTML en ASCII)."
+msgstr "Couleur de fond pour l'entête de la page de paiement. Insensible à la casse (Six caractères de couleur hexadécimal HTML en ASCII)."
 
 #: The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=\"color:red\">https</strong> is highly encouraged.
 msgid "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=\"color:red\">https</strong> is highly encouraged."
-msgstr "L'ajout d'une image en haut Ã  gauche de la page de paiement (Taille maxi 750x90 pixels. <strong style=\"color:red\"> https</strong>) est fortement conseillÃ©."
+msgstr "L'ajout d'une image en haut à gauche de la page de paiement (Taille maxi 750x90 pixels. <strong style=\"color:red\"> https</strong>) est fortement conseillé."
 
 #: The merchant account is not yet verified.
 msgid "The merchant account is not yet verified."
-msgstr "Le compte marchand n'est pas encore vÃ©rifiÃ©."
+msgstr "Le compte marchand n'est pas encore vérifié."
 
 #: The payment curency does not match any of the merchant\'s balances currency.
 msgid "The payment curency does not match any of the merchant\'s balances currency."
-msgstr "La devise de paiement ne correspond Ã  aucune devise du compte du marchand."
+msgstr "La devise de paiement ne correspond à aucune devise du compte du marchand."
 
 #: The payment eCheck is not yet cleared.
 msgid "The payment eCheck is not yet cleared."
-msgstr "Le chÃ¨que Ã©lectronique de paiement n'est pas encore effacÃ©e."
+msgstr "Le chèque électronique de paiement n'est pas encore effacée."
 
 #: The payment is authorized but not settled.
 msgid "The payment is authorized but not settled."
-msgstr "Le paiement est autorisÃ©, mais pas rÃ©glÃ©."
+msgstr "Le paiement est autorisé, mais pas réglé."
 
 #: The payment is pending because it was made to an email address that is not yet registered or confirmed.
 msgid "The payment is pending because it was made to an email address that is not yet registered or confirmed."
-msgstr "Le paiement est en attente car elle a Ã©tÃ© faite Ã  une adresse email qui n'est pas encore enregistrÃ©e ou confirmÃ©e."
+msgstr "Le paiement est en attente car elle a été faite à une adresse email qui n'est pas encore enregistrée ou confirmée."
 
 #: The payment is pending while it is being reviewed by PayPal for risk.
 msgid "The payment is pending while it is being reviewed by PayPal for risk."
-msgstr "Le paiement est en cours alors qu'il est actuellement examinÃ© par PayPal pour un risque potentiel."
+msgstr "Le paiement est en cours alors qu'il est actuellement examiné par PayPal pour un risque potentiel."
 
 #: The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.
 msgid "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status."
-msgstr "Le paiement a Ã©tÃ© effectuÃ© par carte de crÃ©dit. Afin de recevoir les fonds pour votre commerce vous devez mettre Ã  niveau le compte en classe Entreprise ou le statut de premier classe."
+msgstr "Le paiement a été effectué par carte de crédit. Afin de recevoir les fonds pour votre commerce vous devez mettre à niveau le compte en classe Entreprise ou le statut de premier classe."
 
 #: Time of Day
 msgid "Time of Day"
@@ -1368,11 +1368,11 @@ msgstr "Information sur les transactions"
 
 #: Transfer Cart Line Items
 msgid "Transfer Cart Line Items"
-msgstr "TransfÃ©rer les articles dans votre panier"
+msgstr "Transférer les articles dans votre panier"
 
 #: Transfer Shipping Options
 msgid "Transfer Shipping Options"
-msgstr "Options d'expÃ©dition de transfert"
+msgstr "Options d'expédition de transfert"
 
 #: Triggered Fraud Filters
 msgid "Triggered Fraud Filters"
@@ -1404,19 +1404,19 @@ msgstr "Impossible de passer la commande."
 
 #: Unable to process Express Checkout approval.
 msgid "Unable to process Express Checkout approval."
-msgstr "Impossible de procÃ©der Ã  l'approbation PayPal Express."
+msgstr "Impossible de procéder à l'approbation PayPal Express."
 
 #: Unable to start Express Checkout.
 msgid "Unable to start Express Checkout."
-msgstr "Impossible de dÃ©marrer PayPal Express."
+msgstr "Impossible de démarrer PayPal Express."
 
 #: Unable to update shipping method.
 msgid "Unable to update shipping method."
-msgstr "Impossible de mettre Ã  jour le mode de livraison."
+msgstr "Impossible de mettre à jour le mode de livraison."
 
 #: Unknown reason. Please contact PayPal customer service.
 msgid "Unknown reason. Please contact PayPal customer service."
-msgstr "raison inconnue. S'il vous plaÃ®t contactez le service clientÃ¨le de PayPal."
+msgstr "raison inconnue. S'il vous plaît contactez le service clientèle de PayPal."
 
 #: Update Shipping Method
 msgid "Update Shipping Method"
@@ -1428,7 +1428,7 @@ msgstr "Utiliser un proxy"
 
 #: Use colon to specify port. For example: \"test.example.com:5224\".
 msgid "Use colon to specify port. For example: \"test.example.com:5224\"."
-msgstr "Employez les deux points pour spÃ©cifier le port. Par exemple : \"test.example.com:5224\"."
+msgstr "Employez les deux points pour spécifier le port. Par exemple : \"test.example.com:5224\"."
 
 #: User
 msgid "User"
@@ -1436,11 +1436,11 @@ msgstr "Utilisateur"
 
 #: User-initiated Currency Conversion
 msgid "User-initiated Currency Conversion"
-msgstr "L'utilisateur de conversion de devises lancÃ©"
+msgstr "L'utilisateur de conversion de devises lancé"
 
 #: Uses store frontend name by default.
 msgid "Uses store frontend name by default."
-msgstr "Utiliser le nom du magasin par dÃ©faut."
+msgstr "Utiliser le nom du magasin par défaut."
 
 #: Vendor
 msgid "Vendor"
@@ -1464,11 +1464,11 @@ msgstr "Voir la transaction"
 
 #: View Transaction Details
 msgid "View Transaction Details"
-msgstr "Voir les dÃ©tails des transactions"
+msgstr "Voir les détails des transactions"
 
 #: Virtual PayPal Debit Card Transaction
 msgid "Virtual PayPal Debit Card Transaction"
-msgstr "Virtual transaction PayPal par carte de dÃ©bit"
+msgstr "Virtual transaction PayPal par carte de débit"
 
 #: Virtual Terminal Payment
 msgid "Virtual Terminal Payment"
@@ -1480,11 +1480,11 @@ msgstr "Invalider"
 
 #: We prefer PayPal (150 X 40)
 msgid "We prefer PayPal (150 X 40)"
-msgstr "Nous prÃ©fÃ©rons PayPal (150 X 40)"
+msgstr "Nous préférons PayPal (150 X 40)"
 
 #: We prefer PayPal (150 X 60)
 msgid "We prefer PayPal (150 X 60)"
-msgstr "Nous prÃ©fÃ©rons PayPal (150 X 60)"
+msgstr "Nous préférons PayPal (150 X 60)"
 
 #: Website Payments Pro
 msgid "Website Payments Pro"
@@ -1492,7 +1492,7 @@ msgstr "Website Paiements Pro"
 
 #: Website Payments Pro (Payflow Edition) Settings
 msgid "Website Payments Pro (Payflow Edition) Settings"
-msgstr "Website Payments Pro (Edition Payflow) ParamÃ¨tres"
+msgstr "Website Payments Pro (Edition Payflow) Paramètres"
 
 #: Website Payments Pro Payflow Edition (includes Express Checkout)
 msgid "Website Payments Pro Payflow Edition (includes Express Checkout)"
@@ -1500,7 +1500,7 @@ msgstr "Website Payments Pro Payflow Edition (y compris Express Checkout)"
 
 #: Website Payments Pro Settings
 msgid "Website Payments Pro Settings"
-msgstr "Paiements sur site marchand Pro ParamÃ¨tres"
+msgstr "Paiements sur site marchand Pro Paramètres"
 
 #: Website Payments Standard
 msgid "Website Payments Standard"
@@ -1512,7 +1512,7 @@ msgstr "Paiement PayPal Standard"
 
 #: Website Payments Standard Settings
 msgid "Website Payments Standard Settings"
-msgstr "ParamÃ¨tres de PayPal Standard"
+msgstr "Paramètres de PayPal Standard"
 
 #: What is PayPal?
 msgid "What is PayPal?"
@@ -1520,11 +1520,11 @@ msgstr "Qu'est-ce que PayPal ?"
 
 #: Whether to create a billing agreement, if there are no active billing agreements available.
 msgid "Whether to create a billing agreement, if there are no active billing agreements available."
-msgstr "CrÃ©er une entente de facturation, s'il n'y a aucune entente de facturation active disponible."
+msgstr "Créer une entente de facturation, s'il n'y a aucune entente de facturation active disponible."
 
 #: Will appear as a payment option only for customers who have at least one active billing agreement.
 msgid "Will appear as a payment option only for customers who have at least one active billing agreement."
-msgstr "ApparaÃ®t comme une option de paiement uniquement pour les clients qui ont au moins une entente de facturation active."
+msgstr "Apparaît comme une option de paiement uniquement pour les clients qui ont au moins une entente de facturation active."
 
 #: WorldLink Withdrawal
 msgid "WorldLink Withdrawal"
@@ -1544,23 +1544,23 @@ msgstr "Oui"
 
 #: Yes. Matched Address and five-didgit ZIP
 msgid "Yes. Matched Address and five-didgit ZIP"
-msgstr "Oui, Correspondance de l'adresse et du code postal Ã  5 chiffres"
+msgstr "Oui, Correspondance de l'adresse et du code postal à 5 chiffres"
 
 #: You will be redirected to the PayPal website in a few seconds.
 msgid "You will be redirected to the PayPal website in a few seconds."
-msgstr "Vous serez redirigÃ© vers le site de PayPal dans quelques secondes."
+msgstr "Vous serez redirigé vers le site de PayPal dans quelques secondes."
 
 #: You will be redirected to the PayPal website when you place an order.
 msgid "You will be redirected to the PayPal website when you place an order."
-msgstr "Vous serez redirigÃ© vers le site de PayPal Ã  l'issue de votre commande."
+msgstr "Vous serez redirigé vers le site de PayPal à l'issue de votre commande."
 
 #: You will be redirected to the PayPal website.
 msgid "You will be redirected to the PayPal website."
-msgstr "Vous allez Ãªtre redirigÃ© vers le site PayPal."
+msgstr "Vous allez être redirigé vers le site PayPal."
 
 #: eBay Auction Payment
 msgid "eBay Auction Payment"
-msgstr "Paiement des enchÃ¨res eBay"
+msgstr "Paiement des enchères eBay"
 
 #: 3D Secure validation is required for Maestro cards.
 msgid "3D Secure validation is required for Maestro cards."
@@ -1568,7 +1568,7 @@ msgstr "La validation 3D Secure est obligatoire pour les cartes Maestro."
 
 #: By default it is \"/ppreports/outgoing\".
 msgid "By default it is \"/ppreports/outgoing\"."
-msgstr "Par dÃ©faut \"/ppreports/outgoing\"."
+msgstr "Par défaut \"/ppreports/outgoing\"."
 
 #: API Authentication Methods
 msgid "API Authentication Methods"
@@ -1580,7 +1580,7 @@ msgstr "Certificat d'API"
 
 #: Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).
 msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile)."
-msgstr "Valeurs acceptÃ©es : \"paypal\", \"primaire\" (par dÃ©faut), votre_valeur_personnalisÃ©e (page de paiement personnalisÃ©e pour votre profil de compte marchand)"
+msgstr "Valeurs acceptées : \"paypal\", \"primaire\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
 
 #: Billing Agreement Signup
 msgid "Billing Agreement Signup"
@@ -1592,19 +1592,19 @@ msgstr "Impossible d'envoyer l'email de confirmation de commande."
 
 #: General Funding of PayPal Account
 msgid "General Funding of PayPal Account"
-msgstr "Financement gÃ©nÃ©ral de compte PayPal"
+msgstr "Financement général de compte PayPal"
 
 #: N/A
 msgid "N/A"
-msgstr "N/A"
+msgstr "N/A "
 
 #: Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.
 msgid "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available."
-msgstr "PayPal est capable de gÃ©rer jusqu'Ã  10 options de livraison. C'est pour cela que Magento transfÃ¨rera uniquement les 10 options de livraison les moins chÃ¨res s'il y en a plus que 10."
+msgstr "PayPal est capable de gérer jusqu'à 10 options de livraison. C'est pour cela que Magento transfèrera uniquement les 10 options de livraison les moins chères s'il y en a plus que 10."
 
 #: Pay Now
 msgid "Pay Now"
-msgstr "RÃ©gler maintenant"
+msgstr "Régler maintenant"
 
 #: PayPal certificate does not exist.
 msgid "PayPal certificate does not exist."
@@ -1616,51 +1616,51 @@ msgstr "Le fichier de certificat PayPal est vide."
 
 #: PayPal response hasn't required fields.
 msgid "PayPal response hasn't required fields."
-msgstr "La rÃ©ponse de PayPal ne comporte pas les champs obligatoires."
+msgstr "La réponse de PayPal ne comporte pas les champs obligatoires."
 
 #: Payflow Link (for USA and Canada)
 msgid "Payflow Link (for USA and Canada)"
-msgstr "Payflow Link (pour les Ã‰tats-Unis et le Canada)"
+msgstr "Payflow Link (pour les États-Unis et le Canada)"
 
 #: Payflow Link Settings
 msgid "Payflow Link Settings"
-msgstr "ParamÃ¨tres Payflow Link"
+msgstr "Paramètres Payflow Link"
 
 #: Payment has been declined. Please try again.
 msgid "Payment has been declined. Please try again."
-msgstr "Le paiement a Ã©tÃ© refusÃ©. Veuillez rÃ©essayer."
+msgstr "Le paiement a été refusé. Veuillez réessayer."
 
 #: Payments by cards + seller protection - <strong style=\"color:red\">Contact PayPal before activating</strong>
 msgid "Payments by cards + seller protection - <strong style=\"color:red\">Contact PayPal before activating</strong>"
-msgstr "Paiement par cartes + protection du commerÃ§ant - <strong style=\"color:red\">Contactez PayPal avant activation</strong>"
+msgstr "Paiement par cartes + protection du commerçant - <strong style=\"color:red\">Contactez PayPal avant activation</strong>"
 
 #: Please do not refresh the page until you complete payment.
 msgid "Please do not refresh the page until you complete payment."
-msgstr "Merci de ne pas rafraÃ®chir la page jusqu'Ã  la fin du paiement."
+msgstr "Merci de ne pas rafraîchir la page jusqu'à la fin du paiement."
 
 #: Quick set-up service lets your customers securely complete transactions.
 msgid "Quick set-up service lets your customers securely complete transactions."
-msgstr "Le service de configuration rapide permet Ã  vos clients de valider les transactions en toute sÃ©curitÃ©."
+msgstr "Le service de configuration rapide permet à vos clients de valider les transactions en toute sécurité."
 
 #: The payment curency does not match any of the merchant's balances currency.
 msgid "The payment curency does not match any of the merchant's balances currency."
-msgstr "La devise de paiement ne correspond Ã  aucune devise du compte du marchand."
+msgstr "La devise de paiement ne correspond à aucune devise du compte du marchand."
 
 #: There was an error processing your order. Please contact us or try again later.
 msgid "There was an error processing your order. Please contact us or try again later."
-msgstr "Erreur lors du traitement de votre commande, veuillez rÃ©essayer plus tard."
+msgstr "Erreur lors du traitement de votre commande, veuillez réessayer plus tard."
 
 #: Website Payments Pro Hosted Solution (Website Payments Plus (JP) - Integral Evolution (FR) - PayPal Pro (IT) - Pasarela integral (ES))
 msgid "Website Payments Pro Hosted Solution (Website Payments Plus (JP) - Integral Evolution (FR) - PayPal Pro (IT) - Pasarela integral (ES))"
-msgstr "Solution hÃ©bergÃ©e de paiements pros sur site web (Website Payments Plus (JP) - Integral Evolution (FR) - PayPal Pro (IT) - Pasarela integral (ES))"
+msgstr "Solution hébergée de paiements pros sur site web (Website Payments Plus (JP) - Integral Evolution (FR) - PayPal Pro (IT) - Pasarela integral (ES))"
 
 #: Website Payments Pro Hosted Solution Settings
 msgid "Website Payments Pro Hosted Solution Settings"
-msgstr "ParamÃ©trage de la solution hÃ©bergÃ©e de paiements pros sur site web"
+msgstr "Paramétrage de la solution hébergée de paiements pros sur site web"
 
 #: You will be required to enter your payment details after you place an order.
 msgid "You will be required to enter your payment details after you place an order."
-msgstr "Vous devrez saisir les informations de paiement aprÃ¨s la validation de votre commande."
+msgstr "Vous devrez saisir les informations de paiement après la validation de votre commande."
 
 #: Important:
 msgid "Important: "
@@ -1680,15 +1680,15 @@ msgstr "URL de retour : "
 
 #: Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: \"paypal"
 msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: \"paypal""
-msgstr "sValeurs acceptÃ©es : \"paypal\", \"primary\" (par dÃ©faut), votre_valeur_personnalisÃ©e (page de paiement personnalisÃ©e pour votre profil de compte marchand)"
+msgstr "sValeurs acceptées : \"paypal\", \"primary\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
 
 #: Authorization Honor Period (days)
 msgid "Authorization Honor Period (days)"
-msgstr "PÃ©riode d'autorisation d'honneur (jours)"
+msgstr "Période d'autorisation d'honneur (jours)"
 
 #: Authorized amount of %s.
 msgid "Authorized amount of %s."
-msgstr "Montant autorisÃ© de %s."
+msgstr "Montant autorisé de %s."
 
 #: Authorizing amount of %s is pending approval on gateway.
 msgid "Authorizing amount of %s is pending approval on gateway."
@@ -1704,23 +1704,23 @@ msgstr "Type d'ID de taxe de l'acheteur"
 
 #: CNPJ
 msgid "CNPJ"
-msgstr ""
+msgstr "CNPJ "
 
 #: CPF
 msgid "CPF"
-msgstr ""
+msgstr "CPF "
 
 #: Centinel Custom API URL
 msgid "Centinel Custom API URL"
-msgstr "URL personnalisÃ©e de l'API de Centinel"
+msgstr "URL personnalisée de l'API de Centinel"
 
 #: Integral Evolution
 msgid "Integral Evolution"
-msgstr "Ã‰volution intÃ©grale"
+msgstr "Évolution intégrale"
 
 #: Integral Evolution Settings
 msgid "Integral Evolution Settings"
-msgstr "ParamÃ¨tres de Ã‰volution intÃ©grale"
+msgstr "Paramètres de Évolution intégrale"
 
 #: Number of Child Authorizations
 msgid "Number of Child Authorizations"
@@ -1728,11 +1728,11 @@ msgstr "Nombre d'autorisations enfants"
 
 #: Order Valid Period (days)
 msgid "Order Valid Period (days)"
-msgstr "PÃ©riode de validitÃ© d'une commande (jours)"
+msgstr "Période de validité d'une commande (jours)"
 
 #: Ordered amount of %s.
 msgid "Ordered amount of %s."
-msgstr "Montant commandÃ© de %s"
+msgstr "Montant commandé de %s"
 
 #: Ordering amount of %s is pending approval on gateway.
 msgid "Ordering amount of %s is pending approval on gateway."
@@ -1744,7 +1744,7 @@ msgstr "Pasarela integral"
 
 #: Pasarela integral Settings
 msgid "Pasarela integral Settings"
-msgstr "ParamÃ¨tres de Pasarela integral"
+msgstr "Paramètres de Pasarela integral"
 
 #: PayPal Pro
 msgid "PayPal Pro"
@@ -1752,11 +1752,11 @@ msgstr "PayPal Pro"
 
 #: PayPal Pro Settings
 msgid "PayPal Pro Settings"
-msgstr "ParamÃ¨tres de PayPal Pro"
+msgstr "Paramètres de PayPal Pro"
 
 #: Please agree to all the terms and conditions before placing the order.
 msgid "Please agree to all the terms and conditions before placing the order."
-msgstr "Veuillez accepter les conditions gÃ©nÃ©rales de ventes avant de valider la commande."
+msgstr "Veuillez accepter les conditions générales de ventes avant de valider la commande."
 
 #: Specifies what the Authorization Honor Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal.
 msgid "Specifies what the Authorization Honor Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal."
@@ -1768,7 +1768,7 @@ msgstr "Indiquez quelle est la pÃ©riode de validitÃ© de commande sur â€‹â€‹le co
 
 #: The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.
 msgid "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase."
-msgstr "Le nombre par dÃ©faut d'autorisations enfants dans votre compte Paypal est de 1. Veuillez contacter PayPal pour demander une augmentation."
+msgstr "Le nombre par défaut d'autorisations enfants dans votre compte Paypal est de 1. Veuillez contacter PayPal pour demander une augmentation."
 
 #: The maximum number of child authorizations is reached.
 msgid "The maximum number of child authorizations is reached."
@@ -1780,11 +1780,11 @@ msgstr "Website Payments Plus"
 
 #: Website Payments Plus Settings
 msgid "Website Payments Plus Settings"
-msgstr "ParamÃ¨tres de Website Payments Plus"
+msgstr "Paramètres de Website Payments Plus"
 
 #: Website Payments Pro Hosted Solution
 msgid "Website Payments Pro Hosted Solution"
-msgstr "Solution hÃ©bergÃ©e Website Payments Pro"
+msgstr "Solution hébergée Website Payments Pro"
 
 #: To use Payflow Link, you must configure your Payflow Link account on the Paypal website.
 msgid "To use Payflow Link, you must configure your Payflow Link account on the Paypal website."
@@ -1792,11 +1792,11 @@ msgstr "Pour utiliser Payflow Link, vous devez configurer votre compte Payflow L
 
 #: Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below
 msgid "Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below"
-msgstr "Une fois connectÃ© dans votre compte Payflow Link, allez dans le menu ParamÃ©trages du service - Pages de commande hÃ©bergÃ©es - Configuration et renseignez les options dÃ©crites ci-dessous"
+msgstr "Une fois connecté dans votre compte Payflow Link, allez dans le menu Paramétrages du service - Pages de commande hébergées - Configuration et renseignez les options décrites ci-dessous"
 
 #: Required settings
 msgid "Required settings"
-msgstr "ParamÃ¨tres obligatoires"
+msgstr "Paramètres obligatoires"
 
 #: On my website
 msgid "On my website"
@@ -1812,7 +1812,7 @@ msgstr "URL de soumission silencieuse (Silent Post) :"
 
 #: Enable Secure Token:
 msgid "Enable Secure Token:"
-msgstr "Ã‰diter le jeton de sÃ©curitÃ© :"
+msgstr "Éditer le jeton de sécurité :"
 
 #: Note:
 msgid "Note:"
@@ -1820,7 +1820,7 @@ msgstr "Remarque :"
 
 #: Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.
 msgid "Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout."
-msgstr "Dans le bloc d'informations de facturation et de livraison de votre compte Payflow, ne rendez Ã©ditable aucun champ."
+msgstr "Dans le bloc d'informations de facturation et de livraison de votre compte Payflow, ne rendez éditable aucun champ."
 
 #: Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.
 msgid "Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode."
@@ -1828,11 +1828,11 @@ msgstr "Ne pas activer les options AVS ou CSC. Ces options ne fonctionnent pas e
 
 #: If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.
 msgid "If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website."
-msgstr "Si votre instance Magento est utilisÃ©e pour plusieurs sites web, vous devez configurer un compte Payflow Link pour chaque site web."
+msgstr "Si votre instance Magento est utilisée pour plusieurs sites web, vous devez configurer un compte Payflow Link pour chaque site web."
 
 #: Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.
 msgid "Make sure that you configure the design settings for the Payflow Link form in your Payflow link account."
-msgstr "Assurez-vous d'avoir configurÃ© le design pour le formulaire Payflow Link dans votre compte Payflow Link."
+msgstr "Assurez-vous d'avoir configuré le design pour le formulaire Payflow Link dans votre compte Payflow Link."
 
 #: Add New
 msgid "Add New"
@@ -1848,15 +1848,15 @@ msgstr "sur %s pages"
 
 #: Total %d records found
 msgid "Total %d records found"
-msgstr "%d enregistrement(s) trouvÃ©(s)"
+msgstr "%d enregistrement(s) trouvé(s)"
 
 #: Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal.
 msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal."
-msgstr ""
+msgstr "Accepter les paiements avec une méthode de checkout PCI-compliant qui garde les clients sur votre (via votre compte marchand Paypal)."
 
 #: Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account.
 msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account."
-msgstr ""
+msgstr "Accepter les paiements avec une méthode de checkout PCI-compliant qui garde les clients sur votre site (via votre propre compte marchand)."
 
 #: Address
 msgid "Address"
@@ -1868,11 +1868,11 @@ msgstr "Ville"
 
 #: Click here if you are not redirected within 10 seconds...
 msgid "Click here if you are not redirected within 10 seconds..."
-msgstr ""
+msgstr "Cliquez ici si vous n'êtes pas redirigé d'ici 10 secondes..."
 
 #: Company
 msgid "Company"
-msgstr "SociÃ©tÃ©"
+msgstr "Société"
 
 #: Country
 msgid "Country"
@@ -1884,7 +1884,7 @@ msgstr "Informations client"
 
 #: Display Express Checkout in the Payment Information step
 msgid "Display Express Checkout in the Payment Information step"
-msgstr ""
+msgstr "Afficher l'option Express Checkout dans l'étape d'information de paiement."
 
 #: Email Address
 msgid "Email Address"
@@ -1896,11 +1896,11 @@ msgstr "Fax"
 
 #: For Virtual Quotes Only
 msgid "For Virtual Quotes Only"
-msgstr ""
+msgstr "Pour les commandes virtuelles seulement"
 
 #: PayPal Payments Advanced
 msgid "PayPal Payments Advanced"
-msgstr ""
+msgstr "Paiements PayPal avancés"
 
 #: Payment transactions disallow storing objects.
 msgid "Payment transactions disallow storing objects."
@@ -1908,27 +1908,27 @@ msgstr "Les transactions de paiement rejettent de stocker des objets."
 
 #: Please select region, state or province
 msgid "Please select region, state or province"
-msgstr "SÃ©lectionnez un dÃ©partement / Ã©tat"
+msgstr "Sélectionnez un département / état"
 
 #: Please update order data to get shipping methods and rates
 msgid "Please update order data to get shipping methods and rates"
-msgstr ""
+msgstr "Mettez à jour les données de commande pour avoir les méthodes et les taux de livraison"
 
 #: Require Customer's Billing Address
 msgid "Require Customer's Billing Address"
-msgstr ""
+msgstr "Adresse de facturation client requise"
 
 #: Same as shipping
 msgid "Same as shipping"
-msgstr ""
+msgstr "Identique à la livraison"
 
 #: Server Error. Please try again.
 msgid "Server Error. Please try again."
-msgstr ""
+msgstr "Erreur du serveur. Veuillez réessayer ultérieurement."
 
 #: State/Province
 msgid "State/Province"
-msgstr "Ã‰tat/RÃ©gion"
+msgstr "État/Région"
 
 #: Street Address
 msgid "Street Address"
@@ -1936,47 +1936,47 @@ msgstr "Adresse"
 
 #: Street Address %s
 msgid "Street Address %s"
-msgstr "Rue - Voie â€“ BÃ¢t. %s"
+msgstr "Rue - Voie – Bât. %s"
 
 #: Telephone
 msgid "Telephone"
-msgstr "TÃ©lÃ©phone"
+msgstr "Téléphone"
 
 #: This feature needs be enabled first for the merchant account through PayPal technical support.
 msgid "This feature needs be enabled first for the merchant account through PayPal technical support."
-msgstr ""
+msgstr "Cette fonctionnalité doit être activée tout d'abord pour le compte marchand via le support technique Paypal."
 
 #: This operation requires an existing transaction object.
 msgid "This operation requires an existing transaction object."
-msgstr "Cette opÃ©ration nÃ©cessite l'existance d'une transaction."
+msgstr "Cette opération nécessite l'existance d'une transaction."
 
 #: Transaction ID must not be empty.
 msgid "Transaction ID must not be empty."
-msgstr "ID Transaction ne doit pas Ãªtre vide."
+msgstr "ID Transaction ne doit pas être vide."
 
 #: Unable to update Order data.
 msgid "Unable to update Order data."
-msgstr ""
+msgstr "Impossible de mettre à jour les données de la commande."
 
 #: Unknown Error. Please try again later.
 msgid "Unknown Error. Please try again later."
-msgstr ""
+msgstr "Erreur inconnue. Veuillez réessayer ultérieurement."
 
 #: Update Order Data
 msgid "Update Order Data"
-msgstr ""
+msgstr "Modifier les données de la commande"
 
 #: VAT Number
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 
 #: Vendor / Merchant Login
 msgid "Vendor / Merchant Login"
-msgstr ""
+msgstr "Vendeur / Identifiant du marchand"
 
 #: You cannot void a verification transaction
 msgid "You cannot void a verification transaction"
-msgstr ""
+msgstr "Vous ne pouvez pas éviter la vérification de la transaction"
 
 #: Zip/Postal Code
 msgid "Zip/Postal Code"

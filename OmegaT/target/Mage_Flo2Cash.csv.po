@@ -1,22 +1,22 @@
 #: Account Number
 msgid "Account Number"
-msgstr "NumÃ©ro de compte"
+msgstr "Numéro de compte"
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"
-msgstr "<strong>NumÃ©ro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit Card Type: %s
 msgid "Credit Card Type: %s"
@@ -28,19 +28,19 @@ msgstr "Types de cartes de paiement"
 
 #: Credit Card Verification
 msgid "Credit Card Verification"
-msgstr "VÃ©rification de carte de paiement"
+msgstr "Vérification de carte de paiement"
 
 #: Debug Flag
 msgid "Debug Flag"
-msgstr "Indicateur de dÃ©bug"
+msgstr "Indicateur de débug"
 
 #: Demo Mode
 msgid "Demo Mode"
-msgstr "Mode dÃ©mo"
+msgstr "Mode démo"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Expiration Date
 msgid "Expiration Date"
@@ -60,7 +60,7 @@ msgstr "Pour les transactions d'achat uniquement."
 
 #: Name on Card
 msgid "Name on Card"
-msgstr "PropriÃ©taire de la carte"
+msgstr "Propriétaire de la carte"
 
 #: Name on the Card: %s
 msgid "Name on the Card: %s"
@@ -80,15 +80,15 @@ msgstr "Action de paiement"
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr "Mode de paiement autorisÃ© pour"
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr "Mode de paiement autorisÃ© pour les pays spÃ©cifiques"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Please Select
 msgid "Please Select"
-msgstr "Veuillez sÃ©lectionner"
+msgstr "Veuillez sélectionner"
 
 #: Sort Order
 msgid "Sort Order"

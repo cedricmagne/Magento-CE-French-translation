@@ -1,10 +1,10 @@
 #: \"Remember Me\" Default Value
 msgid "\"Remember Me\" Default Value"
-msgstr "Valeur par dÃ©faut de \"Se souvenir de moi\""
+msgstr "Valeur par défaut de \"Se souvenir de moi\""
 
 #: (Not %s?)
 msgid "(Not %s?)"
-msgstr "(Vous n'Ãªtes pas %s ?)"
+msgstr "(Vous n'êtes pas %s ?)"
 
 #: * Required Fields
 msgid "* Required Fields"
@@ -20,7 +20,7 @@ msgstr "Informations d'adresse"
 
 #: Already registered?
 msgid "Already registered?"
-msgstr "Vous avez dÃ©jÃ  un compte ?"
+msgstr "Vous avez déjà un compte ?"
 
 #: Back
 msgid "Back"
@@ -28,7 +28,7 @@ msgstr "Retour"
 
 #: By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.
 msgid "By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more."
-msgstr "En crÃ©ant un compte sur notre boutique, vous pourrez passer vos commandes plus rapidement, enregistrer plusieurs adresses de livraison, consulter et suivre vos commandes, et plein d'autres choses encore."
+msgstr "En créant un compte sur notre boutique, vous pourrez passer vos commandes plus rapidement, enregistrer plusieurs adresses de livraison, consulter et suivre vos commandes, et plein d'autres choses encore."
 
 #: Cannot load configuration from file %s.
 msgid "Cannot load configuration from file %s."
@@ -36,11 +36,11 @@ msgstr "Impossible de charger la configuration depuis le fichier %s."
 
 #: Checkout as Guest
 msgid "Checkout as Guest"
-msgstr "RÃ©gler en tant qu'invitÃ©"
+msgstr "Régler en tant qu'invité"
 
 #: Checkout as a Guest or Register
 msgid "Checkout as a Guest or Register"
-msgstr "RÃ©gler en tant qu'invitÃ© ou s'enregistrer"
+msgstr "Régler en tant qu'invité ou s'enregistrer"
 
 #: City
 msgid "City"
@@ -48,7 +48,7 @@ msgstr "Ville"
 
 #: Clear Persistence on Log Out
 msgid "Clear Persistence on Log Out"
-msgstr "Effacer la persistance lors de la dÃ©connexion"
+msgstr "Effacer la persistance lors de la déconnexion"
 
 #: Close
 msgid "Close"
@@ -56,7 +56,7 @@ msgstr "Fermer"
 
 #: Company
 msgid "Company"
-msgstr "SociÃ©tÃ©"
+msgstr "Société"
 
 #: Confirm Password
 msgid "Confirm Password"
@@ -72,7 +72,7 @@ msgstr "Pays"
 
 #: Create an Account
 msgid "Create an Account"
-msgstr "CrÃ©er un compte"
+msgstr "Créer un compte"
 
 #: Easy access to your order history and status
 msgid "Easy access to your order history and status"
@@ -100,23 +100,23 @@ msgstr "Fax"
 
 #: Forgot Your Password?
 msgid "Forgot Your Password?"
-msgstr "Mot de passe oubliÃ© ?"
+msgstr "Mot de passe oublié ?"
 
 #: Forgot your password?
 msgid "Forgot your password?"
-msgstr "Mot de passe oubliÃ© ?"
+msgstr "Mot de passe oublié ?"
 
 #: General Options
 msgid "General Options"
-msgstr "Options gÃ©nÃ©rales"
+msgstr "Options générales"
 
 #: If you have an account with us, please log in.
 msgid "If you have an account with us, please log in."
-msgstr "Si vous avez dÃ©jÃ  un compte, veuillez vous identifier."
+msgstr "Si vous avez déjà un compte, veuillez vous identifier."
 
 #: Loading next step...
 msgid "Loading next step..."
-msgstr "Chargement en cours de l'Ã©tape suivante..."
+msgstr "Chargement en cours de l'étape suivante..."
 
 #: Login
 msgid "Login"
@@ -128,7 +128,7 @@ msgstr "Information de connexion"
 
 #: Login or Create an Account
 msgid "Login or Create an Account"
-msgstr "Identifiez-vous ou crÃ©ez un compte"
+msgstr "Identifiez-vous ou créez un compte"
 
 #: New Customers
 msgid "New Customers"
@@ -144,7 +144,7 @@ msgstr "Panier persistant"
 
 #: Persistence Lifetime (seconds)
 msgid "Persistence Lifetime (seconds)"
-msgstr "DurÃ©e de vie de la persistance (secondes)"
+msgstr "Durée de vie de la persistance (secondes)"
 
 #: Persistent Shopping Cart
 msgid "Persistent Shopping Cart"
@@ -160,7 +160,7 @@ msgstr "Veuillez vous identifier :"
 
 #: Please select region, state or province
 msgid "Please select region, state or province"
-msgstr "SÃ©lectionnez un dÃ©partement / Ã©tat"
+msgstr "Sélectionnez un département / état"
 
 #: Register
 msgid "Register"
@@ -172,7 +172,7 @@ msgstr "Gagnez du temps !"
 
 #: Register to Create an Account
 msgid "Register to Create an Account"
-msgstr "Enregistrez-vous pour crÃ©er un compte"
+msgstr "Enregistrez-vous pour créer un compte"
 
 #: Register with us for future convenience:
 msgid "Register with us for future convenience:"
@@ -180,7 +180,7 @@ msgstr "Enregistrez-vous et profitez de nombreux avantages :"
 
 #: Registered Customers
 msgid "Registered Customers"
-msgstr "Clients enregistrÃ©s"
+msgstr "Clients enregistrés"
 
 #: Remember Me
 msgid "Remember Me"
@@ -192,7 +192,7 @@ msgstr "Enregistrer dans le carnet d'adresses"
 
 #: Select State/Province...
 msgid "Select State/Province..."
-msgstr "Choisissez une rÃ©gion"
+msgstr "Choisissez une région"
 
 #: Select a billing address from your address book or enter a new address.
 msgid "Select a billing address from your address book or enter a new address."
@@ -200,19 +200,19 @@ msgstr "Choisissez une adresse de facturation dans votre carnet d'adresses ou sa
 
 #: Ship to different address
 msgid "Ship to different address"
-msgstr "Livrer Ã  une autre adresse"
+msgstr "Livrer à une autre adresse"
 
 #: Ship to this address
 msgid "Ship to this address"
-msgstr "Livrer Ã  cette adresse"
+msgstr "Livrer à cette adresse"
 
 #: Sign Up for Newsletter
 msgid "Sign Up for Newsletter"
-msgstr "Abonnez-vous Ã  la newsletter"
+msgstr "Abonnez-vous à la newsletter"
 
 #: State/Province
 msgid "State/Province"
-msgstr "Ã‰tat/RÃ©gion"
+msgstr "État/Région"
 
 #: Street Address
 msgid "Street Address"
@@ -220,7 +220,7 @@ msgstr "Adresse"
 
 #: Street Address %s
 msgid "Street Address %s"
-msgstr "Rue - Voie â€“ BÃ¢t. %s"
+msgstr "Rue - Voie – Bât. %s"
 
 #: Submit
 msgid "Submit"
@@ -228,7 +228,7 @@ msgstr "Valider"
 
 #: Telephone
 msgid "Telephone"
-msgstr "TÃ©lÃ©phone"
+msgstr "Téléphone"
 
 #: Welcome, %s!
 msgid "Welcome, %s!"
@@ -244,7 +244,7 @@ msgstr "Code postal"
 
 #: Shopping cart has been updated with appropriate prices
 msgid "Shopping cart has been updated with appropriate prices"
-msgstr ""
+msgstr "Shopping cart has been updated with appropriate prices"
 
 #: To proceed to Checkout, please log in using your email address.
 msgid "To proceed to Checkout, please log in using your email address."
@@ -252,5 +252,5 @@ msgstr ""
 
 #: VAT Number
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 

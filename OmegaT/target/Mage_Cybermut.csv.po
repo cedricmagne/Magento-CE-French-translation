@@ -16,7 +16,7 @@ msgstr "Banque"
 
 #: Credit Mutuel
 msgid "Credit Mutuel"
-msgstr "CrÃ©dit Mutuel"
+msgstr "Crédit Mutuel"
 
 #: Customer Interface language
 msgid "Customer Interface language"
@@ -28,19 +28,19 @@ msgstr "Le client est revenu de Cybermut."
 
 #: Customer was redirected to Cybermut
 msgid "Customer was redirected to Cybermut"
-msgstr "Le client a Ã©tÃ© redirigÃ© vers Cybermut"
+msgstr "Le client a été redirigé vers Cybermut"
 
 #: Debug
 msgid "Debug"
-msgstr "DÃ©boguage"
+msgstr "Déboguage"
 
 #: Dutch
 msgid "Dutch"
-msgstr "NÃ©erlandais"
+msgstr "Néerlandais"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: English
 msgid "English"
@@ -48,7 +48,7 @@ msgstr "Anglais"
 
 #: French
 msgid "French"
-msgstr "FranÃ§ais"
+msgstr "Français"
 
 #: German
 msgid "German"
@@ -64,7 +64,7 @@ msgstr "Italien"
 
 #: Key
 msgid "Key"
-msgstr "ClÃ©"
+msgstr "Clé"
 
 #: New Order Status
 msgid "New Order Status"
@@ -76,27 +76,27 @@ msgstr "OBC"
 
 #: Order #%s
 msgid "Order #%s"
-msgstr "Commande nÂ°%s"
+msgstr "Commande n°%s"
 
 #: Order number will be used if left empty.
 msgid "Order number will be used if left empty."
-msgstr "C'est le numÃ©ro de commande qui sera utilisÃ© si ce champ est vide."
+msgstr "C'est le numéro de commande qui sera utilisé si ce champ est vide."
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr "Mode de paiement autorisÃ© pour"
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr "Mode de paiement autorisÃ© pour les pays spÃ©cifiques"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Returned MAC is invalid. Order cancelled.
 msgid "Returned MAC is invalid. Order cancelled."
-msgstr "Le code MAC retournÃ© est invalide. La commande a Ã©tÃ© annulÃ©e."
+msgstr "Le code MAC retourné est invalide. La commande a été annulée."
 
 #: SHA Key
 msgid "SHA Key"
-msgstr "ClÃ© SHA"
+msgstr "Clé SHA"
 
 #: Site Code
 msgid "Site Code"
@@ -112,7 +112,7 @@ msgstr "Espagne"
 
 #: TPE Number
 msgid "TPE Number"
-msgstr "NumÃ©ro de TPE"
+msgstr "Numéro de TPE"
 
 #: Test Mode
 msgid "Test Mode"
@@ -132,9 +132,9 @@ msgstr "Description de la transaction"
 
 #: You will be redirected to Cybermut in a few seconds.
 msgid "You will be redirected to Cybermut in a few seconds."
-msgstr "Vous serez redirigÃ© vers le site de Cybermut dans quelques secondes."
+msgstr "Vous serez redirigé vers le site de Cybermut dans quelques secondes."
 
 #: You will be redirected to Cybermut website when you place an order.
 msgid "You will be redirected to Cybermut website when you place an order."
-msgstr "Vous serez redirigÃ© vers le site de Cybermut Ã  l'issue de votre commande."
+msgstr "Vous serez redirigé vers le site de Cybermut à l'issue de votre commande."
 

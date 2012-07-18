@@ -4,7 +4,7 @@ msgstr "%s - Remises et coupons"
 
 #: %s - Special Products
 msgid "%s - Special Products"
-msgstr "%s - Produits spÃ©ciaux"
+msgstr "%s - Produits spéciaux"
 
 #: %s RSS Feed
 msgid "%s RSS Feed"
@@ -12,7 +12,7 @@ msgstr "Flux RSS %s"
 
 #: %s has reached a quantity of %s.
 msgid "%s has reached a quantity of %s."
-msgstr "%s a atteint la quantitÃ© de %s."
+msgstr "%s a atteint la quantité de %s."
 
 #: %s\'s Wishlist
 msgid "%s\'s Wishlist"
@@ -20,7 +20,7 @@ msgstr "Liste d'envies de %s"
 
 #: Cannot retrieve the wishlist
 msgid "Cannot retrieve the wishlist"
-msgstr "Impossible de rÃ©cupÃ©rer la liste d'envies"
+msgstr "Impossible de récupérer la liste d'envies"
 
 #: Catalog
 msgid "Catalog"
@@ -28,7 +28,7 @@ msgstr "Catalogue"
 
 #: Category Feeds
 msgid "Category Feeds"
-msgstr "Flux de la catÃ©gorie"
+msgstr "Flux de la catégorie"
 
 #: Comment: %s<br/>
 msgid "Comment: %s<br/>"
@@ -36,7 +36,7 @@ msgstr "Commentaire : %s<br/>"
 
 #: Coupons/Discounts
 msgid "Coupons/Discounts"
-msgstr "Coupons/RÃ©ductions"
+msgstr "Coupons/Réductions"
 
 #: Current Status: %s<br/>
 msgid "Current Status: %s<br/>"
@@ -52,7 +52,7 @@ msgstr "Notification de statut de commande client"
 
 #: Details for %s #%s
 msgid "Details for %s #%s"
-msgstr "DÃ©tails pour %s nÂ°%s"
+msgstr "Détails pour %s n°%s"
 
 #: Discount
 msgid "Discount"
@@ -76,7 +76,7 @@ msgstr "De :"
 
 #: Get Feed
 msgid "Get Feed"
-msgstr "RÃ©cupÃ©rer le flux"
+msgstr "Récupérer le flux"
 
 #: Gift Message
 msgid "Gift Message"
@@ -112,15 +112,15 @@ msgstr "Nouveaux produits de %s"
 
 #: Notified Date: %s<br/>
 msgid "Notified Date: %s<br/>"
-msgstr "Date notifiÃ©e : %s<br/>"
+msgstr "Date notifiée : %s<br/>"
 
 #: Order # %s Notification(s)
 msgid "Order # %s Notification(s)"
-msgstr "Notification(s) de la commande nÂ°%s"
+msgstr "Notification(s) de la commande n°%s"
 
 #: Order #%s created at %s
 msgid "Order #%s created at %s"
-msgstr "Commande nÂ°%s crÃ©Ã©e le %s"
+msgstr "Commande n°%s créée le %s"
 
 #: Pending product review(s)
 msgid "Pending product review(s)"
@@ -128,7 +128,7 @@ msgstr "Commentaire(s) de produit en attente"
 
 #: Product: \"%s\" review By: %s
 msgid "Product: \"%s\" review By: %s"
-msgstr "Produit : \"%s\" commentÃ© par : %s"
+msgstr "Produit : \"%s\" commenté par : %s"
 
 #: Product: <a href=\"%s\">%s</a> <br/>
 msgid "Product: <a href=\"%s\">%s</a> <br/>"
@@ -136,11 +136,11 @@ msgstr "Produit : <a href=\"%s\">%s</a> <br/>"
 
 #: Products tagged with %s
 msgid "Products tagged with %s"
-msgstr "Produits taggÃ©s avec %s"
+msgstr "Produits taggés avec %s"
 
 #: Purchased From: %s
 msgid "Purchased From: %s"
-msgstr "CommandÃ© sur : %s"
+msgstr "Commandé sur : %s"
 
 #: RSS
 msgid "RSS"
@@ -172,7 +172,7 @@ msgstr "Frais de port"
 
 #: Special Products
 msgid "Special Products"
-msgstr "Produits spÃ©ciaux"
+msgstr "Produits spéciaux"
 
 #: Store: %s <br/>
 msgid "Store: %s <br/>"
@@ -184,7 +184,7 @@ msgstr "Sous-total"
 
 #: Summary of review: %s <br/>
 msgid "Summary of review: %s <br/>"
-msgstr "RÃ©sumÃ© du commentaire : %s <br/>"
+msgstr "Résumé du commentaire : %s <br/>"
 
 #: Tags Products
 msgid "Tags Products"
@@ -200,11 +200,11 @@ msgstr "Il n'y a pas de flux RSS"
 
 #: To:
 msgid "To:"
-msgstr "Ã€ :"
+msgstr "À :"
 
 #: Top Level Category
 msgid "Top Level Category"
-msgstr "CatÃ©gorie de niveau supÃ©rieur"
+msgstr "Catégorie de niveau supérieur"
 
 #: Total: %s<br/>
 msgid "Total: %s<br/>"

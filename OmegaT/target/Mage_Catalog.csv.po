@@ -20,11 +20,11 @@ msgstr "(%d)"
 
 #: (Copy data from: %s)
 msgid "(Copy data from: %s)"
-msgstr "(Copier les donnÃ©es depuis : %s)"
+msgstr "(Copier les données depuis : %s)"
 
 #: (Will make search for the query above return results for this search.)
 msgid "(Will make search for the query above return results for this search.)"
-msgstr "(Fera une recherche pour la requÃªte ci-dessus. Retourne des rÃ©sultats pour cette recherche)"
+msgstr "(Fera une recherche pour la requête ci-dessus. Retourne des résultats pour cette recherche)"
 
 #: * Required Fields
 msgid "* Required Fields"
@@ -36,11 +36,11 @@ msgstr "-- Faites un choix --"
 
 #: 86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache.
 msgid "86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache."
-msgstr "86400 par dÃ©faut, si non renseignÃ©. Pour actualiser instantanÃ©ment, purgez le cache des Blocs HTML de sortie."
+msgstr "86400 par défaut, si non renseigné. Pour actualiser instantanément, purgez le cache des Blocs HTML de sortie."
 
 #: A group with the same name already exists.
 msgid "A group with the same name already exists."
-msgstr "Il existe dÃ©jÃ  un groupe portant ce nom."
+msgstr "Il existe déjà un groupe portant ce nom."
 
 #: A name is required
 msgid "A name is required"
@@ -48,7 +48,7 @@ msgstr "Un nom est requis"
 
 #: A product type is not defined for the indexer.
 msgid "A product type is not defined for the indexer."
-msgstr "Aucun type de produit n'est dÃ©fini pour l'indexer."
+msgstr "Aucun type de produit n'est défini pour l'indexer."
 
 #: ALL GROUPS
 msgid "ALL GROUPS"
@@ -120,11 +120,11 @@ msgstr "Ajouter le produit aux sites web"
 
 #: Add Root Category
 msgid "Add Root Category"
-msgstr "Ajouter une catÃ©gorie racine"
+msgstr "Ajouter une catégorie racine"
 
 #: Add Subcategory
 msgid "Add Subcategory"
-msgstr "Ajouter une sous-catÃ©gorie"
+msgstr "Ajouter une sous-catégorie"
 
 #: Add Tax
 msgid "Add Tax"
@@ -144,11 +144,11 @@ msgstr "Ajouter au comparateur"
 
 #: Add to Wishlist
 msgid "Add to Wishlist"
-msgstr "Ajouter Ã  la liste d'envies"
+msgstr "Ajouter à la liste d'envies"
 
 #: Additional Information
 msgid "Additional Information"
-msgstr "Informations complÃ©mentaires"
+msgstr "Informations complémentaires"
 
 #: Alert Urls
 msgid "Alert Urls"
@@ -168,7 +168,7 @@ msgstr "Tous les sites web"
 
 #: All products of this set will be deleted! Are you sure you want to delete this attribute set?
 msgid "All products of this set will be deleted! Are you sure you want to delete this attribute set?"
-msgstr "Tous les produits de ce jeu seront supprimÃ©s ! ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce jeu d'attributs ?"
+msgstr "Tous les produits de ce jeu seront supprimés ! Êtes-vous sûr(e) de vouloir supprimer ce jeu d'attributs ?"
 
 #: Allow All Products per Page
 msgid "Allow All Products per Page"
@@ -176,7 +176,7 @@ msgstr "Autoriser tous les produits par page"
 
 #: Allow Dynamic Media URLs in Products and Categories
 msgid "Allow Dynamic Media URLs in Products and Categories"
-msgstr "Autoriser les URLs de media dynamiques dans les produits et catÃ©gories"
+msgstr "Autoriser les URLs de media dynamiques dans les produits et catégories"
 
 #: Allow HTML Tags on Frontend
 msgid "Allow HTML Tags on Frontend"
@@ -184,11 +184,11 @@ msgstr "Autoriser les balises HTML sur le frontend"
 
 #: Allowed File Extensions
 msgid "Allowed File Extensions"
-msgstr "Extensions de fichier autorisÃ©es"
+msgstr "Extensions de fichier autorisées"
 
 #: Allowed file extensions to upload
 msgid "Allowed file extensions to upload"
-msgstr "Extensions de fichier autorisÃ©es pour l'envoi"
+msgstr "Extensions de fichier autorisées pour l'envoi"
 
 #: An error occurred while adding customers for the %s alert. Message: %s
 msgid "An error occurred while adding customers for the %s alert. Message: %s"
@@ -208,7 +208,7 @@ msgstr "Erreur lors de la suppression de produits des sites web."
 
 #: An error occurred while saving the URL rewrite.
 msgid "An error occurred while saving the URL rewrite."
-msgstr "Erreur lors de la sauvegarde de la rÃ©Ã©criture d'URL."
+msgstr "Erreur lors de la sauvegarde de la réécriture d'URL."
 
 #: An error occurred while saving the attribute set.
 msgid "An error occurred while saving the attribute set."
@@ -224,7 +224,7 @@ msgstr "Erreur lors de la sauvegarde du produit. "
 
 #: An error occurred while saving the search query.
 msgid "An error occurred while saving the search query."
-msgstr "Erreur lors de la sauvegarde de la requÃªte de recherche."
+msgstr "Erreur lors de la sauvegarde de la requête de recherche."
 
 #: An error occurred while saving this group.
 msgid "An error occurred while saving this group."
@@ -232,63 +232,63 @@ msgstr "Erreur lors de la sauvegarde de ce groupe."
 
 #: An error occurred while trying to delete the category.
 msgid "An error occurred while trying to delete the category."
-msgstr "Erreur lors de la suppression de la catÃ©gorie."
+msgstr "Erreur lors de la suppression de la catégorie."
 
 #: An error occurred while updating the product(s) attributes.
 msgid "An error occurred while updating the product(s) attributes."
-msgstr "Erreur lors de la mise Ã  jour des attributs de produits."
+msgstr "Erreur lors de la mise à jour des attributs de produits."
 
 #: An error occurred while updating the product(s) status.
 msgid "An error occurred while updating the product(s) status."
-msgstr "Erreur lors de la mise Ã  jour du statut de produits."
+msgstr "Erreur lors de la mise à jour du statut de produits."
 
 #: An invalid option ID is specified for %s (%s), skipping the record.
 msgid "An invalid option ID is specified for %s (%s), skipping the record."
-msgstr "Identifiant d'option invalide pour %s (%s), ligne ignorÃ©e."
+msgstr "Identifiant d'option invalide pour %s (%s), ligne ignorée."
 
 #: An invalid store was specified.
 msgid "An invalid store was specified."
-msgstr "Une boutique invalide a Ã©tÃ© spÃ©cifiÃ©e."
+msgstr "Une boutique invalide a été spécifiée."
 
 #: Anchor Custom Text
 msgid "Anchor Custom Text"
-msgstr "PrÃ©senter un texte personnalisÃ©"
+msgstr "Présenter un texte personnalisé"
 
 #: Anchor Custom Title
 msgid "Anchor Custom Title"
-msgstr "PrÃ©senter un titre personnalisÃ©"
+msgstr "Présenter un titre personnalisé"
 
 #: Applicable to catalog products and categories only. Any media content will be inserted into editor as a static URL. It is not updated if the system configuration base URL changes.
 msgid "Applicable to catalog products and categories only. Any media content will be inserted into editor as a static URL. It is not updated if the system configuration base URL changes."
-msgstr "Applicable aux produits et catÃ©gories uniquement. Tous les contenus media seront insÃ©rÃ©s dans l'Ã©diteur comme des URLs statiques. Aucune mise Ã  jour n'est opÃ©rÃ©e lors de changements de l'URL de base dans la configuration systÃ¨me."
+msgstr "Applicable aux produits et catégories uniquement. Tous les contenus media seront insérés dans l'éditeur comme des URLs statiques. Aucune mise à jour n'est opérée lors de changements de l'URL de base dans la configuration système."
 
 #: Apply To
 msgid "Apply To"
-msgstr "S'applique Ã "
+msgstr "S'applique à"
 
 #: Approved
 msgid "Approved"
-msgstr "ApprouvÃ©"
+msgstr "Approuvé"
 
 #: Are you sure you want to delete this category?
 msgid "Are you sure you want to delete this category?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer cette catÃ©gorie ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer cette catégorie ?"
 
 #: Are you sure you would like to remove all products from your comparison?
 msgid "Are you sure you would like to remove all products from your comparison?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir enlever tous les produits de la comparaison ?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever tous les produits de la comparaison ?"
 
 #: Are you sure you would like to remove this item from the compare products?
 msgid "Are you sure you would like to remove this item from the compare products?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir enlever cet article de la comparaison ?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever cet article de la comparaison ?"
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: As low as:
 msgid "As low as:"
-msgstr "Prix spÃ©cial :"
+msgstr "Prix spécial :"
 
 #: Assign
 msgid "Assign"
@@ -300,15 +300,15 @@ msgstr "Assigner un lien de produit"
 
 #: Assign product to category
 msgid "Assign product to category"
-msgstr "Assigner un produit Ã  une catÃ©gorie"
+msgstr "Assigner un produit à une catégorie"
 
 #: Assigned Products
 msgid "Assigned Products"
-msgstr "Produits assignÃ©s"
+msgstr "Produits assignés"
 
 #: Associated Products
 msgid "Associated Products"
-msgstr "Produits associÃ©s"
+msgstr "Produits associés"
 
 #: Attrib. Set Name
 msgid "Attrib. Set Name"
@@ -328,7 +328,7 @@ msgstr "Informations attributs"
 
 #: Attribute Model
 msgid "Attribute Model"
-msgstr "ModÃ¨le d'attribut"
+msgstr "Modèle d'attribut"
 
 #: Attribute Name:
 msgid "Attribute Name:"
@@ -340,11 +340,11 @@ msgstr "Jeu d'attributs"
 
 #: Attribute group with the \"/name/\" name already exists
 msgid "Attribute group with the \"/name/\" name already exists"
-msgstr "Il existe dÃ©jÃ  un groupe portant le nom \\\"/name/\\\"."
+msgstr "Il existe déjà un groupe portant le nom \\\"/name/\\\"."
 
 #: Attribute with the same code already exists
 msgid "Attribute with the same code already exists"
-msgstr "Un attribut avec le mÃªme code existe dÃ©jÃ "
+msgstr "Un attribut avec le même code existe déjà"
 
 #: Attributes
 msgid "Attributes"
@@ -352,15 +352,15 @@ msgstr "Attributs"
 
 #: Attrribute names can be specified per store.
 msgid "Attrribute names can be specified per store."
-msgstr "Les noms d'attributs peuvent Ãªtre spÃ©cifiÃ©s pour chaque magasin."
+msgstr "Les noms d'attributs peuvent être spécifiés pour chaque magasin."
 
 #: Autogenerate
 msgid "Autogenerate"
-msgstr "GÃ©nÃ©rer automatiquement"
+msgstr "Générer automatiquement"
 
 #: Availability:
 msgid "Availability:"
-msgstr "DisponibilitÃ© :"
+msgstr "Disponibilité :"
 
 #: Back
 msgid "Back"
@@ -368,7 +368,7 @@ msgstr "Retour"
 
 #: Backend Model
 msgid "Backend Model"
-msgstr "ModÃ¨le pour le back office"
+msgstr "Modèle pour le back office"
 
 #: Backend Table
 msgid "Backend Table"
@@ -384,7 +384,7 @@ msgstr "Commande en rupture de stock"
 
 #: Based On
 msgid "Based On"
-msgstr "BasÃ© sur"
+msgstr "Basé sur"
 
 #: Best Value
 msgid "Best Value"
@@ -392,7 +392,7 @@ msgstr "Meilleure affaire"
 
 #: Block after Info Column
 msgid "Block after Info Column"
-msgstr "Bloc aprÃ¨s la colonne d'information"
+msgstr "Bloc après la colonne d'information"
 
 #: Bottom Block Options Wrapper
 msgid "Bottom Block Options Wrapper"
@@ -400,11 +400,11 @@ msgstr "Options du bloc du bas"
 
 #: Bottom/Left
 msgid "Bottom/Left"
-msgstr "En bas Ã  gauche"
+msgstr "En bas à gauche"
 
 #: Bottom/Right
 msgid "Bottom/Right"
-msgstr "En bas Ã  droite"
+msgstr "En bas à droite"
 
 #: Browse By
 msgid "Browse By"
@@ -416,39 +416,39 @@ msgstr "Achetez-en %1$s pour %2$s"
 
 #: Buy %1$s for %2$s (%3$s incl. tax) each
 msgid "Buy %1$s for %2$s (%3$s incl. tax) each"
-msgstr "Achetez-en %1$s Ã  %2$s (%3$s TTC) piÃ¨ce"
+msgstr "Achetez-en %1$s à %2$s (%3$s TTC) pièce"
 
 #: Buy %1$s for %2$s each
 msgid "Buy %1$s for %2$s each"
-msgstr "Achetez-en %1$s Ã  %2$s piÃ¨ce"
+msgstr "Achetez-en %1$s à %2$s pièce"
 
 #: Cache Lifetime (Seconds)
 msgid "Cache Lifetime (Seconds)"
-msgstr "DurÃ©e de vie du cache (secondes)"
+msgstr "Durée de vie du cache (secondes)"
 
 #: Cache refresh needed.
 msgid "Cache refresh needed."
-msgstr "Il est nÃ©cessaire de rafraichir le cache."
+msgstr "Il est nécessaire de rafraichir le cache."
 
 #: Can be used only with catalog input type Dropdown
 msgid "Can be used only with catalog input type Dropdown"
-msgstr "Ne peut Ãªtre utilisÃ© qu'avec un catalogue type liste dÃ©roulante"
+msgstr "Ne peut être utilisé qu'avec un catalogue type liste déroulante"
 
 #: Can be used only with catalog input type Dropdown, Multiple Select and Price
 msgid "Can be used only with catalog input type Dropdown, Multiple Select and Price"
-msgstr "Ne peut Ãªtre utilisÃ© qu'avec un type de saisie \"liste dÃ©roulante\", \"choix multiple\" ou \"prix\""
+msgstr "Ne peut être utilisé qu'avec un type de saisie \"liste déroulante\", \"choix multiple\" ou \"prix\""
 
 #: Can\'t create image.
 msgid "Can\'t create image."
-msgstr "Impossible de crÃ©er l'image"
+msgstr "Impossible de créer l'image"
 
 #: Cannot create image.
 msgid "Cannot create image."
-msgstr "Impossible de crÃ©er l'image."
+msgstr "Impossible de créer l'image."
 
 #: Cannot create writeable directory '%s'.
 msgid "Cannot create writeable directory '%s'."
-msgstr "Impossible de crÃ©er le rÃ©pertoire '%s' avec les droits d'Ã©criture."
+msgstr "Impossible de créer le répertoire '%s' avec les droits d'écriture."
 
 #: Cart Item Attribute
 msgid "Cart Item Attribute"
@@ -460,19 +460,19 @@ msgstr "Catalogue"
 
 #: Catalog Category (Anchor)
 msgid "Catalog Category (Anchor)"
-msgstr "CatÃ©gorie de catalogue (ancrÃ©)"
+msgstr "Catégorie de catalogue (ancré)"
 
 #: Catalog Category (Non-Anchor)
 msgid "Catalog Category (Non-Anchor)"
-msgstr "CatÃ©gorie de catalogue (non-ancrÃ©)"
+msgstr "Catégorie de catalogue (non-ancré)"
 
 #: Catalog Category (Without Subcategories)
 msgid "Catalog Category (Without Subcategories)"
-msgstr "CatÃ©gorie de catalogue (sans sous-catÃ©gories)"
+msgstr "Catégorie de catalogue (sans sous-catégories)"
 
 #: Catalog Category Link
 msgid "Catalog Category Link"
-msgstr "Lien vers les catÃ©gories de catalogue"
+msgstr "Lien vers les catégories de catalogue"
 
 #: Catalog New Products List
 msgid "Catalog New Products List"
@@ -480,7 +480,7 @@ msgstr "Liste des nouveaux produits du catalogue"
 
 #: Catalog Price Scope
 msgid "Catalog Price Scope"
-msgstr "PortÃ©e des prix catalogue"
+msgstr "Portée des prix catalogue"
 
 #: Catalog Product Compare List
 msgid "Catalog Product Compare List"
@@ -488,7 +488,7 @@ msgstr "Liste de comparaison de produits catalogue"
 
 #: Catalog Product Email to a Friend
 msgid "Catalog Product Email to a Friend"
-msgstr "Envoyer Ã  un ami"
+msgstr "Envoyer à un ami"
 
 #: Catalog Product Image Gallery Popup
 msgid "Catalog Product Image Gallery Popup"
@@ -508,7 +508,7 @@ msgstr "Vue produit catalogue (Configurable)"
 
 #: Catalog Product View (Grouped)
 msgid "Catalog Product View (Grouped)"
-msgstr "Vue produit catalogue (GroupÃ©)"
+msgstr "Vue produit catalogue (Groupé)"
 
 #: Catalog Product View (Simple)
 msgid "Catalog Product View (Simple)"
@@ -524,15 +524,15 @@ msgstr "Section catalogue"
 
 #: Catalog Seo Popular Search Terms
 msgid "Catalog Seo Popular Search Terms"
-msgstr "Termes recherchÃ©s populaires du catalogue SEO"
+msgstr "Termes recherchés populaires du catalogue SEO"
 
 #: Catalog Seo Sitemap (Category List)
 msgid "Catalog Seo Sitemap (Category List)"
-msgstr "Catalog Seo Sitemap (Liste des catÃ©gories)"
+msgstr "Catalog Seo Sitemap (Liste des catégories)"
 
 #: Catalog Seo Sitemap (Category Tree)
 msgid "Catalog Seo Sitemap (Category Tree)"
-msgstr "Catalog Seo Sitemap (Arborescence catÃ©gorie)"
+msgstr "Catalog Seo Sitemap (Arborescence catégorie)"
 
 #: Catalog Seo Sitemap (Common)
 msgid "Catalog Seo Sitemap (Common)"
@@ -544,7 +544,7 @@ msgstr "Catalog Seo Sitemap (Liste des produits)"
 
 #: Catalog URL Rewrites
 msgid "Catalog URL Rewrites"
-msgstr "RÃ©Ã©criture d'URL du catalogue"
+msgstr "Réécriture d'URL du catalogue"
 
 #: Catalog, Search
 msgid "Catalog, Search"
@@ -552,63 +552,63 @@ msgstr "Catalogue, Recherche"
 
 #: Categories
 msgid "Categories"
-msgstr "CatÃ©gories"
+msgstr "Catégories"
 
 #: Categories Sitemap
 msgid "Categories Sitemap"
-msgstr "Plan de site des catÃ©gories"
+msgstr "Plan de site des catégories"
 
 #: Category
 msgid "Category"
-msgstr "CatÃ©gorie"
+msgstr "Catégorie"
 
 #: Category API
 msgid "Category API"
-msgstr "API de catÃ©gorie"
+msgstr "API de catégorie"
 
 #: Category Data
 msgid "Category Data"
-msgstr "DonnÃ©es de catÃ©gorie"
+msgstr "Données de catégorie"
 
 #: Category Flat Data
 msgid "Category Flat Data"
-msgstr "DonnÃ©es fixes de catÃ©gorie"
+msgstr "Données fixes de catégorie"
 
 #: Category Link Block Template
 msgid "Category Link Block Template"
-msgstr "Gabarit du bloc lien catÃ©gorie"
+msgstr "Gabarit du bloc lien catégorie"
 
 #: Category Link Inline Template
 msgid "Category Link Inline Template"
-msgstr "Gabarit inline de lien catÃ©gorie"
+msgstr "Gabarit inline de lien catégorie"
 
 #: Category Products
 msgid "Category Products"
-msgstr "Produits de la catÃ©gorie"
+msgstr "Produits de la catégorie"
 
 #: Category Top Navigation
 msgid "Category Top Navigation"
-msgstr "Navigation dans les catÃ©gories"
+msgstr "Navigation dans les catégories"
 
 #: Category URL Suffix
 msgid "Category URL Suffix"
-msgstr "Suffixe d'URL des catÃ©gories"
+msgstr "Suffixe d'URL des catégories"
 
 #: Category attributes API
 msgid "Category attributes API"
-msgstr "API d'attributs de catÃ©gories"
+msgstr "API d'attributs de catégories"
 
 #: Category move error
 msgid "Category move error"
-msgstr "Erreur de dÃ©placement de catÃ©gorie"
+msgstr "Erreur de déplacement de catégorie"
 
 #: Category move operation is not possible: the new parent category was not found.
 msgid "Category move operation is not possible: the new parent category was not found."
-msgstr "Le dÃ©placement de la catÃ©gorie n'est pas possible : la catÃ©gorie mÃ¨re n'a pas Ã©tÃ© trouvÃ©e."
+msgstr "Le déplacement de la catégorie n'est pas possible : la catégorie mère n'a pas été trouvée."
 
 #: Category must be an instance of Mage_Catalog_Model_Category.
 msgid "Category must be an instance of Mage_Catalog_Model_Category."
-msgstr "La catÃ©gorie doit Ãªtre une instance de Mage_Catalog_Model_Category."
+msgstr "La catégorie doit être une instance de Mage_Catalog_Model_Category."
 
 #: Center
 msgid "Center"
@@ -620,7 +620,7 @@ msgstr "Modifier"
 
 #: Change or Retrieve attribute store view
 msgid "Change or Retrieve attribute store view"
-msgstr "Changer ou rÃ©cupÃ©rer la vue magasin de l'attribut"
+msgstr "Changer ou récupérer la vue magasin de l'attribut"
 
 #: Change status
 msgid "Change status"
@@ -628,7 +628,7 @@ msgstr "Changer le statut"
 
 #: Check items to add to the cart or
 msgid "Check items to add to the cart or"
-msgstr "Cochez les articles Ã  ajouter au panier ou"
+msgstr "Cochez les articles à ajouter au panier ou"
 
 #: Choose an Option...
 msgid "Choose an Option..."
@@ -640,15 +640,15 @@ msgstr "Tout supprimer"
 
 #: Close Window
 msgid "Close Window"
-msgstr "Fermer la fenÃªtre"
+msgstr "Fermer la fenêtre"
 
 #: Collapse All
 msgid "Collapse All"
-msgstr "Tout rÃ©duire"
+msgstr "Tout réduire"
 
 #: Comma-separated.
 msgid "Comma-separated."
-msgstr "SÃ©parÃ©es par des virgules."
+msgstr "Séparées par des virgules."
 
 #: Comparable
 msgid "Comparable"
@@ -680,7 +680,7 @@ msgstr "Produit configurable"
 
 #: Configurable Product Settings
 msgid "Configurable Product Settings"
-msgstr "ParamÃ¨tres produit configurable"
+msgstr "Paramètres produit configurable"
 
 #: Continue
 msgid "Continue"
@@ -688,51 +688,51 @@ msgstr "Continuer"
 
 #: Copy From Configurable
 msgid "Copy From Configurable"
-msgstr "Copier Ã  partir d'un configurable"
+msgstr "Copier à partir d'un configurable"
 
 #: Country/State
 msgid "Country/State"
-msgstr "Pays / Ã‰tat"
+msgstr "Pays / État"
 
 #: Create
 msgid "Create"
-msgstr "CrÃ©er"
+msgstr "Créer"
 
 #: Create (Upload)
 msgid "Create (Upload)"
-msgstr "CrÃ©er (tÃ©lÃ©charger)"
+msgstr "Créer (télécharger)"
 
 #: Create Empty
 msgid "Create Empty"
-msgstr "CrÃ©er vide"
+msgstr "Créer vide"
 
 #: Create Permanent Redirect for old URL
 msgid "Create Permanent Redirect for old URL"
-msgstr "CrÃ©er des redirections permanentes pour les anciennes URLs."
+msgstr "Créer des redirections permanentes pour les anciennes URLs."
 
 #: Create Permanent Redirect for old URLs if Url key changed
 msgid "Create Permanent Redirect for old URLs if Url key changed"
-msgstr "CrÃ©er des redirections permanentes pour les anciennes URLs si la clÃ© d'URL a changÃ©."
+msgstr "Créer des redirections permanentes pour les anciennes URLs si la clé d'URL a changé."
 
 #: Create Product Settings
 msgid "Create Product Settings"
-msgstr "CrÃ©er des attributs produit"
+msgstr "Créer des attributs produit"
 
 #: Create Simple Associated Product
 msgid "Create Simple Associated Product"
-msgstr "CrÃ©er un produit simple associÃ©"
+msgstr "Créer un produit simple associé"
 
 #: Create new category
 msgid "Create new category"
-msgstr "CrÃ©er une catÃ©gorie"
+msgstr "Créer une catégorie"
 
 #: Create new product
 msgid "Create new product"
-msgstr "CrÃ©er un produit"
+msgstr "Créer un produit"
 
 #: Cross-sells
 msgid "Cross-sells"
-msgstr "Ventes croisÃ©es"
+msgstr "Ventes croisées"
 
 #: Currently Shopping by:
 msgid "Currently Shopping by:"
@@ -740,7 +740,7 @@ msgstr "Filtre en cours :"
 
 #: Custom Design
 msgid "Custom Design"
-msgstr "Design personnalisÃ©"
+msgstr "Design personnalisé"
 
 #: Custom Options
 msgid "Custom Options"
@@ -752,23 +752,23 @@ msgstr "Groupe de clients"
 
 #: Customers Reviews
 msgid "Customers Reviews"
-msgstr "Clients ayant commentÃ©"
+msgstr "Clients ayant commenté"
 
 #: Customers Tagged Product
 msgid "Customers Tagged Product"
-msgstr "Clients ayant proposÃ© des mots-clÃ©s"
+msgstr "Clients ayant proposé des mots-clés"
 
 #: Customers for alert %s were successfuly added to queue
 msgid "Customers for alert %s were successfuly added to queue"
-msgstr "Les clients pour l'alerte %s ont bien Ã©tÃ© ajoutÃ©s Ã  la file d'attente."
+msgstr "Les clients pour l'alerte %s ont bien été ajoutés à la file d'attente."
 
 #: Data Type for Saving in Database
 msgid "Data Type for Saving in Database"
-msgstr "Type de donnÃ©es Ã  sauvegarder dans la base de donnÃ©es"
+msgstr "Type de données à sauvegarder dans la base de données"
 
 #: Date & Time Custom Options
 msgid "Date & Time Custom Options"
-msgstr "Options de date & heure personnalisÃ©es"
+msgstr "Options de date & heure personnalisées"
 
 #: Date Fields Order
 msgid "Date Fields Order"
@@ -784,31 +784,31 @@ msgstr "Date et heure"
 
 #: Decimal
 msgid "Decimal"
-msgstr "DÃ©cimal"
+msgstr "Décimal"
 
 #: Declare attribute value saving scope
 msgid "Declare attribute value saving scope"
-msgstr "DÃ©clarer la portÃ©e d'Ã©conomie de valeurs d'attributs"
+msgstr "Déclarer la portée d'économie de valeurs d'attributs"
 
 #: Default Price
 msgid "Default Price"
-msgstr "Prix par dÃ©faut"
+msgstr "Prix par défaut"
 
 #: Default Price Navigation Step
 msgid "Default Price Navigation Step"
-msgstr "Tranche de prix par dÃ©faut"
+msgstr "Tranche de prix par défaut"
 
 #: Default Qty
 msgid "Default Qty"
-msgstr "QtÃ© par dÃ©faut"
+msgstr "Qté par défaut"
 
 #: Default Values
 msgid "Default Values"
-msgstr "Valeurs par dÃ©faut"
+msgstr "Valeurs par défaut"
 
 #: Defines the base currency scope (\"Currency Setup\" > \"Currency Options\" > \"Base Currency\").
 msgid "Defines the base currency scope (\"Currency Setup\" > \"Currency Options\" > \"Base Currency\")."
-msgstr "DÃ©finit la portÃ©e de la devise de base (\"Configuration de devises\" > \"Options de devises\" > \"Devise de base\")."
+msgstr "Définit la portée de la devise de base (\"Configuration de devises\" > \"Options de devises\" > \"Devise de base\")."
 
 #: Delete
 msgid "Delete"
@@ -824,7 +824,7 @@ msgstr "Supprimer le jeu d'attributs"
 
 #: Delete Category
 msgid "Delete Category"
-msgstr "Supprimer cette catÃ©gorie"
+msgstr "Supprimer cette catégorie"
 
 #: Delete Option
 msgid "Delete Option"
@@ -840,11 +840,11 @@ msgstr "Supprimer la recherche"
 
 #: Delete Selected Group
 msgid "Delete Selected Group"
-msgstr "Supprimer le groupe sÃ©lectionnÃ©"
+msgstr "Supprimer le groupe sélectionné"
 
 #: Delete category
 msgid "Delete category"
-msgstr "Supprimer la catÃ©gorie"
+msgstr "Supprimer la catégorie"
 
 #: Delete product
 msgid "Delete product"
@@ -852,7 +852,7 @@ msgstr "Supprimer le produit"
 
 #: Depends on design theme
 msgid "Depends on design theme"
-msgstr "DÃ©pendant du thÃ¨me de design"
+msgstr "Dépendant du thème de design"
 
 #: Design
 msgid "Design"
@@ -860,11 +860,11 @@ msgstr "Design"
 
 #: Details
 msgid "Details"
-msgstr "DÃ©tails"
+msgstr "Détails"
 
 #: Disabled
 msgid "Disabled"
-msgstr "DÃ©sactivÃ©"
+msgstr "Désactivé"
 
 #: Disallowed file type.
 msgid "Disallowed file type."
@@ -872,7 +872,7 @@ msgstr "Type de fichier interdit."
 
 #: Display in Suggested Terms
 msgid "Display in Suggested Terms"
-msgstr "Afficher dans les termes suggÃ©rÃ©s"
+msgstr "Afficher dans les termes suggérés"
 
 #: Double click on a group to rename it
 msgid "Double click on a group to rename it"
@@ -888,11 +888,11 @@ msgstr "Dupliquer"
 
 #: Duplicate website tier price customer group and quantity.
 msgid "Duplicate website tier price customer group and quantity."
-msgstr "Le prix par palier pour ce site web, ce groupe client et cette quantitÃ© existe dÃ©jÃ ."
+msgstr "Le prix par palier pour ce site web, ce groupe client et cette quantité existe déjà."
 
 #: Duplicate website, country and state tax found.
 msgid "Duplicate website, country and state tax found."
-msgstr "Une taxe pour ce site web, ce pays et cet Ã©tat existe dÃ©jÃ ."
+msgstr "Une taxe pour ce site web, ce pays et cet état existe déjà."
 
 #: E.g. {{media url=\"path/to/image.jpg\"}} {{skin url=\"path/to/picture.gif\"}}. Dynamic directives parsing impacts catalog performance.
 msgid "E.g. {{media url=\"path/to/image.jpg\"}} {{skin url=\"path/to/picture.gif\"}}. Dynamic directives parsing impacts catalog performance."
@@ -900,19 +900,19 @@ msgstr "Par ex. {{media url=\"path/to/image.jpg\"}} {{skin url=\"path/to/picture
 
 #: Edit
 msgid "Edit"
-msgstr "Ã‰diter"
+msgstr "Éditer"
 
 #: Edit Attribute Set '%s'
 msgid "Edit Attribute Set '%s'"
-msgstr "Ã‰diter le jeu d'attributs '%s'"
+msgstr "Éditer le jeu d'attributs '%s'"
 
 #: Edit Product Attribute
 msgid "Edit Product Attribute"
-msgstr "Ã‰diter l'attribut produit"
+msgstr "Éditer l'attribut produit"
 
 #: Edit Product Attribute \"%s\"
 msgid "Edit Product Attribute \"%s\""
-msgstr "Ã‰diter l'attribut produit \"%s\""
+msgstr "Éditer l'attribut produit \"%s\""
 
 #: Edit Search
 msgid "Edit Search"
@@ -920,11 +920,11 @@ msgstr "Modifier la recherche"
 
 #: Edit Search '%s'
 msgid "Edit Search '%s'"
-msgstr "Ã‰diter la recherche '%s'"
+msgstr "Éditer la recherche '%s'"
 
 #: Edit Set Name
 msgid "Edit Set Name"
-msgstr "Ã‰diter le nom du jeu d'attributs"
+msgstr "Éditer le nom du jeu d'attributs"
 
 #: Email
 msgid "Email"
@@ -932,11 +932,11 @@ msgstr "Email"
 
 #: Email to %s was not sent.
 msgid "Email to %s was not sent."
-msgstr "L'email n'a pas Ã©tÃ© envoyÃ© Ã  %s"
+msgstr "L'email n'a pas été envoyé à %s"
 
 #: Email to a Friend
 msgid "Email to a Friend"
-msgstr "Envoyer Ã  un ami"
+msgstr "Envoyer à un ami"
 
 #: Empty
 msgid "Empty"
@@ -944,19 +944,19 @@ msgstr "Vide"
 
 #: Enable Qty Increments
 msgid "Enable Qty Increments"
-msgstr "Activer les incrÃ©ments de quantitÃ©s"
+msgstr "Activer les incréments de quantités"
 
 #: Enable WYSIWYG
 msgid "Enable WYSIWYG"
-msgstr "Activer l'Ã©diteur WYSIWYG"
+msgstr "Activer l'éditeur WYSIWYG"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Error during retrieval of option value: %s
 msgid "Error during retrieval of option value: %s"
-msgstr "Erreur lors de la rÃ©cupÃ©ration de la valeur de l'option : %s"
+msgstr "Erreur lors de la récupération de la valeur de l'option : %s"
 
 #: Exclude
 msgid "Exclude"
@@ -964,19 +964,19 @@ msgstr "Exclure"
 
 #: Expand All
 msgid "Expand All"
-msgstr "Tout dÃ©velopper"
+msgstr "Tout développer"
 
 #: Failed
 msgid "Failed"
-msgstr "Ã‰chec"
+msgstr "Échec"
 
 #: Failed to move file: %s
 msgid "Failed to move file: %s"
-msgstr "Erreur lors du dÃ©placement du fichier : %s"
+msgstr "Erreur lors du déplacement du fichier : %s"
 
 #: Feature Products
 msgid "Feature Products"
-msgstr "Produits sÃ©lectionnÃ©s"
+msgstr "Produits sélectionnés"
 
 #: Field is not complete
 msgid "Field is not complete"
@@ -988,31 +988,31 @@ msgstr "Le format des options de fichier n'est pas valide."
 
 #: File upload failed
 msgid "File upload failed"
-msgstr "L'envoi de fichier a Ã©chouÃ©"
+msgstr "L'envoi de fichier a échoué"
 
 #: Filter model name must be declared.
 msgid "Filter model name must be declared."
-msgstr "Le nom de modÃ¨le de filtre doit Ãªtre spÃ©cifiÃ©."
+msgstr "Le nom de modèle de filtre doit être spécifié."
 
 #: Filter must be an object. Please set correct filter.
 msgid "Filter must be an object. Please set correct filter."
-msgstr "Le filtre doit Ãªtre un objet. Veuillez renseigner le filtre correctement."
+msgstr "Le filtre doit être un objet. Veuillez renseigner le filtre correctement."
 
 #: Filterable (no results)
 msgid "Filterable (no results)"
-msgstr "Filtrable (pas de rÃ©sultats)"
+msgstr "Filtrable (pas de résultats)"
 
 #: Filterable (with results)
 msgid "Filterable (with results)"
-msgstr "Filtrable (avec rÃ©sultats)"
+msgstr "Filtrable (avec résultats)"
 
 #: First Name
 msgid "First Name"
-msgstr "PrÃ©nom"
+msgstr "Prénom"
 
 #: Fixed
 msgid "Fixed"
-msgstr "FixÃ©"
+msgstr "Fixé"
 
 #: For internal use.
 msgid "For internal use."
@@ -1024,11 +1024,11 @@ msgstr "Frontend"
 
 #: Frontend Model
 msgid "Frontend Model"
-msgstr "ModÃ¨le du front office"
+msgstr "Modèle du front office"
 
 #: Frontend Properties
 msgid "Frontend Properties"
-msgstr "PropriÃ©tÃ©s du frontend"
+msgstr "Propriétés du frontend"
 
 #: Gallery
 msgid "Gallery"
@@ -1036,11 +1036,11 @@ msgstr "Galerie"
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: Get special price
 msgid "Get special price"
-msgstr "RÃ©cupÃ©rer le prix spÃ©cial"
+msgstr "Récupérer le prix spécial"
 
 #: Global
 msgid "Global"
@@ -1048,11 +1048,11 @@ msgstr "Global"
 
 #: Globally Editable
 msgid "Globally Editable"
-msgstr "Ã‰ditable globalement"
+msgstr "Éditable globalement"
 
 #: Go to Home Page
 msgid "Go to Home Page"
-msgstr "Aller Ã  la page d'accueil"
+msgstr "Aller à la page d'accueil"
 
 #: Grid
 msgid "Grid"
@@ -1060,7 +1060,7 @@ msgstr "Grille"
 
 #: Grouped Product
 msgid "Grouped Product"
-msgstr "Produit groupÃ©"
+msgstr "Produit groupé"
 
 #: Groups
 msgid "Groups"
@@ -1080,15 +1080,15 @@ msgstr "ID : %s"
 
 #: If empty, the Category Name will be used
 msgid "If empty, the Category Name will be used"
-msgstr "Si vide, le nom de la catÃ©gorie sera utilisÃ©"
+msgstr "Si vide, le nom de la catégorie sera utilisé"
 
 #: If empty, the Product Name will be used
 msgid "If empty, the Product Name will be used"
-msgstr "Si vide, le nom du produit sera utilisÃ©"
+msgstr "Si vide, le nom du produit sera utilisé"
 
 #: If you do not specify an option value for a specific store view then the default (Admin) value will be used.
 msgid "If you do not specify an option value for a specific store view then the default (Admin) value will be used."
-msgstr "Si vous ne spÃ©cifiez pas de valeur d'option pour une vue magasin spÃ©cifique, la valeur par dÃ©faut (admin) sera utilisÃ©e"
+msgstr "Si vous ne spécifiez pas de valeur d'option pour une vue magasin spécifique, la valeur par défaut (admin) sera utilisée"
 
 #: Image
 msgid "Image"
@@ -1096,7 +1096,7 @@ msgstr "Image"
 
 #: Image content is not valid base64 data.
 msgid "Image content is not valid base64 data."
-msgstr "Les donnÃ©es base64 de l'image ne sont pas valides."
+msgstr "Les données base64 de l'image ne sont pas valides."
 
 #: Image does not exist.
 msgid "Image does not exist."
@@ -1104,11 +1104,11 @@ msgstr "L'image n'existe pas."
 
 #: Image file was not found.
 msgid "Image file was not found."
-msgstr "Le fichier image n'a pas Ã©tÃ© trouvÃ©."
+msgstr "Le fichier image n'a pas été trouvé."
 
 #: Image type and information need to be specified for each store view.
 msgid "Image type and information need to be specified for each store view."
-msgstr "Le type et les informations d'image doivent Ãªtre spÃ©cifiÃ©s pour chaque vue magasin."
+msgstr "Le type et les informations d'image doivent être spécifiés pour chaque vue magasin."
 
 #: In Stock
 msgid "In Stock"
@@ -1124,7 +1124,7 @@ msgstr "TTC"
 
 #: Index product and categories URL rewrites
 msgid "Index product and categories URL rewrites"
-msgstr "RÃ©Ã©critures d'URLs de produits et catÃ©gories"
+msgstr "Réécritures d'URLs de produits et catégories"
 
 #: Index product attributes for layered navigation building
 msgid "Index product attributes for layered navigation building"
@@ -1136,7 +1136,7 @@ msgstr "Index des tarifs produit"
 
 #: Indexed category/products association
 msgid "Indexed category/products association"
-msgstr "Index des associations catÃ©gorie/produits"
+msgstr "Index des associations catégorie/produits"
 
 #: Info Column Options Wrapper
 msgid "Info Column Options Wrapper"
@@ -1160,11 +1160,11 @@ msgstr "Attribut invalide : %s."
 
 #: Invalid attribute option specified for attribute %s (%s), skipping the record.
 msgid "Invalid attribute option specified for attribute %s (%s), skipping the record."
-msgstr "L'option d'attribut est invalide pour %s (%s), ligne ignorÃ©e."
+msgstr "L'option d'attribut est invalide pour %s (%s), ligne ignorée."
 
 #: Invalid attribute set specified, skipping the record.
 msgid "Invalid attribute set specified, skipping the record."
-msgstr "Jeu d'attributs invalide, ligne ignorÃ©e."
+msgstr "Jeu d'attributs invalide, ligne ignorée."
 
 #: Invalid block: %s.
 msgid "Invalid block: %s."
@@ -1172,11 +1172,11 @@ msgstr "Bloc invalide : %s."
 
 #: Invalid category IDs.
 msgid "Invalid category IDs."
-msgstr "Identifiants de catÃ©gorie invalides."
+msgstr "Identifiants de catégorie invalides."
 
 #: Invalid category.
 msgid "Invalid category."
-msgstr "CatÃ©gorie invalide."
+msgstr "Catégorie invalide."
 
 #: Invalid image file type.
 msgid "Invalid image file type."
@@ -1188,23 +1188,23 @@ msgstr "Type d'image invalide."
 
 #: Invalid option ID specified for %s (%s), skipping the record.
 msgid "Invalid option ID specified for %s (%s), skipping the record."
-msgstr "L'identifiant d'option spÃ©cifiÃ© est invalide pour %s (%s), enregistrement ignorÃ©."
+msgstr "L'identifiant d'option spécifié est invalide pour %s (%s), enregistrement ignoré."
 
 #: Invalid product type specified, skipping the record.
 msgid "Invalid product type specified, skipping the record."
-msgstr "Le type de produit spÃ©cifiÃ© est invalide, enregistrement ignorÃ©."
+msgstr "Le type de produit spécifié est invalide, enregistrement ignoré."
 
 #: Invalid store specified
 msgid "Invalid store specified"
-msgstr "Magasin spÃ©cifiÃ© non valide"
+msgstr "Magasin spécifié non valide"
 
 #: Invalid store specified, skipping the record.
 msgid "Invalid store specified, skipping the record."
-msgstr "Magasin invalide, ligne ignorÃ©e."
+msgstr "Magasin invalide, ligne ignorée."
 
 #: Invalid tier prices. The product is not associated to the requested website.
 msgid "Invalid tier prices. The product is not associated to the requested website."
-msgstr "Prix par palier invalides. Le produit n'est pas associÃ© au site web demandÃ©."
+msgstr "Prix par palier invalides. Le produit n'est pas associé au site web demandé."
 
 #: Invalid transactional email code.
 msgid "Invalid transactional email code."
@@ -1216,7 +1216,7 @@ msgstr "Inventaire"
 
 #: Is Default
 msgid "Is Default"
-msgstr "Valeur par dÃ©faut"
+msgstr "Valeur par défaut"
 
 #: Is Required
 msgid "Is Required"
@@ -1224,23 +1224,23 @@ msgstr "Obligatoire"
 
 #: Items %s to %s of %s total
 msgid "Items %s to %s of %s total"
-msgstr "Articles <strong>%s</strong> Ã  <strong>%s</strong> sur un total de <strong>%s</strong>"
+msgstr "Articles <strong>%s</strong> à <strong>%s</strong> sur un total de <strong>%s</strong>"
 
 #: Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.
 msgid "Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store."
-msgstr "Les articles que vous ne voulez pas afficher dans le catalogue ou dans les rÃ©sultats de recherche doivent avoir le statut 'DÃ©sactivÃ©' dans le magasin souhaitÃ©."
+msgstr "Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité."
 
 #: Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.
 msgid "Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store."
-msgstr "Les articles que vous ne voulez pas afficher dans le catalogue ou dans les rÃ©sultats de recherche doivent avoir le statut 'DÃ©sactivÃ©' dans le magasin souhaitÃ©."
+msgstr "Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité."
 
 #: Keep your eyes open for our special Back to School items and save A LOT!
 msgid "Keep your eyes open for our special Back to School items and save A LOT!"
-msgstr "Ouvrez grand les yeux et Ã©conomisez un max !"
+msgstr "Ouvrez grand les yeux et économisez un max !"
 
 #: Label
 msgid "Label"
-msgstr "LibellÃ©"
+msgstr "Libellé"
 
 #: Last Name
 msgid "Last Name"
@@ -1248,7 +1248,7 @@ msgstr "Nom"
 
 #: Last Notification
 msgid "Last Notification"
-msgstr "DerniÃ¨re notification"
+msgstr "Dernière notification"
 
 #: Layered Navigation
 msgid "Layered Navigation"
@@ -1264,23 +1264,23 @@ msgstr "Ligne %d, Email : %s"
 
 #: Line %d, SKU: %s
 msgid "Line %d, SKU: %s"
-msgstr "Ligne %d, RÃ©f. : %s"
+msgstr "Ligne %d, Réf. : %s"
 
 #: Link (Related, Up sell, Cross sell)
 msgid "Link (Related, Up sell, Cross sell)"
-msgstr "Lien (produits apparentÃ©s, vente incitative, vente croisÃ©e)"
+msgstr "Lien (produits apparentés, vente incitative, vente croisée)"
 
 #: Link product does not exist.
 msgid "Link product does not exist."
-msgstr "Le produit liÃ© n'existe pas."
+msgstr "Le produit lié n'existe pas."
 
 #: Link to a Specified Category
 msgid "Link to a Specified Category"
-msgstr "Lien vers une catÃ©gorie spÃ©cifique"
+msgstr "Lien vers une catégorie spécifique"
 
 #: Link to a Specified Product
 msgid "Link to a Specified Product"
-msgstr "Lien vers un produit spÃ©cifique"
+msgstr "Lien vers un produit spécifique"
 
 #: List
 msgid "List"
@@ -1292,55 +1292,55 @@ msgstr "Mode d'affichage"
 
 #: List of Products that are set as New
 msgid "List of Products that are set as New"
-msgstr "Liste des produits configurÃ©s comme \"Nouveaux\""
+msgstr "Liste des produits configurés comme \"Nouveaux\""
 
 #: Manage Attribute Sets
 msgid "Manage Attribute Sets"
-msgstr "GÃ©rer les jeux d'attributs"
+msgstr "Gérer les jeux d'attributs"
 
 #: Manage Attributes
 msgid "Manage Attributes"
-msgstr "GÃ©rer les attributs"
+msgstr "Gérer les attributs"
 
 #: Manage Catalog Categories
 msgid "Manage Catalog Categories"
-msgstr "GÃ©rer les catÃ©gories du catalogue"
+msgstr "Gérer les catégories du catalogue"
 
 #: Manage Categories
 msgid "Manage Categories"
-msgstr "GÃ©rer les catÃ©gories"
+msgstr "Gérer les catégories"
 
 #: Manage Label / Options
 msgid "Manage Label / Options"
-msgstr "GÃ©rer les labels/les options"
+msgstr "Gérer les labels/les options"
 
 #: Manage Options (values of your attribute)
 msgid "Manage Options (values of your attribute)"
-msgstr "GÃ©rer les options (valeurs de vos attributs)"
+msgstr "Gérer les options (valeurs de vos attributs)"
 
 #: Manage Product Attributes
 msgid "Manage Product Attributes"
-msgstr "GÃ©rer les attributs produit"
+msgstr "Gérer les attributs produit"
 
 #: Manage Product Sets
 msgid "Manage Product Sets"
-msgstr "GÃ©rer les ensembles de produits"
+msgstr "Gérer les ensembles de produits"
 
 #: Manage Products
 msgid "Manage Products"
-msgstr "GÃ©rer les produits"
+msgstr "Gérer les produits"
 
 #: Manage Stock
 msgid "Manage Stock"
-msgstr "GÃ©rer les stocks"
+msgstr "Gérer les stocks"
 
 #: Manage Titles (Size, Color, etc.)
 msgid "Manage Titles (Size, Color, etc.)"
-msgstr "GÃ©rer les titres (Taille, couleur, etc.)"
+msgstr "Gérer les titres (Taille, couleur, etc.)"
 
 #: Max Characters
 msgid "Max Characters"
-msgstr "Nombre maxi de caractÃ¨res"
+msgstr "Nombre maxi de caractères"
 
 #: Maximal Depth
 msgid "Maximal Depth"
@@ -1352,7 +1352,7 @@ msgstr "Taille d'image maximum"
 
 #: Maximum Qty Allowed in Shopping Cart
 msgid "Maximum Qty Allowed in Shopping Cart"
-msgstr "QuantitÃ© maxi autorisÃ©e dans le panier"
+msgstr "Quantité maxi autorisée dans le panier"
 
 #: Maximum image height
 msgid "Maximum image height"
@@ -1364,7 +1364,7 @@ msgstr "Largeur maximum d'image"
 
 #: Maximum number of characters:
 msgid "Maximum number of characters:"
-msgstr "Nombre maxi de caractÃ¨res :"
+msgstr "Nombre maxi de caractères :"
 
 #: Media Image
 msgid "Media Image"
@@ -1376,15 +1376,15 @@ msgstr "Lignes minimum par page"
 
 #: Minimum Qty Allowed in Shopping Cart
 msgid "Minimum Qty Allowed in Shopping Cart"
-msgstr "QuantitÃ© mini autorisÃ©e dans le panier"
+msgstr "Quantité mini autorisée dans le panier"
 
 #: Minimum Qty for Item\'s Status to be Out of Stock
 msgid "Minimum Qty for Item\'s Status to be Out of Stock"
-msgstr "QuantitÃ© mini pour que l'article soit considÃ©rÃ© comme Ã©puisÃ©"
+msgstr "Quantité mini pour que l'article soit considéré comme épuisé"
 
 #: Missing SKU, skipping the record.
 msgid "Missing SKU, skipping the record."
-msgstr "RÃ©fÃ©rence (SKU) manquante, enregistrement ignorÃ©."
+msgstr "Référence (SKU) manquante, enregistrement ignoré."
 
 #: More Views
 msgid "More Views"
@@ -1392,19 +1392,19 @@ msgstr "Plus de vues"
 
 #: Move
 msgid "Move"
-msgstr "DÃ©placer"
+msgstr "Déplacer"
 
 #: Move category in tree
 msgid "Move category in tree"
-msgstr "DÃ©placer la catÃ©gorie dans l'arbre"
+msgstr "Déplacer la catégorie dans l'arbre"
 
 #: Must be in the allowed values list.
 msgid "Must be in the allowed values list."
-msgstr "Doit Ãªtre dans la liste des valeurs autorisÃ©es."
+msgstr "Doit être dans la liste des valeurs autorisées."
 
 #: N/A
 msgid "N/A"
-msgstr "N/A"
+msgstr "N/A "
 
 #: Name
 msgid "Name"
@@ -1436,7 +1436,7 @@ msgstr "Gabarit des nouveaux produits sous forme de liste"
 
 #: New Root Category
 msgid "New Root Category"
-msgstr "Nouvelle catÃ©gorie racine"
+msgstr "Nouvelle catégorie racine"
 
 #: New Search
 msgid "New Search"
@@ -1448,7 +1448,7 @@ msgstr "Nouveau nom de groupe"
 
 #: New Subcategory
 msgid "New Subcategory"
-msgstr "Nouvelle sous-catÃ©gorie"
+msgstr "Nouvelle sous-catégorie"
 
 #: Next
 msgid "Next"
@@ -1472,7 +1472,7 @@ msgstr "Aucune option n'est disponible pour ce produit."
 
 #: No product collections found.
 msgid "No product collections found."
-msgstr "Aucune collection de produits trouvÃ©e."
+msgstr "Aucune collection de produits trouvée."
 
 #: None
 msgid "None"
@@ -1488,11 +1488,11 @@ msgstr "Flux RSS de notification de stock"
 
 #: Notify for Quantity Below
 msgid "Notify for Quantity Below"
-msgstr "Notifier quand la quantitÃ© passe en dessous de"
+msgstr "Notifier quand la quantité passe en dessous de"
 
 #: Number of Products to Display
 msgid "Number of Products to Display"
-msgstr "Nombre de produits Ã  afficher"
+msgstr "Nombre de produits à afficher"
 
 #: Number of Uses
 msgid "Number of Uses"
@@ -1500,7 +1500,7 @@ msgstr "Nombre d'utilisations"
 
 #: Number of results<br/>(For the last time placed)
 msgid "Number of results<br/>(For the last time placed)"
-msgstr "Nombre de rÃ©sultats<br/>(lors de la derniÃ¨re requÃªte)"
+msgstr "Nombre de résultats<br/>(lors de la dernière requête)"
 
 #: OR
 msgid "OR"
@@ -1512,7 +1512,7 @@ msgstr "Ancien prix :"
 
 #: Option validation failed to add product to cart.
 msgid "Option validation failed to add product to cart."
-msgstr "La validation d'option a Ã©chouÃ© lors de l'ajout du produit au panier."
+msgstr "La validation d'option a échoué lors de l'ajout du produit au panier."
 
 #: Option:
 msgid "Option:"
@@ -1520,11 +1520,11 @@ msgstr "Option :"
 
 #: Options Control
 msgid "Options Control"
-msgstr "ContrÃ´le des options"
+msgstr "Contrôle des options"
 
 #: Options is required
 msgid "Options is required"
-msgstr "Au moins une option doit Ãªtre crÃ©Ã©e"
+msgstr "Au moins une option doit être créée"
 
 #: Our customer service is available 24/7. Call us at (555) 555-0123.
 msgid "Our customer service is available 24/7. Call us at (555) 555-0123."
@@ -1532,11 +1532,11 @@ msgstr "Notre service client est disponible 24h/24 et 7j/7. Appelez-nous au 01 0
 
 #: Out of Stock
 msgid "Out of Stock"
-msgstr "Ã‰puisÃ©"
+msgstr "Épuisé"
 
 #: Out of stock
 msgid "Out of stock"
-msgstr "Ã‰puisÃ©"
+msgstr "Épuisé"
 
 #: PM
 msgid "PM"
@@ -1544,11 +1544,11 @@ msgstr "PM"
 
 #: Page Title Separator
 msgid "Page Title Separator"
-msgstr "SÃ©parateur de titre de page"
+msgstr "Séparateur de titre de page"
 
 #: Parent Category
 msgid "Parent Category"
-msgstr "CatÃ©gorie parente"
+msgstr "Catégorie parente"
 
 #: Pending
 msgid "Pending"
@@ -1564,15 +1564,15 @@ msgstr "Pourcentage"
 
 #: Please add rows to option.
 msgid "Please add rows to option."
-msgstr "Veuillez ajouter des lignes Ã  l'option"
+msgstr "Veuillez ajouter des lignes à l'option"
 
 #: Please be careful as once you click on the row it will load package data form the selected file and all unsaved form data will be lost.
 msgid "Please be careful as once you click on the row it will load package data form the selected file and all unsaved form data will be lost."
-msgstr "Soyez vigilant, dÃ¨s que vous cliquerez sur la ligne, les donnÃ©es du package seront chargÃ©es et toutes les donnÃ©es non sauvegardÃ©es du formulaire seront perdues."
+msgstr "Soyez vigilant, dès que vous cliquerez sur la ligne, les données du package seront chargées et toutes les données non sauvegardées du formulaire seront perdues."
 
 #: Please click on the Close Window button if it is not closed automatically.
 msgid "Please click on the Close Window button if it is not closed automatically."
-msgstr "Cliquez sur le bouton 'Fermer la fenÃªtre' si celle-ci ne se ferme pas automatiquement."
+msgstr "Cliquez sur le bouton 'Fermer la fenêtre' si celle-ci ne se ferme pas automatiquement."
 
 #: Please enter a new group name
 msgid "Please enter a new group name"
@@ -1580,55 +1580,55 @@ msgstr "Veuillez entrer un nouveau nom de groupe"
 
 #: Please refresh \"Catalog URL Rewrites\" and \"Product Attributes\" in System -> <a href=\"%s\">Index Management</a>
 msgid "Please refresh \"Catalog URL Rewrites\" and \"Product Attributes\" in System -> <a href=\"%s\">Index Management</a>"
-msgstr "Rafraichissez \"RÃ©Ã©criture d'URLs du catalogue\" et \"Attributs de produits\" dans SystÃ¨me -> <a href=\"%s\">Gestion des indexes</a>"
+msgstr "Rafraichissez \"Réécriture d'URLs du catalogue\" et \"Attributs de produits\" dans Système -> <a href=\"%s\">Gestion des indexes</a>"
 
 #: Please select a static block ...
 msgid "Please select a static block ..."
-msgstr "SÃ©lectionnez un bloc statique"
+msgstr "Sélectionnez un bloc statique"
 
 #: Please select items.
 msgid "Please select items."
-msgstr "SÃ©lectionnez des Ã©lÃ©ments."
+msgstr "Sélectionnez des éléments."
 
 #: Please select one or more attributes.
 msgid "Please select one or more attributes."
-msgstr "SÃ©lectionnez un ou plusieurs attributs"
+msgstr "Sélectionnez un ou plusieurs attributs"
 
 #: Please select product(s).
 msgid "Please select product(s)."
-msgstr "SÃ©lectionnez un ou des poduits."
+msgstr "Sélectionnez un ou des poduits."
 
 #: Please select products for attributes update
 msgid "Please select products for attributes update"
-msgstr "SÃ©lectionnez les produits pour la mise Ã  jour des attributs"
+msgstr "Sélectionnez les produits pour la mise à jour des attributs"
 
 #: Please specify date required option(s).
 msgid "Please specify date required option(s)."
-msgstr "SpÃ©cifiez la ou les option(s) de date obligatoire(s)."
+msgstr "Spécifiez la ou les option(s) de date obligatoire(s)."
 
 #: Please specify the product required option(s)
 msgid "Please specify the product required option(s)"
-msgstr "Veuillez spÃ©cifier la (les) option(s) obligatoire(s) de produit"
+msgstr "Veuillez spécifier la (les) option(s) obligatoire(s) de produit"
 
 #: Please specify the product required option(s).
 msgid "Please specify the product required option(s)."
-msgstr "SpÃ©cifiez la ou les option(s) obligatoire(s)."
+msgstr "Spécifiez la ou les option(s) obligatoire(s)."
 
 #: Please specify the product\'s option(s).
 msgid "Please specify the product\'s option(s)."
-msgstr "Veuillez spÃ©cifier les options de produit."
+msgstr "Veuillez spécifier les options de produit."
 
 #: Please specify the product\'s required option(s).
 msgid "Please specify the product\'s required option(s)."
-msgstr "Veuillez spÃ©cifier les options obligatoires du produit."
+msgstr "Veuillez spécifier les options obligatoires du produit."
 
 #: Please specify the quantity of product(s).
 msgid "Please specify the quantity of product(s)."
-msgstr "SpÃ©cifiez la quantitÃ© de produit(s)."
+msgstr "Spécifiez la quantité de produit(s)."
 
 #: Please specify time required option(s).
 msgid "Please specify time required option(s)."
-msgstr "SpÃ©cifiez la ou les option(s) d'heure obligatoire(s)."
+msgstr "Spécifiez la ou les option(s) d'heure obligatoire(s)."
 
 #: Position
 msgid "Position"
@@ -1644,11 +1644,11 @@ msgstr "Position de l'attribut dans le bloc de navigation par filtres"
 
 #: Prev
 msgid "Prev"
-msgstr "PrÃ©cÃ©dent"
+msgstr "Précédent"
 
 #: Previous
 msgid "Previous"
-msgstr "PrÃ©cÃ©dent"
+msgstr "Précédent"
 
 #: Price
 msgid "Price"
@@ -1668,7 +1668,7 @@ msgstr "Prix non disponible"
 
 #: Price values for options should be specified in system base currency.
 msgid "Price values for options should be specified in system base currency."
-msgstr "Les valeurs de prix pour les options doivent Ãªtre spÃ©cifiÃ© dans la devise de base."
+msgstr "Les valeurs de prix pour les options doivent être spécifié dans la devise de base."
 
 #: Price:
 msgid "Price:"
@@ -1704,7 +1704,7 @@ msgstr "Attributs de produit"
 
 #: Product Categories
 msgid "Product Categories"
-msgstr "CatÃ©gories du produit"
+msgstr "Catégories du produit"
 
 #: Product Description
 msgid "Product Description"
@@ -1712,15 +1712,15 @@ msgstr "Description du produit"
 
 #: Product Extra Info
 msgid "Product Extra Info"
-msgstr "Informations de produit supplÃ©mentaires"
+msgstr "Informations de produit supplémentaires"
 
 #: Product Flat Data
 msgid "Product Flat Data"
-msgstr "DonnÃ©es fixes de produit"
+msgstr "Données fixes de produit"
 
 #: Product Image Placeholders
 msgid "Product Image Placeholders"
-msgstr "Emplacements de l'image par dÃ©faut des produits"
+msgstr "Emplacements de l'image par défaut des produits"
 
 #: Product Image Watermarks
 msgid "Product Image Watermarks"
@@ -1772,7 +1772,7 @@ msgstr "Commentaires"
 
 #: Product Tags
 msgid "Product Tags"
-msgstr "Mots clÃ©s du produit"
+msgstr "Mots clés du produit"
 
 #: Product Tier Price API
 msgid "Product Tier Price API"
@@ -1788,7 +1788,7 @@ msgstr "Suffixe d'URL de produit"
 
 #: Product View Extra Hint
 msgid "Product View Extra Hint"
-msgstr "Astuce supplÃ©mentaire de vue de produit"
+msgstr "Astuce supplémentaire de vue de produit"
 
 #: Product attribute sets API
 msgid "Product attribute sets API"
@@ -1804,7 +1804,7 @@ msgstr "Collection de produits attendue."
 
 #: Product links API (related, cross sells, up sells)
 msgid "Product links API (related, cross sells, up sells)"
-msgstr "API des liens de produit (produits apparentÃ©s, ventes croisÃ©es, ventes incitatives)"
+msgstr "API des liens de produit (produits apparentés, ventes croisées, ventes incitatives)"
 
 #: Product types API
 msgid "Product types API"
@@ -1812,7 +1812,7 @@ msgstr "API de types de produit"
 
 #: Product with this combination of attributes already associated to configurable.
 msgid "Product with this combination of attributes already associated to configurable."
-msgstr "Un produit avec cette combinaison d'attributs est dÃ©jÃ  associÃ© Ã  ce produit configurable."
+msgstr "Un produit avec cette combinaison d'attributs est déjà associé à ce produit configurable."
 
 #: Products
 msgid "Products"
@@ -1828,7 +1828,7 @@ msgstr "Informations produits"
 
 #: Products Reviews
 msgid "Products Reviews"
-msgstr "Produits commentÃ©s"
+msgstr "Produits commentés"
 
 #: Products Sitemap
 msgid "Products Sitemap"
@@ -1840,51 +1840,51 @@ msgstr "Produits seulement"
 
 #: Products per Page on Grid Allowed Values
 msgid "Products per Page on Grid Allowed Values"
-msgstr "Valeurs autorisÃ©es pour le nombre de produits par page dans l'affichage en grille"
+msgstr "Valeurs autorisées pour le nombre de produits par page dans l'affichage en grille"
 
 #: Products per Page on Grid Default Value
 msgid "Products per Page on Grid Default Value"
-msgstr "Valeur par dÃ©faut pour le nombre de produits par page dans l'affichage en grille"
+msgstr "Valeur par défaut pour le nombre de produits par page dans l'affichage en grille"
 
 #: Products per Page on List Allowed Values
 msgid "Products per Page on List Allowed Values"
-msgstr "Valeurs autorisÃ©es pour le nombre de produits par page dans l'affichage en liste"
+msgstr "Valeurs autorisées pour le nombre de produits par page dans l'affichage en liste"
 
 #: Products per Page on List Default Value
 msgid "Products per Page on List Default Value"
-msgstr "Valeur par dÃ©faut pour le nombre de produits par page dans l'affichage en liste"
+msgstr "Valeur par défaut pour le nombre de produits par page dans l'affichage en liste"
 
 #: Properties
 msgid "Properties"
-msgstr "PropriÃ©tÃ©s"
+msgstr "Propriétés"
 
 #: Qty
 msgid "Qty"
-msgstr "QtÃ©"
+msgstr "Qté"
 
 #: Qty Increments
 msgid "Qty Increments"
-msgstr "IncrÃ©ments de quantitÃ©s"
+msgstr "Incréments de quantités"
 
 #: Qty Uses Decimals
 msgid "Qty Uses Decimals"
-msgstr "La quantitÃ© utilise des dÃ©cimales"
+msgstr "La quantité utilise des décimales"
 
 #: Qty for Item's Status to become Out of Stock
 msgid "Qty for Item's Status to become Out of Stock"
-msgstr "QuantitÃ© pour que l'article soit considÃ©rÃ© comme Ã©puisÃ©"
+msgstr "Quantité pour que l'article soit considéré comme épuisé"
 
 #: Qty:
 msgid "Qty:"
-msgstr "QtÃ© :"
+msgstr "Qté :"
 
 #: Quantity
 msgid "Quantity"
-msgstr "QuantitÃ©"
+msgstr "Quantité"
 
 #: Quick Create
 msgid "Quick Create"
-msgstr "CrÃ©ation rapide"
+msgstr "Création rapide"
 
 #: Quick Overview
 msgid "Quick Overview"
@@ -1892,7 +1892,7 @@ msgstr "Description rapide"
 
 #: Quick simple product creation
 msgid "Quick simple product creation"
-msgstr "CrÃ©ation rapide de produit simple"
+msgstr "Création rapide de produit simple"
 
 #: Records for \"
 msgid "Records for \""
@@ -1912,7 +1912,7 @@ msgstr "Prix normal :"
 
 #: Related Products
 msgid "Related Products"
-msgstr "Produits apparentÃ©s"
+msgstr "Produits apparentés"
 
 #: Remove
 msgid "Remove"
@@ -1924,7 +1924,7 @@ msgstr "Supprimer le produit des sites web"
 
 #: Remove This Item
 msgid "Remove This Item"
-msgstr "Supprimer cet Ã©lÃ©ment"
+msgstr "Supprimer cet élément"
 
 #: Remove product assignment
 msgid "Remove product assignment"
@@ -1940,103 +1940,103 @@ msgstr "Supprimer le lien de produit"
 
 #: Reorganize EAV category structure to flat structure
 msgid "Reorganize EAV category structure to flat structure"
-msgstr "RÃ©organise la structure de catÃ©gorie EAV en une structure fixe"
+msgstr "Réorganise la structure de catégorie EAV en une structure fixe"
 
 #: Reorganize EAV product structure to flat structure
 msgid "Reorganize EAV product structure to flat structure"
-msgstr "RÃ©organise la structure de produit EAV en une structure fixe"
+msgstr "Réorganise la structure de produit EAV en une structure fixe"
 
 #: Reset
 msgid "Reset"
-msgstr "RÃ©initialiser"
+msgstr "Réinitialiser"
 
 #: Results
 msgid "Results"
-msgstr "RÃ©sultats"
+msgstr "Résultats"
 
 #: Retrieve attribute data
 msgid "Retrieve attribute data"
-msgstr "RÃ©cupÃ©rer les donnÃ©es de l'attribut"
+msgstr "Récupérer les données de l'attribut"
 
 #: Retrieve attribute list
 msgid "Retrieve attribute list"
-msgstr "RÃ©cupÃ©rer la liste d'attributs"
+msgstr "Récupérer la liste d'attributs"
 
 #: Retrieve attribute options
 msgid "Retrieve attribute options"
-msgstr "RÃ©cupÃ©rer les options d'attribut"
+msgstr "Récupérer les options d'attribut"
 
 #: Retrieve categories tree
 msgid "Retrieve categories tree"
-msgstr "RÃ©cupÃ©rer l'arbre des catÃ©gories"
+msgstr "Récupérer l'arbre des catégories"
 
 #: Retrieve category attributes
 msgid "Retrieve category attributes"
-msgstr "RÃ©cupÃ©rer les attributs de catÃ©gorie"
+msgstr "Récupérer les attributs de catégorie"
 
 #: Retrieve category data
 msgid "Retrieve category data"
-msgstr "RÃ©cupÃ©rer les donnÃ©es de catÃ©gorie"
+msgstr "Récupérer les données de catégorie"
 
 #: Retrieve hierarchical tree
 msgid "Retrieve hierarchical tree"
-msgstr "RÃ©cupÃ©rer l'arbre hiÃ©rarchique"
+msgstr "Récupérer l'arbre hiérarchique"
 
 #: Retrieve linked products
 msgid "Retrieve linked products"
-msgstr "RÃ©cupÃ©rer les produits liÃ©s"
+msgstr "Récupérer les produits liés"
 
 #: Retrieve list of assigned products
 msgid "Retrieve list of assigned products"
-msgstr "RÃ©cupÃ©rer la liste des produits assignÃ©s"
+msgstr "Récupérer la liste des produits assignés"
 
 #: Retrieve one level of categories by website/store view/parent category
 msgid "Retrieve one level of categories by website/store view/parent category"
-msgstr "RÃ©cupÃ©rer un niveau des catÃ©gories par site web/magasin/catÃ©gorie parente"
+msgstr "Récupérer un niveau des catégories par site web/magasin/catégorie parente"
 
 #: Retrieve product
 msgid "Retrieve product"
-msgstr "RÃ©cupÃ©rer le produit"
+msgstr "Récupérer le produit"
 
 #: Retrieve product attribute sets
 msgid "Retrieve product attribute sets"
-msgstr "RÃ©cupÃ©rer les jeux d'attributs de produit"
+msgstr "Récupérer les jeux d'attributs de produit"
 
 #: Retrieve product image
 msgid "Retrieve product image"
-msgstr "RÃ©cupÃ©rer l'image de produit"
+msgstr "Récupérer l'image de produit"
 
 #: Retrieve product image list
 msgid "Retrieve product image list"
-msgstr "RÃ©cupÃ©rer la liste des images de produit"
+msgstr "Récupérer la liste des images de produit"
 
 #: Retrieve product image types
 msgid "Retrieve product image types"
-msgstr "RÃ©cupÃ©rer les types d'images de produit"
+msgstr "Récupérer les types d'images de produit"
 
 #: Retrieve product link type attributes
 msgid "Retrieve product link type attributes"
-msgstr "RÃ©cupÃ©rer les attributs de type de lien de produit"
+msgstr "Récupérer les attributs de type de lien de produit"
 
 #: Retrieve product link types
 msgid "Retrieve product link types"
-msgstr "RÃ©cupÃ©rer les types de liens de produit"
+msgstr "Récupérer les types de liens de produit"
 
 #: Retrieve product tier prices
 msgid "Retrieve product tier prices"
-msgstr "RÃ©cupÃ©rer les prix par paliers du produit"
+msgstr "Récupérer les prix par paliers du produit"
 
 #: Retrieve product types
 msgid "Retrieve product types"
-msgstr "RÃ©cupÃ©rer les types de produit"
+msgstr "Récupérer les types de produit"
 
 #: Retrieve products data
 msgid "Retrieve products data"
-msgstr "RÃ©cupÃ©rer les donnÃ©es de produits"
+msgstr "Récupérer les données de produits"
 
 #: Retrieve products list by filters
 msgid "Retrieve products list by filters"
-msgstr "RÃ©cupÃ©rer une liste filtrÃ©e de produits"
+msgstr "Récupérer une liste filtrée de produits"
 
 #: Reviews
 msgid "Reviews"
@@ -2044,7 +2044,7 @@ msgstr "Commentaires"
 
 #: Roll Over for preview
 msgid "Roll Over for preview"
-msgstr "Survoler pour avoir un aperÃ§u"
+msgstr "Survoler pour avoir un aperçu"
 
 #: Root
 msgid "Root"
@@ -2052,7 +2052,7 @@ msgstr "Racine"
 
 #: SKU
 msgid "SKU"
-msgstr "RÃ©f."
+msgstr "Réf."
 
 #: Save
 msgid "Save"
@@ -2068,7 +2068,7 @@ msgstr "Sauvegarder le jeu d'attributs"
 
 #: Save Category
 msgid "Save Category"
-msgstr "Sauvegarder la catÃ©gorie"
+msgstr "Sauvegarder la catégorie"
 
 #: Save Search
 msgid "Save Search"
@@ -2076,15 +2076,15 @@ msgstr "Sauvegarder la recherche"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Saved %d record(s)
 msgid "Saved %d record(s)"
-msgstr "%d enregistrement(s) sauvegardÃ©(s)"
+msgstr "%d enregistrement(s) sauvegardé(s)"
 
 #: Scope
 msgid "Scope"
-msgstr "PortÃ©e"
+msgstr "Portée"
 
 #: Search
 msgid "Search"
@@ -2104,7 +2104,7 @@ msgstr "Termes de recherche"
 
 #: Search Term with such search query already exists.
 msgid "Search Term with such search query already exists."
-msgstr "Il existe dÃ©jÃ  un terme de recherche avec cette requÃªte."
+msgstr "Il existe déjà un terme de recherche avec cette requête."
 
 #: Searchable
 msgid "Searchable"
@@ -2112,11 +2112,11 @@ msgstr "Utiliser dans la recherche"
 
 #: Select Category...
 msgid "Select Category..."
-msgstr "Choisir une catÃ©gorie..."
+msgstr "Choisir une catégorie..."
 
 #: Select Configurable Attributes
 msgid "Select Configurable Attributes "
-msgstr "SÃ©lectionnez les attributs configurables "
+msgstr "Sélectionnez les attributs configurables "
 
 #: Select Product...
 msgid "Select Product..."
@@ -2128,11 +2128,11 @@ msgstr "Choisissez un type d'option"
 
 #: Select type options required values rows.
 msgid "Select type options required values rows."
-msgstr "SÃ©lectionner les lignes des valeurs obligatoires des options"
+msgstr "Sélectionner les lignes des valeurs obligatoires des options"
 
 #: Selected Product Types
 msgid "Selected Product Types"
-msgstr "Types de produit sÃ©lectionnÃ©s"
+msgstr "Types de produit sélectionnés"
 
 #: Selected configuration is not available.
 msgid "Selected configuration is not available."
@@ -2148,7 +2148,7 @@ msgstr "Par ordre croissant"
 
 #: Set Descending Direction
 msgid "Set Descending Direction"
-msgstr "Par ordre dÃ©croissant"
+msgstr "Par ordre décroissant"
 
 #: Set Name
 msgid "Set Name"
@@ -2156,23 +2156,23 @@ msgstr "Nom du jeu d'attributs"
 
 #: Set Root Category for Store
 msgid "Set Root Category for Store"
-msgstr "Renseigner la catÃ©gorie racine pour la boutique"
+msgstr "Renseigner la catégorie racine pour la boutique"
 
 #: Set root category for this store in the <a href=\"%s\">configuration</a>
 msgid "Set root category for this store in the <a href=\"%s\">configuration</a>"
-msgstr "Choisir la catÃ©gorie racine pour ce magasin dans la <a href=\"%s\">configuration</a>"
+msgstr "Choisir la catégorie racine pour ce magasin dans la <a href=\"%s\">configuration</a>"
 
 #: Set special price
 msgid "Set special price"
-msgstr "Fixer un prix spÃ©cial"
+msgstr "Fixer un prix spécial"
 
 #: Set/Get current store view
 msgid "Set/Get current store view"
-msgstr "Renseigner/rÃ©cupÃ©rer la vue magasin en cours"
+msgstr "Renseigner/récupérer la vue magasin en cours"
 
 #: Settings
 msgid "Settings"
-msgstr "ParamÃ©trage"
+msgstr "Paramétrage"
 
 #: Shop By
 msgid "Shop By"
@@ -2188,7 +2188,7 @@ msgstr "Afficher"
 
 #: Show Details
 msgid "Show Details"
-msgstr "Afficher les dÃ©tails"
+msgstr "Afficher les détails"
 
 #: Show Tags
 msgid "Show Tags"
@@ -2208,35 +2208,35 @@ msgstr "Plan de site"
 
 #: Skip import row, is not valid value \"%s\" for field \"%s\"
 msgid "Skip import row, is not valid value \"%s\" for field \"%s\""
-msgstr "Ligne ignorÃ©e, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
+msgstr "Ligne ignorée, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
 
 #: Skip import row, required field \"%s\" for the new customer is not defined.
 msgid "Skip import row, required field \"%s\" for the new customer is not defined."
-msgstr "Ligne ignorÃ©e, le champ obligatoire \"%s\" pour le client n'est pas renseignÃ©."
+msgstr "Ligne ignorée, le champ obligatoire \"%s\" pour le client n'est pas renseigné."
 
 #: Skip import row, the value \"%s\" is invalid for field \"%s\"
 msgid "Skip import row, the value \"%s\" is invalid for field \"%s\""
-msgstr "Ligne ignorÃ©e, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
+msgstr "Ligne ignorée, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
 
 #: Skipping import row, required field \"%s\" for new products is not defined.
 msgid "Skipping import row, required field \"%s\" for new products is not defined."
-msgstr "Ligne ignorÃ©e, le champ obligatoire \"%s\" pour le produit n'est pas renseignÃ©."
+msgstr "Ligne ignorée, le champ obligatoire \"%s\" pour le produit n'est pas renseigné."
 
 #: Skipping import row, required field \"%s\" is not defined.
 msgid "Skipping import row, required field \"%s\" is not defined."
-msgstr "Ligne ignorÃ©e, le champ obligatoire \"%s\" n'est pas dÃ©fini."
+msgstr "Ligne ignorée, le champ obligatoire \"%s\" n'est pas défini."
 
 #: Skipping import row, store \"%s\" field does not exist.
 msgid "Skipping import row, store \"%s\" field does not exist."
-msgstr "Ligne ignorÃ©e, le champ \"%s\" du magasin n'existe pas."
+msgstr "Ligne ignorée, le champ \"%s\" du magasin n'existe pas."
 
 #: Skipping import row, the value \"%s\" is not valid for the \"%s\" field.
 msgid "Skipping import row, the value \"%s\" is not valid for the \"%s\" field."
-msgstr "Ligne ignorÃ©e, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
+msgstr "Ligne ignorée, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
 
 #: Some of the processed products have no SKU value. Please fill it.
 msgid "Some of the processed products have no SKU value. Please fill it."
-msgstr "Certains produits traitÃ©s n'ont pas de rÃ©fÃ©rence (sku). Veuillez le renseigner."
+msgstr "Certains produits traités n'ont pas de référence (sku). Veuillez le renseigner."
 
 #: Some of the products below do not have all the required options. Please remove them and add again with all the required options.
 msgid "Some of the products below do not have all the required options. Please remove them and add again with all the required options."
@@ -2252,23 +2252,23 @@ msgstr "Ordre de tri"
 
 #: Source Model
 msgid "Source Model"
-msgstr "ModÃ¨le source"
+msgstr "Modèle source"
 
 #: Special Expires On: %s
 msgid "Special Expires On: %s"
-msgstr "Prix spÃ©cial jusqu'au : %s"
+msgstr "Prix spécial jusqu'au : %s"
 
 #: Special Price:
 msgid "Special Price:"
-msgstr "Prix spÃ©cial :"
+msgstr "Prix spécial :"
 
 #: Special Price: %s
 msgid "Special Price: %s"
-msgstr "Prix spÃ©cial : %s"
+msgstr "Prix spécial : %s"
 
 #: Starting at:
 msgid "Starting at:"
-msgstr "Ã€ partir de :"
+msgstr "À partir de :"
 
 #: Static
 msgid "Static"
@@ -2288,7 +2288,7 @@ msgstr "Statut"
 
 #: Stock Availability
 msgid "Stock Availability"
-msgstr "DisponibilitÃ©"
+msgstr "Disponibilité"
 
 #: Store
 msgid "Store"
@@ -2300,7 +2300,7 @@ msgstr "Vue magasin"
 
 #: Stretch
 msgid "Stretch"
-msgstr "Ã‰tirer"
+msgstr "Étirer"
 
 #: Subscribe to RSS Feed
 msgid "Subscribe to RSS Feed"
@@ -2316,11 +2316,11 @@ msgstr "Synonyme de"
 
 #: System Properties
 msgid "System Properties"
-msgstr "PropriÃ©tÃ©s systÃ¨me"
+msgstr "Propriétés système"
 
 #: Tag Name
 msgid "Tag Name"
-msgstr "Nom du mot clÃ©"
+msgstr "Nom du mot clé"
 
 #: Tax
 msgid "Tax"
@@ -2336,79 +2336,79 @@ msgstr "Texte"
 
 #: The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module.
 msgid "The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module."
-msgstr "Le module de catalogue Ã  plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. RÃ©duisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
+msgstr "Le module de catalogue à plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. Réduisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
 
 #: The attribute model is not defined
 msgid "The attribute model is not defined"
-msgstr "Le modÃ¨le d'attributs n'est pas dÃ©fini."
+msgstr "Le modèle d'attributs n'est pas défini."
 
 #: The attribute set has been saved.
 msgid "The attribute set has been saved."
-msgstr "Le jeu d'attributs a Ã©tÃ© sauvegardÃ©."
+msgstr "Le jeu d'attributs a été sauvegardé."
 
 #: The base directory to upload image file is not specified.
 msgid "The base directory to upload image file is not specified."
-msgstr "Le rÃ©pertoire de base pour uploader l'image n'est pas spÃ©cifiÃ©."
+msgstr "Le répertoire de base pour uploader l'image n'est pas spécifié."
 
 #: The category has been deleted.
 msgid "The category has been deleted."
-msgstr "La catÃ©gorie a Ã©tÃ© supprimÃ©e."
+msgstr "La catégorie a été supprimée."
 
 #: The category has been saved.
 msgid "The category has been saved."
-msgstr "La catÃ©gorie a Ã©tÃ© enregistrÃ©e."
+msgstr "La catégorie a été enregistrée."
 
 #: The comparison list was cleared.
 msgid "The comparison list was cleared."
-msgstr "La liste de comparaison a Ã©tÃ© vidÃ©e."
+msgstr "La liste de comparaison a été vidée."
 
 #: The email template is not specified by administrator.
 msgid "The email template is not specified by administrator."
-msgstr "Le gabarit d'email n'a pas Ã©tÃ© spÃ©cifiÃ© par l'administrateur."
+msgstr "Le gabarit d'email n'a pas été spécifié par l'administrateur."
 
 #: The filters must be an array.
 msgid "The filters must be an array."
-msgstr "Les filtres doivent Ãªtre sous forme de tableau."
+msgstr "Les filtres doivent être sous forme de tableau."
 
 #: The image contents is not valid base64 data.
 msgid "The image contents is not valid base64 data."
-msgstr "Le contenu de l'image ne comporte pas des donnÃ©es base64 correctes."
+msgstr "Le contenu de l'image ne comporte pas des données base64 correctes."
 
 #: The image is not specified.
 msgid "The image is not specified."
-msgstr "L'image n'est pas spÃ©cifiÃ©e."
+msgstr "L'image n'est pas spécifiée."
 
 #: The product %s has been added to comparison list.
 msgid "The product %s has been added to comparison list."
-msgstr "Le produit %s a Ã©tÃ© ajoutÃ© Ã  la liste de comparaison."
+msgstr "Le produit %s a été ajouté à la liste de comparaison."
 
 #: The product %s has been removed from comparison list.
 msgid "The product %s has been removed from comparison list."
-msgstr "Le produit %s a Ã©tÃ© enlevÃ© de la liste de comparaison."
+msgstr "Le produit %s a été enlevé de la liste de comparaison."
 
 #: The product attribute has been deleted.
 msgid "The product attribute has been deleted."
-msgstr "L'attribut de produit a Ã©tÃ© effacÃ©."
+msgstr "L'attribut de produit a été effacé."
 
 #: The product attribute has been saved.
 msgid "The product attribute has been saved."
-msgstr "L'attribut de produit a Ã©tÃ© sauvegardÃ©."
+msgstr "L'attribut de produit a été sauvegardé."
 
 #: The product has been created.
 msgid "The product has been created."
-msgstr "Le produit a Ã©tÃ© crÃ©Ã©."
+msgstr "Le produit a été créé."
 
 #: The product has been deleted.
 msgid "The product has been deleted."
-msgstr "Le produit a Ã©tÃ© supprimÃ©."
+msgstr "Le produit a été supprimé."
 
 #: The product has been duplicated.
 msgid "The product has been duplicated."
-msgstr "Le produit a Ã©tÃ© dupliquÃ©."
+msgstr "Le produit a été dupliqué."
 
 #: The product has been saved.
 msgid "The product has been saved."
-msgstr "Le produit a Ã©tÃ© sauvegardÃ©."
+msgstr "Le produit a été sauvegardé."
 
 #: The product has required options
 msgid "The product has required options"
@@ -2416,19 +2416,19 @@ msgstr "Le produit a des options obligatoires."
 
 #: The review has been deleted
 msgid "The review has been deleted"
-msgstr "Le commentaire a Ã©tÃ© supprimÃ©."
+msgstr "Le commentaire a été supprimé."
 
 #: The review has been saved.
 msgid "The review has been saved."
-msgstr "Le commentaire a Ã©tÃ© sauvegardÃ©."
+msgstr "Le commentaire a été sauvegardé."
 
 #: The review was removed by another user or does not exist.
 msgid "The review was removed by another user or does not exist."
-msgstr "Le commentaire a Ã©tÃ© supprimÃ© par un autre utilisateur ou n'existe pas."
+msgstr "Le commentaire a été supprimé par un autre utilisateur ou n'existe pas."
 
 #: The search was deleted.
 msgid "The search was deleted."
-msgstr "La recherche a Ã©tÃ© supprimÃ©e."
+msgstr "La recherche a été supprimée."
 
 #: The text is too long
 msgid "The text is too long"
@@ -2448,7 +2448,7 @@ msgstr "Aucun client pour cette alerte."
 
 #: There are no products matching the selection.
 msgid "There are no products matching the selection."
-msgstr "Aucun produit ne correspond Ã  la sÃ©lection"
+msgstr "Aucun produit ne correspond à la sélection"
 
 #: This Attribute no longer exists
 msgid "This Attribute no longer exists"
@@ -2456,19 +2456,19 @@ msgstr "Cet attribut n'existe plus."
 
 #: This attribute cannot be deleted.
 msgid "This attribute cannot be deleted."
-msgstr "Cet attribut ne peut pas Ãªtre supprimÃ©."
+msgstr "Cet attribut ne peut pas être supprimé."
 
 #: This attribute cannot be edited.
 msgid "This attribute cannot be edited."
-msgstr "Cet attribut ne peut pas Ãªtre Ã©ditÃ©."
+msgstr "Cet attribut ne peut pas être édité."
 
 #: This attribute cannot be updated.
 msgid "This attribute cannot be updated."
-msgstr "Cet attribut ne peut pas Ãªtre mis Ã  jour."
+msgstr "Cet attribut ne peut pas être mis à jour."
 
 #: This attribute is used in configurable products. You cannot remove it from the attribute set.
 msgid "This attribute is used in configurable products. You cannot remove it from the attribute set."
-msgstr "Cet attribut est utilisÃ© dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs."
+msgstr "Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs."
 
 #: This attribute no longer exists
 msgid "This attribute no longer exists"
@@ -2480,11 +2480,11 @@ msgstr "Ce jeu d'attributs n'existe plus."
 
 #: This group contains attributes, used in configurable products. Please move these attributes to another group and try again.
 msgid "This group contains attributes, used in configurable products. Please move these attributes to another group and try again."
-msgstr "Ce groupe contient des attributs utilisÃ©s dans des produits configurables. DÃ©placez ces attributs dans un autre groupe et rÃ©essayez."
+msgstr "Ce groupe contient des attributs utilisés dans des produits configurables. Déplacez ces attributs dans un autre groupe et réessayez."
 
 #: This group contains system attributes. Please move system attributes to another group and try again.
 msgid "This group contains system attributes. Please move system attributes to another group and try again."
-msgstr "Ce groupe contient des attributs systÃ¨me. Veuillez dÃ©placer les attributs systÃ¨me vers un autre groupe et rÃ©essayer."
+msgstr "Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer."
 
 #: This is a required option
 msgid "This is a required option"
@@ -2504,7 +2504,7 @@ msgstr "Tarification par palier"
 
 #: Tile
 msgid "Tile"
-msgstr "MosaÃ¯que"
+msgstr "Mosaïque"
 
 #: Time Format
 msgid "Time Format"
@@ -2516,19 +2516,19 @@ msgstr "Titre"
 
 #: To reindex the enabled product(s), the store or product must be specified.
 msgid "To reindex the enabled product(s), the store or product must be specified."
-msgstr "Pour rÃ©indexer les produits activÃ©s, le magasin ou le produit doit Ãªtre spÃ©cifiÃ©."
+msgstr "Pour réindexer les produits activés, le magasin ou le produit doit être spécifié."
 
 #: Top/Left
 msgid "Top/Left"
-msgstr "En haut Ã  gauche"
+msgstr "En haut à gauche"
 
 #: Top/Right
 msgid "Top/Right"
-msgstr "En haut Ã  droite"
+msgstr "En haut à droite"
 
 #: Total Qty Base Items
 msgid "Total Qty Base Items"
-msgstr "QuantitÃ© totale d'articles de base"
+msgstr "Quantité totale d'articles de base"
 
 #: Total incl. Tax: %1$s
 msgid "Total incl. Tax: %1$s"
@@ -2536,11 +2536,11 @@ msgstr "Total TTC : %1$s"
 
 #: Total of %d record(s) have been deleted.
 msgid "Total of %d record(s) have been deleted."
-msgstr "%d enregistrement(s) a (ont) Ã©tÃ© effacÃ©(s)."
+msgstr "%d enregistrement(s) a (ont) été effacé(s)."
 
 #: Total of %d record(s) have been updated.
 msgid "Total of %d record(s) have been updated."
-msgstr "%d enregistrement(s) a (ont) Ã©tÃ© mis Ã  jour."
+msgstr "%d enregistrement(s) a (ont) été mis à jour."
 
 #: Type
 msgid "Type"
@@ -2548,27 +2548,27 @@ msgstr "Type"
 
 #: URL Rewrite Management
 msgid "URL Rewrite Management"
-msgstr "Gestion de rÃ©Ã©criture d'URL"
+msgstr "Gestion de réécriture d'URL"
 
 #: Unable to complete this request.
 msgid "Unable to complete this request."
-msgstr "Impossible de satisfaire cette requÃªte."
+msgstr "Impossible de satisfaire cette requête."
 
 #: Unable to find a search term to delete.
 msgid "Unable to find a search term to delete."
-msgstr "Impossible de trouver le terme de recherche Ã  effacer."
+msgstr "Impossible de trouver le terme de recherche à effacer."
 
 #: Unable to find an attribute to delete.
 msgid "Unable to find an attribute to delete."
-msgstr "Impossible de trouver l'attribut Ã  supprimer."
+msgstr "Impossible de trouver l'attribut à supprimer."
 
 #: Unable to get the product ID.
 msgid "Unable to get the product ID."
-msgstr "Impossible de rÃ©cupÃ©rer l'identifiant de produit."
+msgstr "Impossible de récupérer l'identifiant de produit."
 
 #: Unassigned Attributes
 msgid "Unassigned Attributes"
-msgstr "Attributs non assignÃ©s"
+msgstr "Attributs non assignés"
 
 #: Unknown EAV indexer type \"%s\".
 msgid "Unknown EAV indexer type \"%s\"."
@@ -2580,7 +2580,7 @@ msgstr "Attribut inconnu : %s."
 
 #: Unsupported product type \"%s\".
 msgid "Unsupported product type \"%s\"."
-msgstr "Type de produit non supportÃ© : \"%s\"."
+msgstr "Type de produit non supporté : \"%s\"."
 
 #: Up-sells
 msgid "Up-sells"
@@ -2588,19 +2588,19 @@ msgstr "Ventes incitatives"
 
 #: Update
 msgid "Update"
-msgstr "Mettre Ã  jour"
+msgstr "Mettre à jour"
 
 #: Update Attributes
 msgid "Update Attributes"
-msgstr "Mettre Ã  jour les attributs"
+msgstr "Mettre à jour les attributs"
 
 #: Update Tier Price
 msgid "Update Tier Price"
-msgstr "Mettre Ã  jour les prix par palier"
+msgstr "Mettre à jour les prix par palier"
 
 #: Update assigned product
 msgid "Update assigned product"
-msgstr "Mettre Ã  jour le produit assignÃ©"
+msgstr "Mettre à jour le produit assigné"
 
 #: Update attributes
 msgid "Update attributes"
@@ -2608,23 +2608,23 @@ msgstr "Modifier les attributs"
 
 #: Update category
 msgid "Update category"
-msgstr "Mettre Ã  jour la catÃ©gorie"
+msgstr "Mettre à jour la catégorie"
 
 #: Update product
 msgid "Update product"
-msgstr "Mettre Ã  jour le produit"
+msgstr "Mettre à jour le produit"
 
 #: Update product image
 msgid "Update product image"
-msgstr "Mettre Ã  jour l'image du produit"
+msgstr "Mettre à jour l'image du produit"
 
 #: Update product link
 msgid "Update product link"
-msgstr "Mettre Ã  jour le lien du produit"
+msgstr "Mettre à jour le lien du produit"
 
 #: Update product tier prices
 msgid "Update product tier prices"
-msgstr "Mettre Ã  jour les prix par palier"
+msgstr "Mettre à jour les prix par palier"
 
 #: Upload new product image
 msgid "Upload new product image "
@@ -2632,11 +2632,11 @@ msgstr "Uploader une nouvelle image de produit "
 
 #: Url Rewrite Management
 msgid "Url Rewrite Management"
-msgstr "Gestion de la rÃ©Ã©criture d'URL"
+msgstr "Gestion de la réécriture d'URL"
 
 #: Use Canonical Link Meta Tag For Categories
 msgid "Use Canonical Link Meta Tag For Categories"
-msgstr "Utiliser un lien canonique de meta tag pour les catÃ©gories"
+msgstr "Utiliser un lien canonique de meta tag pour les catégories"
 
 #: Use Canonical Link Meta Tag For Products
 msgid "Use Canonical Link Meta Tag For Products"
@@ -2644,23 +2644,23 @@ msgstr "Utiliser un lien canonique de meta tag pour les produits"
 
 #: Use Categories Path for Product URLs
 msgid "Use Categories Path for Product URLs"
-msgstr "Utiliser le chemin des catÃ©gories pour l'URL des produits"
+msgstr "Utiliser le chemin des catégories pour l'URL des produits"
 
 #: Use Config Settings
 msgid "Use Config Settings"
-msgstr "Utiliser les paramÃ¨tres de la configuration"
+msgstr "Utiliser les paramètres de la configuration"
 
 #: Use Default Value
 msgid "Use Default Value"
-msgstr "Utiliser la valeur par dÃ©faut"
+msgstr "Utiliser la valeur par défaut"
 
 #: Use Flat Catalog Category
 msgid "Use Flat Catalog Category"
-msgstr "Utiliser le catalogue Ã  plat pour les catÃ©gories"
+msgstr "Utiliser le catalogue à plat pour les catégories"
 
 #: Use Flat Catalog Product
 msgid "Use Flat Catalog Product"
-msgstr "Utiliser le catalogue Ã  plat pour les produits"
+msgstr "Utiliser le catalogue à plat pour les produits"
 
 #: Use In Layered Navigation
 msgid "Use In Layered Navigation"
@@ -2668,7 +2668,7 @@ msgstr "Utiliser dans la navigation par filtres"
 
 #: Use In Search Results Layered Navigation
 msgid "Use In Search Results Layered Navigation"
-msgstr "Utiliser dans la navigation par filtres des rÃ©sultats de recherche"
+msgstr "Utiliser dans la navigation par filtres des résultats de recherche"
 
 #: Use JavaScript Calendar
 msgid "Use JavaScript Calendar"
@@ -2676,31 +2676,31 @@ msgstr "Utiliser le calendrier JavaScript"
 
 #: Use Static URLs for Media Content in WYSIWYG for Catalog
 msgid "Use Static URLs for Media Content in WYSIWYG for Catalog"
-msgstr "Utiliser les URLs statiques pour le contenu mÃ©dia dans l'Ã©diteur WYSIWYG pour le catalogue"
+msgstr "Utiliser les URLs statiques pour le contenu média dans l'éditeur WYSIWYG pour le catalogue"
 
 #: Use To Create Configurable Product
 msgid "Use To Create Configurable Product"
-msgstr "Utiliser pour crÃ©er un produit configurable"
+msgstr "Utiliser pour créer un produit configurable"
 
 #: Use Tree Like Category Sitemap
 msgid "Use Tree Like Category Sitemap"
-msgstr "Utiliser l'arborescence des catÃ©gories pour le plan de site"
+msgstr "Utiliser l'arborescence des catégories pour le plan de site"
 
 #: Use default
 msgid "Use default"
-msgstr "Utilisation par dÃ©faut"
+msgstr "Utilisation par défaut"
 
 #: Use for Promo Rule Conditions
 msgid "Use for Promo Rule Conditions"
-msgstr "Utiliser pour les conditions de rÃ¨gles de promotions"
+msgstr "Utiliser pour les conditions de règles de promotions"
 
 #: Use four-digit year format.
 msgid "Use four-digit year format."
-msgstr "Utiliser les annÃ©es sur 4 chiffres."
+msgstr "Utiliser les années sur 4 chiffres."
 
 #: Use in Advanced Search
 msgid "Use in Advanced Search"
-msgstr "Utiliser dans la recherche avancÃ©e"
+msgstr "Utiliser dans la recherche avancée"
 
 #: Use in Layered Navigation
 msgid "Use in Layered Navigation"
@@ -2708,7 +2708,7 @@ msgstr "Utiliser dans la navigation par filtres"
 
 #: Use in Layered Navigation<br/>(Can be used only with catalog input type 'Dropdown')
 msgid "Use in Layered Navigation<br/>(Can be used only with catalog input type 'Dropdown')"
-msgstr "Utiliser dans la navigation par filtres<br/>(utilisable uniquement avec les entrÃ©es de type liste dÃ©roulante)"
+msgstr "Utiliser dans la navigation par filtres<br/>(utilisable uniquement avec les entrées de type liste déroulante)"
 
 #: Use in Quick Search
 msgid "Use in Quick Search"
@@ -2744,7 +2744,7 @@ msgstr "Produit virtuel"
 
 #: Visibility
 msgid "Visibility"
-msgstr "VisibilitÃ©"
+msgstr "Visibilité"
 
 #: Visible
 msgid "Visible"
@@ -2760,7 +2760,7 @@ msgstr "Visible sur la page produit du magasin"
 
 #: WYSIWYG Editor
 msgid "WYSIWYG Editor"
-msgstr "Ã‰diteur WYSIWYG"
+msgstr "Éditeur WYSIWYG"
 
 #: Watermark
 msgid "Watermark"
@@ -2768,11 +2768,11 @@ msgstr "Filigrane"
 
 #: Watermark Default Size
 msgid "Watermark Default Size"
-msgstr "Taille par dÃ©faut du filigrane"
+msgstr "Taille par défaut du filigrane"
 
 #: Watermark Opacity, Percent
 msgid "Watermark Opacity, Percent"
-msgstr "Pourcentage d'opacitÃ© du filigrane"
+msgstr "Pourcentage d'opacité du filigrane"
 
 #: Watermark Position
 msgid "Watermark Position"
@@ -2780,7 +2780,7 @@ msgstr "Positionnement du filigrane"
 
 #: We Also Recommend
 msgid "We Also Recommend"
-msgstr "Nous vous recommandons Ã©galement"
+msgstr "Nous vous recommandons également"
 
 #: Website
 msgid "Website"
@@ -2792,7 +2792,7 @@ msgstr "Sites web"
 
 #: Whether to show \"All\" option in the \"Show X Per Page\" dropdown.
 msgid "Whether to show \"All\" option in the \"Show X Per Page\" dropdown."
-msgstr "Afficher l'option \"Toutes\" dans la liste dÃ©roulante \"Afficher X par page\"."
+msgstr "Afficher l'option \"Toutes\" dans la liste déroulante \"Afficher X par page\"."
 
 #: Wrong BuyRequest instance in options group.
 msgid "Wrong BuyRequest instance in options group."
@@ -2804,7 +2804,7 @@ msgstr "Mauvais type d'instance d'option dans le groupe d'options."
 
 #: Wrong option type to get group instance.
 msgid "Wrong option type to get group instance."
-msgstr "Type d'option incorrect pour rÃ©cupÃ©rer l'instance de groupe."
+msgstr "Type d'option incorrect pour récupérer l'instance de groupe."
 
 #: Wrong product instance type in options group.
 msgid "Wrong product instance type in options group."
@@ -2824,7 +2824,7 @@ msgstr "Mauvaise instance d'option d'article dans le groupe d'options."
 
 #: Year Range
 msgid "Year Range"
-msgstr "PÃ©riode annuelle"
+msgstr "Période annuelle"
 
 #: Yes
 msgid "Yes"
@@ -2832,31 +2832,31 @@ msgstr "Oui"
 
 #: You cannot email this product to a friend.
 msgid "You cannot email this product to a friend."
-msgstr "Vous ne pouvez pas envoyer ce produit Ã  un ami."
+msgstr "Vous ne pouvez pas envoyer ce produit à un ami."
 
 #: You cannot remove system attribute from this set.
 msgid "You cannot remove system attribute from this set."
-msgstr "Vous ne pouvez pas retirer un attribut systÃ¨me"
+msgstr "Vous ne pouvez pas retirer un attribut système"
 
 #: You cannot send more than %d emails at a time.
 msgid "You cannot send more than %d emails at a time."
-msgstr "Vous ne pouvez pas envoyer plus de %d emails Ã  la fois."
+msgstr "Vous ne pouvez pas envoyer plus de %d emails à la fois."
 
 #: You have exceeded limit of %d sends in an hour.
 msgid "You have exceeded limit of %d sends in an hour."
-msgstr "Vous avez dÃ©passÃ© la limite de %d envois en une heure."
+msgstr "Vous avez dépassé la limite de %d envois en une heure."
 
 #: You have no items to compare.
 msgid "You have no items to compare."
-msgstr "Vous n'avez pas d'articles Ã  comparer."
+msgstr "Vous n'avez pas d'articles à comparer."
 
 #: You have to specify at least one recipient.
 msgid "You have to specify at least one recipient."
-msgstr "Vous devez prÃ©ciser au moins un destinataire."
+msgstr "Vous devez préciser au moins un destinataire."
 
 #: You may also be interested in the following product(s)
 msgid "You may also be interested in the following product(s)"
-msgstr "Vous pourriez Ã©galement Ãªtre intÃ©ressÃ© par le(s) produit(s) suivant(s)"
+msgstr "Vous pourriez également être intéressé par le(s) produit(s) suivant(s)"
 
 #: Zoom In
 msgid "Zoom In"
@@ -2864,7 +2864,7 @@ msgstr "Zoom avant"
 
 #: Zoom Out
 msgid "Zoom Out"
-msgstr "Zoom arriÃ¨re"
+msgstr "Zoom arrière"
 
 #: [GLOBAL]
 msgid "[GLOBAL]"
@@ -2876,11 +2876,11 @@ msgstr "et"
 
 #: categories
 msgid "categories"
-msgstr "catÃ©gories"
+msgstr "catégories"
 
 #: each
 msgid "each"
-msgstr "piÃ¨ce"
+msgstr "pièce"
 
 #: ex. http://domain.com
 msgid "ex. http://domain.com"
@@ -2904,15 +2904,15 @@ msgstr "px."
 
 #: save
 msgid "save"
-msgstr "Ã©conomisez"
+msgstr "économisez"
 
 #: select all
 msgid "select all"
-msgstr "tout sÃ©lectionner"
+msgstr "tout sélectionner"
 
 #: unselect all
 msgid "unselect all"
-msgstr "tout dÃ©sÃ©lectionner"
+msgstr "tout désélectionner"
 
 #: x
 msgid "x"
@@ -2932,7 +2932,7 @@ msgstr "Effacer le palier"
 
 #: Meta Information
 msgid "Meta Information"
-msgstr "Informations mÃ©ta"
+msgstr "Informations méta"
 
 #: <br/>[STORE VIEW]
 msgid "<br/>[STORE VIEW]"
@@ -2948,7 +2948,7 @@ msgstr "Attributs d'ordinateur"
 
 #: Display Settings
 msgid "Display Settings"
-msgstr "ParamÃ¨tres d'affichage"
+msgstr "Paramètres d'affichage"
 
 #: and above
 msgid "and above"
@@ -2960,7 +2960,7 @@ msgstr "Effacer le palier"
 
 #: Meta Information
 msgid "Meta Information"
-msgstr "Informations mÃ©ta"
+msgstr "Informations méta"
 
 #: Descriptions
 msgid "Descriptions"
@@ -2972,11 +2972,11 @@ msgstr "<br/>[VUE MAGASIN]"
 
 #: Cell Phone Attributes
 msgid "Cell Phone Attributes"
-msgstr "Attributs de tÃ©lÃ©phone mobile"
+msgstr "Attributs de téléphone mobile"
 
 #: Qty for Item's Status to become Out of Stock
 msgid "Qty for Item's Status to become Out of Stock"
-msgstr "QuantitÃ© pour que l'article soit considÃ©rÃ© comme Ã©puisÃ©"
+msgstr "Quantité pour que l'article soit considéré comme épuisé"
 
 #: An error occurred while saving the product.
 msgid "An error occurred while saving the product."
@@ -2984,15 +2984,15 @@ msgstr "Erreur lors de la sauvegarde du produit."
 
 #: An invalid group ID is specified, skipping the record.
 msgid "An invalid group ID is specified, skipping the record."
-msgstr "L'ID de groupe spÃ©cifiÃ© est invalide, enregistrement ignorÃ©."
+msgstr "L'ID de groupe spécifié est invalide, enregistrement ignoré."
 
 #: Attribute group with the "/name/" name already exists
 msgid "Attribute group with the "/name/" name already exists"
-msgstr "Il existe dÃ©jÃ  un groupe portant le nom \\\"/name/\\\"."
+msgstr "Il existe déjà un groupe portant le nom \\\"/name/\\\"."
 
 #: Bundle Items
 msgid "Bundle Items"
-msgstr "Articles packagÃ©s"
+msgstr "Articles packagés"
 
 #: Buy %1$s with %2$s discount each
 msgid "Buy %1$s with %2$s discount each"
@@ -3000,7 +3000,7 @@ msgstr "Achetez-en %1$s et profitez d'une remise de %2$s par produit"
 
 #: Can't create image.
 msgid "Can't create image."
-msgstr "Impossible de crÃ©er l'image."
+msgstr "Impossible de créer l'image."
 
 #: Cancel
 msgid "Cancel"
@@ -3012,15 +3012,15 @@ msgstr "Configurer le produit"
 
 #: Downloadable Information
 msgid "Downloadable Information"
-msgstr "Informations tÃ©lÃ©chargements"
+msgstr "Informations téléchargements"
 
 #: Maximum allowed image size for '%s' is %sx%s px.
 msgid "Maximum allowed image size for '%s' is %sx%s px."
-msgstr "La taille maxi autorisÃ©e pour les images '%s' est de %sx%s px."
+msgstr "La taille maxi autorisée pour les images '%s' est de %sx%s px."
 
 #: Minimum Qty for Item's Status to be Out of Stock
 msgid "Minimum Qty for Item's Status to be Out of Stock"
-msgstr "QuantitÃ© mini pour que l'article soit considÃ©rÃ© comme Ã©puisÃ©"
+msgstr "Quantité mini pour que l'article soit considéré comme épuisé"
 
 #: OK
 msgid "OK"
@@ -3028,11 +3028,11 @@ msgstr "OK"
 
 #: Please specify the product's option(s).
 msgid "Please specify the product's option(s)."
-msgstr "Veuillez spÃ©cifier la (les) option(s) de produit"
+msgstr "Veuillez spécifier la (les) option(s) de produit"
 
 #: Please specify the product's required option(s).
 msgid "Please specify the product's required option(s)."
-msgstr "SpÃ©cifiez la ou les option(s) obligatoire(s)."
+msgstr "Spécifiez la ou les option(s) obligatoire(s)."
 
 #: Please wait...
 msgid "Please wait..."
@@ -3044,7 +3044,7 @@ msgstr "ID de produit"
 
 #: Product is not loaded
 msgid "Product is not loaded"
-msgstr "Le produit n'est pas chargÃ©."
+msgstr "Le produit n'est pas chargé."
 
 #: Product name
 msgid "Product name"
@@ -3052,27 +3052,27 @@ msgstr "Nom du produit"
 
 #: SKU length should be %s characters maximum.
 msgid "SKU length should be %s characters maximum."
-msgstr "La longueur maxi pour la rÃ©fÃ©rence est de %s caractÃ¨res."
+msgstr "La longueur maxi pour la référence est de %s caractères."
 
 #: Select Configurable Attributes
 msgid "Select Configurable Attributes"
-msgstr "SÃ©lectionnez les attributs configurables"
+msgstr "Sélectionnez les attributs configurables"
 
 #: Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.
 msgid "Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products."
-msgstr "Certains des produits traitÃ©s n'ont pas de rÃ©fÃ©rence (SKU) dÃ©finie. Veuillez les renseigner avant d'effectuer des opÃ©rations sur ces produits."
+msgstr "Certains des produits traités n'ont pas de référence (SKU) définie. Veuillez les renseigner avant d'effectuer des opérations sur ces produits."
 
 #: Some of the products below do not have all the required options. Please edit them and configure all the required options.
 msgid "Some of the products below do not have all the required options. Please edit them and configure all the required options."
-msgstr "Certains articles ci-dessous n'ont pas toutes les options obligatoires. Ã‰ditez-les et configurez-les en renseignant les options obligatoires."
+msgstr "Certains articles ci-dessous n'ont pas toutes les options obligatoires. Éditez-les et configurez-les en renseignant les options obligatoires."
 
 #: The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module.
 msgid "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module."
-msgstr "Le module de catalogue Ã  plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. RÃ©duisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
+msgstr "Le module de catalogue à plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. Réduisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
 
 #: The base directory to upload file is not specified.
 msgid "The base directory to upload file is not specified."
-msgstr "Le rÃ©pertoire de base pour uploader l'image n'est pas spÃ©cifiÃ©."
+msgstr "Le répertoire de base pour uploader l'image n'est pas spécifié."
 
 #: The file '%s' for '%s' has an invalid extension
 msgid "The file '%s' for '%s' has an invalid extension"
@@ -3080,11 +3080,11 @@ msgstr "Le fichier '%s' pour '%s' a une extension invalide."
 
 #: The file '%s' you uploaded is larger than %s Megabytes allowed by server
 msgid "The file '%s' you uploaded is larger than %s Megabytes allowed by server"
-msgstr "Le fichier '%s' tÃ©lÃ©chargÃ© a une taille supÃ©rieure Ã  %s Mo (maximum autorisÃ© par le serveur)"
+msgstr "Le fichier '%s' téléchargé a une taille supérieure à %s Mo (maximum autorisé par le serveur)"
 
 #: The file you uploaded is larger than %s Megabytes allowed by server
 msgid "The file you uploaded is larger than %s Megabytes allowed by server"
-msgstr "Le fichier tÃ©lÃ©chargÃ© a une taille supÃ©rieure Ã  %s Mo (maximum autorisÃ© par le serveur)"
+msgstr "Le fichier téléchargé a une taille supérieure à %s Mo (maximum autorisé par le serveur)"
 
 #: There was an error while request processing.
 msgid "There was an error while request processing."
@@ -3100,15 +3100,15 @@ msgstr "Utiliser la config"
 
 #: Wrong configuration item instance in options group.
 msgid "Wrong configuration item instance in options group."
-msgstr "Mauvaise instance d'Ã©lÃ©ment de configuration dans le groupe d'options."
+msgstr "Mauvaise instance d'élément de configuration dans le groupe d'options."
 
 #: Wrong configuration item option instance in options group.
 msgid "Wrong configuration item option instance in options group."
-msgstr "Mauvaise instance d'option d'Ã©lÃ©ment de configuration dans le groupe d'options."
+msgstr "Mauvaise instance d'option d'élément de configuration dans le groupe d'options."
 
 #: Wrong product type to extract configurable options.
 msgid "Wrong product type to extract configurable options."
-msgstr "Type de produit erronÃ© pour l'extraction des options configurables."
+msgstr "Type de produit erroné pour l'extraction des options configurables."
 
 #: Images
 msgid "Images"
@@ -3116,19 +3116,19 @@ msgstr "Images"
 
 #: <strong style=\"color:red\">Warning!</strong> Applying MAP by default will hide all product prices on the frontend.
 msgid "<strong style=\"color:red\">Warning!</strong> Applying MAP by default will hide all product prices on the frontend."
-msgstr "<strong style=\"color:red\">Attention !</strong> Appliquer le prix minimum affichÃ© par dÃ©faut masquera tous les prix des produits sur le frontend."
+msgstr "<strong style=\"color:red\">Attention !</strong> Appliquer le prix minimum affiché par défaut masquera tous les prix des produits sur le frontend."
 
 #: Actual Price
 msgid "Actual Price"
-msgstr "Prix â€‹â€‹actuel"
+msgstr "Prix ??actuel"
 
 #: An error occurred while saving the URL rewrite
 msgid "An error occurred while saving the URL rewrite"
-msgstr "Erreur lors de la sauvegarde de la rÃ©Ã©criture d'URL."
+msgstr "Erreur lors de la sauvegarde de la réécriture d'URL."
 
 #: Apply MAP (Default Value)
 msgid "Apply MAP (Default Value)"
-msgstr "Appliquer les prix minimum affichÃ©s (valeur par dÃ©faut)"
+msgstr "Appliquer les prix minimum affichés (valeur par défaut)"
 
 #: Before Order Confirmation
 msgid "Before Order Confirmation"
@@ -3144,11 +3144,11 @@ msgstr "Achetez-en %1$s pour"
 
 #: Category move operation is not possible: parent category is equal to child category.
 msgid "Category move operation is not possible: parent category is equal to child category."
-msgstr "Le dÃ©placement de la catÃ©gorie n'est pas possible : la catÃ©gorie mÃ¨re est Ã©gale Ã  la catÃ©gorie fille."
+msgstr "Le déplacement de la catégorie n'est pas possible : la catégorie mère est égale à la catégorie fille."
 
 #: Category move operation is not possible: the current category was not found.
 msgid "Category move operation is not possible: the current category was not found."
-msgstr "Le dÃ©placement de la catÃ©gorie n'est pas possible : la catÃ©gorie actuelle n'a pas Ã©tÃ© trouvÃ©e."
+msgstr "Le déplacement de la catégorie n'est pas possible : la catégorie actuelle n'a pas été trouvée."
 
 #: Click for price
 msgid "Click for price"
@@ -3156,11 +3156,11 @@ msgstr "Cliquez pour afficher le prix"
 
 #: Default \"What's This\" Text Message
 msgid "Default \"What's This\" Text Message"
-msgstr "Texte par dÃ©faut du message \"Qu'est ce que c'est\""
+msgstr "Texte par défaut du message \"Qu'est ce que c'est\""
 
 #: Default Popup Text Message
 msgid "Default Popup Text Message"
-msgstr "Texte du message de popup par dÃ©faut"
+msgstr "Texte du message de popup par défaut"
 
 #: Display Actual Price
 msgid "Display Actual Price"
@@ -3168,11 +3168,11 @@ msgstr "Afficher les prix actuels"
 
 #: Enable MAP
 msgid "Enable MAP"
-msgstr "Activer le prix minimum affichÃ©"
+msgstr "Activer le prix minimum affiché"
 
 #: Failed to copy file %s. Please, delete media with non-existing images and try again.
 msgid "Failed to copy file %s. Please, delete media with non-existing images and try again."
-msgstr "Impossible de copier le fichier %s. Veuillez effacer les media dont les images n'existent pas et rÃ©essayez."
+msgstr "Impossible de copier le fichier %s. Veuillez effacer les media dont les images n'existent pas et réessayez."
 
 #: In Cart
 msgid "In Cart"
@@ -3184,7 +3184,7 @@ msgstr "Attribut invalide : %s"
 
 #: Minimum Advertised Price
 msgid "Minimum Advertised Price"
-msgstr "Prix â€‹â€‹minimum affichÃ©"
+msgstr "Prix ??minimum affiché"
 
 #: On Gesture
 msgid "On Gesture"
@@ -3192,7 +3192,7 @@ msgstr "Au geste"
 
 #: Scope must not be changed, because the attribute is used in configurable products.
 msgid "Scope must not be changed, because the attribute is used in configurable products."
-msgstr "La portÃ©e ne doit pas Ãªtre modifiÃ©e car l'attribut est utilisÃ© dans des produits configurables."
+msgstr "La portée ne doit pas être modifiée car l'attribut est utilisé dans des produits configurables."
 
 #: See price before order confirmation.
 msgid "See price before order confirmation."
@@ -3200,23 +3200,23 @@ msgstr "Voir le prix avant la confirmation de la commande"
 
 #: The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module
 msgid "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module"
-msgstr "Le module de catalogue Ã  plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. RÃ©duisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
+msgstr "Le module de catalogue à plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. Réduisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
 
 #: The model collection resource name is not defined.
 msgid "The model collection resource name is not defined."
-msgstr "Le nom de ressource de collection de modÃ¨le n'est pas dÃ©fini."
+msgstr "Le nom de ressource de collection de modèle n'est pas défini."
 
 #: This attribute is used in configurable products.
 msgid "This attribute is used in configurable products."
-msgstr "Cet attribut est utilisÃ© dans les produits configurables."
+msgstr "Cet attribut est utilisé dans les produits configurables."
 
 #: To reindex the enabled product(s), the store or product must be specified
 msgid "To reindex the enabled product(s), the store or product must be specified"
-msgstr "Pour rÃ©indexer les produits activÃ©s, le magasin ou le produit doit Ãªtre spÃ©cifiÃ©."
+msgstr "Pour réindexer les produits activés, le magasin ou le produit doit être spécifié."
 
 #: To see product price, add this item to your cart. You can always remove it later.
 msgid "To see product price, add this item to your cart. You can always remove it later."
-msgstr "Pour voir le prix du produit, ajoutez cet article Ã  votre panier. Vous pourrez toujours l'enlever plus tard."
+msgstr "Pour voir le prix du produit, ajoutez cet article à votre panier. Vous pourrez toujours l'enlever plus tard."
 
 #: What's this?
 msgid "What's this?"
@@ -3240,11 +3240,11 @@ msgstr "Dimensions"
 
 #: In Depth
 msgid "In Depth"
-msgstr "En dÃ©tail"
+msgstr "En détail"
 
 #: Model
 msgid "Model"
-msgstr "ModÃ¨le"
+msgstr "Modèle"
 
 #: Activation Information
 msgid "Activation Information"
@@ -3260,7 +3260,7 @@ msgstr "Taille"
 
 #: General
 msgid "General"
-msgstr "GÃ©nÃ©ral"
+msgstr "Général"
 
 #: Gift Options
 msgid "Gift Options"
@@ -3292,7 +3292,7 @@ msgstr "Ajouter une option personnalisable au produit"
 
 #: Add new values into custom option
 msgid "Add new values into custom option"
-msgstr "Ajouter des valeurs Ã  l'options personnalisable"
+msgstr "Ajouter des valeurs à l'options personnalisable"
 
 #: Add option
 msgid "Add option"
@@ -3448,7 +3448,7 @@ msgstr ""
 
 #: Qty for Item's Status to Become Out of Stock
 msgid "Qty for Item's Status to Become Out of Stock"
-msgstr "QtÃ© pour que le statut du produit passe Ã  Ã©puisÃ©"
+msgstr "Qté pour que le statut du produit passe à épuisé"
 
 #: Remove attribute from attribute set
 msgid "Remove attribute from attribute set"
@@ -3500,7 +3500,7 @@ msgstr ""
 
 #: Total of %d record(s) were updated
 msgid "Total of %d record(s) were updated"
-msgstr "%d enregistrement(s) ont Ã©tÃ© mis Ã  jour"
+msgstr "%d enregistrement(s) ont été mis à jour"
 
 #: Update attribute
 msgid "Update attribute"

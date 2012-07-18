@@ -12,7 +12,7 @@ msgstr "Actions"
 
 #: Add Layout Update
 msgid "Add Layout Update"
-msgstr "Ajouter une mise Ã  jour d'agencement"
+msgstr "Ajouter une mise à jour d'agencement"
 
 #: Add New Widget Instance
 msgid "Add New Widget Instance"
@@ -32,11 +32,11 @@ msgstr "Tous les types de produits"
 
 #: Anchor Categories
 msgid "Anchor Categories"
-msgstr "CatÃ©gorie ancrÃ©e"
+msgstr "Catégorie ancrée"
 
 #: Assign to Store Views
 msgid "Assign to Store Views"
-msgstr "Assigner Ã  la vue magasin"
+msgstr "Assigner à la vue magasin"
 
 #: Big Image
 msgid "Big Image"
@@ -44,7 +44,7 @@ msgstr "Grande image"
 
 #: Block Reference
 msgid "Block Reference"
-msgstr "Bloc de rÃ©fÃ©rence"
+msgstr "Bloc de référence"
 
 #: CMS
 msgid "CMS"
@@ -52,7 +52,7 @@ msgstr "CMS"
 
 #: Categories
 msgid "Categories"
-msgstr "CatÃ©gories"
+msgstr "Catégories"
 
 #: Choose...
 msgid "Choose..."
@@ -68,7 +68,7 @@ msgstr "Continuer"
 
 #: Default Template
 msgid "Default Template"
-msgstr "Gabarit par dÃ©faut"
+msgstr "Gabarit par défaut"
 
 #: Delete
 msgid "Delete"
@@ -76,7 +76,7 @@ msgstr "Supprimer"
 
 #: Design Package/Theme
 msgid "Design Package/Theme"
-msgstr "Interface/ThÃ¨me de design"
+msgstr "Interface/Thème de design"
 
 #: Export to:
 msgid "Export to:"
@@ -84,11 +84,11 @@ msgstr "Exporter vers :"
 
 #: Frontend Properties
 msgid "Frontend Properties"
-msgstr "PropriÃ©tÃ©s du frontend"
+msgstr "Propriétés du frontend"
 
 #: Generic Pages
 msgid "Generic Pages"
-msgstr "Pages gÃ©nÃ©riques"
+msgstr "Pages génériques"
 
 #: Images
 msgid "Images"
@@ -96,15 +96,15 @@ msgstr "Images"
 
 #: Insert Widget
 msgid "Insert Widget"
-msgstr "InsÃ©rer un widget"
+msgstr "Insérer un widget"
 
 #: Layout Updates
 msgid "Layout Updates"
-msgstr "Mises Ã  jour d'agencements"
+msgstr "Mises à jour d'agencements"
 
 #: Manage Widget Instances
 msgid "Manage Widget Instances"
-msgstr "GÃ©rer les instances de widgets"
+msgstr "Gérer les instances de widgets"
 
 #: New Instance
 msgid "New Instance"
@@ -120,11 +120,11 @@ msgstr "Page suivante"
 
 #: Non-Anchor Categories
 msgid "Non-Anchor Categories"
-msgstr "CatÃ©gories non ancrÃ©es"
+msgstr "Catégories non ancrées"
 
 #: Not Selected
 msgid "Not Selected"
-msgstr "Non sÃ©lectionnÃ©"
+msgstr "Non sélectionné"
 
 #: Page
 msgid "Page"
@@ -132,11 +132,11 @@ msgstr "Page"
 
 #: Please Select Block Reference First
 msgid "Please Select Block Reference First"
-msgstr "Veuillez choisir un bloc de rÃ©fÃ©rence"
+msgstr "Veuillez choisir un bloc de référence"
 
 #: Previous page
 msgid "Previous page"
-msgstr "Page prÃ©cÃ©dente"
+msgstr "Page précédente"
 
 #: Products
 msgid "Products"
@@ -144,23 +144,23 @@ msgstr "Produits"
 
 #: Remove Layout Update
 msgid "Remove Layout Update"
-msgstr "Supprimer la mise Ã  jour d'agencement"
+msgstr "Supprimer la mise à jour d'agencement"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Select All
 msgid "Select All"
-msgstr "SÃ©lectionner tout"
+msgstr "Sélectionner tout"
 
 #: Select Visible
 msgid "Select Visible"
-msgstr "SÃ©lectionner les Ã©lÃ©ments visibles"
+msgstr "Sélectionner les éléments visibles"
 
 #: Settings
 msgid "Settings"
-msgstr "ParamÃ©trage"
+msgstr "Paramétrage"
 
 #: Sort Order
 msgid "Sort Order"
@@ -168,15 +168,15 @@ msgstr "Ordre de tri"
 
 #: Sort Order of widget instances in the same block reference
 msgid "Sort Order of widget instances in the same block reference"
-msgstr "Ordre des instances de widgets dans le mÃªme bloc de rÃ©fÃ©rence"
+msgstr "Ordre des instances de widgets dans le même bloc de référence"
 
 #: Specific %s
 msgid "Specific %s"
-msgstr "SpÃ©cifique Ã  %s"
+msgstr "Spécifique à %s"
 
 #: Specified Page
 msgid "Specified Page"
-msgstr "Page spÃ©cifiÃ©e"
+msgstr "Page spécifiée"
 
 #: Template
 msgid "Template"
@@ -184,19 +184,19 @@ msgstr "Gabarit"
 
 #: The information in this tab has been changed.
 msgid "The information in this tab has been changed."
-msgstr "Les informations contenues dans cet onglet ont Ã©tÃ© changÃ©es."
+msgstr "Les informations contenues dans cet onglet ont été changées."
 
 #: The widget instance has been deleted.
 msgid "The widget instance has been deleted."
-msgstr "L'instance de widget a bien Ã©tÃ© effacÃ©e."
+msgstr "L'instance de widget a bien été effacée."
 
 #: The widget instance has been saved.
 msgid "The widget instance has been saved."
-msgstr "L'instance de widget a bien Ã©tÃ© sauvegardÃ©e."
+msgstr "L'instance de widget a bien été sauvegardée."
 
 #: This tab contains invalid data. Please solve the problem before saving.
 msgid "This tab contains invalid data. Please solve the problem before saving."
-msgstr "Cet onglet contient des donnÃ©es non valides. Veuillez rÃ©soudre le problÃ¨me avant de sauvegarder."
+msgstr "Cet onglet contient des données non valides. Veuillez résoudre le problème avant de sauvegarder."
 
 #: Thumbnail
 msgid "Thumbnail"
@@ -204,7 +204,7 @@ msgstr "Miniature"
 
 #: Total %d records found
 msgid "Total %d records found"
-msgstr "%d enregistrement(s) trouvÃ©(s)"
+msgstr "%d enregistrement(s) trouvé(s)"
 
 #: Type
 msgid "Type"
@@ -212,11 +212,11 @@ msgstr "Type"
 
 #: Unselect All
 msgid "Unselect All"
-msgstr "DÃ©sÃ©lectionner tout"
+msgstr "Désélectionner tout"
 
 #: Unselect Visible
 msgid "Unselect Visible"
-msgstr "DÃ©sÃ©lectionner les Ã©lÃ©ments visibles"
+msgstr "Désélectionner les éléments visibles"
 
 #: View
 msgid "View"
@@ -252,11 +252,11 @@ msgstr "Type de widget"
 
 #: Widget Type is not specified
 msgid "Widget Type is not specified"
-msgstr "Le type du widget n'est pas spÃ©cifiÃ©"
+msgstr "Le type du widget n'est pas spécifié"
 
 #: Widget instance is not full complete to create.
 msgid "Widget instance is not full complete to create."
-msgstr "CrÃ©ation impossible, l'instance du widget n'est pas complÃ¨te."
+msgstr "Création impossible, l'instance du widget n'est pas complète."
 
 #: Widgets
 msgid "Widgets"
@@ -264,11 +264,11 @@ msgstr "Widgets"
 
 #: Wrong wigdet instance specified.
 msgid "Wrong wigdet instance specified."
-msgstr "Mauvaise instance de wigdet spÃ©cifiÃ©e"
+msgstr "Mauvaise instance de wigdet spécifiée"
 
 #: items selected
 msgid "items selected"
-msgstr "Ã©lÃ©ment(s) sÃ©lectionnÃ©(s)"
+msgstr "élément(s) sélectionné(s)"
 
 #: of %s pages
 msgid "of %s pages"
@@ -288,11 +288,11 @@ msgstr "Retour"
 
 #: Anchor Custom Title
 msgid "Anchor Custom Title"
-msgstr "PrÃ©senter un titre personnalisÃ©"
+msgstr "Présenter un titre personnalisé"
 
 #: Anchor Custom Text
 msgid "Anchor Custom Text"
-msgstr "PrÃ©senter un texte personnalisÃ©"
+msgstr "Présenter un texte personnalisé"
 
 #:
 msgid ""
@@ -306,11 +306,11 @@ msgstr "Appliquer"
 
 #: Insert Widget...
 msgid "Insert Widget..."
-msgstr "InsÃ©rer un widget..."
+msgstr "Insérer un widget..."
 
 #: Open Chooser
 msgid "Open Chooser"
-msgstr "Ouvrir le sÃ©lecteur"
+msgstr "Ouvrir le sélecteur"
 
 #: Widget Insertion
 msgid "Widget Insertion"

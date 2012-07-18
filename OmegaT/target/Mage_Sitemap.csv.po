@@ -16,7 +16,7 @@ msgstr "Options pour les pages CMS"
 
 #: Categories Options
 msgid "Categories Options"
-msgstr "Options pour les catÃ©gories"
+msgstr "Options pour les catégories"
 
 #: Daily
 msgid "Daily"
@@ -24,11 +24,11 @@ msgstr "Quotidien"
 
 #: Edit Sitemap
 msgid "Edit Sitemap"
-msgstr "Ã‰diter le plan de site"
+msgstr "Éditer le plan de site"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Error Email Recipient
 msgid "Error Email Recipient"
@@ -36,7 +36,7 @@ msgstr "Destinataire du mail d'erreur"
 
 #: Error Email Sender
 msgid "Error Email Sender"
-msgstr "ExpÃ©diteur du mail d'erreur"
+msgstr "Expéditeur du mail d'erreur"
 
 #: Error Email Template
 msgid "Error Email Template"
@@ -44,7 +44,7 @@ msgstr "Gabarit du mail d'erreur"
 
 #: File \"%s\" cannot be saved. Please, make sure the directory \"%s\" is writeable by web server.
 msgid "File \"%s\" cannot be saved. Please, make sure the directory \"%s\" is writeable by web server."
-msgstr "Le fichier \"%s\" ne peut pas Ãªtre sauvegardÃ©. Veuillez vÃ©rifier que le rÃ©pertoire \"%s\" est accessible en Ã©criture par le serveur web."
+msgstr "Le fichier \"%s\" ne peut pas être sauvegardé. Veuillez vérifier que le répertoire \"%s\" est accessible en écriture par le serveur web."
 
 #: Filename
 msgid "Filename"
@@ -52,15 +52,15 @@ msgstr "Nom de fichier"
 
 #: Frequency
 msgid "Frequency"
-msgstr "FrÃ©quence"
+msgstr "Fréquence"
 
 #: Generate
 msgid "Generate"
-msgstr "GÃ©nÃ©rer"
+msgstr "Générer"
 
 #: Generation Settings
 msgid "Generation Settings"
-msgstr "ParamÃ¨tres gÃ©nÃ©raux"
+msgstr "Paramètres généraux"
 
 #: Google Sitemap
 msgid "Google Sitemap"
@@ -76,7 +76,7 @@ msgstr "ID"
 
 #: Last Time Generated
 msgid "Last Time Generated"
-msgstr "GÃ©nÃ©rÃ© pour la derniÃ¨re fois le"
+msgstr "Généré pour la dernière fois le"
 
 #: Link for Google
 msgid "Link for Google"
@@ -100,23 +100,23 @@ msgstr "Chemin"
 
 #: Please create the specified folder \"%s\" before saving the sitemap.
 msgid "Please create the specified folder \"%s\" before saving the sitemap."
-msgstr "Veuillez crÃ©er le rÃ©pertoire \"%s\" avant d'enregistrer le plan de site."
+msgstr "Veuillez créer le répertoire \"%s\" avant d'enregistrer le plan de site."
 
 #: Please define correct path
 msgid "Please define correct path"
-msgstr "Veuillez dÃ©finir un chemin correct"
+msgstr "Veuillez définir un chemin correct"
 
 #: Please make sure that \"%s\" is writable by web-server.
 msgid "Please make sure that \"%s\" is writable by web-server."
-msgstr "Veuillez vÃ©rifier que \"%s\" est accessible en Ã©criture par le serveur web."
+msgstr "Veuillez vérifier que \"%s\" est accessible en écriture par le serveur web."
 
 #: Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in the filename. No spaces or other characters are allowed.
 msgid "Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in the filename. No spaces or other characters are allowed."
-msgstr "Veuillez utiliser uniquement des lettres (a-z ou A-Z), chiffres (0-9) ou underscore (_) dans le nom du fichier. Les espaces et autres caractÃ¨res ne sont pas autorisÃ©s."
+msgstr "Veuillez utiliser uniquement des lettres (a-z ou A-Z), chiffres (0-9) ou underscore (_) dans le nom du fichier. Les espaces et autres caractères ne sont pas autorisés."
 
 #: Priority
 msgid "Priority"
-msgstr "PrioritÃ©"
+msgstr "Priorité"
 
 #: Products Options
 msgid "Products Options"
@@ -128,11 +128,11 @@ msgstr "Plan de site"
 
 #: Sitemap generate Warnings
 msgid "Sitemap generate Warnings"
-msgstr "Le plan du site a gÃ©nÃ©rÃ© des alertes"
+msgstr "Le plan du site a généré des alertes"
 
 #: Start Time
 msgid "Start Time"
-msgstr "Heure de dÃ©but"
+msgstr "Heure de début"
 
 #: Store View
 msgid "Store View"
@@ -140,19 +140,19 @@ msgstr "Vue magasin"
 
 #: The priority must be between 0 and 1.
 msgid "The priority must be between 0 and 1."
-msgstr "La prioritÃ© doit Ãªtre comprise entre 0 et 1."
+msgstr "La priorité doit être comprise entre 0 et 1."
 
 #: The sitemap \"%s\" has been generated.
 msgid "The sitemap \"%s\" has been generated."
-msgstr "Le plan de site \"%s\" a bien Ã©tÃ© gÃ©nÃ©rÃ©."
+msgstr "Le plan de site \"%s\" a bien été généré."
 
 #: The sitemap has been deleted.
 msgid "The sitemap has been deleted."
-msgstr "Le plan de site a bien Ã©tÃ© effacÃ©."
+msgstr "Le plan de site a bien été effacé."
 
 #: The sitemap has been saved.
 msgid "The sitemap has been saved."
-msgstr "Le plan de site a bien Ã©tÃ© enregistrÃ©e."
+msgstr "Le plan de site a bien été enregistrée."
 
 #: This sitemap no longer exists.
 msgid "This sitemap no longer exists."
@@ -160,19 +160,19 @@ msgstr "Ce plan de site n'existe plus."
 
 #: Unable to find a sitemap to delete.
 msgid "Unable to find a sitemap to delete."
-msgstr "Impossible de trouver le plan de site Ã  effacer."
+msgstr "Impossible de trouver le plan de site à effacer."
 
 #: Unable to find a sitemap to generate.
 msgid "Unable to find a sitemap to generate."
-msgstr "Impossible de trouver le plan de site Ã  gÃ©nÃ©rer."
+msgstr "Impossible de trouver le plan de site à générer."
 
 #: Unable to generate the sitemap.
 msgid "Unable to generate the sitemap."
-msgstr "Impossible de gÃ©nÃ©rer le plan de site."
+msgstr "Impossible de générer le plan de site."
 
 #: Valid values range: from 0.0 to 1.0.
 msgid "Valid values range: from 0.0 to 1.0."
-msgstr "Les valeurs doivent Ãªtre comprises entre 0.0 et 1.0."
+msgstr "Les valeurs doivent être comprises entre 0.0 et 1.0."
 
 #: Weekly
 msgid "Weekly"

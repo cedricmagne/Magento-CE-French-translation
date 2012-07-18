@@ -1,6 +1,6 @@
 #: Account Number
 msgid "Account Number"
-msgstr "NumÃ©ro de compte"
+msgstr "Numéro de compte"
 
 #: Enable
 msgid "Enable"

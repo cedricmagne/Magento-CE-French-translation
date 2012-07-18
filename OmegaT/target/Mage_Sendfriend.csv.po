@@ -4,7 +4,7 @@ msgstr "Ajouter destinataire"
 
 #: Allow for Guests
 msgid "Allow for Guests"
-msgstr "Autoriser pour les invitÃ©s"
+msgstr "Autoriser pour les invités"
 
 #: An invalid email address for recipient was entered.
 msgid "An invalid email address for recipient was entered."
@@ -12,7 +12,7 @@ msgstr "L'adresse email saisie pour le destinataire est invalide."
 
 #: At least one recipient must be specified.
 msgid "At least one recipient must be specified."
-msgstr "Au moins un destinataire doit Ãªtre saisi."
+msgstr "Au moins un destinataire doit être saisi."
 
 #: Back
 msgid "Back"
@@ -20,7 +20,7 @@ msgstr "Retour"
 
 #: Catalog Product Email to a Friend
 msgid "Catalog Product Email to a Friend"
-msgstr "Envoyer Ã  un ami"
+msgstr "Envoyer à un ami"
 
 #: Email Address
 msgid "Email Address"
@@ -36,7 +36,7 @@ msgstr "Gabarits d'email"
 
 #: Email to a Friend
 msgid "Email to a Friend"
-msgstr "Envoyer Ã  un ami"
+msgstr "Envoyer à un ami"
 
 #: Email:
 msgid "Email:"
@@ -44,15 +44,15 @@ msgstr "Email :"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Invalid Sender Information
 msgid "Invalid Sender Information"
-msgstr "Les informations de l'expÃ©diteur sont invalides"
+msgstr "Les informations de l'expéditeur sont invalides"
 
 #: Invalid sender email.
 msgid "Invalid sender email."
-msgstr "L'email de l'expÃ©diteur est invalide."
+msgstr "L'email de l'expéditeur est invalide."
 
 #: Limit Sending By
 msgid "Limit Sending By"
@@ -60,7 +60,7 @@ msgstr "Limiter l'envoi par"
 
 #: Max Products Sent in 1 Hour
 msgid "Max Products Sent in 1 Hour"
-msgstr "Nombre maxi de produits envoyÃ©s en 1 heure"
+msgstr "Nombre maxi de produits envoyés en 1 heure"
 
 #: Max Recipients
 msgid "Max Recipients"
@@ -68,7 +68,7 @@ msgstr "Nombre maxi de destinataires"
 
 #: Maximum %d email addresses allowed.
 msgid "Maximum %d email addresses allowed."
-msgstr "%d adresses mail maxi autorisÃ©es"
+msgstr "%d adresses mail maxi autorisées"
 
 #: Message:
 msgid "Message:"
@@ -84,19 +84,19 @@ msgstr "Nom :"
 
 #: No more than %d emails can be sent at a time.
 msgid "No more than %d emails can be sent at a time."
-msgstr "Il n'est pas possible d'envoyer plus de %d emails Ã  la fois."
+msgstr "Il n'est pas possible d'envoyer plus de %d emails à la fois."
 
 #: Please define a correct Cookie instance.
 msgid "Please define a correct Cookie instance."
-msgstr "DÃ©finissez une instance de cookie correcte."
+msgstr "Définissez une instance de cookie correcte."
 
 #: Please define a correct Product instance.
 msgid "Please define a correct Product instance."
-msgstr "DÃ©finissez une instance de produit correcte."
+msgstr "Définissez une instance de produit correcte."
 
 #: Please define the correct Sender information.
 msgid "Please define the correct Sender information."
-msgstr "DÃ©finissez correctement les informations de l'expÃ©diteur."
+msgstr "Définissez correctement les informations de l'expéditeur."
 
 #: Recipient:
 msgid "Recipient:"
@@ -108,7 +108,7 @@ msgstr "Supprimer email"
 
 #: Select Email Template
 msgid "Select Email Template"
-msgstr "SÃ©lectionner le gabarit d'email"
+msgstr "Sélectionner le gabarit d'email"
 
 #: Send Email
 msgid "Send Email"
@@ -116,23 +116,23 @@ msgstr "Envoyer un email"
 
 #: Send product to a friend
 msgid "Send product to a friend"
-msgstr "Envoyer le produit Ã  un ami"
+msgstr "Envoyer le produit à un ami"
 
 #: Sender:
 msgid "Sender:"
-msgstr "ExpÃ©diteur :"
+msgstr "Expéditeur :"
 
 #: Some emails were not sent.
 msgid "Some emails were not sent."
-msgstr "Certains emails n'ont pas Ã©tÃ© envoyÃ©s."
+msgstr "Certains emails n'ont pas été envoyés."
 
 #: The link to a friend was sent.
 msgid "The link to a friend was sent."
-msgstr "Le lien Ã  un ami a Ã©tÃ© envoyÃ©."
+msgstr "Le lien à un ami a été envoyé."
 
 #: The message cannot be empty.
 msgid "The message cannot be empty."
-msgstr "Le message ne peut pas Ãªtre vide."
+msgstr "Le message ne peut pas être vide."
 
 #: The messages cannot be sent more than %d times in an hour
 msgid "The messages cannot be sent more than %d times in an hour"
@@ -140,13 +140,13 @@ msgstr "Il n'est pas possible d'envoyer plus de %d messages en une heure."
 
 #: The sender name cannot be empty.
 msgid "The sender name cannot be empty."
-msgstr "Le nom de l'expÃ©diteur ne peut pas Ãªtre vide."
+msgstr "Le nom de l'expéditeur ne peut pas être vide."
 
 #: There were some problems with the data.
 msgid "There were some problems with the data."
-msgstr "ProblÃ¨mes avec les donnÃ©es."
+msgstr "Problèmes avec les données."
 
 #: You have exceeded limit of %d sends in an hour
 msgid "You have exceeded limit of %d sends in an hour"
-msgstr "Vous avez dÃ©passÃ© la limite de %d envois par heure"
+msgstr "Vous avez dépassé la limite de %d envois par heure"
 

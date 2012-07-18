@@ -1,22 +1,22 @@
 #: 1 star
 msgid "1 star"
-msgstr "1 Ã©toile"
+msgstr "1 étoile"
 
 #: 2 stars
 msgid "2 stars"
-msgstr "2 Ã©toiles"
+msgstr "2 étoiles"
 
 #: 3 stars
 msgid "3 stars"
-msgstr "3 Ã©toiles"
+msgstr "3 étoiles"
 
 #: 4 stars
 msgid "4 stars"
-msgstr "4 Ã©toiles"
+msgstr "4 étoiles"
 
 #: 5 stars
 msgid "5 stars"
-msgstr "5 Ã©toiles"
+msgstr "5 étoiles"
 
 #: Add New Rating
 msgid "Add New Rating"
@@ -24,15 +24,15 @@ msgstr "Ajouter une notation"
 
 #: Assigned Options
 msgid "Assigned Options"
-msgstr "Options attribuÃ©es"
+msgstr "Options attribuées"
 
 #: Be the first to review this product
 msgid "Be the first to review this product"
-msgstr "Soyez le premier Ã  commenter ce produit"
+msgstr "Soyez le premier à commenter ce produit"
 
 #: Default Value
 msgid "Default Value"
-msgstr "Valeur par dÃ©faut"
+msgstr "Valeur par défaut"
 
 #: Delete Rating
 msgid "Delete Rating"
@@ -48,11 +48,11 @@ msgstr "ID"
 
 #: If you do not specify a rating title for a store, the default value will be used.
 msgid "If you do not specify a rating title for a store, the default value will be used."
-msgstr "Si vous ne spÃ©cifiez pas de titre d'Ã©valuation pour un magasin, la valeur par dÃ©faut sera utilisÃ©e."
+msgstr "Si vous ne spécifiez pas de titre d'évaluation pour un magasin, la valeur par défaut sera utilisée."
 
 #: Manage Ratings
 msgid "Manage Ratings"
-msgstr "GÃ©rer les notations"
+msgstr "Gérer les notations"
 
 #: New Rating
 msgid "New Rating"
@@ -72,7 +72,7 @@ msgstr "Titre de l'option :"
 
 #: Please select one of each ratings above
 msgid "Please select one of each ratings above"
-msgstr "SÃ©lectionnez une note pour chaque critÃ¨re ci-dessus"
+msgstr "Sélectionnez une note pour chaque critère ci-dessus"
 
 #: Rating Information
 msgid "Rating Information"
@@ -88,19 +88,19 @@ msgstr "Options de notation"
 
 #: Rating Title
 msgid "Rating Title"
-msgstr "LibellÃ© de notation"
+msgstr "Libellé de notation"
 
 #: Rating Visibility
 msgid "Rating Visibility"
-msgstr "VisibilitÃ© de classement"
+msgstr "Visibilité de classement"
 
 #: Rating isn't Available
 msgid "Rating isn't Available"
-msgstr "Les notations ne sont pas activÃ©es"
+msgstr "Les notations ne sont pas activées"
 
 #: Rating with the same title
 msgid "Rating with the same title"
-msgstr "Note avec le mÃªme titre"
+msgstr "Note avec le même titre"
 
 #: Save Rating
 msgid "Save Rating"

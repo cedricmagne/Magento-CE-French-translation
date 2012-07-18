@@ -4,7 +4,7 @@ msgstr "Boutique %s"
 
 #: About Your Order
 msgid "About Your Order"
-msgstr "Ã€ propos de votre commande"
+msgstr "À propos de votre commande"
 
 #: Account Information
 msgid "Account Information"
@@ -24,7 +24,7 @@ msgstr "Retour"
 
 #: Back to My Orders
 msgid "Back to My Orders"
-msgstr "Retour Ã  mes commandes"
+msgstr "Retour à mes commandes"
 
 #: Baltic
 msgid "Baltic"
@@ -40,11 +40,11 @@ msgstr "Nom (fact.)"
 
 #: Categories
 msgid "Categories"
-msgstr "CatÃ©gories"
+msgstr "Catégories"
 
 #: Category %s cannot be saved because of %s.
 msgid "Category %s cannot be saved because of %s."
-msgstr "La catÃ©gorie %s ne peut pas Ãªtre sauvegardÃ©e Ã  cause de %s"
+msgstr "La catégorie %s ne peut pas être sauvegardée à cause de %s"
 
 #: Central European
 msgid "Central European"
@@ -52,7 +52,7 @@ msgstr "Europe centrale"
 
 #: Check Requirements
 msgid "Check Requirements"
-msgstr "VÃ©rifier les prÃ©-requis"
+msgstr "Vérifier les pré-requis"
 
 #: Comments History
 msgid "Comments History"
@@ -60,11 +60,11 @@ msgstr "Historique de commentaires"
 
 #: Create under default website
 msgid "Create under default website"
-msgstr "CrÃ©er sous le site web par dÃ©faut"
+msgstr "Créer sous le site web par défaut"
 
 #: Created At
 msgid "Created At"
-msgstr "CrÃ©Ã© le"
+msgstr "Créé le"
 
 #: Currency
 msgid "Currency"
@@ -84,23 +84,23 @@ msgstr "Cyrillique"
 
 #: DB Name
 msgid "DB Name"
-msgstr "Nom de la base de donnÃ©es"
+msgstr "Nom de la base de données"
 
 #: DB Password
 msgid "DB Password"
-msgstr "Mot de passe de la base de donnÃ©es"
+msgstr "Mot de passe de la base de données"
 
 #: DB Username
 msgid "DB Username"
-msgstr "Nom d'utilisateur de la base de donnÃ©es"
+msgstr "Nom d'utilisateur de la base de données"
 
 #: Database Connection Charset
 msgid "Database Connection Charset"
-msgstr "Jeu de caractÃ¨res de la connection de base de donnÃ©es"
+msgstr "Jeu de caractères de la connection de base de données"
 
 #: Database Data Charset
 msgid "Database Data Charset"
-msgstr "Jeu de caractÃ¨res des donnÃ©es"
+msgstr "Jeu de caractères des données"
 
 #: Date
 msgid "Date"
@@ -120,11 +120,11 @@ msgstr "Asie orientale"
 
 #: Edit osCommerce Profile
 msgid "Edit osCommerce Profile"
-msgstr "Ã‰diter le profil osCommerce"
+msgstr "Éditer le profil osCommerce"
 
 #: Edit osCommerce Profile :: %s
 msgid "Edit osCommerce Profile :: %s"
-msgstr "Ã‰diter le profil osCommerce : %s"
+msgstr "Éditer le profil osCommerce : %s"
 
 #: Email
 msgid "Email"
@@ -132,11 +132,11 @@ msgstr "Email"
 
 #: Email %s cannot be saved because of %s.
 msgid "Email %s cannot be saved because of %s."
-msgstr "L'email %s ne peut pas Ãªtre sauvegardÃ©e Ã  cause de %s"
+msgstr "L'email %s ne peut pas être sauvegardée à cause de %s"
 
 #: Error for checking store locale!
 msgid "Error for checking store locale!"
-msgstr "Erreur lors de la vÃ©rificatio de la locale de la boutique."
+msgstr "Erreur lors de la vérificatio de la locale de la boutique."
 
 #: Final Price
 msgid "Final Price"
@@ -144,11 +144,11 @@ msgstr "Prix final"
 
 #: Finished profile execution.
 msgid "Finished profile execution."
-msgstr "ExÃ©cution du profil terminÃ©e."
+msgstr "Exécution du profil terminée."
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: Greek
 msgid "Greek"
@@ -156,7 +156,7 @@ msgstr "Grec"
 
 #: Hebrew
 msgid "Hebrew"
-msgstr "HÃ©breu"
+msgstr "Hébreu"
 
 #: ID
 msgid "ID"
@@ -164,7 +164,7 @@ msgstr "ID"
 
 #: IP or Hostname
 msgid "IP or Hostname"
-msgstr "IP ou nom d'hÃ´te"
+msgstr "IP ou nom d'hôte"
 
 #: Import Options
 msgid "Import Options"
@@ -180,7 +180,7 @@ msgstr "Import en cours..."
 
 #: Items Ordered
 msgid "Items Ordered"
-msgstr "Articles commandÃ©s"
+msgstr "Articles commandés"
 
 #: Japanese
 msgid "Japanese"
@@ -188,7 +188,7 @@ msgstr "Japonais"
 
 #: Korean
 msgid "Korean"
-msgstr "CorÃ©en"
+msgstr "Coréen"
 
 #: Languages table error
 msgid "Languages table error"
@@ -196,11 +196,11 @@ msgstr "Erreur de la table de langues"
 
 #: Locale Selection
 msgid "Locale Selection"
-msgstr "SÃ©lection de locale"
+msgstr "Sélection de locale"
 
 #: My Previous Orders
 msgid "My Previous Orders"
-msgstr "Mes commandes prÃ©cÃ©dentes"
+msgstr "Mes commandes précédentes"
 
 #: Name
 msgid "Name"
@@ -208,7 +208,7 @@ msgstr "Nom"
 
 #: Need to check Customers for Orders
 msgid "Need to check Customers for Orders"
-msgstr "NÃ©cessitÃ© de vÃ©rifier les clients pour les commandes"
+msgstr "Nécessité de vérifier les clients pour les commandes"
 
 #: New Profile
 msgid "New Profile"
@@ -224,11 +224,11 @@ msgstr "Pas de profil osCommerce"
 
 #: No osCommerce profile loaded...
 msgid "No osCommerce profile loaded..."
-msgstr "Aucun profil osCommerce chargÃ©..."
+msgstr "Aucun profil osCommerce chargé..."
 
 #: Notice: Please place all images under MAGENTO_ROOT/media/import/ with writable permission to all files including sub folders.
 msgid "Notice: Please place all images under MAGENTO_ROOT/media/import/ with writable permission to all files including sub folders."
-msgstr "Remarque : Veuillez placer les images sous REPERTOIRE_MAGENTO/media/import en donnant les droits d'Ã©criture Ã  tous les fichiers et les sous-rÃ©pertoires."
+msgstr "Remarque : Veuillez placer les images sous REPERTOIRE_MAGENTO/media/import en donnant les droits d'écriture à tous les fichiers et les sous-répertoires."
 
 #: Order
 msgid "Order"
@@ -236,15 +236,15 @@ msgstr "Commande"
 
 #: Order #
 msgid "Order #"
-msgstr "Commande nÂ°"
+msgstr "Commande n°"
 
 #: Order # %s
 msgid "Order # %s"
-msgstr "Commande nÂ°%s"
+msgstr "Commande n°%s"
 
 #: Order #%s failed to import because the customer ID #%s associated with this order could not be found.
 msgid "Order #%s failed to import because the customer ID #%s associated with this order could not be found."
-msgstr "La commande nÂ°%s a Ã©chouÃ© Ã  l'import parce que l'identifiant de client %s associÃ© Ã  cette commande n'a pas Ã©tÃ© trouvÃ©."
+msgstr "La commande n°%s a échoué à l'import parce que l'identifiant de client %s associé à cette commande n'a pas été trouvé."
 
 #: Order Date
 msgid "Order Date"
@@ -280,7 +280,7 @@ msgstr "Veuillez choisir au moins une option dans les options d'import\n"
 
 #: Please check default website or input website code in General Information\n
 msgid "Please check default website or input website code in General Information\n"
-msgstr "Veuillez choisir le site web par dÃ©faut ou le code du site web dans Informations gÃ©nÃ©rales\n"
+msgstr "Veuillez choisir le site web par défaut ou le code du site web dans Informations générales\n"
 
 #: Please select a timezone\n
 msgid "Please select a timezone\n"
@@ -288,11 +288,11 @@ msgstr "Choisissez un fuseau horaire\n"
 
 #: Port (Default as 3306)
 msgid "Port (Default as 3306)"
-msgstr "Port (3306 par dÃ©faut)"
+msgstr "Port (3306 par défaut)"
 
 #: Prefix
 msgid "Prefix"
-msgstr "PrÃ©fixe"
+msgstr "Préfixe"
 
 #: Price
 msgid "Price"
@@ -320,19 +320,19 @@ msgstr "Mois de la commande"
 
 #: Purchased Year
 msgid "Purchased Year"
-msgstr "AnnÃ©e de la commande"
+msgstr "Année de la commande"
 
 #: Qty
 msgid "Qty"
-msgstr "QtÃ©"
+msgstr "Qté"
 
 #: Qty Ordered
 msgid "Qty Ordered"
-msgstr "QtÃ© commandÃ©e"
+msgstr "Qté commandée"
 
 #: Root Category for %s
 msgid "Root Category for %s"
-msgstr "CatÃ©gorie racine pour %s"
+msgstr "Catégorie racine pour %s"
 
 #: Run Profile
 msgid "Run Profile"
@@ -340,11 +340,11 @@ msgstr "Lancer le profil"
 
 #: SKU
 msgid "SKU"
-msgstr "RÃ©f."
+msgstr "Réf."
 
 #: SKU %s cannot be saved because of %s.
 msgid "SKU %s cannot be saved because of %s."
-msgstr "La rÃ©f. %s ne peut pas Ãªtre sauvegardÃ©e Ã  cause de %s"
+msgstr "La réf. %s ne peut pas être sauvegardée à cause de %s"
 
 #: Sales
 msgid "Sales"
@@ -356,15 +356,15 @@ msgstr "Sauvegarder le profil"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Select a Connection Charset
 msgid "Select a Connection Charset"
-msgstr "Choisissez un jeu de caractÃ¨res de connection"
+msgstr "Choisissez un jeu de caractères de connection"
 
 #: Select a Data Charset
 msgid "Select a Data Charset"
-msgstr "Choisissez un jeu de caractÃ¨res de donnÃ©es"
+msgstr "Choisissez un jeu de caractères de données"
 
 #: Select a timezone
 msgid "Select a timezone"
@@ -380,7 +380,7 @@ msgstr "Envoyer les notification d'inscription aux clients"
 
 #: Ship To
 msgid "Ship To"
-msgstr "LivrÃ© Ã "
+msgstr "Livré à"
 
 #: Ship to Name
 msgid "Ship to Name"
@@ -400,7 +400,7 @@ msgstr "Mode de livraison"
 
 #: Simplified Chinese
 msgid "Simplified Chinese"
-msgstr "Chinois simplifiÃ©"
+msgstr "Chinois simplifié"
 
 #: South Asian
 msgid "South Asian"
@@ -408,11 +408,11 @@ msgstr "Asie du sud"
 
 #: Start Running
 msgid "Start Running"
-msgstr "DÃ©marrer"
+msgstr "Démarrer"
 
 #: Starting profile execution, please wait...
 msgid "Starting profile execution, please wait..."
-msgstr "DÃ©marrage de l'exÃ©cution du profil, veuillez patienter..."
+msgstr "Démarrage de l'exécution du profil, veuillez patienter..."
 
 #: Subtotal
 msgid "Subtotal"
@@ -420,23 +420,23 @@ msgstr "Sous-total"
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: Thai
 msgid "Thai"
-msgstr "ThaÃ¯"
+msgstr "Thaï"
 
 #: The data has been imported.
 msgid "The data has been imported."
-msgstr "Les donnÃ©es ont Ã©tÃ© importÃ©es."
+msgstr "Les données ont été importées."
 
 #: The osCommerce profile has been deleted.
 msgid "The osCommerce profile has been deleted."
-msgstr "Le profil osCommerce a Ã©tÃ© supprimÃ©."
+msgstr "Le profil osCommerce a été supprimé."
 
 #: The osCommerce profile has been saved.
 msgid "The osCommerce profile has been saved."
-msgstr "Le profil osCommerce a Ã©tÃ© enregistrÃ©."
+msgstr "Le profil osCommerce a été enregistré."
 
 #: This order no longer exists.
 msgid "This order no longer exists."
@@ -448,11 +448,11 @@ msgstr "Fuseau horaire"
 
 #: To import orders, Magento requires that customers also be imported.
 msgid "To import orders, Magento requires that customers also be imported."
-msgstr "Pour importer des commandes, il est nÃ©cessaire d'importer les clients."
+msgstr "Pour importer des commandes, il est nécessaire d'importer les clients."
 
 #: Total imported <strong>%s</strong> records (%s)
 msgid "Total imported <strong>%s</strong> records (%s)"
-msgstr "<strong>%s</strong> enregistrements (%s) importÃ©s au total"
+msgstr "<strong>%s</strong> enregistrements (%s) importés au total"
 
 #: Traditional Chinese
 msgid "Traditional Chinese"
@@ -464,11 +464,11 @@ msgstr "Unicode"
 
 #: Updated At
 msgid "Updated At"
-msgstr "Mise Ã  jour Ã "
+msgstr "Mise à jour à"
 
 #: View #%s
 msgid "View #%s"
-msgstr "Voir nÂ°%s"
+msgstr "Voir n°%s"
 
 #: View Order
 msgid "View Order"
@@ -476,7 +476,7 @@ msgstr "Visualiser"
 
 #: Warning: Please do not close window during importing/exporting data.
 msgid "Warning: Please do not close window during importing/exporting data."
-msgstr "Attention : ne fermez pas la fenÃªtre pendant l'import/export de donnÃ©es."
+msgstr "Attention : ne fermez pas la fenêtre pendant l'import/export de données."
 
 #: Website Code
 msgid "Website Code"
@@ -516,9 +516,9 @@ msgstr "Nom (fact.)"
 
 #: Purchased Year
 msgid "Purchased Year"
-msgstr "AnnÃ©e de la commande"
+msgstr "Année de la commande"
 
 #: processed <strong>%s%% %s/%s</strong> records
 msgid "processed <strong>%s%% %s/%s</strong> records"
-msgstr "<strong>%s%% %s/%d</strong> enregistrements traitÃ©s"
+msgstr "<strong>%s%% %s/%d</strong> enregistrements traités"
 

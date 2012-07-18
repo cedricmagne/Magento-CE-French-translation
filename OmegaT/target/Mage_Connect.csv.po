@@ -12,11 +12,11 @@ msgstr "Ajouter un chemin de contenus"
 
 #: Add PHP Extension dependency
 msgid "Add PHP Extension dependency"
-msgstr "Ajouter une dÃ©pendance d'extension PHP"
+msgstr "Ajouter une dépendance d'extension PHP"
 
 #: Add Package dependency
 msgid "Add Package dependency"
-msgstr "Ajouter une dÃ©pendance de package"
+msgstr "Ajouter une dépendance de package"
 
 #: Add files
 msgid "Add files"
@@ -36,11 +36,11 @@ msgstr "Contenu"
 
 #: Create Extension Package
 msgid "Create Extension Package"
-msgstr "CrÃ©er un package d'extension"
+msgstr "Créer un package d'extension"
 
 #: Dependencies
 msgid "Dependencies"
-msgstr "DÃ©pendances"
+msgstr "Dépendances"
 
 #: Description
 msgid "Description"
@@ -48,7 +48,7 @@ msgstr "Description"
 
 #: Edit Extension
 msgid "Edit Extension"
-msgstr "Ã‰diter l'extension"
+msgstr "Éditer l'extension"
 
 #: Email
 msgid "Email"
@@ -64,11 +64,11 @@ msgstr "Extensions"
 
 #: Failed to create the package.
 msgid "Failed to create the package."
-msgstr "Erreur lors de la crÃ©ation du package"
+msgstr "Erreur lors de la création du package"
 
 #: Failed to load the package data.
 msgid "Failed to load the package data."
-msgstr "Erreur lors du chargement des donnÃ©es du package"
+msgstr "Erreur lors du chargement des données du package"
 
 #: Failed to save the package.
 msgid "Failed to save the package."
@@ -80,7 +80,7 @@ msgstr "Fichiers"
 
 #: Folder
 msgid "Folder"
-msgstr "RÃ©pertoire"
+msgstr "Répertoire"
 
 #: Ignore
 msgid "Ignore"
@@ -180,19 +180,19 @@ msgstr "Sauvegarder sous..."
 
 #: Save Data and Create Package
 msgid "Save Data and Create Package"
-msgstr "Sauvegarder et crÃ©er le package"
+msgstr "Sauvegarder et créer le package"
 
 #: Save package with custom package file name
 msgid "Save package with custom package file name"
-msgstr "Sauvegarder le package avec un nom du fichier de package personnalisÃ©"
+msgstr "Sauvegarder le package avec un nom du fichier de package personnalisé"
 
 #: Summary
 msgid "Summary"
-msgstr "RÃ©sumÃ©"
+msgstr "Résumé"
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: Target
 msgid "Target"
@@ -200,15 +200,15 @@ msgstr "Cible"
 
 #: The package %s data has been loaded.
 msgid "The package %s data has been loaded."
-msgstr "Le package %s a Ã©tÃ© chargÃ©."
+msgstr "Le package %s a été chargé."
 
 #: The package data has been saved.
 msgid "The package data has been saved."
-msgstr "Les donnÃ©es du package ont bien Ã©tÃ© enregistrÃ©es."
+msgstr "Les données du package ont bien été enregistrées."
 
 #: There was a problem saving package data
 msgid "There was a problem saving package data"
-msgstr "ProblÃ¨me lors de la sauvegarde des donnÃ©es du package"
+msgstr "Problème lors de la sauvegarde des données du package"
 
 #: Type
 msgid "Type"
@@ -220,15 +220,15 @@ msgstr "Utilisateur"
 
 #: 1.5.0.0 & later
 msgid "1.5.0.0 & later"
-msgstr "1.5.0.0 et ultÃ©rieures"
+msgstr "1.5.0.0 et ultérieures"
 
 #: Pre-1.5.0.0
 msgid "Pre-1.5.0.0"
-msgstr "AntÃ©rieur Ã  1.5.0.0"
+msgstr "Antérieur à 1.5.0.0"
 
 #: Supported releases
 msgid "Supported releases"
-msgstr "Versions supportÃ©es"
+msgstr "Versions supportées"
 
 #: Page
 msgid "Page"
@@ -236,5 +236,5 @@ msgstr "Page"
 
 #: Invalid package name, allowed: [a-zA-Z0-9_-] chars
 msgid "Invalid package name, allowed: [a-zA-Z0-9_-] chars"
-msgstr "Nom de paquet invalide. CaractÃ¨res autorisÃ©s : [a-zA-Z0-9_-]"
+msgstr "Nom de paquet invalide. Caractères autorisés : [a-zA-Z0-9_-]"
 

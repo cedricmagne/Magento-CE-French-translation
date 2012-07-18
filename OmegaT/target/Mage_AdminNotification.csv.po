@@ -20,7 +20,7 @@ msgstr "Erreur lors de la suppression du message."
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: Date Added
 msgid "Date Added"
@@ -28,7 +28,7 @@ msgstr "Date d'ajout"
 
 #: Last Update
 msgid "Last Update"
-msgstr "DerniÃ¨re mise Ã  jour"
+msgstr "Dernière mise à jour"
 
 #: Mark as Read
 msgid "Mark as Read"
@@ -44,7 +44,7 @@ msgstr "Message"
 
 #: Messages Inbox
 msgid "Messages Inbox"
-msgstr "Messages reÃ§us"
+msgstr "Messages reçus"
 
 #: Notifications
 msgid "Notifications"
@@ -52,11 +52,11 @@ msgstr "Notifications"
 
 #: Please select messages.
 msgid "Please select messages."
-msgstr "Veuillez sÃ©lectionner des messages."
+msgstr "Veuillez sélectionner des messages."
 
 #: Read Details
 msgid "Read Details"
-msgstr "Lire les dÃ©tails"
+msgstr "Lire les détails"
 
 #: Remove
 msgid "Remove"
@@ -76,31 +76,31 @@ msgstr "Afficher la barre d'outils"
 
 #: The message has been marked as read.
 msgid "The message has been marked as read."
-msgstr "Le message a bien Ã©tÃ© marquÃ© comme lu."
+msgstr "Le message a bien été marqué comme lu."
 
 #: The message has been removed.
 msgid "The message has been removed."
-msgstr "Le message a bien Ã©tÃ© supprimÃ©."
+msgstr "Le message a bien été supprimé."
 
 #: Total of %d record(s) have been marked as read.
 msgid "Total of %d record(s) have been marked as read."
-msgstr "%d enregistrement(s) a (ont) bien Ã©tÃ© marquÃ©(s) comme lu(s)."
+msgstr "%d enregistrement(s) a (ont) bien été marqué(s) comme lu(s)."
 
 #: Total of %d record(s) have been removed.
 msgid "Total of %d record(s) have been removed."
-msgstr "%d enregistrement(s) a (ont) bien Ã©tÃ© supprimÃ©(s)."
+msgstr "%d enregistrement(s) a (ont) bien été supprimé(s)."
 
 #: Unable to proceed. Please, try again.
 msgid "Unable to proceed. Please, try again."
-msgstr "Impossible de continuer. Veuillez rÃ©essayer ultÃ©rieurement."
+msgstr "Impossible de continuer. Veuillez réessayer ultérieurement."
 
 #: Update Frequency
 msgid "Update Frequency"
-msgstr "FrÃ©quence de mise Ã  jour"
+msgstr "Fréquence de mise à jour"
 
 #: Use HTTPS to Get Feed
 msgid "Use HTTPS to Get Feed"
-msgstr "Utiliser HTTPS pour rÃ©cupÃ©rer le flux"
+msgstr "Utiliser HTTPS pour récupérer le flux"
 
 #: critical
 msgid "critical"

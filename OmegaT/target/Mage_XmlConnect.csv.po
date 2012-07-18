@@ -3,15 +3,15 @@ msgid ""
 
 #: But cart has some errors.
 msgid "But cart has some errors."
-msgstr "Mais le panier prÃ©sente des erreurs."
+msgstr "Mais le panier présente des erreurs."
 
 #: \"Title\" is more than %d characters long
 msgid "\"Title\" is more than %d characters long"
-msgstr "Le titre fait plus de %d caractÃ¨res"
+msgstr "Le titre fait plus de %d caractères"
 
 #: %1$s has been added to your wishlist.
 msgid "%1$s has been added to your wishlist."
-msgstr "%&$s a Ã©tÃ© ajoutÃ© Ã  votre liste d'envies."
+msgstr "%&$s a été ajouté à votre liste d'envies."
 
 #: %1$s incl tax.
 msgid "%1$s incl tax."
@@ -19,7 +19,7 @@ msgstr "%1$s TTC"
 
 #: %s has been added to your cart.
 msgid "%s has been added to your cart."
-msgstr "%s a Ã©tÃ© ajoutÃ© Ã  votre panier."
+msgstr "%s a été ajouté à votre panier."
 
 #: 10:40 AM
 msgid "10:40 AM"
@@ -35,11 +35,11 @@ msgstr "80x80 px"
 
 #: A Catalog Only App will not support functions such as add to cart, add to wishlist, or login.
 msgid "A Catalog Only App will not support functions such as add to cart, add to wishlist, or login."
-msgstr "Une application de catalogue uniquement ne supportera pas les fonctionnalitÃ©s telles que ajout au panier, ajout Ã  la liste d'envies ou connexion."
+msgstr "Une application de catalogue uniquement ne supportera pas les fonctionnalités telles que ajout au panier, ajout à la liste d'envies ou connexion."
 
 #: A new password has been sent.
 msgid "A new password has been sent."
-msgstr "Un nouveau mot de passe a Ã©tÃ© envoyÃ©."
+msgstr "Un nouveau mot de passe a été envoyé."
 
 #: Account
 msgid "Account"
@@ -47,11 +47,11 @@ msgstr "Compte"
 
 #: Account confirmation is required. Please check your email for the confirmation link.
 msgid "Account confirmation is required. Please check your email for the confirmation link."
-msgstr "Une confirmation de crÃ©ation de compte est nÃ©cessaire. VÃ©rifiez votre boÃ®te mail et cliquez sur le lien de confirmation qui vous a Ã©tÃ© envoyÃ©."
+msgstr "Une confirmation de création de compte est nécessaire. Vérifiez votre boîte mail et cliquez sur le lien de confirmation qui vous a été envoyé."
 
 #: Account information has been saved.
 msgid "Account information has been saved."
-msgstr "Les informations du compte ont Ã©tÃ© sauvegardÃ©es."
+msgstr "Les informations du compte ont été sauvegardées."
 
 #: Action
 msgid "Action"
@@ -67,7 +67,7 @@ msgstr "Activer le passage de commande via PayPal"
 
 #: Activation Key
 msgid "Activation Key"
-msgstr "ClÃ© d'activation"
+msgstr "Clé d'activation"
 
 #: Add App
 msgid "Add App"
@@ -91,15 +91,15 @@ msgstr "Ajouter au panier"
 
 #: Add to Wishlist
 msgid "Add to Wishlist"
-msgstr "Ajouter Ã  la liste d'envies"
+msgstr "Ajouter à la liste d'envies"
 
 #: Additional Address
 msgid "Additional Address"
-msgstr "Adresse supplÃ©mentaire"
+msgstr "Adresse supplémentaire"
 
 #: Additional Countries
 msgid "Additional Countries"
-msgstr "Pays supplÃ©mentaires"
+msgstr "Pays supplémentaires"
 
 #: Address
 msgid "Address"
@@ -107,35 +107,35 @@ msgstr "Adresse"
 
 #: Address 2
 msgid "Address 2"
-msgstr "2Ã¨me adresse"
+msgstr "2ème adresse"
 
 #: Address data not specified.
 msgid "Address data not specified."
-msgstr "Les donnÃ©es d'adresse ne sont pas spÃ©cifiÃ©es."
+msgstr "Les données d'adresse ne sont pas spécifiées."
 
 #: Address does not belong to this customer.
 msgid "Address does not belong to this customer."
-msgstr "L'adresse n'appartient pas Ã  ce client."
+msgstr "L'adresse n'appartient pas à ce client."
 
 #: Address has been deleted.
 msgid "Address has been deleted."
-msgstr "L'adresse a Ã©tÃ© supprimÃ©e."
+msgstr "L'adresse a été supprimée."
 
 #: Address has been saved.
 msgid "Address has been saved."
-msgstr "L'adresse a Ã©tÃ© sauvegardÃ©e."
+msgstr "L'adresse a été sauvegardée."
 
 #: Administrative contact for this app and for app submission issues.
 msgid "Administrative contact for this app and for app submission issues."
-msgstr "Contact administratif pour cette appli et pour les problÃ¨mes de soumission d'application."
+msgstr "Contact administratif pour cette appli et pour les problèmes de soumission d'application."
 
 #: Advanced Settings
 msgid "Advanced Settings"
-msgstr "ParamÃ¨tres avancÃ©s"
+msgstr "Paramètres avancés"
 
 #: After submitting the App, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship's Terms of Service: <a href=\"%2$s\" target=\"_blank\">click here</a>.
 msgid "After submitting the App, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship's Terms of Service: <a href=\"%2$s\" target=\"_blank\">click here</a>."
-msgstr "AprÃ¨s soumission de l'application, contactez <a href=\"mailto:%1$s\">%1$s</a> afin de recevoir la clÃ© d'application, le code secret d'application et le code secret maÃ®tre de l'application.<br/>Ã€ rÃ©ception de ces informations d'identification, remplissez les champs de formulaire correspondants.<br/> Enfin, acceptez les CGV d'Urban Airship en <a href=\"%2$s\" target=\"_blank\">cliquant ici</a>."
+msgstr "Après soumission de l'application, contactez <a href=\"mailto:%1$s\">%1$s</a> afin de recevoir la clé d'application, le code secret d'application et le code secret maître de l'application.<br/>À réception de ces informations d'identification, remplissez les champs de formulaire correspondants.<br/> Enfin, acceptez les CGV d'Urban Airship en <a href=\"%2$s\" target=\"_blank\">cliquant ici</a>."
 
 #: AirMail Message Queue
 msgid "AirMail Message Queue"
@@ -147,7 +147,7 @@ msgstr "File d'attente des messages AirMail"
 
 #: AirMail Template Preview
 msgid "AirMail Template Preview"
-msgstr "PrÃ©visualisation du gabarit de AirMail"
+msgstr "Prévisualisation du gabarit de AirMail"
 
 #: AirMail message
 msgid "AirMail message"
@@ -159,11 +159,11 @@ msgstr "Gabarits AirMail"
 
 #: An account with this email address already exists.
 msgid "An account with this email address already exists."
-msgstr "Il existe dÃ©jÃ  un compte pour cet email."
+msgstr "Il existe déjà un compte pour cet email."
 
 #: An error occurred while adding item to wishlist.
 msgid "An error occurred while adding item to wishlist."
-msgstr "Erreur lors de l'ajout de produit Ã  votre liste d'envies."
+msgstr "Erreur lors de l'ajout de produit à votre liste d'envies."
 
 #: An error occurred while deleting the address.
 msgid "An error occurred while deleting the address."
@@ -171,15 +171,15 @@ msgstr "Erreur lors de la suppression de l'adresse."
 
 #: An error occurred while loading category filters.
 msgid "An error occurred while loading category filters."
-msgstr "Erreur lors du chargement des filtres de catÃ©gories."
+msgstr "Erreur lors du chargement des filtres de catégories."
 
 #: An error occurred while processing your order. Please contact us or try again later.
 msgid "An error occurred while processing your order. Please contact us or try again later."
-msgstr "Erreur lors du traitement de votre commande. Contactez-nous ou rÃ©essayez plus tard."
+msgstr "Erreur lors du traitement de votre commande. Contactez-nous ou réessayez plus tard."
 
 #: An error occurred while processing your request.
 msgid "An error occurred while processing your request."
-msgstr "Erreur lors du traitement de votre requÃªte."
+msgstr "Erreur lors du traitement de votre requête."
 
 #: An error occurred while removing item from wishlist.
 msgid "An error occurred while removing item from wishlist."
@@ -199,15 +199,15 @@ msgstr "Android"
 
 #: App Background
 msgid "App Background"
-msgstr "ArriÃ¨re-plan de l'appli"
+msgstr "Arrière-plan de l'appli"
 
 #: App Background (landscape mode)
 msgid "App Background (landscape mode)"
-msgstr "ArriÃ¨re-plan de l'appli (mode paysage)"
+msgstr "Arrière-plan de l'appli (mode paysage)"
 
 #: App Background (portrait mode)
 msgid "App Background (portrait mode)"
-msgstr "ArriÃ¨re-plan de l'appli (mode portrait)"
+msgstr "Arrière-plan de l'appli (mode portrait)"
 
 #: App Code
 msgid "App Code"
@@ -239,23 +239,23 @@ msgstr "L'appli n'existe pas."
 
 #: App has been deleted.
 msgid "App has been deleted."
-msgstr "L'appli a Ã©tÃ© effacÃ©e."
+msgstr "L'appli a été effacée."
 
 #: App has been saved.
 msgid "App has been saved."
-msgstr "L'appli a Ã©tÃ© sauvegardÃ©e."
+msgstr "L'appli a été sauvegardée."
 
 #: App has been submitted.
 msgid "App has been submitted."
-msgstr "L'appli a Ã©tÃ© soumise."
+msgstr "L'appli a été soumise."
 
 #: App model not loaded.
 msgid "App model not loaded."
-msgstr "Le modÃ¨le App n'a pas Ã©tÃ© chargÃ©."
+msgstr "Le modèle App n'a pas été chargé."
 
 #: App with specified code does not exist.
 msgid "App with specified code does not exist."
-msgstr "Il n'existe pas d'appli correspondant Ã  ce code."
+msgstr "Il n'existe pas d'appli correspondant à ce code."
 
 #: Appears in the info section of your app (example:  Copyright 2010 â€“ Your Company, Inc.)
 msgid "Appears in the info section of your app (example:  Copyright 2010 â€“ Your Company, Inc.)"
@@ -267,11 +267,11 @@ msgstr "Application"
 
 #: Application Key
 msgid "Application Key"
-msgstr "ClÃ© de l'application"
+msgstr "Clé de l'application"
 
 #: Application Master Secret
 msgid "Application Master Secret"
-msgstr "Code secret maÃ®tre de l'application"
+msgstr "Code secret maître de l'application"
 
 #: Application Name
 msgid "Application Name"
@@ -283,7 +283,7 @@ msgstr "Code secret de l'application"
 
 #: Apply Theme
 msgid "Apply Theme"
-msgstr "Appliquer le thÃ¨me"
+msgstr "Appliquer le thème"
 
 #: Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512
 msgid "Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512"
@@ -291,23 +291,23 @@ msgstr "L'image sera automatiquement redimensionnÃ©e pour l'affichage dans l'App
 
 #: Are you sure you whant to cancel a message?
 msgid "Are you sure you whant to cancel a message?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir annuler le message ?"
+msgstr "Êtes-vous sûr(e) de vouloir annuler le message ?"
 
 #: Are you sure you whant to delete a message?
 msgid "Are you sure you whant to delete a message?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir effacer le message ?"
+msgstr "Êtes-vous sûr(e) de vouloir effacer le message ?"
 
 #: Are you sure you what to cancel selected records?
 msgid "Are you sure you what to cancel selected records?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir annuler les enregistrements sÃ©lectionnÃ©s ?"
+msgstr "Êtes-vous sûr(e) de vouloir annuler les enregistrements sélectionnés ?"
 
 #: Are you sure you what to delete selected records?
 msgid "Are you sure you what to delete selected records?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir effacer les enregistrements sÃ©lectionnÃ©s ?"
+msgstr "Êtes-vous sûr(e) de vouloir effacer les enregistrements sélectionnés ?"
 
 #: Authentication complete.
 msgid "Authentication complete."
-msgstr "Authentification terminÃ©e."
+msgstr "Authentification terminée."
 
 #: Back
 msgid "Back"
@@ -315,19 +315,19 @@ msgstr "Retour"
 
 #: Back to App Edit
 msgid "Back to App Edit"
-msgstr "Retour Ã  l'Ã©dition de l'appli"
+msgstr "Retour à l'édition de l'appli"
 
 #: Background Color
 msgid "Background Color"
-msgstr "Couleur d'arriÃ¨re-plan"
+msgstr "Couleur d'arrière-plan"
 
 #: Banner on Home Screen
 msgid "Banner on Home Screen"
-msgstr "BanniÃ¨re sur l'Ã©cran d'accueil"
+msgstr "Bannière sur l'écran d'accueil"
 
 #: Billing address has been set.
 msgid "Billing address has been set."
-msgstr "L'adresse de facturation doit Ãªtre renseignÃ©e."
+msgstr "L'adresse de facturation doit être renseignée."
 
 #: Buy %1$s for %2$s
 msgid "Buy %1$s for %2$s"
@@ -335,11 +335,11 @@ msgstr "Achetez-en %1$s pour %2$s"
 
 #: Buy %1$s for %2$s (%3$s incl. tax) each
 msgid "Buy %1$s for %2$s (%3$s incl. tax) each"
-msgstr "Achetez-en %1$s Ã  %2$s (%3$s TTC) piÃ¨ce"
+msgstr "Achetez-en %1$s à %2$s (%3$s TTC) pièce"
 
 #: Buy %1$s for %2$s each
 msgid "Buy %1$s for %2$s each"
-msgstr "Achetez-en %1$s Ã  %2$s piÃ¨ce"
+msgstr "Achetez-en %1$s à %2$s pièce"
 
 #: Can't add item to shopping cart.
 msgid "Can't add item to shopping cart."
@@ -347,11 +347,11 @@ msgstr "Impossible d'ajouter l'article au panier"
 
 #: Can't apply the coupon code.
 msgid "Can't apply the coupon code."
-msgstr "Impossible d'appliquer le coupon de rÃ©duction."
+msgstr "Impossible d'appliquer le coupon de réduction."
 
 #: Can't create wishlist.
 msgid "Can't create wishlist."
-msgstr "Impossible de crÃ©er la liste d'envies."
+msgstr "Impossible de créer la liste d'envies."
 
 #: Can't load XML.
 msgid "Can't load XML."
@@ -375,7 +375,7 @@ msgstr "Impossible de supprimer l'article."
 
 #: Can't reset theme.
 msgid "Can't reset theme."
-msgstr "Impossible de rÃ©initialiser le thÃ¨me."
+msgstr "Impossible de réinitialiser le thème."
 
 #: Can't save address.
 msgid "Can't save address."
@@ -387,7 +387,7 @@ msgstr "Impossible d'enregistrer le client."
 
 #: Can't save theme.
 msgid "Can't save theme."
-msgstr "Impossible d'enregistrer le thÃ¨me."
+msgstr "Impossible d'enregistrer le thème."
 
 #: Can't show configuration.
 msgid "Can't show configuration."
@@ -395,7 +395,7 @@ msgstr "Impossible de montrer la configuration."
 
 #: Can't specify product.
 msgid "Can't specify product."
-msgstr "Impossible de spÃ©cifier le produit."
+msgstr "Impossible de spécifier le produit."
 
 #: Can't submit application.
 msgid "Can't submit application."
@@ -403,11 +403,11 @@ msgstr "Impossible de soumettre l'application."
 
 #: Can't update cart.
 msgid "Can't update cart."
-msgstr "Impossible de mettre Ã  jour le panier."
+msgstr "Impossible de mettre à jour le panier."
 
 #: Can't write to file \"%s\".
 msgid "Can't write to file \"%s\"."
-msgstr "Impossible d'Ã©crire dans le fichier \"% s\"."
+msgstr "Impossible d'écrire dans le fichier \"% s\"."
 
 #: Cant copy file \"%s\" to \"%s\".
 msgid "Cant copy file \"%s\" to \"%s\"."
@@ -419,27 +419,27 @@ msgstr "Annuler"
 
 #: Canceled
 msgid "Canceled"
-msgstr "AnnulÃ©e"
+msgstr "Annulée"
 
 #: Cancelled
 msgid "Cancelled"
-msgstr "AnnulÃ©"
+msgstr "Annulé"
 
 #: Cannot load theme \"%s\".
 msgid "Cannot load theme \"%s\"."
-msgstr "Impossible de charger le thÃ¨me \"%s\"."
+msgstr "Impossible de charger le thème \"%s\"."
 
 #: Cannot save theme \"%s\". Incorrect data received
 msgid "Cannot save theme \"%s\". Incorrect data received"
-msgstr "Impossible d'enregistrer le thÃ¨me \"%s\". Les donnÃ©es reÃ§ues sont incorrectes."
+msgstr "Impossible d'enregistrer le thème \"%s\". Les données reçues sont incorrectes."
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: Card verification number is wrong
 msgid "Card verification number is wrong"
-msgstr "Le numÃ©ro de vÃ©rification de carte est erronÃ©."
+msgstr "Le numéro de vérification de carte est erroné."
 
 #: Carrier
 msgid "Carrier"
@@ -451,11 +451,11 @@ msgstr "Panier"
 
 #: Cart has been updated.
 msgid "Cart has been updated."
-msgstr "Le panier a Ã©tÃ© mis Ã  jour."
+msgstr "Le panier a été mis à jour."
 
 #: Cart has some errors.
 msgid "Cart has some errors."
-msgstr "Le panier prÃ©sente des erreurs."
+msgstr "Le panier présente des erreurs."
 
 #: Cart is empty.
 msgid "Cart is empty."
@@ -463,7 +463,7 @@ msgstr "Le panier est vide."
 
 #: Cart line items are not eligible for exporting to PayPal API
 msgid "Cart line items are not eligible for exporting to PayPal API"
-msgstr "Certains articles dans le panier ne sont pas elligibles Ã  l'export vers l'API PayPal."
+msgstr "Certains articles dans le panier ne sont pas elligibles à l'export vers l'API PayPal."
 
 #: Catalog Only App?
 msgid "Catalog Only App?"
@@ -471,11 +471,11 @@ msgstr "Appli catalogue uniquement ?"
 
 #: Category Button Color
 msgid "Category Button Color"
-msgstr "Couleur du bouton de catÃ©gorie"
+msgstr "Couleur du bouton de catégorie"
 
 #: Category Item Background Color
 msgid "Category Item Background Color"
-msgstr "Couleur d'arriÃ¨re-plan d'Ã©lÃ©ment de catÃ©gorie"
+msgstr "Couleur d'arrière-plan d'élément de catégorie"
 
 #: Chairs
 msgid "Chairs"
@@ -491,7 +491,7 @@ msgstr "Modifier le mot de passe"
 
 #: Checkout has been initialized.
 msgid "Checkout has been initialized."
-msgstr "Le passage de commande a Ã©tÃ© initialisÃ©."
+msgstr "Le passage de commande a été initialisé."
 
 #: City
 msgid "City"
@@ -499,7 +499,7 @@ msgstr "Ville"
 
 #: Color Themes
 msgid "Color Themes"
-msgstr "ThÃ¨mes de couleur"
+msgstr "Thèmes de couleur"
 
 #: Colors
 msgid "Colors"
@@ -507,11 +507,11 @@ msgstr "Couleurs"
 
 #: Company
 msgid "Company"
-msgstr "SociÃ©tÃ©"
+msgstr "Société"
 
 #: Completed
 msgid "Completed"
-msgstr "TerminÃ©"
+msgstr "Terminé"
 
 #: Confirm New Password
 msgid "Confirm New Password"
@@ -551,35 +551,35 @@ msgstr "Pays"
 
 #: Coupon code %s is not valid.
 msgid "Coupon code %s is not valid."
-msgstr "Le code de rÃ©duction \"%s\" n'est pas valide."
+msgstr "Le code de réduction \"%s\" n'est pas valide."
 
 #: Coupon code %s was applied.
 msgid "Coupon code %s was applied."
-msgstr "Le coupon de rÃ©duction \"%s\" a Ã©tÃ© appliquÃ©."
+msgstr "Le coupon de réduction \"%s\" a été appliqué."
 
 #: Coupon code is empty.
 msgid "Coupon code is empty."
-msgstr "Le code de rÃ©duction est vide."
+msgstr "Le code de réduction est vide."
 
 #: Coupon code was canceled.
 msgid "Coupon code was canceled."
-msgstr "Le coupon de rÃ©duction a Ã©tÃ© annulÃ©."
+msgstr "Le coupon de réduction a été annulé."
 
 #: Creating a Template is allowed only for applications which have device type iPhone.
 msgid "Creating a Template is allowed only for applications which have device type iPhone."
-msgstr "La crÃ©ation d'un gabarit n'est autorisÃ©e que pour les applications dont le type de terminal est l'iPhone."
+msgstr "La création d'un gabarit n'est autorisée que pour les applications dont le type de terminal est l'iPhone."
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit card number does not match credit card type.
 msgid "Credit card number does not match credit card type."
-msgstr "Le numÃ©ro de carte ne correspond pas au type de carte."
+msgstr "Le numéro de carte ne correspond pas au type de carte."
 
 #: Current Password
 msgid "Current Password"
@@ -587,35 +587,35 @@ msgstr "Mot de passe actuel"
 
 #: Custom App Icon
 msgid "Custom App Icon"
-msgstr "IcÃ´ne d'appli personnalisÃ©e"
+msgstr "Icône d'appli personnalisée"
 
 #: Custom Colors
 msgid "Custom Colors"
-msgstr "Couleurs personnalisÃ©es"
+msgstr "Couleurs personnalisées"
 
 #: Custom application icon
 msgid "Custom application icon"
-msgstr "IcÃ´ne d'application personnalisÃ©e"
+msgstr "Icône d'application personnalisée"
 
 #: Customer authentication problem.
 msgid "Customer authentication problem."
-msgstr "ProblÃ¨me d'authentification de client."
+msgstr "Problème d'authentification de client."
 
 #: Customer email not specified.
 msgid "Customer email not specified."
-msgstr "L'email du client n'est pas spÃ©cifiÃ©."
+msgstr "L'email du client n'est pas spécifié."
 
 #: Customer logout problem.
 msgid "Customer logout problem."
-msgstr "ProblÃ¨me lors de la dÃ©connexion du client."
+msgstr "Problème lors de la déconnexion du client."
 
 #: Customer not logged in.
 msgid "Customer not logged in."
-msgstr "Le client n'est pas connectÃ©."
+msgstr "Le client n'est pas connecté."
 
 #: Date Created
 msgid "Date Created"
-msgstr "Date de crÃ©ation"
+msgstr "Date de création"
 
 #: Date Submitted
 msgid "Date Submitted"
@@ -623,19 +623,19 @@ msgstr "Date de soumission"
 
 #: Date Updated
 msgid "Date Updated"
-msgstr "Date de mise Ã  jour"
+msgstr "Date de mise à jour"
 
 #: Default Billing Address
 msgid "Default Billing Address"
-msgstr "Adresse de facturation par dÃ©faut"
+msgstr "Adresse de facturation par défaut"
 
 #: Default Shipping Address
 msgid "Default Shipping Address"
-msgstr "Adresse de livraison par dÃ©faut"
+msgstr "Adresse de livraison par défaut"
 
 #: Default Theme
 msgid "Default Theme"
-msgstr "ThÃ¨me par dÃ©faut"
+msgstr "Thème par défaut"
 
 #: Delete
 msgid "Delete"
@@ -643,7 +643,7 @@ msgstr "Supprimer"
 
 #: Deleted
 msgid "Deleted"
-msgstr "EffacÃ©"
+msgstr "Effacé"
 
 #: Description
 msgid "Description"
@@ -651,7 +651,7 @@ msgstr "Description"
 
 #: Description that appears in the iTunes App Store. 4000 chars maximum.
 msgid "Description that appears in the iTunes App Store. 4000 chars maximum."
-msgstr "Description apparaissant dans l'App Store iTunes. 4000 caractÃ¨res maximum."
+msgstr "Description apparaissant dans l'App Store iTunes. 4000 caractères maximum."
 
 #: Design
 msgid "Design"
@@ -679,27 +679,27 @@ msgstr "Le terminal n'est pas reconnu : \"%s\". Impossible de charger un helper.
 
 #: Edit
 msgid "Edit"
-msgstr "Ã‰diter"
+msgstr "Éditer"
 
 #: Edit AirMail Message
 msgid "Edit AirMail Message"
-msgstr "Ã‰diter le message AirMail"
+msgstr "Éditer le message AirMail"
 
 #: Edit AirMail Message Queue #%s
 msgid "Edit AirMail Message Queue #%s"
-msgstr "Ã‰diter la file d'attente de messages AirMail nÂ°%s"
+msgstr "Éditer la file d'attente de messages AirMail n°%s"
 
 #: Edit App \"%s\"
 msgid "Edit App \"%s\""
-msgstr "Ã‰diter l'appli \"%s\""
+msgstr "Éditer l'appli \"%s\""
 
 #: Edit Filter
 msgid "Edit Filter"
-msgstr "Ã‰diter le filtre"
+msgstr "Éditer le filtre"
 
 #: Edit Template \"%s\"
 msgid "Edit Template \"%s\""
-msgstr "Ã‰diter le gabarit \"%s\""
+msgstr "Éditer le gabarit \"%s\""
 
 #: Email
 msgid "Email"
@@ -723,7 +723,7 @@ msgstr "Activer Flurry Analytics pour le marchand."
 
 #: Enable Standard Checkout
 msgid "Enable Standard Checkout"
-msgstr "Activer le rÃ¨glement standard"
+msgstr "Activer le règlement standard"
 
 #: Error while processing file \"%s\".
 msgid "Error while processing file \"%s\"."
@@ -735,7 +735,7 @@ msgstr "Erreur lors de l'upload du fichier \"%s\"."
 
 #: Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif\", \"png\" are allowed.
 msgid "Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif\", \"png\" are allowed."
-msgstr "Erreur lors de l'upload du fichier \"%s\". Type de fichier non autorisÃ©. Seules les extensions \"jpg\", \"jpeg\", \"gif\" et \"png\" sont autorisÃ©es."
+msgstr "Erreur lors de l'upload du fichier \"%s\". Type de fichier non autorisé. Seules les extensions \"jpg\", \"jpeg\", \"gif\" et \"png\" sont autorisées."
 
 #: Error.
 msgid "Error."
@@ -747,7 +747,7 @@ msgstr "Date d'expiration - Mois"
 
 #: Expiration Date - Year
 msgid "Expiration Date - Year"
-msgstr "Date d'expiration - AnnÃ©e"
+msgstr "Date d'expiration - Année"
 
 #: Extensions
 msgid "Extensions"
@@ -755,7 +755,7 @@ msgstr "Extensions"
 
 #: FILTERS APPLIED
 msgid "FILTERS APPLIED"
-msgstr "FILTRES APPLIQUÃ‰S"
+msgstr "FILTRES APPLIQUÉS"
 
 #: Fax
 msgid "Fax"
@@ -767,7 +767,7 @@ msgstr "Le fichier \"%s\" n'existe pas."
 
 #: First Name
 msgid "First Name"
-msgstr "PrÃ©nom"
+msgstr "Prénom"
 
 #: Flurry Analytics
 msgid "Flurry Analytics"
@@ -795,15 +795,15 @@ msgstr "Funk Leaf"
 
 #: General
 msgid "General"
-msgstr "GÃ©nÃ©ral"
+msgstr "Général"
 
 #: Get Activation Key
 msgid "Get Activation Key"
-msgstr "RÃ©cupÃ©rer la clÃ© d'activation"
+msgstr "Récupérer la clé d'activation"
 
 #: Get Content from CMS Page
 msgid "Get Content from CMS Page"
-msgstr "RÃ©cupÃ©rer le contenu de la page CMS"
+msgstr "Récupérer le contenu de la page CMS"
 
 #: Grand Total (Excl. Tax)
 msgid "Grand Total (Excl. Tax)"
@@ -815,15 +815,15 @@ msgstr "Total (TTC)"
 
 #: Guest
 msgid "Guest"
-msgstr "InvitÃ©"
+msgstr "Invité"
 
 #: Header Background Color
 msgid "Header Background Color"
-msgstr "Couleur d'arriÃ¨re plan de l'entÃªte"
+msgstr "Couleur d'arrière plan de l'entête"
 
 #: Header Font Color
 msgid "Header Font Color"
-msgstr "Couleur de police de l'en-tÃªte"
+msgstr "Couleur de police de l'en-tête"
 
 #: Home
 msgid "Home"
@@ -843,19 +843,19 @@ msgstr "IcÃ´ne qui apparaÃ®tra sur le tÃ©lÃ©phone de l'utilisateur aprÃ¨s le tÃ©
 
 #: Icons
 msgid "Icons"
-msgstr "IcÃ´nes"
+msgstr "Icônes"
 
 #: If leave this field empty, the message will be sent immediately
 msgid "If leave this field empty, the message will be sent immediately"
-msgstr "Si ce champ reste vide, le message sera envoyÃ© immÃ©diatement"
+msgstr "Si ce champ reste vide, le message sera envoyé immédiatement"
 
 #: Image file was not found.
 msgid "Image file was not found."
-msgstr "Le fichier image n'a pas Ã©tÃ© trouvÃ©."
+msgstr "Le fichier image n'a pas été trouvé."
 
 #: Image that appears on first screen while your app is loading. Required size: 320px x 460px.
 msgid "Image that appears on first screen while your app is loading. Required size: 320px x 460px."
-msgstr "Image qui apparaÃ®t sur le premier Ã©cran pendant le chargement de votre appli. Taille obligatoire : 320 x 460px."
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 320 x 460px."
 
 #: Images
 msgid "Images"
@@ -891,11 +891,11 @@ msgstr "Mot de passe actuel non valide."
 
 #: Invalid customer data.
 msgid "Invalid customer data."
-msgstr "DonnÃ©es client non valides"
+msgstr "Données client non valides"
 
 #: Invalid data.
 msgid "Invalid data."
-msgstr "DonnÃ©es non valides"
+msgstr "Données non valides"
 
 #: Invalid email address.
 msgid "Invalid email address."
@@ -911,11 +911,11 @@ msgstr "Identifiant ou mot de passe invalide."
 
 #: Invalid shipping method.
 msgid "Invalid shipping method."
-msgstr "MÃ©thode de livraison non valide"
+msgstr "Méthode de livraison non valide"
 
 #: Issue Number
 msgid "Issue Number"
-msgstr "NumÃ©ro de problÃ¨me"
+msgstr "Numéro de problème"
 
 #: It's not allowed to delete submitted application.
 msgid "It's not allowed to delete submitted application."
@@ -923,39 +923,39 @@ msgstr "Il n'est pas permis d'effacer une application soumise."
 
 #: Item has been added to cart.
 msgid "Item has been added to cart."
-msgstr "L'article a Ã©tÃ© ajoutÃ© au panier."
+msgstr "L'article a été ajouté au panier."
 
 #: Item has been deleted from cart.
 msgid "Item has been deleted from cart."
-msgstr "L'article a Ã©tÃ© effacÃ© du panier."
+msgstr "L'article a été effacé du panier."
 
 #: Item has been removed from wishlist.
 msgid "Item has been removed from wishlist."
-msgstr "L'article a Ã©tÃ© effacÃ© de la liste d'envies."
+msgstr "L'article a été effacé de la liste d'envies."
 
 #: Items were updated. But can't update wishlist.
 msgid "Items were updated. But can't update wishlist."
-msgstr "Les articles ont Ã©tÃ© mis Ã  jour. Mais il n'est pas possible de mettre Ã  jour la liste d'envies."
+msgstr "Les articles ont été mis à jour. Mais il n'est pas possible de mettre à jour la liste d'envies."
 
 #: Key
 msgid "Key"
-msgstr "ClÃ©"
+msgstr "Clé"
 
 #: Keywords
 msgid "Keywords"
-msgstr "Mots clÃ©s"
+msgstr "Mots clés"
 
 #: Label
 msgid "Label"
-msgstr "LibellÃ©"
+msgstr "Libellé"
 
 #: Large iTunes Icon
 msgid "Large iTunes Icon"
-msgstr "Grande icÃ´ne iTunes"
+msgstr "Grande icône iTunes"
 
 #: Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Required size: 512px x 512px.
 msgid "Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Required size: 512px x 512px."
-msgstr "Grande icÃ´ne qui apparaÃ®t dans l'App Store iTunes. Il n'est pas nÃ©cessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille obligatoire : 512 x 512px."
+msgstr "Grande icône qui apparaît dans l'App Store iTunes. Il n'est pas nécessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille obligatoire : 512 x 512px."
 
 #: Last Name
 msgid "Last Name"
@@ -963,7 +963,7 @@ msgstr "Nom"
 
 #: Loader Splash Screen
 msgid "Loader Splash Screen"
-msgstr "Ã‰cran de dÃ©marrage du chargeur"
+msgstr "Écran de démarrage du chargeur"
 
 #: Log In
 msgid "Log In"
@@ -975,19 +975,19 @@ msgstr "L'identifiant et le mot de passe sont obligatoires."
 
 #: Logo in Header
 msgid "Logo in Header"
-msgstr "Logo dans l'en-tÃªte"
+msgstr "Logo dans l'en-tête"
 
 #: Logout complete.
 msgid "Logout complete."
-msgstr "DÃ©connexion effectuÃ©e."
+msgstr "Déconnexion effectuée."
 
 #: MEP is PayPal`s native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>
 msgid "MEP is PayPal`s native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>"
-msgstr "MEP est la solution de paiement native de PayPal pour l'iPhone. Vous pouvez choisir d'utiliser MEP en mÃªme temps que le paiement standard ou de l'utiliser comme unique moyen de paiement pour Magento mobile. PayPal MEP nÃ©cessite un <a href=\"%s\">compte business PayPal</a>"
+msgstr "MEP est la solution de paiement native de PayPal pour l'iPhone. Vous pouvez choisir d'utiliser MEP en même temps que le paiement standard ou de l'utiliser comme unique moyen de paiement pour Magento mobile. PayPal MEP nécessite un <a href=\"%s\">compte business PayPal</a>"
 
 #: Mailbox title
 msgid "Mailbox title"
-msgstr "Titre de la boÃ®te mail"
+msgstr "Titre de la boîte mail"
 
 #: Main Tabs
 msgid "Main Tabs"
@@ -1003,11 +1003,11 @@ msgstr "Rendre cette application disponible sur les territoires suivants"
 
 #: Manage Apps
 msgid "Manage Apps"
-msgstr "GÃ©rer les applis"
+msgstr "Gérer les applis"
 
 #: Manage Mobile App
 msgid "Manage Mobile App"
-msgstr "GÃ©rer l'appli mobile"
+msgstr "Gérer l'appli mobile"
 
 #: Maximum length is 140
 msgid "Maximum length is 140"
@@ -1027,7 +1027,7 @@ msgstr "File d'attente de messages"
 
 #: Message Settings
 msgid "Message Settings"
-msgstr "ParamÃ¨tres de message"
+msgstr "Paramètres de message"
 
 #: Message Templates
 msgid "Message Templates"
@@ -1043,7 +1043,7 @@ msgstr "Type de message"
 
 #: Message can not be edited when it's status NOT is \"IN QUEUE\".
 msgid "Message can not be edited when it's status NOT is \"IN QUEUE\"."
-msgstr "Le message ne peut pas Ãªtre Ã©ditÃ© quand son statut n'est pas \"DANS LA FILE\"."
+msgstr "Le message ne peut pas être édité quand son statut n'est pas \"DANS LA FILE\"."
 
 #: Message content
 msgid "Message content"
@@ -1075,11 +1075,11 @@ msgstr "Plus d'onglets"
 
 #: Name on Card
 msgid "Name on Card"
-msgstr "PropriÃ©taire de la carte"
+msgstr "Propriétaire de la carte"
 
 #: Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize.
 msgid "Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize."
-msgstr "Nom qui apparaÃ®t sous votre appli quand les utilisateurs l'installent sur leur terminal. Nous vous recommendons de choisir un nom d'une longueur de 10-12 caractÃ¨res que vos clients sauront reconnaÃ®tre."
+msgstr "Nom qui apparaît sous votre appli quand les utilisateurs l'installent sur leur terminal. Nous vous recommendons de choisir un nom d'une longueur de 10-12 caractères que vos clients sauront reconnaître."
 
 #: New AirMail Message
 msgid "New AirMail Message"
@@ -1103,19 +1103,19 @@ msgstr "Nouveau gabarit"
 
 #: No items were specifed to update.
 msgid "No items were specifed to update."
-msgstr "Aucun Ã©lÃ©ment n'a Ã©tÃ© spÃ©cifiÃ© pour la mise Ã  jour."
+msgstr "Aucun élément n'a été spécifié pour la mise à jour."
 
 #: No items were updated.
 msgid "No items were updated."
-msgstr "Aucun Ã©lÃ©ment n'a Ã©tÃ© mis Ã  jour."
+msgstr "Aucun élément n'a été mis à jour."
 
 #: No product selected.
 msgid "No product selected."
-msgstr "Aucun produit sÃ©lectionnÃ©."
+msgstr "Aucun produit sélectionné."
 
 #: No such file \"%s\".
 msgid "No such file \"%s\"."
-msgstr "Aucun fichier correspondant Ã  \"%s\"."
+msgstr "Aucun fichier correspondant à \"%s\"."
 
 #: Not Submitted
 msgid "Not Submitted"
@@ -1123,23 +1123,23 @@ msgstr "Non soumis"
 
 #: One or more keywords that describe your app. Keywords are matched to users` searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.
 msgid "One or more keywords that describe your app. Keywords are matched to users` searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum."
-msgstr "Un ou plusieurs mots-clÃ©s dÃ©crivant votre appli. Les mots-clÃ©s sont utilisÃ©s lors des recherches des utilisateurs dans l'App Store et aident Ã  retourner des rÃ©sultats concordant. SÃ©parez les mots-clÃ©s multiples par des virgules. 100 caractÃ¨res maximum."
+msgstr "Un ou plusieurs mots-clés décrivant votre appli. Les mots-clés sont utilisés lors des recherches des utilisateurs dans l'App Store et aident à retourner des résultats concordant. Séparez les mots-clés multiples par des virgules. 100 caractères maximum."
 
 #: Onepage checkout is disabled.
 msgid "Onepage checkout is disabled."
-msgstr "Le passage de commande en une seule page est dÃ©sactivÃ©."
+msgstr "Le passage de commande en une seule page est désactivé."
 
 #: Only free apps are allowed in this version.
 msgid "Only free apps are allowed in this version."
-msgstr "Seules les applis gratuites sont autorisÃ©es dans cette version."
+msgstr "Seules les applis gratuites sont autorisées dans cette version."
 
 #: Options menu items
 msgid "Options menu items"
-msgstr "Ã‰lÃ©ments du menu d'options"
+msgstr "Éléments du menu d'options"
 
 #: POST data is not valid.
 msgid "POST data is not valid."
-msgstr "Les donnÃ©es en POST sont invalides."
+msgstr "Les données en POST sont invalides."
 
 #: Pages
 msgid "Pages"
@@ -1151,15 +1151,15 @@ msgstr "Mot de passe"
 
 #: Password fields cannot be empty.
 msgid "Password fields cannot be empty."
-msgstr "Les champs de mot de passe doivent Ãªtre renseignÃ©s."
+msgstr "Les champs de mot de passe doivent être renseignés."
 
 #: PayPal Mobile Embedded Payment (MEP)
 msgid "PayPal Mobile Embedded Payment (MEP)"
-msgstr "PayPal Mobile Embedded Payment (MEP) - Paiement PayPal embarquÃ© sur mobile"
+msgstr "PayPal Mobile Embedded Payment (MEP) - Paiement PayPal embarqué sur mobile"
 
 #: Payment Method has been set.
 msgid "Payment Method has been set."
-msgstr "Le mode de paiement a Ã©tÃ© renseignÃ©."
+msgstr "Le mode de paiement a été renseigné."
 
 #: Payment Methods
 msgid "Payment Methods"
@@ -1167,7 +1167,7 @@ msgstr "Modes de paiement"
 
 #: Payment method was successfully set.
 msgid "Payment method was successfully set."
-msgstr "Le mode de paiement a Ã©tÃ© renseignÃ©."
+msgstr "Le mode de paiement a été renseigné."
 
 #: Paypal Merchant Account Email.
 msgid "Paypal Merchant Account Email."
@@ -1179,15 +1179,15 @@ msgstr "Nom d'utilisateur du compte marchand PayPal"
 
 #: Please Select Application
 msgid "Please Select Application"
-msgstr "SÃ©lectionnez une application"
+msgstr "Sélectionnez une application"
 
 #: Please Select Device Type
 msgid "Please Select Device Type"
-msgstr "SÃ©lectionnez un type de terminal"
+msgstr "Sélectionnez un type de terminal"
 
 #: Please agree to all the terms and conditions before placing the order.
 msgid "Please agree to all the terms and conditions before placing the order."
-msgstr "Veuillez accepter les conditions gÃ©nÃ©rales de ventes avant de valider la commande."
+msgstr "Veuillez accepter les conditions générales de ventes avant de valider la commande."
 
 #: Please enter \"App Title\".
 msgid "Please enter \"App Title\"."
@@ -1195,11 +1195,11 @@ msgstr "Saisissez le titre de l'appli"
 
 #: Please enter issue number or start date for switch/solo card type.
 msgid "Please enter issue number or start date for switch/solo card type."
-msgstr "Veuillez saisir le numÃ©ro de problÃ¨me ou une date de dÃ©but pour le type de carte switch/solo."
+msgstr "Veuillez saisir le numéro de problème ou une date de début pour le type de carte switch/solo."
 
 #: Please enter the Activation Key.
 msgid "Please enter the Activation Key."
-msgstr "Saisissez la clÃ© d'activation."
+msgstr "Saisissez la clé d'activation."
 
 #: Please enter the Copyright.
 msgid "Please enter the Copyright."
@@ -1211,7 +1211,7 @@ msgstr "Saisissez le prix."
 
 #: Please enter the Resubmission Key.
 msgid "Please enter the Resubmission Key."
-msgstr "Saisissez la clÃ© de re-soumission."
+msgstr "Saisissez la clé de re-soumission."
 
 #: Please enter the Title.
 msgid "Please enter the Title."
@@ -1219,39 +1219,39 @@ msgstr "Saisissez le titre."
 
 #: Please make sure your passwords match.
 msgid "Please make sure your passwords match."
-msgstr "VÃ©rifiez que vos mots de passe concordent."
+msgstr "Vérifiez que vos mots de passe concordent."
 
 #: Please select at least one country.
 msgid "Please select at least one country."
-msgstr "SÃ©lectionnez au moins un pays."
+msgstr "Sélectionnez au moins un pays."
 
 #: Please upload  an image for \"App Background (landscape mode)\" field from Design Tab.
 msgid "Please upload  an image for \"App Background (landscape mode)\" field from Design Tab."
-msgstr "Uploadez une image pour l'arriÃ¨re-plan d'appli en mode paysage dans l'onglet Design."
+msgstr "Uploadez une image pour l'arrière-plan d'appli en mode paysage dans l'onglet Design."
 
 #: Please upload  an image for \"App Background (portrait mode)\" field from Design Tab.
 msgid "Please upload  an image for \"App Background (portrait mode)\" field from Design Tab."
-msgstr "Uploadez une image pour l'arriÃ¨re-plan d'appli en mode portrait dans l'onglet Design."
+msgstr "Uploadez une image pour l'arrière-plan d'appli en mode portrait dans l'onglet Design."
 
 #: Please upload  an image for \"App Background\" field from Design Tab.
 msgid "Please upload  an image for \"App Background\" field from Design Tab."
-msgstr "Uploadez une image pour l'arriÃ¨re-plan d'appli dans l'onglet Design."
+msgstr "Uploadez une image pour l'arrière-plan d'appli dans l'onglet Design."
 
 #: Please upload  an image for \"Banner on Home Screen\" field from Design Tab.
 msgid "Please upload  an image for \"Banner on Home Screen\" field from Design Tab."
-msgstr "Uploadez une image pour la banniÃ¨re sur l'Ã©cran d'accueil dans l'onglet Design."
+msgstr "Uploadez une image pour la bannière sur l'écran d'accueil dans l'onglet Design."
 
 #: Please upload  an image for \"Logo in Header\" field from Design Tab.
 msgid "Please upload  an image for \"Logo in Header\" field from Design Tab."
-msgstr "Uploadez une image pour le logo de l'en-tÃªte dans l'onglet Design."
+msgstr "Uploadez une image pour le logo de l'en-tête dans l'onglet Design."
 
 #: Preset Theme
 msgid "Preset Theme"
-msgstr "ThÃ¨me prÃ©-configurÃ©"
+msgstr "Thème pré-configuré"
 
 #: Preview
 msgid "Preview"
-msgstr "PrÃ©visualiser"
+msgstr "Prévisualiser"
 
 #: Price
 msgid "Price"
@@ -1271,7 +1271,7 @@ msgstr "Couleur de police principale"
 
 #: Problem changing or sending password.
 msgid "Problem changing or sending password."
-msgstr "ProblÃ¨me lors de la modification ou de l'envoi de mot de passe."
+msgstr "Problème lors de la modification ou de l'envoi de mot de passe."
 
 #: Product Name3
 msgid "Product Name3"
@@ -1291,15 +1291,15 @@ msgstr "Le produit n'est pas disponible."
 
 #: Product was not specified.
 msgid "Product was not specified."
-msgstr "Le produit n'a pas Ã©tÃ© spÃ©cifiÃ©."
+msgstr "Le produit n'a pas été spécifié."
 
 #: Product(s) currently out of stock.
 msgid "Product(s) currently out of stock."
-msgstr "Produit(s) actuellement Ã©puisÃ©(s)."
+msgstr "Produit(s) actuellement épuisé(s)."
 
 #: Purchase Order Number
 msgid "Purchase Order Number"
-msgstr "NumÃ©ro de bon de commande"
+msgstr "Numéro de bon de commande"
 
 #: Push Notification
 msgid "Push Notification"
@@ -1335,71 +1335,71 @@ msgstr "L'instance de quote est obligatoire."
 
 #: Recommended size 1024px x 704px. Note: Image size affects the performance of your app.
 msgid "Recommended size 1024px x 704px. Note: Image size affects the performance of your app."
-msgstr "Taille recommandÃ©e 1024 x 704px. Remarque : la taille de l'image affecte les performances de votre appli."
+msgstr "Taille recommandée 1024 x 704px. Remarque : la taille de l'image affecte les performances de votre appli."
 
 #: Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.
 msgid "Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance."
-msgstr "Taille recommandÃ©e 320 x 230px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
+msgstr "Taille recommandée 320 x 230px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
 
 #: Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.
 msgid "Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance."
-msgstr "Taille recommandÃ©e 320 x 258px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
+msgstr "Taille recommandée 320 x 258px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
 
 #: Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.
 msgid "Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance."
-msgstr "Taille recommandÃ©e 320 x 367px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
+msgstr "Taille recommandée 320 x 367px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
 
 #: Recommended size 320px x 410px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.
 msgid "Recommended size 320px x 410px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance."
-msgstr "Taille recommandÃ©e 320 x 410px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
+msgstr "Taille recommandée 320 x 410px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 50 ko."
 
 #: Recommended size 35px x 35px.
 msgid "Recommended size 35px x 35px."
-msgstr "Taille recommandÃ©e : 35 x 35px."
+msgstr "Taille recommandée : 35 x 35px."
 
 #: Recommended size 480px x 250px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.
 msgid "Recommended size 480px x 250px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance."
-msgstr "Taille recommandÃ©e 480 x 250px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 75 ko."
+msgstr "Taille recommandée 480 x 250px. Remarque : la taille de l'image affecte les performances de votre appli. Pour des performances optimales, utilisez une image de moins de 75 ko."
 
 #: Recommended size 768px x 294px. Note: Image size affects the performance of your app.
 msgid "Recommended size 768px x 294px. Note: Image size affects the performance of your app."
-msgstr "Taille recommandÃ©e 768 x 294px. Remarque : la taille de l'image affecte les performances de votre appli."
+msgstr "Taille recommandée 768 x 294px. Remarque : la taille de l'image affecte les performances de votre appli."
 
 #: Recommended size 768px x 960px. Note: Image size affects the performance of your app.
 msgid "Recommended size 768px x 960px. Note: Image size affects the performance of your app."
-msgstr "Taille recommandÃ©e 768 x 960px. Remarque : la taille de l'image affecte les performances de votre appli."
+msgstr "Taille recommandée 768 x 960px. Remarque : la taille de l'image affecte les performances de votre appli."
 
 #: Regular and confirmation passwords must be equal
 msgid "Regular and confirmation passwords must be equal"
-msgstr "Le mot de passe et la confirmation doivent Ãªtre identiques"
+msgstr "Le mot de passe et la confirmation doivent être identiques"
 
 #: Related Product Background Color
 msgid "Related Product Background Color"
-msgstr "Couleur de fond d'un produit apparentÃ©"
+msgstr "Couleur de fond d'un produit apparenté"
 
 #: Reset
 msgid "Reset"
-msgstr "RÃ©initialiser"
+msgstr "Réinitialiser"
 
 #: Reset Successful
 msgid "Reset Successful"
-msgstr "RÃ©initialisation effectuÃ©e"
+msgstr "Réinitialisation effectuée"
 
 #: Resubmission Key
 msgid "Resubmission Key"
-msgstr "ClÃ© de re-soumission"
+msgstr "Clé de re-soumission"
 
 #: Resubmit
 msgid "Resubmit"
-msgstr "Soumettre Ã  nouveau"
+msgstr "Soumettre à nouveau"
 
 #: Resubmit App
 msgid "Resubmit App"
-msgstr "Soumettre Ã  nouveau l'appli"
+msgstr "Soumettre à nouveau l'appli"
 
 #: Resubmit Application
 msgid "Resubmit Application"
-msgstr "Soumettre Ã  nouveau l'application"
+msgstr "Soumettre à nouveau l'application"
 
 #: SORT BY:
 msgid "SORT BY:"
@@ -1411,11 +1411,11 @@ msgstr "Sauvegarder"
 
 #: Save Theme
 msgid "Save Theme"
-msgstr "Enregistrer le thÃ¨me"
+msgstr "Enregistrer le thème"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Save and Submit App
 msgid "Save and Submit App"
@@ -1427,11 +1427,11 @@ msgstr "Enregistrer dans le carnet d'adresses"
 
 #: Screens:
 msgid "Screens:"
-msgstr "Ã‰crans :"
+msgstr "Écrans :"
 
 #: Scroll Background Color
 msgid "Scroll Background Color"
-msgstr "Couleur d'arriÃ¨re-plan du dÃ©filement"
+msgstr "Couleur d'arrière-plan du défilement"
 
 #: Search
 msgid "Search"
@@ -1447,23 +1447,23 @@ msgstr "Couleur de police secondaire"
 
 #: Select Template
 msgid "Select Template"
-msgstr "SÃ©lectionner le gabarit"
+msgstr "Sélectionner le gabarit"
 
 #: Selected product is unavailable.
 msgid "Selected product is unavailable."
-msgstr "Le produit sÃ©lectionnÃ© n'est pas disponible."
+msgstr "Le produit sélectionné n'est pas disponible."
 
 #: Settings
 msgid "Settings"
-msgstr "ParamÃ©trage"
+msgstr "Paramétrage"
 
 #: Shipping address has been set.
 msgid "Shipping address has been set."
-msgstr "L'adresse de livraison a Ã©tÃ© renseignÃ©e."
+msgstr "L'adresse de livraison a été renseignée."
 
 #: Shipping method has been set.
 msgid "Shipping method has been set."
-msgstr "Le mode de livraison a Ã©tÃ© renseignÃ©."
+msgstr "Le mode de livraison a été renseigné."
 
 #: Shop
 msgid "Shop"
@@ -1479,7 +1479,7 @@ msgstr "Ciel bleu"
 
 #: Some emails were not sent.
 msgid "Some emails were not sent."
-msgstr "Certains emails n'ont pas Ã©tÃ© envoyÃ©s."
+msgstr "Certains emails n'ont pas été envoyés."
 
 #: Sorry, no payment options are available for this order at this time.
 msgid "Sorry, no payment options are available for this order at this time."
@@ -1491,19 +1491,19 @@ msgstr "Aucun mode de livraison n'est disponible pour votre adresse."
 
 #: Specified address does not exist.
 msgid "Specified address does not exist."
-msgstr "L'adresse spÃ©cifiÃ©e n'existe pas."
+msgstr "L'adresse spécifiée n'existe pas."
 
 #: Specified invalid app code.
 msgid "Specified invalid app code."
-msgstr "Le code d'appli spÃ©cifiÃ© est invalide."
+msgstr "Le code d'appli spécifié est invalide."
 
 #: Specified invalid data.
 msgid "Specified invalid data."
-msgstr "Les donnÃ©es spÃ©cifiÃ©es sont invalides."
+msgstr "Les données spécifiées sont invalides."
 
 #: Specified item does not exist in wishlist.
 msgid "Specified item does not exist in wishlist."
-msgstr "L'article spÃ©cifiÃ© n'existe pas dans la liste d'envies."
+msgstr "L'article spécifié n'existe pas dans la liste d'envies."
 
 #: Standard Checkout
 msgid "Standard Checkout"
@@ -1511,23 +1511,23 @@ msgstr "Passage en caisse standard"
 
 #: Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)
 msgid "Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)"
-msgstr "Le passage en caisse standard utilise les modes de paiement fournis par Magento. Sont supportÃ©s les modes de paiement en ligne (par ex. PayPal direct, Authorize.Net, etc.)"
+msgstr "Le passage en caisse standard utilise les modes de paiement fournis par Magento. Sont supportés les modes de paiement en ligne (par ex. PayPal direct, Authorize.Net, etc.)"
 
 #: Start Date
 msgid "Start Date"
-msgstr "Date de dÃ©but"
+msgstr "Date de début"
 
 #: Start Date - Month
 msgid "Start Date - Month"
-msgstr "Date de dÃ©but - Mois"
+msgstr "Date de début - Mois"
 
 #: Start Date - Year
 msgid "Start Date - Year"
-msgstr "Date de dÃ©but - AnnÃ©e"
+msgstr "Date de début - Année"
 
 #: State/Province
 msgid "State/Province"
-msgstr "Ã‰tat/RÃ©gion"
+msgstr "État/Région"
 
 #: Status
 msgid "Status"
@@ -1539,11 +1539,11 @@ msgstr "Vue magasin"
 
 #: Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px.
 msgid "Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px."
-msgstr "Logo de la boutique affichÃ© sur la page du copyright de l'appli. Taille recommandÃ©e : 100 x 100px."
+msgstr "Logo de la boutique affiché sur la page du copyright de l'appli. Taille recommandée : 100 x 100px."
 
 #: Store logo that will be displayed on copyright page of application
 msgid "Store logo that will be displayed on copyright page of application"
-msgstr "Logo de la boutique qui sera affichÃ© sur la page de copyright de l'application"
+msgstr "Logo de la boutique qui sera affiché sur la page de copyright de l'application"
 
 #: Street Address
 msgid "Street Address"
@@ -1551,7 +1551,7 @@ msgstr "Adresse"
 
 #: Street Address 2
 msgid "Street Address 2"
-msgstr "ComplÃ©ment d'adresse"
+msgstr "Complément d'adresse"
 
 #: Submission
 msgid "Submission"
@@ -1583,7 +1583,7 @@ msgstr "Erreur lors de la soumission de l'appli. %s"
 
 #: Submit App failure. Invalid activation key provided
 msgid "Submit App failure. Invalid activation key provided"
-msgstr "Erreur lors de la soumission de l'appli. La clÃ© fournie est invalide."
+msgstr "Erreur lors de la soumission de l'appli. La clé fournie est invalide."
 
 #: Submit Application
 msgid "Submit Application"
@@ -1611,19 +1611,19 @@ msgstr "Onglets"
 
 #: Telephone
 msgid "Telephone"
-msgstr "TÃ©lÃ©phone"
+msgstr "Téléphone"
 
 #: Tell a Friend
 msgid "Tell a Friend"
-msgstr "En parler Ã  un ami"
+msgstr "En parler à un ami"
 
 #: Tell a Friend is disabled.
 msgid "Tell a Friend is disabled."
-msgstr "La fonction 'Envoyer Ã  un ami' est dÃ©sactivÃ©e."
+msgstr "La fonction 'Envoyer à un ami' est désactivée."
 
 #: Tell a Friend link has been sent.
 msgid "Tell a Friend link has been sent."
-msgstr "Un lien 'Envoyer Ã  un ami' a Ã©tÃ© envoyÃ©."
+msgstr "Un lien 'Envoyer à un ami' a été envoyé."
 
 #: Template
 msgid "Template"
@@ -1639,7 +1639,7 @@ msgstr "Nom du gabarit"
 
 #: Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found.
 msgid "Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found."
-msgstr "La crÃ©ation de gabarit est autorisÃ©e uniquement pour les applications dont le type est iPhone, mais aucune application de ce type n'a Ã©tÃ© trouvÃ©e."
+msgstr "La création de gabarit est autorisée uniquement pour les applications dont le type est iPhone, mais aucune application de ce type n'a été trouvée."
 
 #: Template does not exist.
 msgid "Template does not exist."
@@ -1651,7 +1651,7 @@ msgstr "Le gabarit pour un nouveau message AirMail n'existe pas."
 
 #: Template has been deleted.
 msgid "Template has been deleted."
-msgstr "Le gabarit a Ã©tÃ© effacÃ©."
+msgstr "Le gabarit a été effacé."
 
 #: Thank you for registering!
 msgid "Thank you for registering!"
@@ -1663,23 +1663,23 @@ msgstr "Merci de votre achat !"
 
 #: The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=\"_blank\" href=\"http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png\">click here</a>
 msgid "The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=\"_blank\" href=\"http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png\">click here</a>"
-msgstr "Le titre Mailbox sera affichÃ© dans l'onglet Plus d'infos. Pour en savoir plus sur le titre, <a target=\"_blank\" href=\"http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png\">cliquez ici</a>"
+msgstr "Le titre Mailbox sera affiché dans l'onglet Plus d'infos. Pour en savoir plus sur le titre, <a target=\"_blank\" href=\"http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png\">cliquez ici</a>"
 
 #: Theme has been saved.
 msgid "Theme has been saved."
-msgstr "Le thÃ¨me a Ã©tÃ© enregistrÃ©."
+msgstr "Le thème a été enregistré."
 
 #: Theme name is not set.
 msgid "Theme name is not set."
-msgstr "Le nom du thÃ¨me n'est pas renseignÃ©."
+msgstr "Le nom du thème n'est pas renseigné."
 
 #: There were some problems with the data.
 msgid "There were some problems with the data."
-msgstr "ProblÃ¨mes avec les donnÃ©es."
+msgstr "Problèmes avec les données."
 
 #: This email address was not found in our records.
 msgid "This email address was not found in our records."
-msgstr "Cet email n'a pas Ã©tÃ© trouvÃ©e dans notre base."
+msgstr "Cet email n'a pas été trouvée dans notre base."
 
 #: This icon will be  used for usersâ€™ devices in case if different than AppSore icon needed.
 msgid "This icon will be  used for usersâ€™ devices in case if different than AppSore icon needed."
@@ -1687,11 +1687,11 @@ msgstr "Cette icÃ´ne sera utilisÃ©e pour les terminaux des utilisateurs si une a
 
 #: This is the description that will appear in the iTunes marketplace.
 msgid "This is the description that will appear in the iTunes marketplace."
-msgstr "Description qui apparaÃ®tra dans la place de marchÃ© iTunes."
+msgstr "Description qui apparaîtra dans la place de marché iTunes."
 
 #: This is the name that will appear beneath your app when users install it to their device.  .  We recommend choosing a name that is 10-12 characters in length, and that your customers will recognize.
 msgid "This is the name that will appear beneath your app when users install it to their device.  .  We recommend choosing a name that is 10-12 characters in length, and that your customers will recognize."
-msgstr "Nom qui apparaÃ®tra sous votre application lorsque les utilisateurs l'installeront sur leur terminal. Nous vous recommandons d'utiliser un nom de 10 Ã  12 caractÃ¨res reconnaissable par vos clients."
+msgstr "Nom qui apparaîtra sous votre application lorsque les utilisateurs l'installeront sur leur terminal. Nous vous recommandons d'utiliser un nom de 10 à 12 caractères reconnaissable par vos clients."
 
 #: This will appear in the info section of your App (example:  Copyright 2010 â€“ Your Company, Inc.)
 msgid "This will appear in the info section of your App (example:  Copyright 2010 â€“ Your Company, Inc.)"
@@ -1727,15 +1727,15 @@ msgstr "Impossible d'effacer la file."
 
 #: Unable to find an app to delete.
 msgid "Unable to find an app to delete."
-msgstr "Impossible de trouver une appli Ã  supprimer."
+msgstr "Impossible de trouver une appli à supprimer."
 
 #: Unable to find template to delete.
 msgid "Unable to find template to delete."
-msgstr "Impossible de trouver un gabarit Ã  supprimer"
+msgstr "Impossible de trouver un gabarit à supprimer"
 
 #: Unable to get shipping methods list.
 msgid "Unable to get shipping methods list."
-msgstr "Impossible de rÃ©cupÃ©rer la liste des modes de livraison."
+msgstr "Impossible de récupérer la liste des modes de livraison."
 
 #: Unable to initialize MEP Checkout.
 msgid "Unable to initialize MEP Checkout."
@@ -1755,7 +1755,7 @@ msgstr "Impossible de passer la commande."
 
 #: Unable to process preview.
 msgid "Unable to process preview."
-msgstr "Impossible de procÃ©der Ã  la prÃ©visualisation."
+msgstr "Impossible de procéder à la prévisualisation."
 
 #: Unable to save app.
 msgid "Unable to save app."
@@ -1779,11 +1779,11 @@ msgstr "Impossible d'enregistrer le gabarit."
 
 #: Unable to start MEP Checkout.
 msgid "Unable to start MEP Checkout."
-msgstr "Impossible de dÃ©marrer MEP Checkout."
+msgstr "Impossible de démarrer MEP Checkout."
 
 #: Undefined
 msgid "Undefined"
-msgstr "IndÃ©fini"
+msgstr "Indéfini"
 
 #: Unknown Error
 msgid "Unknown Error"
@@ -1795,7 +1795,7 @@ msgstr "Erreur inconnue."
 
 #: Update Preview
 msgid "Update Preview"
-msgstr "Mettre Ã  jour la prÃ©visualisation"
+msgstr "Mettre à jour la prévisualisation"
 
 #: Urban Airship Push Notification
 msgid "Urban Airship Push Notification"
@@ -1803,11 +1803,11 @@ msgstr "Notification push Urban Airship."
 
 #: Use as my default billing address
 msgid "Use as my default billing address"
-msgstr "Utiliser comme adresse de facturation par dÃ©faut"
+msgstr "Utiliser comme adresse de facturation par défaut"
 
 #: Use as my default shipping address
 msgid "Use as my default shipping address"
-msgstr "Utiliser comme adresse de <strong>livraison</strong> par dÃ©faut"
+msgstr "Utiliser comme adresse de <strong>livraison</strong> par défaut"
 
 #: Username
 msgid "Username"
@@ -1819,7 +1819,7 @@ msgstr "Les utilisateurs verront cette image au chargement de l'application. Ima
 
 #: View Details
 msgid "View Details"
-msgstr "Voir les dÃ©tails"
+msgstr "Voir les détails"
 
 #: View Gallery
 msgid "View Gallery"
@@ -1827,27 +1827,27 @@ msgstr "Voir la galerie"
 
 #: Website is offline.
 msgid "Website is offline."
-msgstr "Le site web est dÃ©connectÃ©."
+msgstr "Le site web est déconnecté."
 
 #: Wishlist has been cleared.
 msgid "Wishlist has been cleared."
-msgstr "La liste d'envies a Ã©tÃ© effacÃ©e."
+msgstr "La liste d'envies a été effacée."
 
 #: Wishlist has been updated.
 msgid "Wishlist has been updated."
-msgstr "La liste d'envies a Ã©tÃ© mise Ã  jour."
+msgstr "La liste d'envies a été mise à jour."
 
 #: Wishlist has been updated. But there are accrued some errors while updating some items.
 msgid "Wishlist has been updated. But there are accrued some errors while updating some items."
-msgstr "La liste d'envies a Ã©tÃ© mise Ã  jour. Mais des erreurs sont survenues lors de la mise Ã  jour de certains articles."
+msgstr "La liste d'envies a été mise à jour. Mais des erreurs sont survenues lors de la mise à jour de certains articles."
 
 #: Wrong Android background image orientation has been specified: \"%s\".
 msgid "Wrong Android background image orientation has been specified: \"%s\"."
-msgstr "Mauvaise orientation d'image d'arriÃ¨re-plan pour Android : \"%s\"."
+msgstr "Mauvaise orientation d'image d'arrière-plan pour Android : \"%s\"."
 
 #: Wrong Ipad background image orientation has been specified: \"%s\".
 msgid "Wrong Ipad background image orientation has been specified: \"%s\"."
-msgstr "Mauvaise orientation d'image d'arriÃ¨re-plan pour iPad : \"%s\"."
+msgstr "Mauvaise orientation d'image d'arrière-plan pour iPad : \"%s\"."
 
 #: Wrong device type.
 msgid "Wrong device type."
@@ -1859,19 +1859,19 @@ msgstr "Mauvais format d'email."
 
 #: Wrong theme format.
 msgid "Wrong theme format."
-msgstr "Mauvais format de thÃ¨me."
+msgstr "Mauvais format de thème."
 
 #: You are already logged in.
 msgid "You are already logged in."
-msgstr "Vous Ãªtes dÃ©jÃ  connectÃ©."
+msgstr "Vous êtes déjà connecté."
 
 #: You can set any additional countries added by Apple Store.
 msgid "You can set any additional countries added by Apple Store."
-msgstr "Vous pouvez renseigner d'autres pays ajoutÃ©s par l'Apple Store."
+msgstr "Vous pouvez renseigner d'autres pays ajoutés par l'Apple Store."
 
 #: You can set any price you want for your app, or you can give it away for free. Most apps range from $0.99 - $4.99
 msgid "You can set any price you want for your app, or you can give it away for free. Most apps range from $0.99 - $4.99"
-msgstr "Vous pouvez dÃ©finir le prix que vous vouler pour l'appli ou vous pouvez la proposer gratuitement. La plupart des applis ont un prix compris entre 0,99$ et 4,99$"
+msgstr "Vous pouvez définir le prix que vous vouler pour l'appli ou vous pouvez la proposer gratuitement. La plupart des applis ont un prix compris entre 0,99$ et 4,99$"
 
 #: You can watch statistics here.
 msgid "You can watch statistics here."
@@ -1879,11 +1879,11 @@ msgstr "Vous pouvez consulter les statistiques ici."
 
 #: You will receive an order confirmation email with details of your order and a link to track its progress.
 msgid "You will receive an order confirmation email with details of your order and a link to track its progress."
-msgstr "Vous allez recevoir un mail de confirmation avec les dÃ©tails de votre commande ainsi qu'un lien pour suivre son avancement."
+msgstr "Vous allez recevoir un mail de confirmation avec les détails de votre commande ainsi qu'un lien pour suivre son avancement."
 
 #: Your order # is: %s.
 msgid "Your order # is: %s."
-msgstr "Votre nÂ° de commande est : %s."
+msgstr "Votre n° de commande est : %s."
 
 #: Zip/Postal Code
 msgid "Zip/Postal Code"
@@ -1895,7 +1895,7 @@ msgstr "et"
 
 #: each
 msgid "each"
-msgstr "piÃ¨ce"
+msgstr "pièce"
 
 #: iPad
 msgid "iPad"
@@ -1907,7 +1907,7 @@ msgstr "iPhone"
 
 #: save
 msgid "save"
-msgstr "Ã©conomisez"
+msgstr "économisez"
 
 #: Page
 msgid "Page"
@@ -1923,15 +1923,15 @@ msgstr "Noir plein (test)"
 
 #: Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif\", \"png\" are allowed.","Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif"
 msgid "Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif\", \"png\" are allowed.","Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif""
-msgstr "Erreur lors de l'upload du fichier \"%s\". Type de fichier non autorisÃ©. Seules les extensions \"jpg\", \"jpeg\", \"gif\" et \"png\" sont autorisÃ©es."
+msgstr "Erreur lors de l'upload du fichier \"%s\". Type de fichier non autorisé. Seules les extensions \"jpg\", \"jpeg\", \"gif\" et \"png\" sont autorisées."
 
 #: \"Description\" is more than %d characters long
 msgid "\"Description\" is more than %d characters long"
-msgstr "La description fait plus de %d caractÃ¨res"
+msgstr "La description fait plus de %d caractères"
 
 #: %s API Key required.
 msgid "%s API Key required."
-msgstr "La clÃ© d'API %s est obligatoire."
+msgstr "La clé d'API %s est obligatoire."
 
 #: %s Application ID required.
 msgid "%s Application ID required."
@@ -1939,31 +1939,31 @@ msgstr "L'ID d'application %s est obligatoire."
 
 #: %s Secret Key required.
 msgid "%s Secret Key required."
-msgstr "La clÃ© secrÃ¨te %s est obligatoire."
+msgstr "La clé secrète %s est obligatoire."
 
 #: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
 msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriÃ©taire de l'application, vous Ãªtes responsable de vous conformer aux lois spÃ©cifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de rÃ©sidence.)"
+msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)"
 
 #: *Subject to change
 msgid "*Subject to change"
-msgstr "* Sous rÃ©serve de modifications"
+msgstr "* Sous réserve de modifications"
 
 #: <a href=\"%s\" target=\"_blank\">Login</a> to Urabn Airship.
 msgid "<a href=\"%s\" target=\"_blank\">Login</a> to Urabn Airship."
-msgstr "<a href=\"%s\" target=\"_blank\">Se connecter</a> Ã  Urban Airship"
+msgstr "<a href=\"%s\" target=\"_blank\">Se connecter</a> à Urban Airship"
 
 #: Additional Product Info
 msgid "Additional Product Info"
-msgstr "ComplÃ©ment d'information de produit"
+msgstr "Complément d'information de produit"
 
 #: After submitting the App to Magento, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.
 msgid "After submitting the App to Magento, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret."
-msgstr "AprÃ¨s soumission de l'application Ã  Magento, contactez %1$s afin de recevoir la clÃ© d'application, le code secret et le code secret maÃ®tre."
+msgstr "Après soumission de l'application à Magento, contactez %1$s afin de recevoir la clé d'application, le code secret et le code secret maître."
 
 #: All Allowed Countries
 msgid "All Allowed Countries"
-msgstr "Tous les pays autorisÃ©s"
+msgstr "Tous les pays autorisés"
 
 #: All locations
 msgid "All locations"
@@ -1971,23 +1971,23 @@ msgstr "Tous les lieux"
 
 #: App Background (landscape mode).
 msgid "App Background (landscape mode)."
-msgstr "ArriÃ¨re-plan de l'appli (mode paysage)"
+msgstr "Arrière-plan de l'appli (mode paysage)"
 
 #: App Background (portrait mode).
 msgid "App Background (portrait mode)."
-msgstr "ArriÃ¨re-plan de l'appli (mode portrait)"
+msgstr "Arrière-plan de l'appli (mode portrait)"
 
 #: App Background <br />(landscape mode)
 msgid "App Background <br />(landscape mode)"
-msgstr "ArriÃ¨re-plan de l'appli <br/>(mode paysage)"
+msgstr "Arrière-plan de l'appli <br/>(mode paysage)"
 
 #: App Background <br />(portrait mode)
 msgid "App Background <br />(portrait mode)"
-msgstr "ArriÃ¨re-plan de l'appli <br/>(mode portrait)"
+msgstr "Arrière-plan de l'appli <br/>(mode portrait)"
 
 #: App Background image missing.
 msgid "App Background image missing."
-msgstr "L'image d'arriÃ¨re-plan de l'appli est manquante."
+msgstr "L'image d'arrière-plan de l'appli est manquante."
 
 #: App Stores
 msgid "App Stores"
@@ -1999,39 +1999,39 @@ msgstr "ApparaÃ®t dans la section infos de votre appli (par exemple : Copyright 
 
 #: Are you sure you want to delete this theme? This change will affect all applications.
 msgid "Are you sure you want to delete this theme? This change will affect all applications."
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce thÃ¨me ? Ce changement prendra effet sur toutes les applications."
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce thème ? Ce changement prendra effet sur toutes les applications."
 
 #: As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial.
 msgid "As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial."
-msgstr "En tant que client de Magento, Urban Airship vous offre les notifications Push illimitÃ©s et Rich Push pour 100$/an* avec un essai de 60 jours gratuitement."
+msgstr "En tant que client de Magento, Urban Airship vous offre les notifications Push illimités et Rich Push pour 100$/an* avec un essai de 60 jours gratuitement."
 
 #: Banner on Home Screen (landscape mode) image missing.
 msgid "Banner on Home Screen (landscape mode) image missing."
-msgstr "L'image de banniÃ¨re sur l'Ã©cran d'accueil (mode paysage) est manquante."
+msgstr "L'image de bannière sur l'écran d'accueil (mode paysage) est manquante."
 
 #: Banner on Home Screen (portrait mode) image missing.
 msgid "Banner on Home Screen (portrait mode) image missing."
-msgstr "L'image de banniÃ¨re sur l'Ã©cran d'accueil (mode portrait) est manquante."
+msgstr "L'image de bannière sur l'écran d'accueil (mode portrait) est manquante."
 
 #: Banner on Home Screen <br />(landscape mode)
 msgid "Banner on Home Screen <br />(landscape mode)"
-msgstr "BanniÃ¨re sur l'Ã©cran d'accueil <br/> (mode paysage)"
+msgstr "Bannière sur l'écran d'accueil <br/> (mode paysage)"
 
 #: Banner on Home Screen <br />(portrait mode)
 msgid "Banner on Home Screen <br />(portrait mode)"
-msgstr "BanniÃ¨re sur l'Ã©cran d'accueil <br/> (mode portrait)"
+msgstr "Bannière sur l'écran d'accueil <br/> (mode portrait)"
 
 #: Banner on Home Screen image missing.
 msgid "Banner on Home Screen image missing."
-msgstr "L'image de banniÃ¨re sur l'Ã©cran d'accueil est manquante."
+msgstr "L'image de bannière sur l'écran d'accueil est manquante."
 
 #: Buyer country is not allowed by store.
 msgid "Buyer country is not allowed by store."
-msgstr "Le pays de l'acheteur n'est pas autorisÃ© par la boutique."
+msgstr "Le pays de l'acheteur n'est pas autorisé par la boutique."
 
 #: Cache Lifetime (seconds)
 msgid "Cache Lifetime (seconds)"
-msgstr "DurÃ©e de vie du cache (secondes)"
+msgstr "Durée de vie du cache (secondes)"
 
 #: Cache Management
 msgid "Cache Management"
@@ -2043,15 +2043,15 @@ msgstr "Impossible de copier le fichier depuis \"%s\" vers \"%s\"."
 
 #: Can't delete \"%s\" theme.
 msgid "Can't delete \"%s\" theme."
-msgstr "Impossible de supprimer le thÃ¨me \"%s\""
+msgstr "Impossible de supprimer le thème \"%s\""
 
 #: Can't load default themes.
 msgid "Can't load default themes."
-msgstr "Impossible de charger les thÃ¨mes par dÃ©faut"
+msgstr "Impossible de charger les thèmes par défaut"
 
 #: Changes have been saved to theme.
 msgid "Changes have been saved to theme."
-msgstr "Les modifications ont Ã©tÃ© enregistrÃ©es dans le thÃ¨me."
+msgstr "Les modifications ont été enregistrées dans le thème."
 
 #: Copyright Page Logo <br />(iPhone 4 retina)
 msgid "Copyright Page Logo <br />(iPhone 4 retina)"
@@ -2067,11 +2067,11 @@ msgstr "Les options de pays ne sont pas reconnues pour \"%s\"."
 
 #: Credit Card
 msgid "Credit Card"
-msgstr "Carte de crÃ©dit"
+msgstr "Carte de crédit"
 
 #: Credit Card %s
 msgid "Credit Card %s"
-msgstr "Carte de crÃ©dit %s"
+msgstr "Carte de crédit %s"
 
 #: Currently, PayPal MEP is not available for the Android application
 msgid "Currently, PayPal MEP is not available for the Android application"
@@ -2079,7 +2079,7 @@ msgstr "PayPal MEP n'est pas encore disponible pour les applications Android."
 
 #: Custom App Icon <br />(iPhone 4 retina)
 msgid "Custom App Icon <br />(iPhone 4 retina)"
-msgstr "IcÃ´ne d'appli personnalisÃ©e <br/>(iPhone 4 retina)"
+msgstr "Icône d'appli personnalisée <br/>(iPhone 4 retina)"
 
 #: Deeper Messaging and Engagement with Rich Push.
 msgid "Deeper Messaging and Engagement with Rich Push."
@@ -2087,23 +2087,23 @@ msgstr "Deeper Messaging et engagement avec Rich Push."
 
 #: Delete theme
 msgid "Delete theme"
-msgstr "Supprimer le thÃ¨me"
+msgstr "Supprimer le thème"
 
 #: Description that appears in Android Market. %s chars maximum.
 msgid "Description that appears in Android Market. %s chars maximum."
-msgstr "Description qui apparaÃ®t dans l'Android Market. %s caractÃ¨res maxi."
+msgstr "Description qui apparaît dans l'Android Market. %s caractères maxi."
 
 #: Description that appears in the iTunes App Store. %s chars maximum.
 msgid "Description that appears in the iTunes App Store. %s chars maximum."
-msgstr "Description apparaissant dans l'App Store iTunes. %s caractÃ¨res maximum."
+msgstr "Description apparaissant dans l'App Store iTunes. %s caractères maximum."
 
 #: Deselect All
 msgid "Deselect All"
-msgstr "Tout dÃ©sÃ©lectionner"
+msgstr "Tout désélectionner"
 
 #: Device doesn't recognized: \"%s\". Unable to load preview model.
 msgid "Device doesn't recognized: \"%s\". Unable to load preview model."
-msgstr "Terminal non reconnu : \"%s\". Impossible de charger le modÃ¨le de prÃ©visualisation."
+msgstr "Terminal non reconnu : \"%s\". Impossible de charger le modèle de prévisualisation."
 
 #: Enable Facebook
 msgid "Enable Facebook"
@@ -2119,7 +2119,7 @@ msgstr "Activer Twitter"
 
 #: Error while reading data from Payment Bridge. Please, try again.
 msgid "Error while reading data from Payment Bridge. Please, try again."
-msgstr "Erreur lors de la lecture des donnÃ©es reÃ§ues du pont de paiement. Veuillez rÃ©essayer."
+msgstr "Erreur lors de la lecture des données reçues du pont de paiement. Veuillez réessayer."
 
 #: Excl. Tax
 msgid "Excl. Tax"
@@ -2139,7 +2139,7 @@ msgstr "ID d'application Facebook"
 
 #: File can't be uploaded.
 msgid "File can't be uploaded."
-msgstr "Le fichier ne peut pas Ãªtre chargÃ©."
+msgstr "Le fichier ne peut pas être chargé."
 
 #: Flurry API Code
 msgid "Flurry API Code"
@@ -2147,47 +2147,47 @@ msgstr "Code d'API Flurry"
 
 #: High Resolution Application Icon
 msgid "High Resolution Application Icon"
-msgstr "IcÃ´ne d'appli haute rÃ©solution"
+msgstr "Icône d'appli haute résolution"
 
 #: How do you rate this product?
 msgid "How do you rate this product?"
-msgstr "Quelle note donneriez-vous Ã  ce produit ?"
+msgstr "Quelle note donneriez-vous à ce produit ?"
 
 #: How to incorporate Urban Airship within your application:
 msgid "How to incorporate Urban Airship within your application:"
-msgstr "Comment intÃ©grer Urban Airship Ã  votre application :"
+msgstr "Comment intégrer Urban Airship à votre application :"
 
 #: Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px.
 msgid "Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px."
-msgstr "IcÃ´ne qui apparaÃ®tra sur le terminal de l'utilisateur aprÃ¨s le tÃ©lÃ©chargement de votre appli. Taille recommandÃ©e : 48px x 48px."
+msgstr "Icône qui apparaîtra sur le terminal de l'utilisateur après le téléchargement de votre appli. Taille recommandée : 48px x 48px."
 
 #: Icon that will appear on the user's device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.
 msgid "Icon that will appear on the user's device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px."
-msgstr "IcÃ´ne qui apparaÃ®tra sur le tÃ©lÃ©phone de l'utilisateur aprÃ¨s le tÃ©lÃ©chargement de l'application. Il n'est pas nÃ©cessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandÃ©e : 72 x 72 px."
+msgstr "Icône qui apparaîtra sur le téléphone de l'utilisateur après le téléchargement de l'application. Il n'est pas nécessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandée : 72 x 72 px."
 
 #: Icon that will appear on the user's phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.
 msgid "Icon that will appear on the user's phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px."
-msgstr "IcÃ´ne qui apparaÃ®tra sur le tÃ©lÃ©phone de l'utilisateur aprÃ¨s le tÃ©lÃ©chargement de l'application. Il n'est pas nÃ©cessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandÃ©e : 114 x 114 px."
+msgstr "Icône qui apparaîtra sur le téléphone de l'utilisateur après le téléchargement de l'application. Il n'est pas nécessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandée : 114 x 114 px."
 
 #: If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.
 msgid "If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page."
-msgstr "Si vous souhaitez dÃ©sactiver le cache du cÃ´tÃ© de l'application, laissez le champ vide. Attention ! Lorsque le cache est dÃ©sactivÃ©, l'application mettra du temps Ã  charger chaque page."
+msgstr "Si vous souhaitez désactiver le cache du côté de l'application, laissez le champ vide. Attention ! Lorsque le cache est désactivé, l'application mettra du temps à charger chaque page."
 
 #: Image that appears on first screen while your app is loading. Required size: 1024px x 768px.
 msgid "Image that appears on first screen while your app is loading. Required size: 1024px x 768px."
-msgstr "Image qui apparaÃ®t sur le premier Ã©cran pendant le chargement de votre appli. Taille obligatoire : 1024 x 768px."
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 1024 x 768px."
 
 #: Image that appears on first screen while your app is loading. Required size: 320px x 455px.
 msgid "Image that appears on first screen while your app is loading. Required size: 320px x 455px."
-msgstr "Image qui apparaÃ®t sur le premier Ã©cran pendant le chargement de votre appli. Taille obligatoire : 320 x 455px."
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 320 x 455px."
 
 #: Image that appears on first screen while your app is loading. Required size: 640px x 920px.
 msgid "Image that appears on first screen while your app is loading. Required size: 640px x 920px."
-msgstr "Image qui apparaÃ®t sur le premier Ã©cran pendant le chargement de votre appli. Taille obligatoire : 640 x 920px."
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 640 x 920px."
 
 #: Image that appears on first screen while your app is loading. Required size: 768px x 1024px.
 msgid "Image that appears on first screen while your app is loading. Required size: 768px x 1024px."
-msgstr "Image qui apparaÃ®t sur le premier Ã©cran pendant le chargement de votre appli. Taille obligatoire : 768 x 1024px."
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 768 x 1024px."
 
 #: In addition, click here to review Urban Airship's Terms of Service: <a href=\"%s\" target=\"_blank\">click here</a>.
 msgid "In addition, click here to review Urban Airship's Terms of Service: <a href=\"%s\" target=\"_blank\">click here</a>."
@@ -2203,27 +2203,27 @@ msgstr "API LinkedIn"
 
 #: LinkedIn API Key
 msgid "LinkedIn API Key"
-msgstr "ClÃ© d'API LinkedIn"
+msgstr "Clé d'API LinkedIn"
 
 #: LinkedIn Secret Key
 msgid "LinkedIn Secret Key"
-msgstr "ClÃ© secrÃ¨te de LinkedIn"
+msgstr "Clé secrète de LinkedIn"
 
 #: Loader Splash Screen <br />(iPhone 4 retina)
 msgid "Loader Splash Screen <br />(iPhone 4 retina)"
-msgstr "Ã‰cran de chargement <br/>(iPhone 4 retina)"
+msgstr "Écran de chargement <br/>(iPhone 4 retina)"
 
 #: Loader Splash Screen <br />(landscape mode)
 msgid "Loader Splash Screen <br />(landscape mode)"
-msgstr "Ã‰cran de chargement <br/>(mode paysage)"
+msgstr "Écran de chargement <br/>(mode paysage)"
 
 #: Loader Splash Screen <br />(portrait mode)
 msgid "Loader Splash Screen <br />(portrait mode)"
-msgstr "Ã‰cran de chargement <br/>(mode portrait)"
+msgstr "Écran de chargement <br/>(mode portrait)"
 
 #: Loading Preview...
 msgid "Loading Preview..."
-msgstr "PrÃ©visualisation en cours de chargement..."
+msgstr "Prévisualisation en cours de chargement..."
 
 #: Locations
 msgid "Locations"
@@ -2231,23 +2231,23 @@ msgstr "Emplacements"
 
 #: Logo in Header image missing.
 msgid "Logo in Header image missing."
-msgstr "Image du logo dans l'en-tÃªte manquante."
+msgstr "Image du logo dans l'en-tête manquante."
 
 #: MEP is PayPal's native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>
 msgid "MEP is PayPal's native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>"
-msgstr "MEP est la solution de paiement native de PayPal pour l'iPhone. Vous pouvez choisir d'utiliser MEP en mÃªme temps que le paiement standard ou de l'utiliser comme unique moyen de paiement pour Magento mobile. PayPal MEP nÃ©cessite un <a href=\"%s\">compte business PayPal</a>"
+msgstr "MEP est la solution de paiement native de PayPal pour l'iPhone. Vous pouvez choisir d'utiliser MEP en même temps que le paiement standard ou de l'utiliser comme unique moyen de paiement pour Magento mobile. PayPal MEP nécessite un <a href=\"%s\">compte business PayPal</a>"
 
 #: Message can be edited when status of the message is \"IN QUEUE\" only.
 msgid "Message can be edited when status of the message is \"IN QUEUE\" only."
-msgstr "Le message peut Ãªtre Ã©ditÃ© seulement quand son statut est \"DANS LA FILE\"."
+msgstr "Le message peut être édité seulement quand son statut est \"DANS LA FILE\"."
 
 #: Model of order is not loaded.
 msgid "Model of order is not loaded."
-msgstr "Le modÃ¨le pour la commande n'est pas chargÃ©"
+msgstr "Le modèle pour la commande n'est pas chargé"
 
 #: Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.
 msgid "Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max."
-msgstr "Nom qui apparaÃ®t sous votre application quand les utilisateurs l'installent sur leur terminal. Nous vous recommandons de choisir un nom d'une longueur de 10-12 caractÃ¨res que vos clients sauront reconnaÃ®tre. %s caractÃ¨res maximum."
+msgstr "Nom qui apparaît sous votre application quand les utilisateurs l'installent sur leur terminal. Nous vous recommandons de choisir un nom d'une longueur de 10-12 caractères que vos clients sauront reconnaître. %s caractères maximum."
 
 #: Nickname
 msgid "Nickname"
@@ -2259,23 +2259,23 @@ msgstr "Remarque"
 
 #: One or more keywords that describe your app. Keywords are matched to users' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.
 msgid "One or more keywords that describe your app. Keywords are matched to users' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum."
-msgstr "Un ou plusieurs mots-clÃ©s dÃ©crivant votre appli. Les mots-clÃ©s sont utilisÃ©s lors des recherches des utilisateurs dans l'App Store et aident Ã  retourner des rÃ©sultats adaptÃ©s. SÃ©parez les mots-clÃ©s multiples par des virgules. 100 caractÃ¨res maximum."
+msgstr "Un ou plusieurs mots-clés décrivant votre appli. Les mots-clés sont utilisés lors des recherches des utilisateurs dans l'App Store et aident à retourner des résultats adaptés. Séparez les mots-clés multiples par des virgules. 100 caractères maximum."
 
 #: Only custom theme can be deleted
 msgid "Only custom theme can be deleted"
-msgstr "Seuls les thÃ¨mes personnalisÃ©s peuvent Ãªtre supprimÃ©s"
+msgstr "Seuls les thèmes personnalisés peuvent être supprimés"
 
 #: Only default theme can be reset
 msgid "Only default theme can be reset"
-msgstr "Seul le thÃ¨me par dÃ©faut peut Ãªtre rÃ©initialisÃ©"
+msgstr "Seul le thème par défaut peut être réinitialisé"
 
 #: Only registered users can write reviews. Please, log in or register.
 msgid "Only registered users can write reviews. Please, log in or register."
-msgstr "Seuls les utilisateurs enregistrÃ©s peuvent Ã©crire un commentaire. Veuillez vous connectez ou vous inscrire."
+msgstr "Seuls les utilisateurs enregistrés peuvent écrire un commentaire. Veuillez vous connectez ou vous inscrire."
 
 #: Order id not specified.
 msgid "Order id not specified."
-msgstr "L'Id de la commande n'est pas spÃ©cifiÃ©."
+msgstr "L'Id de la commande n'est pas spécifié."
 
 #: Order is not available.
 msgid "Order is not available."
@@ -2283,7 +2283,7 @@ msgstr "La commande n'est pas disponible"
 
 #: Ordered
 msgid "Ordered"
-msgstr "CommandÃ©"
+msgstr "Commandé"
 
 #: PayPal MEP
 msgid "PayPal MEP"
@@ -2299,7 +2299,7 @@ msgstr "Module de connexion de paiement indisponible"
 
 #: Please <a href=\"%s\" target=\"_blank\">click here</a> to see how to setup and retrieve API credentials.
 msgid "Please <a href=\"%s\" target=\"_blank\">click here</a> to see how to setup and retrieve API credentials."
-msgstr "<a href=\"%s\" target=\"_blank\">Cliquez ici</a> pour voir comment paramÃ©trer et obtenir votre certificat d'API."
+msgstr "<a href=\"%s\" target=\"_blank\">Cliquez ici</a> pour voir comment paramétrer et obtenir votre certificat d'API."
 
 #: Please enter the Description.
 msgid "Please enter the Description."
@@ -2307,15 +2307,15 @@ msgstr "Saisissez la description"
 
 #: Please upload  an image for \"Banner on Home Screen (landscape mode)\" field from Design Tab.
 msgid "Please upload  an image for \"Banner on Home Screen (landscape mode)\" field from Design Tab."
-msgstr "Uploadez une image pour le champ \"BanniÃ¨re en page d'accueil (mode paysage)\" dans l'onglet Design"
+msgstr "Uploadez une image pour le champ \"Bannière en page d'accueil (mode paysage)\" dans l'onglet Design"
 
 #: Please upload  an image for \"Banner on Home Screen (portrait mode)\" field from Design Tab.
 msgid "Please upload  an image for \"Banner on Home Screen (portrait mode)\" field from Design Tab."
-msgstr "Uploadez une image pour le champ \"BanniÃ¨re en page d'accueil (mode portrait)\" dans l'onglet Design"
+msgstr "Uploadez une image pour le champ \"Bannière en page d'accueil (mode portrait)\" dans l'onglet Design"
 
 #: Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=\"%1$s\" target=\"_blank\">%1$s</a>
 msgid "Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
-msgstr "Les notifications Push vous permettent d'envoyer des messages directement aux personnes qui ont installÃ© votre application sur leur appareil. Envoyez des messages Ã  l'ensemble de vos abonnÃ©s mÃªme lorsque votre application est fermÃ©e. Les notifications Push sont l'une des meilleures faÃ§ons de garder votre application active en offrant un contenu de qualitÃ© Ã  vos clients. En savoir plus sur les notifications Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a> "
+msgstr "Les notifications Push vous permettent d'envoyer des messages directement aux personnes qui ont installé votre application sur leur appareil. Envoyez des messages à l'ensemble de vos abonnés même lorsque votre application est fermée. Les notifications Push sont l'une des meilleures façons de garder votre application active en offrant un contenu de qualité à vos clients. En savoir plus sur les notifications Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a> "
 
 #: Recipient Information
 msgid "Recipient Information"
@@ -2323,15 +2323,15 @@ msgstr "Informations sur le destinataire"
 
 #: Recommended size 1024px x 344px. Note: Image size affects the performance of your app.
 msgid "Recommended size 1024px x 344px. Note: Image size affects the performance of your app."
-msgstr "Taille recommandÃ©e 1024 x 344px. Remarque : la taille de l'image affecte les performances de votre application."
+msgstr "Taille recommandée 1024 x 344px. Remarque : la taille de l'image affecte les performances de votre application."
 
 #: Refunded
 msgid "Refunded"
-msgstr "RemboursÃ©"
+msgstr "Remboursé"
 
 #: Reset theme to default
 msgid "Reset theme to default"
-msgstr "RÃ©initialiser le thÃ¨me par dÃ©faut"
+msgstr "Réinitialiser le thème par défaut"
 
 #: Review
 msgid "Review"
@@ -2339,7 +2339,7 @@ msgstr "Commentaire"
 
 #: Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>
 msgid "Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
-msgstr "Rich Push vous permet de crÃ©er et d'envoyer des expÃ©riences engageantes en ajoutant du HTML et d'autres composants riches en mÃ©dias pour vos notifications Push. Au-delÃ  des alertes et des mises Ã  jour de badge, Rich Push prend les utilisateurs dans l'application tout en affichant le contenu d'une vue personnalisable WebKit. CrÃ©er des messages de marque qui s'engagent Ã  vos utilisateurs de nouveaux contenus et d'informations, le tout sans avoir Ã  mettre Ã  jour votre application. En savoir plus sur Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+msgstr "Rich Push vous permet de créer et d'envoyer des expériences engageantes en ajoutant du HTML et d'autres composants riches en médias pour vos notifications Push. Au-delà des alertes et des mises à jour de badge, Rich Push prend les utilisateurs dans l'application tout en affichant le contenu d'une vue personnalisable WebKit. Créer des messages de marque qui s'engagent à vos utilisateurs de nouveaux contenus et d'informations, le tout sans avoir à mettre à jour votre application. En savoir plus sur Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
 
 #: Save As
 msgid "Save As"
@@ -2347,23 +2347,23 @@ msgstr "Sauvegarder sous"
 
 #: Select All
 msgid "Select All"
-msgstr "SÃ©lectionner tout"
+msgstr "Sélectionner tout"
 
 #: Sender Information
 msgid "Sender Information"
-msgstr "Informations sur l'expÃ©diteur"
+msgstr "Informations sur l'expéditeur"
 
 #: Shipped
 msgid "Shipped"
-msgstr "LivrÃ©"
+msgstr "Livré"
 
 #: Shipping to this address is not possible.
 msgid "Shipping to this address is not possible."
-msgstr "La livraison Ã  cette adresse n'est pas possible."
+msgstr "La livraison à cette adresse n'est pas possible."
 
 #: Social Networking
 msgid "Social Networking"
-msgstr "RÃ©seaux sociaux"
+msgstr "Réseaux sociaux"
 
 #: Specific Countries
 msgid "Specific Countries"
@@ -2371,11 +2371,11 @@ msgstr "Certains pays"
 
 #: Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.
 msgid "Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px."
-msgstr "Logo de la boutique affichÃ© sur la page de copyright de l'application. Taille prÃ©fÃ©rÃ©e: 200px x 200px."
+msgstr "Logo de la boutique affiché sur la page de copyright de l'application. Taille préférée: 200px x 200px."
 
 #: Summary of Your Review
 msgid "Summary of Your Review"
-msgstr "RÃ©sumÃ© de votre commentaire"
+msgstr "Résumé de votre commentaire"
 
 #: Tax
 msgid "Tax"
@@ -2383,27 +2383,27 @@ msgstr "TVA & autres taxes"
 
 #: The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.
 msgid "The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB."
-msgstr "L'icÃ´ne qui apparaÃ®t dans l'Android Market. Taille recommandÃ©e: 512px x 512px. Taille maximale: 1024 KB."
+msgstr "L'icône qui apparaît dans l'Android Market. Taille recommandée: 512px x 512px. Taille maximale: 1024 KB."
 
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
-msgstr "Les configurations du thÃ¨me ont bien Ã©tÃ© rÃ©initialisÃ©es."
+msgstr "Les configurations du thème ont bien été réinitialisées."
 
 #: Theme has been created.
 msgid "Theme has been created."
-msgstr "Le thÃ¨me a Ã©tÃ© crÃ©Ã©."
+msgstr "Le thème a été créé."
 
 #: Theme has been delete.
 msgid "Theme has been delete."
-msgstr "Le thÃ¨me a Ã©tÃ© Ã©ffacÃ©."
+msgstr "Le thème a été éffacé."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr "L'Ã©tiquette du thÃ¨me ne peut pas Ãªtre vide."
+msgstr "L'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"
-msgstr "Ã‰tiquette du thÃ¨me :"
+msgstr "Étiquette du thème :"
 
 #: Twitter API
 msgid "Twitter API"
@@ -2411,11 +2411,11 @@ msgstr "API Twitter"
 
 #: Twitter API Key
 msgid "Twitter API Key"
-msgstr "ClÃ© d'API Twitter"
+msgstr "Clé d'API Twitter"
 
 #: Twitter Secret Key
 msgid "Twitter Secret Key"
-msgstr "ClÃ© secrÃ¨te Twitter"
+msgstr "Clé secrète Twitter"
 
 #: Unable to post the review.
 msgid "Unable to post the review."
@@ -2427,19 +2427,19 @@ msgstr "Impossible de fournir une commande"
 
 #: Unsupported character in path: \"%s\"
 msgid "Unsupported character in path: \"%s\""
-msgstr "CaractÃ¨re \"%s\" non supportÃ© dans le chemin"
+msgstr "Caractère \"%s\" non supporté dans le chemin"
 
 #: Unsupported value type received
 msgid "Unsupported value type received"
-msgstr "Type de valeur reÃ§u non supportÃ©"
+msgstr "Type de valeur reçu non supporté"
 
 #: Upon receiving these credentials, please fill in the corresponding fields.
 msgid "Upon receiving these credentials, please fill in the corresponding fields."
-msgstr "AprÃ¨s avoir reÃ§u ces informations d'identification, veuillez les inscrire dans les champs correspondants."
+msgstr "Après avoir reçu ces informations d'identification, veuillez les inscrire dans les champs correspondants."
 
 #: Your review has been accepted for moderation.
 msgid "Your review has been accepted for moderation."
-msgstr "Votre commentaire a Ã©tÃ© acceptÃ© pour modÃ©ration."
+msgstr "Votre commentaire a été accepté pour modération."
 
 #: \"id\" attribute is required for a \"%s\" field.
 msgid "\"id\" attribute is required for a \"%s\" field."
@@ -2475,7 +2475,7 @@ msgstr ""
 
 #: Are you sure you want to do this?
 msgid "Are you sure you want to do this?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir effectuer cette opÃ©ration ?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
 
 #: At last one application has to be created.
 msgid "At last one application has to be created."
@@ -2603,7 +2603,7 @@ msgstr ""
 
 #: M.I.
 msgid "M.I."
-msgstr "DeuxiÃ¨me prÃ©nom"
+msgstr "Deuxième prénom"
 
 #: MM
 msgid "MM"
@@ -2635,7 +2635,7 @@ msgstr ""
 
 #: Order #%s - %s
 msgid "Order #%s - %s"
-msgstr "Commande nÂ°%s - <small><em>%s</em></small>"
+msgstr "Commande n°%s - <small><em>%s</em></small>"
 
 #: Order Date: %s
 msgid "Order Date: %s"
@@ -2695,7 +2695,7 @@ msgstr "Veuillez saisir une adresse email valide. Par exemple prenom.nom@domaine
 
 #: Please select an option.
 msgid "Please select an option."
-msgstr "SÃ©lectionnez une option"
+msgstr "Sélectionnez une option"
 
 #: Please use letters only (a-z or A-Z) in this field.
 msgid "Please use letters only (a-z or A-Z) in this field."
@@ -2703,15 +2703,15 @@ msgstr "Veuillez utiliser uniquement des lettres (a-z ou A-Z) dans ce champ."
 
 #: Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.
 msgid "Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
-msgstr "Seuls les chiffres sont autorisÃ©s dans ce champ. Ã‰vitez les espaces ou autres caractÃ¨res tels que les points ou les virgules."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
 
 #: Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
 msgid "Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractÃ¨res ne sont pas autorisÃ©s."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
 
 #: Prefix
 msgid "Prefix"
-msgstr "PrÃ©fixe"
+msgstr "Préfixe"
 
 #: Queue is allowed only for applications with enabled Push Notification.
 msgid "Queue is allowed only for applications with enabled Push Notification."
@@ -2747,7 +2747,7 @@ msgstr ""
 
 #: Street Address %s
 msgid "Street Address %s"
-msgstr "Rue - Voie â€“ BÃ¢t. %s"
+msgstr "Rue - Voie – Bât. %s"
 
 #: Suffix
 msgid "Suffix"
@@ -2863,7 +2863,7 @@ msgstr ""
 
 #: Unable to update shipping method.
 msgid "Unable to update shipping method."
-msgstr "Impossible de mettre Ã  jour le mode de livraison."
+msgstr "Impossible de mettre à jour le mode de livraison."
 
 #: Use Store Credit (%s available)
 msgid "Use Store Credit (%s available)"
@@ -2887,7 +2887,7 @@ msgstr "AAAA"
 
 #: Year
 msgid "Year"
-msgstr "AnnÃ©e"
+msgstr "Année"
 
 #: You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL.
 msgid "You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL."

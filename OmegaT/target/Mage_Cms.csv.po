@@ -1,14 +1,14 @@
 #: A block identifier with the same properties already exists in the selected store.
 msgid "A block identifier with the same properties already exists in the selected store."
-msgstr "Il existe dÃ©jÃ  un identifiant de bloc ayant les mÃªmes propriÃ©tÃ©s dans la boutique sÃ©lectionnÃ©e."
+msgstr "Il existe déjà un identifiant de bloc ayant les mêmes propriétés dans la boutique sélectionnée."
 
 #: A directory with the same name already exists. Please try another folder name.
 msgid "A directory with the same name already exists. Please try another folder name."
-msgstr "Il existe dÃ©jÃ  un rÃ©pertoire portant le mÃªme nom. Choisissez un autre nom."
+msgstr "Il existe déjà un répertoire portant le même nom. Choisissez un autre nom."
 
 #: A page URL key for specified store already exists.
 msgid "A page URL key for specified store already exists."
-msgstr "Il existe dÃ©jÃ  un e clÃ© d'URL de page pour la boutique sÃ©lectionnÃ©e."
+msgstr "Il existe déjà un e clé d'URL de page pour la boutique sélectionnée."
 
 #: Action
 msgid "Action"
@@ -32,19 +32,19 @@ msgstr "Erreur lors de la sauvegarde de la page."
 
 #: Anchor Custom Text
 msgid "Anchor Custom Text"
-msgstr "PrÃ©senter un texte personnalisÃ©"
+msgstr "Présenter un texte personnalisé"
 
 #: Anchor Custom Title
 msgid "Anchor Custom Title"
-msgstr "PrÃ©senter un titre personnalisÃ©"
+msgstr "Présenter un titre personnalisé"
 
 #: Are you sure you want to delete current folder?
 msgid "Are you sure you want to delete current folder?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer le dossier courant ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer le dossier courant ?"
 
 #: Are you sure you want to delete the selected file?
 msgid "Are you sure you want to delete the selected file?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer le fichier sÃ©lectionnÃ© ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer le fichier sélectionné ?"
 
 #: Block
 msgid "Block"
@@ -72,15 +72,15 @@ msgstr "Page d'accueil CMS"
 
 #: CMS No Cookies Page
 msgid "CMS No Cookies Page"
-msgstr "Page CMS quand les cookies sont dÃ©sactivÃ©s"
+msgstr "Page CMS quand les cookies sont désactivés"
 
 #: CMS No Route Page
 msgid "CMS No Route Page"
-msgstr "Page CMS de ressource non trouvÃ©e"
+msgstr "Page CMS de ressource non trouvée"
 
 #: CMS No-Route Page
 msgid "CMS No-Route Page"
-msgstr "Page CMS de ressource non trouvÃ©e"
+msgstr "Page CMS de ressource non trouvée"
 
 #: CMS Page
 msgid "CMS Page"
@@ -108,19 +108,19 @@ msgstr "Bloc statique CMS"
 
 #: CMS Static Block Default Template
 msgid "CMS Static Block Default Template"
-msgstr "Gabarit par dÃ©faut du bloc statique CMS"
+msgstr "Gabarit par défaut du bloc statique CMS"
 
 #: Cannot create new directory.
 msgid "Cannot create new directory."
-msgstr "Impossible de crÃ©er un nouveau rÃ©pertoire."
+msgstr "Impossible de créer un nouveau répertoire."
 
 #: Cannot delete directory %s.
 msgid "Cannot delete directory %s."
-msgstr "Impossible de supprimer le rÃ©pertoire %s."
+msgstr "Impossible de supprimer le répertoire %s."
 
 #: Cannot delete root directory %s.
 msgid "Cannot delete root directory %s."
-msgstr "Impossible de supprimer le rÃ©pertoire racine %s."
+msgstr "Impossible de supprimer le répertoire racine %s."
 
 #: Cannot upload file.
 msgid "Cannot upload file."
@@ -128,7 +128,7 @@ msgstr "Impossible d'uploader le fichier."
 
 #: Collapse All
 msgid "Collapse All"
-msgstr "Tout rÃ©duire"
+msgstr "Tout réduire"
 
 #: Content
 msgid "Content"
@@ -136,7 +136,7 @@ msgstr "Contenu"
 
 #: Content Heading
 msgid "Content Heading"
-msgstr "En-tÃªte de contenu"
+msgstr "En-tête de contenu"
 
 #: Content Management
 msgid "Content Management"
@@ -148,31 +148,31 @@ msgstr "Contenu d'un bloc statique"
 
 #: Create Folder...
 msgid "Create Folder..."
-msgstr "CrÃ©er un dossier..."
+msgstr "Créer un dossier..."
 
 #: Custom Design
 msgid "Custom Design"
-msgstr "Design personnalisÃ©"
+msgstr "Design personnalisé"
 
 #: Custom Design From
 msgid "Custom Design From"
-msgstr "Design personnalisÃ© Ã  partir du"
+msgstr "Design personnalisé à partir du"
 
 #: Custom Design To
 msgid "Custom Design To"
-msgstr "Design personnalisÃ© jusqu'au"
+msgstr "Design personnalisé jusqu'au"
 
 #: Custom Layout
 msgid "Custom Layout"
-msgstr "Agencement personnalisÃ©"
+msgstr "Agencement personnalisé"
 
 #: Custom Layout Update XML
 msgid "Custom Layout Update XML"
-msgstr "XML de mise Ã  jour de l'agencement personnalisÃ©"
+msgstr "XML de mise à jour de l'agencement personnalisé"
 
 #: Custom Theme
 msgid "Custom Theme"
-msgstr "ThÃ¨me personnalisÃ©"
+msgstr "Thème personnalisé"
 
 #: Customer Tax Class Information
 msgid "Customer Tax Class Information"
@@ -180,7 +180,7 @@ msgstr "Classe de taxe client (Information)"
 
 #: Date Created
 msgid "Date Created"
-msgstr "Date de crÃ©ation"
+msgstr "Date de création"
 
 #: Delete Block
 msgid "Delete Block"
@@ -208,55 +208,55 @@ msgstr "Design"
 
 #: Disabled
 msgid "Disabled"
-msgstr "DÃ©sactivÃ©"
+msgstr "Désactivé"
 
 #: Disabled Completely
 msgid "Disabled Completely"
-msgstr "DÃ©sactivÃ© complÃ¨tement"
+msgstr "Désactivé complètement"
 
 #: Disabled by Default
 msgid "Disabled by Default"
-msgstr "DÃ©sactivÃ© par dÃ©faut"
+msgstr "Désactivé par défaut"
 
 #: Edit Block
 msgid "Edit Block"
-msgstr "Ã‰diter le bloc"
+msgstr "Éditer le bloc"
 
 #: Edit Block '%s'
 msgid "Edit Block '%s'"
-msgstr "Ã‰diter le bloc '%s'"
+msgstr "Éditer le bloc '%s'"
 
 #: Edit Page
 msgid "Edit Page"
-msgstr "Ã‰diter la page"
+msgstr "Éditer la page"
 
 #: Edit Page '%s'
 msgid "Edit Page '%s'"
-msgstr "Ã‰diter la page '%s'"
+msgstr "Éditer la page '%s'"
 
 #: Enable WYSIWYG Editor
 msgid "Enable WYSIWYG Editor"
-msgstr "Activer l'Ã©diteur WYSIWYG"
+msgstr "Activer l'éditeur WYSIWYG"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Enabled by Default
 msgid "Enabled by Default"
-msgstr "ActivÃ© par dÃ©faut"
+msgstr "Activé par défaut"
 
 #: Expand All
 msgid "Expand All"
-msgstr "Tout dÃ©velopper"
+msgstr "Tout développer"
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: Go to Home Page
 msgid "Go to Home Page"
-msgstr "Aller Ã  la page d'accueil"
+msgstr "Aller à la page d'accueil"
 
 #: Home
 msgid "Home"
@@ -272,7 +272,7 @@ msgstr "Identifiant"
 
 #: If empty, the Page Title will be used
 msgid "If empty, the Page Title will be used"
-msgstr "Si vide, le titre de page sera utilisÃ©"
+msgstr "Si vide, le titre de page sera utilisé"
 
 #: Images (%s)
 msgid "Images (%s)"
@@ -280,19 +280,19 @@ msgstr "Images (%s)"
 
 #: Insert File
 msgid "Insert File"
-msgstr "InsÃ©rer le fichier"
+msgstr "Insérer le fichier"
 
 #: Invalid folder name. Please, use alphanumeric characters, underscores and dashes.
 msgid "Invalid folder name. Please, use alphanumeric characters, underscores and dashes."
-msgstr "Nom de dossier invalide. Seuls les caractÃ¨res alphanumÃ©riques, underscore (_) et diÃ¨se sont autorisÃ©s."
+msgstr "Nom de dossier invalide. Seuls les caractères alphanumériques, underscore (_) et dièse sont autorisés."
 
 #: Keywords
 msgid "Keywords"
-msgstr "Mots clÃ©s"
+msgstr "Mots clés"
 
 #: Last Modified
 msgid "Last Modified"
-msgstr "ModifiÃ© le"
+msgstr "Modifié le"
 
 #: Layout
 msgid "Layout"
@@ -300,7 +300,7 @@ msgstr "Agencement"
 
 #: Layout Update XML
 msgid "Layout Update XML"
-msgstr "XML de mise Ã  jour d'agencement"
+msgstr "XML de mise à jour d'agencement"
 
 #: Link to a CMS Page
 msgid "Link to a CMS Page"
@@ -316,15 +316,15 @@ msgstr "Stockage des medias"
 
 #: Meta Data
 msgid "Meta Data"
-msgstr "DonnÃ©es meta"
+msgstr "Données meta"
 
 #: Meta Description
 msgid "Meta Description"
-msgstr "MÃ©ta description"
+msgstr "Méta description"
 
 #: Meta Keywords
 msgid "Meta Keywords"
-msgstr "Mots-clÃ©s meta"
+msgstr "Mots-clés meta"
 
 #: New Block
 msgid "New Block"
@@ -340,7 +340,7 @@ msgstr "Nouvelle page"
 
 #: No files found
 msgid "No files found"
-msgstr "Aucun fichier trouvÃ©"
+msgstr "Aucun fichier trouvé"
 
 #: Page Information
 msgid "Page Information"
@@ -368,11 +368,11 @@ msgstr "Information sur la classe de taxe produit"
 
 #: Redirect to CMS-page if Cookies are Disabled
 msgid "Redirect to CMS-page if Cookies are Disabled"
-msgstr "Rediriger vers la page CMS si les cookies sont dÃ©sactivÃ©s"
+msgstr "Rediriger vers la page CMS si les cookies sont désactivés"
 
 #: Relative to Website Base URL
 msgid "Relative to Website Base URL"
-msgstr "Relatif Ã  l'URL de base du site web"
+msgstr "Relatif à l'URL de base du site web"
 
 #: Save Block
 msgid "Save Block"
@@ -400,7 +400,7 @@ msgstr "Afficher le fil d'Ariane pour les pages CMS"
 
 #: Show Notice if JavaScript is Disabled
 msgid "Show Notice if JavaScript is Disabled"
-msgstr "Afficher un message si javascript est dÃ©sactivÃ©"
+msgstr "Afficher un message si javascript est désactivé"
 
 #: Static Blocks
 msgid "Static Blocks"
@@ -424,27 +424,27 @@ msgstr "Gabarit"
 
 #: The block has been deleted.
 msgid "The block has been deleted."
-msgstr "Le bloc a bien Ã©tÃ© effacÃ©."
+msgstr "Le bloc a bien été effacé."
 
 #: The block has been saved.
 msgid "The block has been saved."
-msgstr "Le bloc a bien Ã©tÃ© enregistrÃ©."
+msgstr "Le bloc a bien été enregistré."
 
 #: The directory %s is not writable by server.
 msgid "The directory %s is not writable by server."
-msgstr "Le rÃ©pertoire %s n'a pas les droits d'Ã©criture par le serveur web."
+msgstr "Le répertoire %s n'a pas les droits d'écriture par le serveur web."
 
 #: The page URL key cannot consist only of numbers.
 msgid "The page URL key cannot consist only of numbers."
-msgstr "La clÃ© d'URL de page ne peut pas contenir uniquement des nombres."
+msgstr "La clé d'URL de page ne peut pas contenir uniquement des nombres."
 
 #: The page has been deleted.
 msgid "The page has been deleted."
-msgstr "La page a bien Ã©tÃ© effacÃ©e."
+msgstr "La page a bien été effacée."
 
 #: The page has been saved.
 msgid "The page has been saved."
-msgstr "La page a bien Ã©tÃ© enregistrÃ©e."
+msgstr "La page a bien été enregistrée."
 
 #: This block no longer exists.
 msgid "This block no longer exists."
@@ -460,15 +460,15 @@ msgstr "Titre"
 
 #: URL Key
 msgid "URL Key"
-msgstr "ClÃ© d'URL"
+msgstr "Clé d'URL"
 
 #: Unable to find a block to delete.
 msgid "Unable to find a block to delete."
-msgstr "Impossible de trouver un bloc Ã  effacer."
+msgstr "Impossible de trouver un bloc à effacer."
 
 #: Unable to find a page to delete.
 msgid "Unable to find a page to delete."
-msgstr "Impossible de trouver une page Ã  effacer."
+msgstr "Impossible de trouver une page à effacer."
 
 #: WYSIWYG Options
 msgid "WYSIWYG Options"
@@ -480,19 +480,19 @@ msgstr "px."
 
 #: The page URL key contains capital letters or disallowed symbols.
 msgid "The page URL key contains capital letters or disallowed symbols."
-msgstr "La clÃ© d'url de page contient des lettres majuscules ou des symboles non autorisÃ©s."
+msgstr "La clé d'url de page contient des lettres majuscules ou des symboles non autorisés."
 
 #: Insert Widget...
 msgid "Insert Widget..."
-msgstr "InsÃ©rer un widget..."
+msgstr "Insérer un widget..."
 
 #: Insert Image...
 msgid "Insert Image..."
-msgstr "InsÃ©rer une image..."
+msgstr "Insérer une image..."
 
 #: Show / Hide Editor
 msgid "Show / Hide Editor"
-msgstr "Afficher/masquer l'Ã©diteur"
+msgstr "Afficher/masquer l'éditeur"
 
 #: Warning
 msgid "Warning"
@@ -500,7 +500,7 @@ msgstr "Attention"
 
 #: Firebug is known to make the WYSIWYG editor slow unless it is turned off or configured properly.
 msgid "Firebug is known to make the WYSIWYG editor slow unless it is turned off or configured properly."
-msgstr "Firebug peut ralentir l'Ã©diteur WYSIWYG Ã  moins de le dÃ©sactiver ou de le configurer correctement."
+msgstr "Firebug peut ralentir l'éditeur WYSIWYG à moins de le désactiver ou de le configurer correctement."
 
 #: Hide
 msgid "Hide"
@@ -508,11 +508,11 @@ msgstr "Masquer"
 
 #: Insert Media...
 msgid "Insert Media..."
-msgstr "InsÃ©rer un media..."
+msgstr "Insérer un media..."
 
 #: Insert File...
 msgid "Insert File..."
-msgstr "InsÃ©rer un fichier..."
+msgstr "Insérer un fichier..."
 
 #: Media Gallery
 msgid "Media Gallery"

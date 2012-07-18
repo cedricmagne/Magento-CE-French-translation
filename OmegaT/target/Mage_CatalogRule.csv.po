@@ -1,6 +1,6 @@
 #: %d Catalog Price Rules based on \"%s\" attribute have been disabled.
 msgid "%d Catalog Price Rules based on \"%s\" attribute have been disabled."
-msgstr "%d rÃ¨gles de prix catalogue basÃ©es sur l'attribut \"%s\" ont Ã©tÃ© dÃ©sactivÃ©es."
+msgstr "%d règles de prix catalogue basées sur l'attribut \"%s\" ont été désactivées."
 
 #: Actions
 msgid "Actions"
@@ -12,19 +12,19 @@ msgstr "Actif"
 
 #: Add New Rule
 msgid "Add New Rule"
-msgstr "Ajouter une nouvelle rÃ¨gle"
+msgstr "Ajouter une nouvelle règle"
 
 #: An error occurred while deleting the rule. Please review the log and try again.
 msgid "An error occurred while deleting the rule. Please review the log and try again."
-msgstr "Erreur lors de la suppression de la rÃ¨gle. VÃ©rifiez les logs et rÃ©essayez."
+msgstr "Erreur lors de la suppression de la règle. Vérifiez les logs et réessayez."
 
 #: An error occurred while saving the rule data. Please review the log and try again.
 msgid "An error occurred while saving the rule data. Please review the log and try again."
-msgstr "Erreur lors de la sauvegarde de la rÃ¨gle. VÃ©rifiez les logs et rÃ©essayez."
+msgstr "Erreur lors de la sauvegarde de la règle. Vérifiez les logs et réessayez."
 
 #: Apply Rules
 msgid "Apply Rules"
-msgstr "Appliquer les rÃ¨gles"
+msgstr "Appliquer les règles"
 
 #: Attribute Set
 msgid "Attribute Set"
@@ -36,15 +36,15 @@ msgstr "Catalogue"
 
 #: Catalog Price Rule
 msgid "Catalog Price Rule"
-msgstr "RÃ¨gle de prix catalogue"
+msgstr "Règle de prix catalogue"
 
 #: Catalog Price Rules
 msgid "Catalog Price Rules"
-msgstr "RÃ¨gles de prix catalogue"
+msgstr "Règles de prix catalogue"
 
 #: Category
 msgid "Category"
-msgstr "CatÃ©gorie"
+msgstr "Catégorie"
 
 #: Conditions
 msgid "Conditions"
@@ -52,7 +52,7 @@ msgstr "Conditions"
 
 #: Conditions (leave blank for all products)
 msgid "Conditions (leave blank for all products)"
-msgstr "Conditions (laisser vide pour appliquer Ã  tous les produits)"
+msgstr "Conditions (laisser vide pour appliquer à tous les produits)"
 
 #: Conditions Combination
 msgid "Conditions Combination"
@@ -64,7 +64,7 @@ msgstr "Groupes clients"
 
 #: Customer Registered: %s
 msgid "Customer Registered: %s"
-msgstr "Client enregistrÃ© : %s"
+msgstr "Client enregistré : %s"
 
 #: Customer is a New Buyer: %s
 msgid "Customer is a New Buyer: %s"
@@ -80,7 +80,7 @@ msgstr "Entre le"
 
 #: Date Start
 msgid "Date Start"
-msgstr "Date de dÃ©marrage"
+msgstr "Date de démarrage"
 
 #: Date To
 msgid "Date To"
@@ -88,7 +88,7 @@ msgstr "et le"
 
 #: Delete Rule
 msgid "Delete Rule"
-msgstr "Supprimer la rÃ¨gle"
+msgstr "Supprimer la règle"
 
 #: Description
 msgid "Description"
@@ -100,11 +100,11 @@ msgstr "Description : %s"
 
 #: Edit Rule
 msgid "Edit Rule"
-msgstr "Ã‰diter la rÃ¨gle"
+msgstr "Éditer la règle"
 
 #: Edit Rule '%s'
 msgid "Edit Rule '%s'"
-msgstr "Ã‰diter la rÃ¨gle '%s'"
+msgstr "Éditer la règle '%s'"
 
 #: Expire at: %s
 msgid "Expire at: %s"
@@ -112,11 +112,11 @@ msgstr "Expire le : %s"
 
 #: From Date
 msgid "From Date"
-msgstr "Date de dÃ©but"
+msgstr "Date de début"
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: ID
 msgid "ID"
@@ -128,7 +128,7 @@ msgstr "Inactif"
 
 #: NOT LOGGED IN
 msgid "NOT LOGGED IN"
-msgstr "NON CONNECTÃ‰"
+msgstr "NON CONNECTÉ"
 
 #: Name: %s
 msgid "Name: %s"
@@ -136,7 +136,7 @@ msgstr "Nom : %s"
 
 #: New Rule
 msgid "New Rule"
-msgstr "Nouvelle rÃ¨gle"
+msgstr "Nouvelle règle"
 
 #: No
 msgid "No"
@@ -148,7 +148,7 @@ msgstr "Options"
 
 #: Priority
 msgid "Priority"
-msgstr "PrioritÃ©"
+msgstr "Priorité"
 
 #: Product Attribute
 msgid "Product Attribute"
@@ -160,15 +160,15 @@ msgstr "Promotions"
 
 #: Rule Information
 msgid "Rule Information"
-msgstr "Informations rÃ¨gle"
+msgstr "Informations règle"
 
 #: Rule Name
 msgid "Rule Name"
-msgstr "Nom de la rÃ¨gle"
+msgstr "Nom de la règle"
 
 #: Save Rule
 msgid "Save Rule"
-msgstr "Sauvegarder la rÃ¨gle"
+msgstr "Sauvegarder la règle"
 
 #: Save and Apply
 msgid "Save and Apply"
@@ -176,11 +176,11 @@ msgstr "Sauvegarder et appliquer"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Start at: %s
 msgid "Start at: %s"
-msgstr "DÃ©bute le : %s"
+msgstr "Débute le : %s"
 
 #: Status
 msgid "Status"
@@ -188,27 +188,27 @@ msgstr "Statut"
 
 #: Stop Further Rules Processing
 msgid "Stop Further Rules Processing"
-msgstr "Ne pas traiter les rÃ¨gles suivantes (non cumulable)"
+msgstr "Ne pas traiter les règles suivantes (non cumulable)"
 
 #: The rule has been deleted.
 msgid "The rule has been deleted."
-msgstr "La rÃ¨gle a Ã©tÃ© supprimÃ©e."
+msgstr "La règle a été supprimée."
 
 #: The rule has been saved.
 msgid "The rule has been saved."
-msgstr "La rÃ¨gle a Ã©tÃ© sauvegardÃ©e."
+msgstr "La règle a été sauvegardée."
 
 #: The rules have been applied.
 msgid "The rules have been applied."
-msgstr "Les rÃ¨gles ont bien Ã©tÃ© appliquÃ©es."
+msgstr "Les règles ont bien été appliquées."
 
 #: There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.
 msgid "There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog."
-msgstr "Certaines rÃ¨gles ont changÃ© mais n'ont pas pu Ãªtre appliquÃ©es. Cliquez sur 'Appliquer les rÃ¨gles' afin d'en voir le rÃ©sultat immÃ©diat."
+msgstr "Certaines règles ont changé mais n'ont pas pu être appliquées. Cliquez sur 'Appliquer les règles' afin d'en voir le résultat immédiat."
 
 #: This rule no longer exists.
 msgid "This rule no longer exists."
-msgstr "Cette rÃ¨gle n'existe plus."
+msgstr "Cette règle n'existe plus."
 
 #: To Date
 msgid "To Date"
@@ -216,15 +216,15 @@ msgstr "Date de fin"
 
 #: Unable to apply rules.
 msgid "Unable to apply rules."
-msgstr "Impossible d'appliquer les rÃ¨gles."
+msgstr "Impossible d'appliquer les règles."
 
 #: Unable to find a rule to delete.
 msgid "Unable to find a rule to delete."
-msgstr "Impossible de trouver la rÃ¨gle Ã  supprimer."
+msgstr "Impossible de trouver la règle à supprimer."
 
 #: Update product's %s %s: %s
 msgid "Update product's %s %s: %s"
-msgstr "Mettre Ã  jour le %s du produit %s : %s"
+msgstr "Mettre à jour le %s du produit %s : %s"
 
 #: Websites
 msgid "Websites"
@@ -232,7 +232,7 @@ msgstr "Sites web"
 
 #: Wrong rule specified.
 msgid "Wrong rule specified."
-msgstr "Mauvaise rÃ¨gle spÃ©cifiÃ©e"
+msgstr "Mauvaise règle spécifiée"
 
 #: Yes
 msgid "Yes"
@@ -268,7 +268,7 @@ msgstr "Pourcentage du prix original"
 
 #: Update Prices Using the Following Information
 msgid "Update Prices Using the Following Information"
-msgstr "Mettre Ã  jour les prix en utilisant l'information suivante"
+msgstr "Mettre à jour les prix en utilisant l'information suivante"
 
 #: Website
 msgid "Website"

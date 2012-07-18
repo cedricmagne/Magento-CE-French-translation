@@ -1,10 +1,10 @@
 #: Abandoned Carts
 msgid "Abandoned Carts"
-msgstr "Paniers abandonnÃ©s"
+msgstr "Paniers abandonnés"
 
 #: Abandoned carts
 msgid "Abandoned carts"
-msgstr "Paniers abandonnÃ©s"
+msgstr "Paniers abandonnés"
 
 #: Action
 msgid "Action"
@@ -20,7 +20,7 @@ msgstr "Ajouter au comparateur"
 
 #: Add to Wishlist
 msgid "Add to Wishlist"
-msgstr "Ajouter Ã  la liste d'envies"
+msgstr "Ajouter à la liste d'envies"
 
 #: Any
 msgid "Any"
@@ -28,23 +28,23 @@ msgstr "Tous"
 
 #: Applied Coupon
 msgid "Applied Coupon"
-msgstr "Coupons utilisÃ©s"
+msgstr "Coupons utilisés"
 
 #: Applies to Any of the Specified Order Statuses
 msgid "Applies to Any of the Specified Order Statuses"
-msgstr "S'applique Ã  tous les statuts de commande spÃ©cifiÃ©s"
+msgstr "S'applique à tous les statuts de commande spécifiés"
 
 #: Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.
 msgid "Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation."
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir rafraÃ®chir les statistiques en temps rÃ©el ? Cela peut impacter les performances pendant la durÃ©e du rafraichissement."
+msgstr "Êtes-vous sûr(e) de vouloir rafraîchir les statistiques en temps réel ? Cela peut impacter les performances pendant la durée du rafraichissement."
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: Avg. Approved Rating
 msgid "Avg. Approved Rating"
-msgstr "Moyenne des notes approuvÃ©es"
+msgstr "Moyenne des notes approuvées"
 
 #: Avg. Rating
 msgid "Avg. Rating"
@@ -56,7 +56,7 @@ msgstr "Meilleures ventes"
 
 #: Bought from wishlists
 msgid "Bought from wishlists"
-msgstr "AchetÃ© Ã  partir de la liste d'envies"
+msgstr "Acheté à partir de la liste d'envies"
 
 #: CSV
 msgid "CSV"
@@ -68,23 +68,23 @@ msgstr "Paniers"
 
 #: Compared Products Grid Template
 msgid "Compared Products Grid Template"
-msgstr "Gabarit de grille de produits comparÃ©s"
+msgstr "Gabarit de grille de produits comparés"
 
 #: Compared Products List Template
 msgid "Compared Products List Template"
-msgstr "Gabarit de liste de produits comparÃ©s"
+msgstr "Gabarit de liste de produits comparés"
 
 #: Coupons
 msgid "Coupons"
-msgstr "Bons de rÃ©duction"
+msgstr "Bons de réduction"
 
 #: Coupons Usage Report
 msgid "Coupons Usage Report"
-msgstr "Rapport des utilisations des bons de rÃ©duction"
+msgstr "Rapport des utilisations des bons de réduction"
 
 #: Created At
 msgid "Created At"
-msgstr "CrÃ©Ã© le"
+msgstr "Créé le"
 
 #: Current Month Starts
 msgid "Current Month Starts"
@@ -112,11 +112,11 @@ msgstr "Rapport clients"
 
 #: Customers Reviews
 msgid "Customers Reviews"
-msgstr "Clients ayant commentÃ©"
+msgstr "Clients ayant commenté"
 
 #: Customers Tags
 msgid "Customers Tags"
-msgstr "Clients ayant proposÃ© des tags"
+msgstr "Clients ayant proposé des tags"
 
 #: Customers by Number of Orders
 msgid "Customers by Number of Orders"
@@ -148,11 +148,11 @@ msgstr "Jour"
 
 #: Default Recently Compared Products Count
 msgid "Default Recently Compared Products Count"
-msgstr "Nombre de produits rÃ©cemment comparÃ©s par dÃ©faut"
+msgstr "Nombre de produits récemment comparés par défaut"
 
 #: Default Recently Viewed Products Count
 msgid "Default Recently Viewed Products Count"
-msgstr "Nombre de produits rÃ©cemment consultÃ©s par dÃ©faut"
+msgstr "Nombre de produits récemment consultés par défaut"
 
 #: Description
 msgid "Description"
@@ -160,11 +160,11 @@ msgstr "Description"
 
 #: Detail
 msgid "Detail"
-msgstr "DÃ©tail"
+msgstr "Détail"
 
 #: Downloads
 msgid "Downloads"
-msgstr "TÃ©lÃ©chargements"
+msgstr "Téléchargements"
 
 #: Email
 msgid "Email"
@@ -184,7 +184,7 @@ msgstr "Filtre"
 
 #: First Name
 msgid "First Name"
-msgstr "PrÃ©nom"
+msgstr "Prénom"
 
 #: From
 msgid "From"
@@ -192,7 +192,7 @@ msgstr "De"
 
 #: Guest
 msgid "Guest"
-msgstr "InvitÃ©"
+msgstr "Invité"
 
 #: Hits
 msgid "Hits"
@@ -208,7 +208,7 @@ msgstr "Adresse IP"
 
 #: Index model name must be defined
 msgid "Index model name must be defined"
-msgstr "Le nom du modÃ¨le d'index doit Ãªtre dÃ©fini"
+msgstr "Le nom du modèle d'index doit être défini"
 
 #: Invalid date specified.
 msgid "Invalid date specified."
@@ -216,7 +216,7 @@ msgstr "Date invalide"
 
 #: Invoiced
 msgid "Invoiced"
-msgstr "FacturÃ©"
+msgstr "Facturé"
 
 #: Items in Cart
 msgid "Items in Cart"
@@ -236,7 +236,7 @@ msgstr "Lien"
 
 #: List of Products Recently Compared and Removed from the Compare List by Visitor
 msgid "List of Products Recently Compared and Removed from the Compare List by Visitor"
-msgstr "Liste des derniers produits comparÃ©s et enlevÃ©s de la liste de comparaison par un visiteur"
+msgstr "Liste des derniers produits comparés et enlevés de la liste de comparaison par un visiteur"
 
 #: List of Products Recently Viewed by Visitor
 msgid "List of Products Recently Viewed by Visitor"
@@ -252,7 +252,7 @@ msgstr "Stock bas"
 
 #: Match Period To
 msgid "Match Period To"
-msgstr "Faire correspondre la pÃ©riode Ã "
+msgstr "Faire correspondre la période à"
 
 #: Month
 msgid "Month"
@@ -260,7 +260,7 @@ msgstr "Mois"
 
 #: Most Viewed
 msgid "Most Viewed"
-msgstr "Les plus consultÃ©s"
+msgstr "Les plus consultés"
 
 #: Name
 msgid "Name"
@@ -276,15 +276,15 @@ msgstr "Non"
 
 #: No records found for this period.
 msgid "No records found for this period."
-msgstr "Aucune donnÃ©e pour cette pÃ©riode."
+msgstr "Aucune donnée pour cette période."
 
 #: Number Added
 msgid "Number Added"
-msgstr "Nombre ajoutÃ©"
+msgstr "Nombre ajouté"
 
 #: Number Fulfilled
 msgid "Number Fulfilled"
-msgstr "Nombre rÃ©alisÃ©s"
+msgstr "Nombre réalisés"
 
 #: Number Of Reviews
 msgid "Number Of Reviews"
@@ -292,7 +292,7 @@ msgstr "Nombre de commentaires"
 
 #: Number Purchased
 msgid "Number Purchased"
-msgstr "Nombre achetÃ©"
+msgstr "Nombre acheté"
 
 #: Number Viewed
 msgid "Number Viewed"
@@ -308,7 +308,7 @@ msgstr "Nombre de nouveaux comptes"
 
 #: Number of Products to display
 msgid "Number of Products to display"
-msgstr "Nombre de produits Ã  afficher"
+msgstr "Nombre de produits à afficher"
 
 #: Number of Reviews
 msgid "Number of Reviews"
@@ -316,7 +316,7 @@ msgstr "Nombre de commentaires"
 
 #: Number of Times Deleted
 msgid "Number of Times Deleted"
-msgstr "Nombre de fois effacÃ©"
+msgstr "Nombre de fois effacé"
 
 #: Number of Total Tags
 msgid "Number of Total Tags"
@@ -332,11 +332,11 @@ msgstr "Nombre de consultations"
 
 #: Number of items bought from a wishlist: %s
 msgid "Number of items bought from a wishlist: %s"
-msgstr "Nombre d'articles achetÃ©s depuis une liste d'envies : %s"
+msgstr "Nombre d'articles achetés depuis une liste d'envies : %s"
 
 #: Number of times wishlists have been shared (emailed): %s
 msgid "Number of times wishlists have been shared (emailed): %s"
-msgstr "Nombre de fois que la liste d'envies a Ã©tÃ© partagÃ©e (envoyÃ©e par mail) : %s"
+msgstr "Nombre de fois que la liste d'envies a été partagée (envoyée par mail) : %s"
 
 #: Number of wishlist conversions: %s
 msgid "Number of wishlist conversions: %s"
@@ -344,7 +344,7 @@ msgstr "Nombre de conversion de listes d'envies : %s"
 
 #: Number of wishlist referrals: %s
 msgid "Number of wishlist referrals: %s"
-msgstr "Nombre de rÃ©fÃ©rents de la liste d'envies : %s"
+msgstr "Nombre de référents de la liste d'envies : %s"
 
 #: Number of wishlists: %s
 msgid "Number of wishlists: %s"
@@ -356,7 +356,7 @@ msgstr "Statut"
 
 #: Order Taxes Report Grouped by Tax Rate
 msgid "Order Taxes Report Grouped by Tax Rate"
-msgstr "Rapport de TVA & taxes groupÃ©es par taux de taxe"
+msgstr "Rapport de TVA & taxes groupées par taux de taxe"
 
 #: Orders
 msgid "Orders"
@@ -364,11 +364,11 @@ msgstr "Commandes"
 
 #: Out of stock
 msgid "Out of stock"
-msgstr "Ã‰puisÃ©"
+msgstr "Épuisé"
 
 #: Period
 msgid "Period"
-msgstr "PÃ©riode"
+msgstr "Période"
 
 #: Poducts Report
 msgid "Poducts Report"
@@ -376,11 +376,11 @@ msgstr "Rapport produits"
 
 #: Popular Tags
 msgid "Popular Tags"
-msgstr "Mots clÃ©s populaires"
+msgstr "Mots clés populaires"
 
 #: Popularity
 msgid "Popularity"
-msgstr "PopularitÃ©"
+msgstr "Popularité"
 
 #: Price
 msgid "Price"
@@ -396,11 +396,11 @@ msgstr "Commentaires"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "RÃ©f. Produit"
+msgstr "Réf. Produit"
 
 #: Product Tags
 msgid "Product Tags"
-msgstr "Mots clÃ©s du produit"
+msgstr "Mots clés du produit"
 
 #: Products
 msgid "Products"
@@ -408,7 +408,7 @@ msgstr "Produits"
 
 #: Products Ordered
 msgid "Products Ordered"
-msgstr "Produits commandÃ©s"
+msgstr "Produits commandés"
 
 #: Products Report
 msgid "Products Report"
@@ -416,11 +416,11 @@ msgstr "Rapport produits"
 
 #: Products Reviews
 msgid "Products Reviews"
-msgstr "Produits commentÃ©s"
+msgstr "Produits commentés"
 
 #: Products Tags
 msgid "Products Tags"
-msgstr "Produits taggÃ©s"
+msgstr "Produits taggés"
 
 #: Products in carts
 msgid "Products in carts"
@@ -432,35 +432,35 @@ msgstr "Commandes"
 
 #: Quantity Ordered
 msgid "Quantity Ordered"
-msgstr "QuantitÃ© commandÃ©e"
+msgstr "Quantité commandée"
 
 #: Quantity of Items
 msgid "Quantity of Items"
-msgstr "QuantitÃ© d'articles"
+msgstr "Quantité d'articles"
 
 #: Recently Compared
 msgid "Recently Compared"
-msgstr "DerniÃ¨res comparaisons"
+msgstr "Dernières comparaisons"
 
 #: Recently Compared Products
 msgid "Recently Compared Products"
-msgstr "Derniers produits comparÃ©s"
+msgstr "Derniers produits comparés"
 
 #: Recently Viewed
 msgid "Recently Viewed"
-msgstr "Vu rÃ©cemment"
+msgstr "Vu récemment"
 
 #: Recently Viewed Products
 msgid "Recently Viewed Products"
-msgstr "Derniers produits consultÃ©s"
+msgstr "Derniers produits consultés"
 
 #: Recently Viewed/Compared Products
 msgid "Recently Viewed/Compared Products"
-msgstr "Produits rÃ©cemment consultÃ©s/comparÃ©s"
+msgstr "Produits récemment consultés/comparés"
 
 #: Refresh Lifetime Statistics
 msgid "Refresh Lifetime Statistics"
-msgstr "Rafraichir les statistiques depuis le dÃ©but"
+msgstr "Rafraichir les statistiques depuis le début"
 
 #: Refresh Statistics
 msgid "Refresh Statistics"
@@ -484,7 +484,7 @@ msgstr "Rapports"
 
 #: Results
 msgid "Results"
-msgstr "RÃ©sultats"
+msgstr "Résultats"
 
 #: Revenue
 msgid "Revenue"
@@ -544,7 +544,7 @@ msgstr "Afficher pour le"
 
 #: Specified
 msgid "Specified"
-msgstr "SpÃ©cifiÃ©"
+msgstr "Spécifié"
 
 #: Statistics
 msgid "Statistics"
@@ -552,7 +552,7 @@ msgstr "Statistiques"
 
 #: Stock Qty
 msgid "Stock Qty"
-msgstr "QuantitÃ© en stock"
+msgstr "Quantité en stock"
 
 #: Submitted In
 msgid "Submitted In"
@@ -568,19 +568,19 @@ msgstr "Sous-total"
 
 #: Tag
 msgid "Tag"
-msgstr "Mot clÃ©"
+msgstr "Mot clé"
 
 #: Tag \"%s\" details
 msgid "Tag \"%s\" details"
-msgstr "DÃ©tails du tag \"%s\""
+msgstr "Détails du tag \"%s\""
 
 #: Tag Detail
 msgid "Tag Detail"
-msgstr "DÃ©tail du tag"
+msgstr "Détail du tag"
 
 #: Tag Name
 msgid "Tag Name"
-msgstr "Nom du mot clÃ©"
+msgstr "Nom du mot clé"
 
 #: Tag Use
 msgid "Tag Use"
@@ -604,7 +604,7 @@ msgstr "Titre"
 
 #: To
 msgid "To"
-msgstr "Ã€"
+msgstr "À"
 
 #: Total
 msgid "Total"
@@ -612,11 +612,11 @@ msgstr "Total"
 
 #: Total Invoiced vs. Paid Report
 msgid "Total Invoiced vs. Paid Report"
-msgstr "Rapport du facturÃ© en fonction du payÃ©"
+msgstr "Rapport du facturé en fonction du payé"
 
 #: Total Ordered Report
 msgid "Total Ordered Report"
-msgstr "Rapport du total commandÃ©"
+msgstr "Rapport du total commandé"
 
 #: Total Refunded Report
 msgid "Total Refunded Report"
@@ -624,7 +624,7 @@ msgstr "Rapport des remboursements"
 
 #: Total Shipped Report
 msgid "Total Shipped Report"
-msgstr "Rapport des expÃ©ditions"
+msgstr "Rapport des expéditions"
 
 #: Total Tags
 msgid "Total Tags"
@@ -632,15 +632,15 @@ msgstr "Nb total de tags"
 
 #: Total invoiced
 msgid "Total invoiced"
-msgstr "Total facturÃ©"
+msgstr "Total facturé"
 
 #: Total refunded
 msgid "Total refunded"
-msgstr "Total remboursÃ©"
+msgstr "Total remboursé"
 
 #: Updated At
 msgid "Updated At"
-msgstr "Mise Ã  jour Ã "
+msgstr "Mise à jour à"
 
 #: Viewed Products Grid Template
 msgid "Viewed Products Grid Template"
@@ -668,11 +668,11 @@ msgstr "Liste d'envies"
 
 #: Year
 msgid "Year"
-msgstr "AnnÃ©e"
+msgstr "Année"
 
 #: Year-To-Date Starts
 msgid "Year-To-Date Starts"
-msgstr "L'annÃ©e en cours commence le"
+msgstr "L'année en cours commence le"
 
 #: Yes
 msgid "Yes"
@@ -680,15 +680,15 @@ msgstr "Oui"
 
 #: Your Recently Compared
 msgid "Your Recently Compared"
-msgstr "Vos derniÃ¨res comparaisons"
+msgstr "Vos dernières comparaisons"
 
 #: Your Recently Viewed
 msgid "Your Recently Viewed"
-msgstr "Derniers articles consultÃ©s"
+msgstr "Derniers articles consultés"
 
 #: undefined
 msgid "undefined"
-msgstr "indÃ©fini"
+msgstr "indéfini"
 
 #: Excel XML
 msgid "Excel XML"
@@ -696,19 +696,19 @@ msgstr "XML d'Excel"
 
 #: Catalog Category (Without Subcategories)
 msgid "Catalog Category (Without Subcategories)"
-msgstr "CatÃ©gorie de catalogue (sans sous-catÃ©gories)"
+msgstr "Catégorie de catalogue (sans sous-catégories)"
 
 #: Canceled
 msgid "Canceled"
-msgstr "AnnulÃ©e"
+msgstr "Annulée"
 
 #: Closed
 msgid "Closed"
-msgstr "FermÃ©e"
+msgstr "Fermée"
 
 #: Complete
 msgid "Complete"
-msgstr "TerminÃ©e"
+msgstr "Terminée"
 
 #: Processing
 msgid "Processing"
@@ -716,5 +716,5 @@ msgstr "En cours de traitement"
 
 #: Shopping Cart Price Rule
 msgid "Shopping Cart Price Rule"
-msgstr "RÃ¨gle de prix panier"
+msgstr "Règle de prix panier"
 

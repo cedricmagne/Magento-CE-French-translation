@@ -1,14 +1,14 @@
 #: %s codes deleted
 msgid "%s codes deleted"
-msgstr "%s codes effacÃ©s"
+msgstr "%s codes effacés"
 
 #: %s codes imported
 msgid "%s codes imported"
-msgstr "%s codes importÃ©s"
+msgstr "%s codes importés"
 
 #: %s codes not imported
 msgid "%s codes not imported"
-msgstr "%s codes non importÃ©s"
+msgstr "%s codes non importés"
 
 #: %s product in feed.
 msgid "%s product in feed."
@@ -32,7 +32,7 @@ msgstr "Mapping des attributs"
 
 #: Cron Frequency
 msgid "Cron Frequency"
-msgstr "FrÃ©quence du cron"
+msgstr "Fréquence du cron"
 
 #: Cron Hour
 msgid "Cron Hour"
@@ -60,7 +60,7 @@ msgstr "Serveur FTP"
 
 #: FTP Settings
 msgid "FTP Settings"
-msgstr "ParamÃ¨tres FTP"
+msgstr "Paramètres FTP"
 
 #: FTP User
 msgid "FTP User"
@@ -100,15 +100,15 @@ msgstr "Dans le flux"
 
 #: In order to access your FTP account information, you must first register and verify your store in TheFind Merchant Center.  Click <a href=\"https://merchant.thefind.com/mc/claim.fhtml\">here</a> to get started.
 msgid "In order to access your FTP account information, you must first register and verify your store in TheFind Merchant Center.  Click <a href=\"https://merchant.thefind.com/mc/claim.fhtml\">here</a> to get started."
-msgstr "Afin d'accÃ©der aux informations de votre compte FTP, vous devez d'abord vous enregistrer et vÃ©rifier votre compte dans le Centre Marchand TheFind. Cliquez <a href=\"https://merchant.thefind.com/mc/claim.fhtml\">ici</a> pour dÃ©marrer."
+msgstr "Afin d'accéder aux informations de votre compte FTP, vous devez d'abord vous enregistrer et vérifier votre compte dans le Centre Marchand TheFind. Cliquez <a href=\"https://merchant.thefind.com/mc/claim.fhtml\">ici</a> pour démarrer."
 
 #: Is imported
 msgid "Is imported"
-msgstr "Est importÃ©(e)"
+msgstr "Est importé(e)"
 
 #: Item params
 msgid "Item params"
-msgstr "ParamÃ¨tres de l'article"
+msgstr "Paramètres de l'article"
 
 #: Manage attributes
 msgid "Manage attributes"
@@ -144,11 +144,11 @@ msgstr "Publier"
 
 #: SKU
 msgid "SKU"
-msgstr "RÃ©f."
+msgstr "Réf."
 
 #: Settings
 msgid "Settings"
-msgstr "ParamÃ©trage"
+msgstr "Paramétrage"
 
 #: The Find
 msgid "The Find"
@@ -168,13 +168,13 @@ msgstr "Type"
 
 #: Unable to process an import.
 msgid "Unable to process an import. "
-msgstr "Impossible d'exÃ©cuter l'import. "
+msgstr "Impossible d'exécuter l'import. "
 
 #: Update TheFind Item when Product is Updated
 msgid "Update TheFind Item when Product is Updated"
-msgstr "Mettre Ã  jour l'article TheFind quand le produit est mis Ã  jour"
+msgstr "Mettre à jour l'article TheFind quand le produit est mis à jour"
 
 #: Unable to process an import.
 msgid "Unable to process an import."
-msgstr "Impossible d'exÃ©cuter l'import."
+msgstr "Impossible d'exécuter l'import."
 
