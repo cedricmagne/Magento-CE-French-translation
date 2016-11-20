@@ -12,7 +12,7 @@ msgstr "Aurore"
 
 #: Activated Key
 msgid "Activated Key"
-msgstr "ClÃ© activÃ©e"
+msgstr "Clé activée"
 
 #: Amount does not match.
 msgid "Amount does not match."
@@ -36,11 +36,11 @@ msgstr "CB"
 
 #: Cannot create the invoice.
 msgid "Cannot create the invoice."
-msgstr "Impossible de crÃ©er la facture."
+msgstr "Impossible de créer la facture."
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: Cart Type
 msgid "Cart Type"
@@ -56,15 +56,15 @@ msgstr "Mode ligne de commande"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"
-msgstr "<strong>NumÃ©ro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit Card Type: %s
 msgid "Credit Card Type: %s"
@@ -88,11 +88,11 @@ msgstr "DINERS"
 
 #: Debug Flag
 msgid "Debug Flag"
-msgstr "Indicateur de dÃ©bug"
+msgstr "Indicateur de débug"
 
 #: Delay in Displaying the Intermediary Page (in msec)
 msgid "Delay in Displaying the Intermediary Page (in msec)"
-msgstr "Delai d'affichage de la page intermÃ©diaire (en millisecondes)"
+msgstr "Delai d'affichage de la page intermédiaire (en millisecondes)"
 
 #: E CARD
 msgid "E CARD"
@@ -108,7 +108,7 @@ msgstr "EUROCARD & MASTERCARD"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Error in refunding the payment
 msgid "Error in refunding the payment"
@@ -120,7 +120,7 @@ msgstr "Date d'expiration"
 
 #: FRA (French)
 msgid "FRA (French)"
-msgstr "FRA (FranÃ§ais)"
+msgstr "FRA (Français)"
 
 #: GBR (English)
 msgid "GBR (English)"
@@ -148,7 +148,7 @@ msgstr "Langue de la page de paiement"
 
 #: Management Mode of the Intermediary Page
 msgid "Management Mode of the Intermediary Page"
-msgstr "Mode de gestion de la page intermÃ©diaire"
+msgstr "Mode de gestion de la page intermédiaire"
 
 #: Mode A
 msgid "Mode A"
@@ -172,19 +172,19 @@ msgstr "Mode E"
 
 #: Mode of Retrieval of Information
 msgid "Mode of Retrieval of Information"
-msgstr "Mode de rÃ©cupÃ©ration des informations"
+msgstr "Mode de récupération des informations"
 
 #: NLD (Dutch)
 msgid "NLD (Dutch)"
-msgstr "NLD (NÃ©erlandais)"
+msgstr "NLD (Néerlandais)"
 
 #: Name of the Button on the Intermediary Page
 msgid "Name of the Button on the Intermediary Page"
-msgstr "Nom du bouton de la page intermÃ©diaire"
+msgstr "Nom du bouton de la page intermédiaire"
 
 #: Name on Card
 msgid "Name on Card"
-msgstr "PropriÃ©taire de la carte"
+msgstr "Propriétaire de la carte"
 
 #: Name on the Card: %s
 msgid "Name on the Card: %s"
@@ -196,7 +196,7 @@ msgstr "Statut d'une nouvelle commande"
 
 #: Only if the \"HTML From\" mode selected.
 msgid "Only if the \"HTML From\" mode selected."
-msgstr "Seulement si le mode \"Formulaire HTML\" a Ã©tÃ© sÃ©lectionnÃ©."
+msgstr "Seulement si le mode \"Formulaire HTML\" a été sélectionné."
 
 #: Only with \"Command Line\" mode.
 msgid "Only with \"Command Line\" mode."
@@ -252,11 +252,11 @@ msgstr "Type de paiement"
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr "Mode de paiement autorisÃ© pour"
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr "Mode de paiement autorisÃ© pour les pays spÃ©cifiques"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Ping Flag
 msgid "Ping Flag"
@@ -264,15 +264,15 @@ msgstr "Indicateur de ping"
 
 #: Please Select
 msgid "Please Select"
-msgstr "Veuillez sÃ©lectionner"
+msgstr "Veuillez sélectionner"
 
 #: Rank Number
 msgid "Rank Number"
-msgstr "NumÃ©ro de rang"
+msgstr "Numéro de rang"
 
 #: SWE (Swedish)
 msgid "SWE (Swedish)"
-msgstr "SWE (SuÃ©dois)"
+msgstr "SWE (Suédois)"
 
 #: SYMPASS
 msgid "SYMPASS"
@@ -280,11 +280,11 @@ msgstr "SYMPASS"
 
 #: Screen Background of the Intermediary Page
 msgid "Screen Background of the Intermediary Page"
-msgstr "Fond d'Ã©cran de la page intermÃ©diaire"
+msgstr "Fond d'écran de la page intermédiaire"
 
 #: Site Number (TPE)
 msgid "Site Number (TPE)"
-msgstr "NumÃ©ro de site (TPE)"
+msgstr "Numéro de site (TPE)"
 
 #: Sort Order
 msgid "Sort Order"
@@ -292,19 +292,19 @@ msgstr "Ordre de tri"
 
 #: Specify the URL of the primary backup payment server if different from default.
 msgid "Specify the URL of the primary backup payment server if different from default."
-msgstr "SpÃ©cifiez l'URL du serveur de paiement de secours s'il est diffÃ©rent de celui par dÃ©faut."
+msgstr "Spécifiez l'URL du serveur de paiement de secours s'il est différent de celui par défaut."
 
 #: Specify the URL of the primary payment server if different from default.
 msgid "Specify the URL of the primary payment server if different from default."
-msgstr "SpÃ©cifiez l'URL du serveur de paiement principal s'il est diffÃ©rent de celui par dÃ©faut."
+msgstr "Spécifiez l'URL du serveur de paiement principal s'il est différent de celui par défaut."
 
 #: Specify the URL of the second backup payment server if different from default.
 msgid "Specify the URL of the second backup payment server if different from default."
-msgstr "SpÃ©cifiez l'URL du second serveur de paiement de secours s'il est diffÃ©rent de celui par dÃ©faut."
+msgstr "Spécifiez l'URL du second serveur de paiement de secours s'il est différent de celui par défaut."
 
 #: Specify the URL of the third backup payment server if different from default.
 msgid "Specify the URL of the third backup payment server if different from default."
-msgstr "SpÃ©cifiez l'URL du troisiÃ¨me serveur de paiement de secours s'il est diffÃ©rent de celui par dÃ©faut."
+msgstr "Spécifiez l'URL du troisième serveur de paiement de secours s'il est différent de celui par défaut."
 
 #: TCP Port
 msgid "TCP Port"
@@ -312,7 +312,7 @@ msgstr "Port TCP"
 
 #: TCP port used to check the availability of a payment server if \"Ping Flag\" enabled (default port is 443).
 msgid "TCP port used to check the availability of a payment server if \"Ping Flag\" enabled (default port is 443)."
-msgstr "Port TCP utilisÃ© pour vÃ©rifier la disponibilitÃ© du serveur de paiement si l'indicateur de ping est activÃ© (le port par dÃ©faut est 443)."
+msgstr "Port TCP utilisé pour vérifier la disponibilité du serveur de paiement si l'indicateur de ping est activé (le port par défaut est 443)."
 
 #: TERMINEO
 msgid "TERMINEO"
@@ -320,7 +320,7 @@ msgstr "TERMINEO"
 
 #: Text on the Intermediary Page
 msgid "Text on the Intermediary Page"
-msgstr "Texte sur la page intermÃ©diaire"
+msgstr "Texte sur la page intermédiaire"
 
 #: The URL of the Backup Payment Server
 msgid "The URL of the Backup Payment Server"
@@ -340,7 +340,7 @@ msgstr "URL du second serveur de paiement de secours"
 
 #: The URL of the Third Backup Payment Server
 msgid "The URL of the Third Backup Payment Server"
-msgstr "URL du troisiÃ¨me serveur de paiement de secours"
+msgstr "URL du troisième serveur de paiement de secours"
 
 #: The customer has returned from Paybox.
 msgid "The customer has returned from Paybox."
@@ -348,27 +348,27 @@ msgstr "Le client est revenu de Paybox."
 
 #: The customer was redirected to Paybox
 msgid "The customer was redirected to Paybox"
-msgstr "Le client a Ã©tÃ© redirigÃ© vers Paybox"
+msgstr "Le client a été redirigé vers Paybox"
 
 #: The customer was redirected to Paybox using 'command line' mode.
 msgid "The customer was redirected to Paybox using 'command line' mode."
-msgstr "Le client a Ã©tÃ© redirigÃ© vers Paybox par le mode 'ligne de commande'."
+msgstr "Le client a été redirigé vers Paybox par le mode 'ligne de commande'."
 
 #: The customer was refused by Paybox.
 msgid "The customer was refused by Paybox."
-msgstr "Le client a Ã©tÃ© refusÃ© par Paybox."
+msgstr "Le client a été refusé par Paybox."
 
 #: The customer was rejected by Paybox.
 msgid "The customer was rejected by Paybox."
-msgstr "Le client a Ã©tÃ© rejetÃ© par Paybox."
+msgstr "Le client a été rejeté par Paybox."
 
 #: The invoice has been created.
 msgid "The invoice has been created."
-msgstr "La facture a Ã©tÃ© crÃ©Ã©e."
+msgstr "La facture a été créée."
 
 #: The order was canceled by the customer.
 msgid "The order was canceled by the customer."
-msgstr "La commande a Ã©tÃ© annulÃ©e par le client."
+msgstr "La commande a été annulée par le client."
 
 #: There are no orders.
 msgid "There are no orders."
@@ -380,27 +380,27 @@ msgstr "Erreur lors du traitement de votre paiement."
 
 #: There has been an error processing your payment. Please try later or contact us for help.
 msgid "There has been an error processing your payment. Please try later or contact us for help."
-msgstr "Une erreur est survenue lors du traitement de votre paiement. Veuillez rÃ©essayer plus tard ou nous contacter pour obtenir de l'aide."
+msgstr "Une erreur est survenue lors du traitement de votre paiement. Veuillez réessayer plus tard ou nous contacter pour obtenir de l'aide."
 
 #: Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds).
 msgid "Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds)."
-msgstr "Timeout (en secondes) pour la vÃ©rification de disponibilitÃ© du serveur principal de paiement de secours (10 secondes par dÃ©faut)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du serveur principal de paiement de secours (10 secondes par défaut)."
 
 #: Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds).
 msgid "Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds)."
-msgstr "Timeout (en secondes) pour la vÃ©rification de disponibilitÃ© du serveur principal de paiement (8 secondes par dÃ©faut)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du serveur principal de paiement (8 secondes par défaut)."
 
 #: Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds).
 msgid "Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds)."
-msgstr "Timeout (en secondes) pour la vÃ©rification de disponibilitÃ© du second serveur de paiement de secours (20 secondes par dÃ©faut)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du second serveur de paiement de secours (20 secondes par défaut)."
 
 #: Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds).
 msgid "Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds)."
-msgstr "Timeout (en secondes) pour la vÃ©rification de disponibilitÃ© du troisiÃ¨me serveur de paiement de secours (20 secondes par dÃ©faut)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du troisième serveur de paiement de secours (20 secondes par défaut)."
 
 #: Timeout for Checking
 msgid "Timeout for Checking"
-msgstr "Timeout de vÃ©rification"
+msgstr "Timeout de vérification"
 
 #: Title
 msgid "Title"
@@ -416,9 +416,9 @@ msgstr "Aide ?"
 
 #: You will be redirected to Paybox in a few seconds.
 msgid "You will be redirected to Paybox in a few seconds."
-msgstr "Vous serez redirigÃ© vers Paybox dans quelques secondes."
+msgstr "Vous serez redirigé vers Paybox dans quelques secondes."
 
 #: You will be redirected to the Paybox website when you place an order.
 msgid "You will be redirected to the Paybox website when you place an order."
-msgstr "Vous serez redirigÃ© vers le site de Paybox Ã  l'issue de votre commande."
+msgstr "Vous serez redirigé vers le site de Paybox à l'issue de votre commande."
 

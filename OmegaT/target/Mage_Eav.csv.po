@@ -1,6 +1,6 @@
 #: A joint field with this alias (%s) is already declared.
 msgid "A joint field with this alias (%s) is already declared."
-msgstr "Un champ de jointure a dÃ©jÃ  Ã©tÃ© dÃ©clarÃ© avec cet alias (%s)."
+msgstr "Un champ de jointure a déjà été déclaré avec cet alias (%s)."
 
 #: Add Option
 msgid "Add Option"
@@ -24,7 +24,7 @@ msgstr "Tentative d'ajout d'un objet invalide."
 
 #: Attribute '%s' used in configurable products.
 msgid "Attribute '%s' used in configurable products."
-msgstr "Attribut '%s' utilisÃ© dans les produits configurables."
+msgstr "Attribut '%s' utilisé dans les produits configurables."
 
 #: Attribute Code
 msgid "Attribute Code"
@@ -32,27 +32,27 @@ msgstr "Code"
 
 #: Attribute Label
 msgid "Attribute Label"
-msgstr "LibellÃ©"
+msgstr "Libellé"
 
 #: Attribute Properties
 msgid "Attribute Properties"
-msgstr "PropriÃ©tÃ©s de l'attribut"
+msgstr "Propriétés de l'attribut"
 
 #: Attribute set with the \"%s\" name already exists.
 msgid "Attribute set with the \"%s\" name already exists."
-msgstr "Il existe dÃ©jÃ  un jeu d'attributs portant le nom \"%s\"."
+msgstr "Il existe déjà un jeu d'attributs portant le nom \"%s\"."
 
 #: Attribute with the same code
 msgid "Attribute with the same code"
-msgstr "Attribut avec le mÃªme code"
+msgstr "Attribut avec le même code"
 
 #: Catalog Input Type for Store Owner
 msgid "Catalog Input Type for Store Owner"
-msgstr "Type d'entrÃ©e catalogue pour le propriÃ©taire du magasin"
+msgstr "Type d'entrée catalogue pour le propriétaire du magasin"
 
 #: Data integrity: No header row found for attribute.
 msgid "Data integrity: No header row found for attribute."
-msgstr "IntÃ©gritÃ© des donnÃ©es : aucune ligne d'en-tÃªte trouvÃ©e pour l'attribut."
+msgstr "Intégrité des données : aucune ligne d'en-tête trouvée pour l'attribut."
 
 #: Date
 msgid "Date"
@@ -60,19 +60,19 @@ msgstr "Date"
 
 #: Decimal Number
 msgid "Decimal Number"
-msgstr "Nombre dÃ©cimal"
+msgstr "Nombre décimal"
 
 #: Default Product Listing Sort by not exists on Available Product Listing Sort By
 msgid "Default Product Listing Sort by not exists on Available Product Listing Sort By"
-msgstr "Le tri par dÃ©faut pour les listes de produits n'existe pas dans la liste des valeurs possibles"
+msgstr "Le tri par défaut pour les listes de produits n'existe pas dans la liste des valeurs possibles"
 
 #: Default Value
 msgid "Default Value"
-msgstr "Valeur par dÃ©faut"
+msgstr "Valeur par défaut"
 
 #: Default option value is not defined.
 msgid "Default option value is not defined."
-msgstr "La valeur par dÃ©faut de l'option n'est pas dÃ©finie."
+msgstr "La valeur par défaut de l'option n'est pas définie."
 
 #: Delete
 msgid "Delete"
@@ -80,7 +80,7 @@ msgstr "Supprimer"
 
 #: Dropdown
 msgid "Dropdown"
-msgstr "Liste dÃ©roulante"
+msgstr "Liste déroulante"
 
 #: Email
 msgid "Email"
@@ -88,39 +88,39 @@ msgstr "Email"
 
 #: Entity collection expected.
 msgid "Entity collection expected."
-msgstr "Collection d'entitÃ©s attendue."
+msgstr "Collection d'entités attendue."
 
 #: Entity collections expected.
 msgid "Entity collections expected."
-msgstr "Collections d'entitÃ©s attendues."
+msgstr "Collections d'entités attendues."
 
 #: Entity is not initialized.
 msgid "Entity is not initialized."
-msgstr "L'entitÃ© n'est pas initialisÃ©e."
+msgstr "L'entité n'est pas initialisée."
 
 #: Failed to load node %s from config.
 msgid "Failed to load node %s from config."
-msgstr "Impossible de charger le nÅ“ud %s depuis la configuration."
+msgstr "Impossible de charger le nœud %s depuis la configuration."
 
 #: For internal use. Must be unique with no spaces
 msgid "For internal use. Must be unique with no spaces"
-msgstr "Usage interne. Doit Ãªtre unique et sans espace"
+msgstr "Usage interne. Doit être unique et sans espace"
 
 #: Form Element with the same attribute
 msgid "Form Element with the same attribute"
-msgstr "Il existe dÃ©jÃ  un Ã©lÃ©ment de formulaire avec le mÃªme attribut"
+msgstr "Il existe déjà un élément de formulaire avec le même attribut"
 
 #: Form Fieldset with the same code
 msgid "Form Fieldset with the same code"
-msgstr "Il existe dÃ©jÃ  un groupe de champs de formulaire avec le mÃªme code"
+msgstr "Il existe déjà un groupe de champs de formulaire avec le même code"
 
 #: Form Type with the same code
 msgid "Form Type with the same code"
-msgstr "Il existe dÃ©jÃ  un type de formulaire avec le mÃªme code"
+msgstr "Il existe déjà un type de formulaire avec le même code"
 
 #: Frontend label is not defined.
 msgid "Frontend label is not defined."
-msgstr "Le libellÃ© de front office n'est pas dÃ©fini."
+msgstr "Le libellé de front office n'est pas défini."
 
 #: Input Validation for Store Owner
 msgid "Input Validation for Store Owner"
@@ -136,7 +136,7 @@ msgstr "Attribut EAV invalide."
 
 #: Invalid alias, already exists in joint attributes.
 msgid "Invalid alias, already exists in joint attributes."
-msgstr "Alias invalide, dÃ©jÃ  utilisÃ© dans les attributs de jointure."
+msgstr "Alias invalide, déjà utilisé dans les attributs de jointure."
 
 #: Invalid attribute name: %s.
 msgid "Invalid attribute name: %s."
@@ -144,7 +144,7 @@ msgstr "Nom d'attribut invalide : %s."
 
 #: Invalid attribute requested: %s
 msgid "Invalid attribute requested: %s"
-msgstr "Attribut non valide exigÃ© : %s"
+msgstr "Attribut non valide exigé : %s"
 
 #: Invalid attribute type.
 msgid "Invalid attribute type."
@@ -152,27 +152,27 @@ msgstr "Type d'attribut invalide."
 
 #: Invalid character encountered in increment ID: %s
 msgid "Invalid character encountered in increment ID: %s"
-msgstr "CaractÃ¨re non valide trouvÃ© dans l'ID d'incrÃ©ment : %s"
+msgstr "Caractère non valide trouvé dans l'ID d'incrément : %s"
 
 #: Invalid entity specified
 msgid "Invalid entity specified"
-msgstr "EntitÃ© spÃ©cifiÃ©e non valide"
+msgstr "Entité spécifiée non valide"
 
 #: Invalid entity supplied.
 msgid "Invalid entity supplied."
-msgstr "L'entitÃ© fournie n'est pas valide."
+msgstr "L'entité fournie n'est pas valide."
 
 #: Invalid entity supplied: %s.
 msgid "Invalid entity supplied: %s."
-msgstr "L'entitÃ© fournie n'est pas valide : %s."
+msgstr "L'entité fournie n'est pas valide : %s."
 
 #: Invalid entity type.
 msgid "Invalid entity type."
-msgstr "Type d'entitÃ© invalide."
+msgstr "Type d'entité invalide."
 
 #: Invalid entity_id, skipping the record.
 msgid "Invalid entity_id, skipping the record."
-msgstr "entity_id non valide, enregistrement ignorÃ©"
+msgstr "entity_id non valide, enregistrement ignoré"
 
 #: Invalid entity_type specified: %s
 msgid "Invalid entity_type specified: %s"
@@ -180,7 +180,7 @@ msgstr "entity_type non valide : %s"
 
 #: Invalid foreign key.
 msgid "Invalid foreign key."
-msgstr "ClÃ© Ã©trangÃ¨re invalide."
+msgstr "Clé étrangère invalide."
 
 #: Invalid form type.
 msgid "Invalid form type."
@@ -192,15 +192,15 @@ msgstr "Champs de jointure invalides."
 
 #: Invalid store specified
 msgid "Invalid store specified"
-msgstr "Magasin spÃ©cifiÃ© non valide"
+msgstr "Magasin spécifié non valide"
 
 #: Joined field with this alias is already declared.
 msgid "Joined field with this alias is already declared."
-msgstr "Il existe dÃ©jÃ  un champ de jointure portant cet alias."
+msgstr "Il existe déjà un champ de jointure portant cet alias."
 
 #: Joint field or attribute expression with this alias is already declared.
 msgid "Joint field or attribute expression with this alias is already declared."
-msgstr "Il existe dÃ©jÃ  un champ de jointure ou une expression d'attribut portant cet alias."
+msgstr "Il existe déjà un champ de jointure ou une expression d'attribut portant cet alias."
 
 #: Letters
 msgid "Letters"
@@ -212,11 +212,11 @@ msgstr "Lettres (a-z, A-Z) ou chiffres (0-9)"
 
 #: Loaded %d records
 msgid "Loaded %d records"
-msgstr "%d enregistrement(s) chargÃ©(s)"
+msgstr "%d enregistrement(s) chargé(s)"
 
 #: Multiple Select
 msgid "Multiple Select"
-msgstr "SÃ©lection multiple"
+msgstr "Sélection multiple"
 
 #: No
 msgid "No"
@@ -224,7 +224,7 @@ msgstr "Non"
 
 #: No options found in config node %s
 msgid "No options found in config node %s"
-msgstr "Aucune option trouvÃ©e dans le noeud de configuration %s"
+msgstr "Aucune option trouvée dans le noeud de configuration %s"
 
 #: None
 msgid "None"
@@ -232,15 +232,15 @@ msgstr "Aucun"
 
 #: Not shared with other products
 msgid "Not shared with other products"
-msgstr "Non partagÃ© avec les autres produits"
+msgstr "Non partagé avec les autres produits"
 
 #: Problem loading the collection, aborting. Error: %s
 msgid "Problem loading the collection, aborting. Error: %s"
-msgstr "ProblÃ¨me lors du chargement de la collection. Annulation. Erreur : %s"
+msgstr "Problème lors du chargement de la collection. Annulation. Erreur : %s"
 
 #: Problem saving the collection, aborting. Error: %s
 msgid "Problem saving the collection, aborting. Error: %s"
-msgstr "ProblÃ¨me lors de la sauvegarde de la collection. Annulation. Erreur : %s"
+msgstr "Problème lors de la sauvegarde de la collection. Annulation. Erreur : %s"
 
 #: Required
 msgid "Required"
@@ -248,15 +248,15 @@ msgstr "Obligatoire"
 
 #: Saved %d record(s).
 msgid "Saved %d record(s)."
-msgstr "%d enregistrement(s) sauvegardÃ©(s)"
+msgstr "%d enregistrement(s) sauvegardé(s)"
 
 #: Scope must not be changed, because the attribute is used in configurable products.
 msgid "Scope must not be changed, because the attribute is used in configurable products."
-msgstr "La portÃ©e ne doit pas Ãªtre modifiÃ©e car l'attribut est utilisÃ© dans des produits configurables."
+msgstr "La portée ne doit pas être modifiée car l'attribut est utilisé dans des produits configurables."
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: Text Area
 msgid "Text Area"
@@ -268,15 +268,15 @@ msgstr "Champ texte"
 
 #: The attribute code \'%s\' is reserved by system. Please try another attribute code.
 msgid "The attribute code \'%s\' is reserved by system. Please try another attribute code."
-msgstr "Le code d'attribut '%s' est rÃ©servÃ© par le systÃ¨me. Choisissez-en un autre."
+msgstr "Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre."
 
 #: The value of attribute \"%s\" must be unique.
 msgid "The value of attribute \"%s\" must be unique."
-msgstr "La valeur de l'attribut \"%s\" doit Ãªtre unique."
+msgstr "La valeur de l'attribut \"%s\" doit être unique."
 
 #: This attribute is used in configurable products.
 msgid "This attribute is used in configurable products."
-msgstr "Cet attribut est utilisÃ© dans les produits configurables."
+msgstr "Cet attribut est utilisé dans les produits configurables."
 
 #: URL
 msgid "URL"
@@ -288,11 +288,11 @@ msgstr "Valeur unique"
 
 #: Unique Value (not shared with other products)
 msgid "Unique Value (not shared with other products)"
-msgstr "Valeur unique (non partagÃ©e avec les autres produits)"
+msgstr "Valeur unique (non partagée avec les autres produits)"
 
 #: Unknown parameter.
 msgid "Unknown parameter."
-msgstr "ParamÃ¨tre inconnu."
+msgstr "Paramètre inconnu."
 
 #: Valid store_id is expected!
 msgid "Valid store_id is expected!"
@@ -316,7 +316,7 @@ msgstr "Mauvais identifiant de jeu d'attributs."
 
 #: Wrong entity ID.
 msgid "Wrong entity ID."
-msgstr "Mauvais identifiant d'entitÃ©."
+msgstr "Mauvais identifiant d'entité."
 
 #: Yes
 msgid "Yes"
@@ -332,7 +332,7 @@ msgstr "Erreur lors de la sauvegarde d'un enregistrement. Erreur :"
 
 #: The attribute code '%s' is reserved by system. Please try another attribute code.
 msgid "The attribute code '%s' is reserved by system. Please try another attribute code."
-msgstr "Le code d'attribut '%s' est rÃ©servÃ© par le systÃ¨me. Choisissez-en un autre."
+msgstr "Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre."
 
 #: \"%s\" contains not only digit characters.
 msgid "\"%s\" contains not only digit characters."
@@ -344,23 +344,23 @@ msgstr "\"%s\" ne correspond pas au format de date saisi."
 
 #: \"%s\" exceeds the allowed file size.
 msgid "\"%s\" exceeds the allowed file size."
-msgstr "\"%s\" excÃ¨de la taille maxi autorisÃ©e pour les fichiers."
+msgstr "\"%s\" excède la taille maxi autorisée pour les fichiers."
 
 #: \"%s\" exceeds the allowed length.
 msgid "\"%s\" exceeds the allowed length."
-msgstr "\"%s\" excÃ¨de la longueur autorisÃ©e."
+msgstr "\"%s\" excède la longueur autorisée."
 
 #: \"%s\" has not only alphabetic and digit characters.
 msgid "\"%s\" has not only alphabetic and digit characters."
-msgstr "\"%s\" doit contenir uniquement des caractÃ¨res alphanumÃ©riques."
+msgstr "\"%s\" doit contenir uniquement des caractères alphanumériques."
 
 #: \"%s\" has not only alphabetic characters.
 msgid "\"%s\" has not only alphabetic characters."
-msgstr "\"%s\" doit contenir uniquement des caractÃ¨res alphabÃ©tiques."
+msgstr "\"%s\" doit contenir uniquement des caractères alphabétiques."
 
 #: \"%s\" height exceeds allowed value of %s px.
 msgid "\"%s\" height exceeds allowed value of %s px."
-msgstr "La hauteur de \"%s\" excÃ¨de la valeur de %s px."
+msgstr "La hauteur de \"%s\" excède la valeur de %s px."
 
 #: \"%s\" invalid type entered.
 msgid "\"%s\" invalid type entered."
@@ -372,7 +372,7 @@ msgstr "\"%s\" est une valeur obligatoire."
 
 #: \"%s\" is an empty string.
 msgid "\"%s\" is an empty string."
-msgstr "\"%s\" est une chaÃ®ne vide."
+msgstr "\"%s\" est une chaîne vide."
 
 #: \"%s\" is not a valid URL.
 msgid "\"%s\" is not a valid URL."
@@ -400,7 +400,7 @@ msgstr "\"%s\" n'est pas un fichier valide."
 
 #: \"%s\" is not a valid hostname.
 msgid "\"%s\" is not a valid hostname."
-msgstr "\"%s\" n'est pas un nom d'hÃ´te valide."
+msgstr "\"%s\" n'est pas un nom d'hôte valide."
 
 #: \"%s\" is not a valid image format
 msgid "\"%s\" is not a valid image format"
@@ -408,59 +408,59 @@ msgstr "\"%s\" n'est pas un format d'image valide"
 
 #: \"%s\" length must be equal or greater than %s characters.
 msgid "\"%s\" length must be equal or greater than %s characters."
-msgstr "La longueur de \"%s\" doit Ãªtre supÃ©rieure ou Ã©gale Ã  %s caractÃ¨res."
+msgstr "La longueur de \"%s\" doit être supérieure ou égale à %s caractères."
 
 #: \"%s\" length must be equal or less than %s characters.
 msgid "\"%s\" length must be equal or less than %s characters."
-msgstr "La longueur de \"%s\" doit Ãªtre Ã©gale ou infÃ©rieure Ã  %s caractÃ¨res."
+msgstr "La longueur de \"%s\" doit être égale ou inférieure à %s caractères."
 
 #: \"%s\" width exceeds allowed value of %s px.
 msgid "\"%s\" width exceeds allowed value of %s px."
-msgstr "La largeur de \"%s\" excÃ¨de la valeur de %s px."
+msgstr "La largeur de \"%s\" excède la valeur de %s px."
 
 #: '%value%' appears to be a DNS hostname but cannot extract TLD part
 msgid "'%value%' appears to be a DNS hostname but cannot extract TLD part"
-msgstr "'%value%' semble Ãªtre un nom d'hÃ´te de DNS, mais la partie TLD ne peut pas Ãªtre extraite"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne peut pas être extraite"
 
 #: '%value%' appears to be a DNS hostname but cannot match TLD against known list
 msgid "'%value%' appears to be a DNS hostname but cannot match TLD against known list"
-msgstr "'%value%' semble Ãªtre un nom d'hÃ´te de DNS, mais la partie TLD ne fait pas partie de la liste des TLD connus."
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne fait pas partie de la liste des TLD connus."
 
 #: '%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'
 msgid "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'"
-msgstr "'%value%' semble Ãªtre un nom d'hÃ´te de DNS, mais il est impossibile de faire correspondre le schÃ©ma de nom d'hÃ´te au TLD '%tld%'."
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais il est impossibile de faire correspondre le schéma de nom d'hôte au TLD '%tld%'."
 
 #: '%value%' appears to be a DNS hostname but contains a dash in an invalid position
 msgid "'%value%' appears to be a DNS hostname but contains a dash in an invalid position"
-msgstr "'%value%' semble Ãªtre un nom d'hÃ´te de DNS, mais elle contient un tiret Ã  une position incorrecte."
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais elle contient un tiret à une position incorrecte."
 
 #: '%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded
 msgid "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded"
-msgstr "'%value%' semble Ãªtre un nom d'hÃ´te de DNS, mais la notation punycode donnÃ©e ne peut pas Ãªtre dÃ©codÃ©e."
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la notation punycode donnée ne peut pas être décodée."
 
 #: '%value%' appears to be a local network name but local network names are not allowed
 msgid "'%value%' appears to be a local network name but local network names are not allowed"
-msgstr "'%value%' semble Ãªtre un nom d'hÃ´te de DNS, mais les noms de rÃ©seau local ne sont pas autorisÃ©s."
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais les noms de réseau local ne sont pas autorisés."
 
 #: '%value%' appears to be an IP address, but IP addresses are not allowed
 msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
-msgstr "'%value%' semble Ãªtre une adresse IP, mais celles-ci ne sont pas autorisÃ©es."
+msgstr "'%value%' semble être une adresse IP, mais celles-ci ne sont pas autorisées."
 
 #: '%value%' does not appear to be a valid URI hostname
 msgid "'%value%' does not appear to be a valid URI hostname"
-msgstr "'%value%' n'est pas un nom d'hÃ´te URI valide"
+msgstr "'%value%' n'est pas un nom d'hôte URI valide"
 
 #: '%value%' does not appear to be a valid local network name
 msgid "'%value%' does not appear to be a valid local network name"
-msgstr "'%value%' n'est pas un nom de rÃ©seau local valide."
+msgstr "'%value%' n'est pas un nom de réseau local valide."
 
 #: '%value%' does not match the expected structure for a DNS hostname
 msgid "'%value%' does not match the expected structure for a DNS hostname"
-msgstr "'%value%' ne correspond pas Ã  la structure attendue pour un nom d'hÃ´te DNS."
+msgstr "'%value%' ne correspond pas à la structure attendue pour un nom d'hôte DNS."
 
 #: A joint field with this alias (%s) is already declared
 msgid "A joint field with this alias (%s) is already declared"
-msgstr "Un champ de jointure a dÃ©jÃ  Ã©tÃ© dÃ©clarÃ© avec cet alias (%s)."
+msgstr "Un champ de jointure a déjà été déclaré avec cet alias (%s)."
 
 #: Attempt to add an invalid object
 msgid "Attempt to add an invalid object"
@@ -468,59 +468,59 @@ msgstr "Tentative d'ajout d'un objet invalide"
 
 #: Attribute '%s' used in configurable products
 msgid "Attribute '%s' used in configurable products"
-msgstr "Attribut '%s' utilisÃ© dans les produits configurables"
+msgstr "Attribut '%s' utilisé dans les produits configurables"
 
 #: Attribute object is undefined
 msgid "Attribute object is undefined"
-msgstr "L'objet attribut est indÃ©fini"
+msgstr "L'objet attribut est indéfini"
 
 #: Can't create table: %s
 msgid "Can't create table: %s"
-msgstr "Impossible de crÃ©er la table : %s"
+msgstr "Impossible de créer la table : %s"
 
 #: Current module EAV entity is undefined
 msgid "Current module EAV entity is undefined"
-msgstr "Le module d'entitÃ©s EAV actuel n'est pas dÃ©fini"
+msgstr "Le module d'entités EAV actuel n'est pas défini"
 
 #: Current module pathname is undefined
 msgid "Current module pathname is undefined"
-msgstr "Le chemin d'accÃ¨s actuel du module n'est pas dÃ©fini"
+msgstr "Le chemin d'accès actuel du module n'est pas défini"
 
 #: Data integrity: No header row found for attribute
 msgid "Data integrity: No header row found for attribute"
-msgstr "IntÃ©gritÃ© des donnÃ©es : aucune ligne d'en-tÃªte trouvÃ©e pour l'attribut."
+msgstr "Intégrité des données : aucune ligne d'en-tête trouvée pour l'attribut."
 
 #: Default option value is not defined
 msgid "Default option value is not defined"
-msgstr "La valeur par dÃ©faut de l'option n'est pas dÃ©finie."
+msgstr "La valeur par défaut de l'option n'est pas définie."
 
 #: Entity instance is not defined
 msgid "Entity instance is not defined"
-msgstr "L'instance d'entitÃ© n'est pas dÃ©finie"
+msgstr "L'instance d'entité n'est pas définie"
 
 #: Entity is not initialized
 msgid "Entity is not initialized"
-msgstr "L'entitÃ© n'est pas initialisÃ©e."
+msgstr "L'entité n'est pas initialisée."
 
 #: Entity object is undefined
 msgid "Entity object is undefined"
-msgstr "L'objet entitÃ© n'est pas dÃ©fini"
+msgstr "L'objet entité n'est pas défini"
 
 #: Failed to load node %s from config
 msgid "Failed to load node %s from config"
-msgstr "Impossible de charger le nÅ“ud %s depuis la configuration"
+msgstr "Impossible de charger le nœud %s depuis la configuration"
 
 #: Form code is not defined
 msgid "Form code is not defined"
-msgstr "Le code du formulaire n'est pas dÃ©fini."
+msgstr "Le code du formulaire n'est pas défini."
 
 #: Frontend label is not defined
 msgid "Frontend label is not defined"
-msgstr "Le libellÃ© de front office n'est pas dÃ©fini"
+msgstr "Le libellé de front office n'est pas défini"
 
 #: Invalid alias, already exists in joint attributes
 msgid "Invalid alias, already exists in joint attributes"
-msgstr "Alias invalide, dÃ©jÃ  utilisÃ© dans les attributs de jointure"
+msgstr "Alias invalide, déjà utilisé dans les attributs de jointure"
 
 #: Invalid attribute name: %s
 msgid "Invalid attribute name: %s"
@@ -536,23 +536,23 @@ msgstr "Date non valide"
 
 #: Invalid default date
 msgid "Invalid default date"
-msgstr "Date par dÃ©faut non valide"
+msgstr "Date par défaut non valide"
 
 #: Invalid default decimal value
 msgid "Invalid default decimal value"
-msgstr "Valeur dÃ©cimale par dÃ©faut non valide"
+msgstr "Valeur décimale par défaut non valide"
 
 #: Invalid entity supplied: %s
 msgid "Invalid entity supplied: %s"
-msgstr "L'entitÃ© fournie n'est pas valide : %s."
+msgstr "L'entité fournie n'est pas valide : %s."
 
 #: Invalid entity type
 msgid "Invalid entity type"
-msgstr "Type d'entitÃ© invalide."
+msgstr "Type d'entité invalide."
 
 #: Invalid foreign key
 msgid "Invalid foreign key"
-msgstr "ClÃ© Ã©trangÃ¨re invalide."
+msgstr "Clé étrangère invalide."
 
 #: Invalid joint fields
 msgid "Invalid joint fields"
@@ -560,39 +560,39 @@ msgstr "Champs de jointure invalides."
 
 #: Invalid type given. String expected
 msgid "Invalid type given. String expected"
-msgstr "Le type est incorrect. Une chaÃ®ne de caractÃ¨res est attendue."
+msgstr "Le type est incorrect. Une chaîne de caractères est attendue."
 
 #: Joined field with this alias is already declared
 msgid "Joined field with this alias is already declared"
-msgstr "Il existe dÃ©jÃ  un champ de jointure portant cet alias."
+msgstr "Il existe déjà un champ de jointure portant cet alias."
 
 #: Joint field or attribute expression with this alias is already declared
 msgid "Joint field or attribute expression with this alias is already declared"
-msgstr "Il existe dÃ©jÃ  un champ de jointure ou une expression d'attribut portant cet alias."
+msgstr "Il existe déjà un champ de jointure ou une expression d'attribut portant cet alias."
 
 #: Maximum length of attribute code must be less then %s symbols
 msgid "Maximum length of attribute code must be less then %s symbols"
-msgstr "La longueur maximale du code de l'attribut doit Ãªtre de moins de %s caractÃ¨res"
+msgstr "La longueur maximale du code de l'attribut doit être de moins de %s caractères"
 
 #: Source model \"%s\" not found for attribute \"%s\"
 msgid "Source model \"%s\" not found for attribute \"%s\""
-msgstr "Le modÃ¨le source \"%s\" n'a pas Ã©tÃ© trouvÃ© pour l'attribut \"%s\""
+msgstr "Le modèle source \"%s\" n'a pas été trouvé pour l'attribut \"%s\""
 
 #: The attribute code '%s' is reserved by system. Please try another attribute code
 msgid "The attribute code '%s' is reserved by system. Please try another attribute code"
-msgstr "Le code d'attribut '%s' est rÃ©servÃ© par le systÃ¨me. Choisissez-en un autre."
+msgstr "Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre."
 
 #: The value of attribute \"%s\" must be unique
 msgid "The value of attribute \"%s\" must be unique"
-msgstr "La valeur de l'attribut \"%s\" doit Ãªtre unique."
+msgstr "La valeur de l'attribut \"%s\" doit être unique."
 
 #: This attribute is used in configurable products
 msgid "This attribute is used in configurable products"
-msgstr "Cet attribut est utilisÃ© dans les produits configurables."
+msgstr "Cet attribut est utilisé dans les produits configurables."
 
 #: Unknown parameter
 msgid "Unknown parameter"
-msgstr "ParamÃ¨tre inconnu."
+msgstr "Paramètre inconnu."
 
 #: Wrong attribute group ID
 msgid "Wrong attribute group ID"
@@ -604,15 +604,15 @@ msgstr "Mauvais identifiant de jeu d'attributs."
 
 #: Wrong entity ID
 msgid "Wrong entity ID"
-msgstr "Mauvais identifiant d'entitÃ©."
+msgstr "Mauvais identifiant d'entité."
 
 #: Wrong type definition for %s
 msgid "Wrong type definition for %s"
-msgstr "Mauvaise dÃ©finition de type pour %s"
+msgstr "Mauvaise définition de type pour %s"
 
 #: First Name
 msgid "First Name"
-msgstr "PrÃ©nom"
+msgstr "Prénom"
 
 #: Last Name
 msgid "Last Name"

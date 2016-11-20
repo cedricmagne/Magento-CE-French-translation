@@ -12,11 +12,11 @@ msgstr "Validation 3D Secure du porteur de carte"
 
 #: 3D Secure Electronic Commerce Indicator
 msgid "3D Secure Electronic Commerce Indicator"
-msgstr "Indicateur de Commerce Ã©lectronique 3D Secure"
+msgstr "Indicateur de Commerce électronique 3D Secure"
 
 #: 3D Secure Verification Result
 msgid "3D Secure Verification Result"
-msgstr "RÃ©sultat de vÃ©rification 3D Secure"
+msgstr "Résultat de vérification 3D Secure"
 
 #: 3D Secure XID
 msgid "3D Secure XID"
@@ -24,11 +24,11 @@ msgstr "XID 3D Secure"
 
 #: Card Issuer Liability
 msgid "Card Issuer Liability"
-msgstr "ResponsabilitÃ© de l'Ã©metteur de carte"
+msgstr "Responsabilité de l'émetteur de carte"
 
 #: Card Verification
 msgid "Card Verification"
-msgstr "VÃ©rification de carte"
+msgstr "Vérification de carte"
 
 #: Enrolled
 msgid "Enrolled"
@@ -40,15 +40,15 @@ msgstr "Inscrit mais authentification indisponible"
 
 #: Failed
 msgid "Failed"
-msgstr "Ã‰chec"
+msgstr "Échec"
 
 #: MasterCard SecureCode
 msgid "MasterCard SecureCode"
-msgstr "Code de sÃ©curitÃ© MasterCard"
+msgstr "Code de sécurité MasterCard"
 
 #: Merchant Liability
 msgid "Merchant Liability"
-msgstr "ResponsabilitÃ© du marchand"
+msgstr "Responsabilité du marchand"
 
 #: Not Enrolled
 msgid "Not Enrolled"
@@ -60,7 +60,7 @@ msgstr "Impossible de passer cette commande."
 
 #: Payment information error. Please start over.
 msgid "Payment information error. Please start over."
-msgstr "Informations de paiement erronÃ©es. Veuillez recommencer."
+msgstr "Informations de paiement erronées. Veuillez recommencer."
 
 #: Please continue with placing order.
 msgid "Please continue with placing order."
@@ -68,47 +68,47 @@ msgstr "Veuillez continuer et passer commande."
 
 #: Please verify the card with the issuer bank before placing the order.
 msgid "Please verify the card with the issuer bank before placing the order."
-msgstr "Veuillez vÃ©rifier la carte avec la banque Ã©mettrice avant de passer commande."
+msgstr "Veuillez vérifier la carte avec la banque émettrice avant de passer commande."
 
 #: Please verify the card with the issuer bank:
 msgid "Please verify the card with the issuer bank:"
-msgstr "Veuillez vÃ©rifier la carte avec la banque Ã©mettrice :"
+msgstr "Veuillez vérifier la carte avec la banque émettrice :"
 
 #: Start/Reset Validation...
 msgid "Start/Reset Validation..."
-msgstr "DÃ©marrer/RÃ©-initialiser la validation..."
+msgstr "Démarrer/Ré-initialiser la validation..."
 
 #: Successful
 msgid "Successful"
-msgstr "RÃ©ussi"
+msgstr "Réussi"
 
 #: Successful attempt
 msgid "Successful attempt"
-msgstr "Tentative rÃ©ussi"
+msgstr "Tentative réussi"
 
 #: The card has failed verification with the issuer bank.
 msgid "The card has failed verification with the issuer bank."
-msgstr "La vÃ©rification de la carte a Ã©chouÃ© auprÃ¨s de la banque."
+msgstr "La vérification de la carte a échoué auprès de la banque."
 
 #: There has been wrong payment information submitted or the time limit has expired. Please, try again.
 msgid "There has been wrong payment information submitted or the time limit has expired. Please, try again."
-msgstr "Des informations de paiement erronÃ©es ont Ã©tÃ© soumises ou la limite de temps a Ã©tÃ© atteinte. Veuillez rÃ©essayer."
+msgstr "Des informations de paiement erronées ont été soumises ou la limite de temps a été atteinte. Veuillez réessayer."
 
 #: There has been wrong payment information submitted or time limit has expired. Please, try again.
 msgid "There has been wrong payment information submitted or time limit has expired. Please, try again."
-msgstr "Des informations de paiement erronÃ©es ont Ã©tÃ© soumises ou la limite de temps a Ã©tÃ© atteinte. Veuillez rÃ©essayer."
+msgstr "Des informations de paiement erronées ont été soumises ou la limite de temps a été atteinte. Veuillez réessayer."
 
 #: This card has failed validation and cannot be used.
 msgid "This card has failed validation and cannot be used."
-msgstr "La validation de cette carte a Ã©chouÃ©. Elle ne peut Ãªtre utilisÃ©e."
+msgstr "La validation de cette carte a échoué. Elle ne peut être utilisée."
 
 #: This card has failed validation, but it is possible to place the order.
 msgid "This card has failed validation, but it is possible to place the order."
-msgstr "La validation de cette carte a Ã©chouÃ©, mais il est cependant possible de passer commande."
+msgstr "La validation de cette carte a échoué, mais il est cependant possible de passer commande."
 
 #: To ensure the security of your transactions
 msgid "To ensure the security of your transactions"
-msgstr "Pour garantir la sÃ©curitÃ© vos transactions"
+msgstr "Pour garantir la sécurité vos transactions"
 
 #: Unable to complete
 msgid "Unable to complete"
@@ -116,21 +116,21 @@ msgstr "Impossible de terminer"
 
 #: Validation failed.
 msgid "Validation failed."
-msgstr "Ã‰chec de la validation."
+msgstr "Échec de la validation."
 
 #: Verification Failed
 msgid "Verification Failed"
-msgstr "Ã‰chec de la vÃ©rification"
+msgstr "Échec de la vérification"
 
 #: Verification Successful
 msgid "Verification Successful"
-msgstr "VÃ©rification rÃ©ussie !"
+msgstr "Vérification réussie !"
 
 #: Verification cannot be processed
 msgid "Verification cannot be processed"
-msgstr "La vÃ©rification ne peut pas aboutir."
+msgstr "La vérification ne peut pas aboutir."
 
 #: Verified by Visa
 msgid "Verified by Visa"
-msgstr "VÃ©rifiÃ© par Visa"
+msgstr "Vérifié par Visa"
 

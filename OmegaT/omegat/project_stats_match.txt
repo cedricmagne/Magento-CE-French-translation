@@ -1,0 +1,9 @@
+18/07/12 14:49
+                       	Segments	 Mots	Caractères (sans espaces)	Caractères (avec espaces)	
+Répétitions :          	       5	   18	                       86	                       99	
+Correspondance exacte :	   10718	45299	                   241957	                   275927	
+95 % à 100 % :         	      23	   94	                      469	                      535	
+85 % à 94 % :          	      45	  305	                     1593	                     1854	
+75 % à 84 % :          	      88	  467	                     2464	                     2843	
+50 % à 74 % :          	     268	 1545	                     8217	                     9481	
+Aucune correspondance :	      49	  314	                     1621	                     1866	

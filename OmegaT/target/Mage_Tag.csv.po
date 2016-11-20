@@ -4,11 +4,11 @@ msgstr "Nombre d'utilisations"
 
 #: %s tag(s) have been accepted for moderation.
 msgid "%s tag(s) have been accepted for moderation."
-msgstr "%s tag(s) a (ont) Ã©tÃ© acceptÃ©(s) pour modÃ©ration."
+msgstr "%s tag(s) a (ont) été accepté(s) pour modération."
 
 #: <strong>Tag Name:</strong> %s
 msgid "<strong>Tag Name:</strong> %s"
-msgstr "<strong>Mot clÃ© :</strong> %s"
+msgstr "<strong>Mot clé :</strong> %s"
 
 #: Action
 msgid "Action"
@@ -16,15 +16,15 @@ msgstr "Action"
 
 #: Add New Tag
 msgid "Add New Tag"
-msgstr "Ajouter un mot clÃ©"
+msgstr "Ajouter un mot clé"
 
 #: Add Tags
 msgid "Add Tags"
-msgstr "Ajouter des mots clÃ©s"
+msgstr "Ajouter des mots clés"
 
 #: Add Your Tags:
 msgid "Add Your Tags:"
-msgstr "Ajouter vos mots clÃ©s :"
+msgstr "Ajouter vos mots clés :"
 
 #: Add to Cart
 msgid "Add to Cart"
@@ -32,27 +32,27 @@ msgstr "Ajouter au panier"
 
 #: Add to Wishlist
 msgid "Add to Wishlist"
-msgstr "Ajouter Ã  la liste d'envies"
+msgstr "Ajouter à la liste d'envies"
 
 #: All Tags
 msgid "All Tags"
-msgstr "Tous les mots clÃ©s"
+msgstr "Tous les mots clés"
 
 #: Approved
 msgid "Approved"
-msgstr "ApprouvÃ©"
+msgstr "Approuvé"
 
 #: Are you sure you want to delete this tag?
 msgid "Are you sure you want to delete this tag?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce mot clÃ© ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce mot clé ?"
 
 #: Are you sure you want to do this?
 msgid "Are you sure you want to do this?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir effectuer cette opÃ©ration ?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: Back
 msgid "Back"
@@ -60,11 +60,11 @@ msgstr "Retour"
 
 #: Back to Tags List
 msgid "Back to Tags List"
-msgstr "Retour Ã  la liste de mots clÃ©s"
+msgstr "Retour à la liste de mots clés"
 
 #: Base Popularity
 msgid "Base Popularity"
-msgstr "PopularitÃ©"
+msgstr "Popularité"
 
 #: Block Information
 msgid "Block Information"
@@ -84,7 +84,7 @@ msgstr "Changer le statut"
 
 #: Click on a tag to view your corresponding products.
 msgid "Click on a tag to view your corresponding products."
-msgstr "Cliquez sur le mot clÃ© pour voir les produits correspondants."
+msgstr "Cliquez sur le mot clé pour voir les produits correspondants."
 
 #: Country
 msgid "Country"
@@ -92,11 +92,11 @@ msgstr "Pays"
 
 #: Customer My Account My Tags List
 msgid "Customer My Account My Tags List"
-msgstr "Client - Mon compte - Ma liste de mots clÃ©s"
+msgstr "Client - Mon compte - Ma liste de mots clés"
 
 #: Customer My Account Tag View
 msgid "Customer My Account Tag View"
-msgstr "Client - Mon compte - Mots clÃ©s"
+msgstr "Client - Mon compte - Mots clés"
 
 #: Customer Since
 msgid "Customer Since"
@@ -108,11 +108,11 @@ msgstr "Clients"
 
 #: Customers Submitted this Tag
 msgid "Customers Submitted this Tag"
-msgstr "Clients ayant soumis ce mot clÃ©"
+msgstr "Clients ayant soumis ce mot clé"
 
 #: Customers Tagged '%s'
 msgid "Customers Tagged '%s'"
-msgstr "Mots clÃ©s clients '%s'"
+msgstr "Mots clés clients '%s'"
 
 #: Delete
 msgid "Delete"
@@ -120,15 +120,15 @@ msgstr "Supprimer"
 
 #: Delete Tag
 msgid "Delete Tag"
-msgstr "Supprimer mot clÃ©"
+msgstr "Supprimer mot clé"
 
 #: Disabled
 msgid "Disabled"
-msgstr "DÃ©sactivÃ©"
+msgstr "Désactivé"
 
 #: Edit Tag '%s'
 msgid "Edit Tag '%s'"
-msgstr "Ã‰diter mot clÃ© '%s'"
+msgstr "Éditer mot clé '%s'"
 
 #: Email
 msgid "Email"
@@ -136,11 +136,11 @@ msgstr "Email"
 
 #: First Name
 msgid "First Name"
-msgstr "PrÃ©nom"
+msgstr "Prénom"
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: Grid
 msgid "Grid"
@@ -160,15 +160,15 @@ msgstr "Liste"
 
 #: Manage Tags
 msgid "Manage Tags"
-msgstr "GÃ©rer les mots clÃ©s"
+msgstr "Gérer les mots clés"
 
 #: My Recent Tags
 msgid "My Recent Tags"
-msgstr "Mes mots clÃ©s rÃ©cents"
+msgstr "Mes mots clés récents"
 
 #: My Tags
 msgid "My Tags"
-msgstr "Mes mot clÃ©s"
+msgstr "Mes mot clés"
 
 #: Name
 msgid "Name"
@@ -176,15 +176,15 @@ msgstr "Nom"
 
 #: New Tag
 msgid "New Tag"
-msgstr "Nouveau mot clÃ©"
+msgstr "Nouveau mot clé"
 
 #: No matches found.
 msgid "No matches found."
-msgstr "Aucune correspondance trouvÃ©e."
+msgstr "Aucune correspondance trouvée."
 
 #: Other people marked this product with these tags:
 msgid "Other people marked this product with these tags:"
-msgstr "Autres personnes ayant marquÃ© ce produit avec ce mot clÃ© :"
+msgstr "Autres personnes ayant marqué ce produit avec ce mot clé :"
 
 #: Pending
 msgid "Pending"
@@ -192,7 +192,7 @@ msgstr "En attente"
 
 #: Pending Tags
 msgid "Pending Tags"
-msgstr "Mots clÃ©s en attente"
+msgstr "Mots clés en attente"
 
 #: Popular
 msgid "Popular"
@@ -200,7 +200,7 @@ msgstr "Populaire"
 
 #: Popular Tags
 msgid "Popular Tags"
-msgstr "Mots clÃ©s populaires"
+msgstr "Mots clés populaires"
 
 #: Price
 msgid "Price"
@@ -212,11 +212,11 @@ msgstr "Nom du produit"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "RÃ©f. Produit"
+msgstr "Réf. Produit"
 
 #: Product Tags
 msgid "Product Tags"
-msgstr "Mots clÃ©s du produit"
+msgstr "Mots clés du produit"
 
 #: Products
 msgid "Products"
@@ -224,35 +224,35 @@ msgstr "Produits"
 
 #: Products Tagged by Administrators
 msgid "Products Tagged by Administrators"
-msgstr "Mots clÃ©s de l'administrateur"
+msgstr "Mots clés de l'administrateur"
 
 #: Products Tagged by Customers
 msgid "Products Tagged by Customers"
-msgstr "Mots clÃ©s des clients"
+msgstr "Mots clés des clients"
 
 #: Products Tagged with '%s'
 msgid "Products Tagged with '%s'"
-msgstr "Produits taggÃ©s avec '%s'"
+msgstr "Produits taggés avec '%s'"
 
 #: Products tagged with '%s'
 msgid "Products tagged with '%s'"
-msgstr "Produits taggÃ©s avec '%s'"
+msgstr "Produits taggés avec '%s'"
 
 #: Rebuild Tag aggregation data
 msgid "Rebuild Tag aggregation data"
-msgstr "Reconstruire les donnÃ©es d'aggrÃ©gation de mots clÃ©s"
+msgstr "Reconstruire les données d'aggrégation de mots clés"
 
 #: SKU
 msgid "SKU"
-msgstr "RÃ©f."
+msgstr "Réf."
 
 #: Save Tag
 msgid "Save Tag"
-msgstr "Enregistrer mot clÃ©"
+msgstr "Enregistrer mot clé"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Status
 msgid "Status"
@@ -264,79 +264,79 @@ msgstr "Vue magasin"
 
 #: Tag
 msgid "Tag"
-msgstr "Mot clÃ©"
+msgstr "Mot clé"
 
 #: Tag \"%s\" has already been added to the product.
 msgid "Tag \"%s\" has already been added to the product."
-msgstr "Le mot clÃ© \"%s\" a dÃ©jÃ  Ã©tÃ© ajoutÃ© au produit."
+msgstr "Le mot clé \"%s\" a déjà été ajouté au produit."
 
 #: Tag \"%s\" has been added to the product.
 msgid "Tag \"%s\" has been added to the product."
-msgstr "Le mot clÃ© \"%s\" a bien Ã©tÃ© ajoutÃ© au produit."
+msgstr "Le mot clé \"%s\" a bien été ajouté au produit."
 
 #: Tag \"%s\" has been rejected by administrator.
 msgid "Tag \"%s\" has been rejected by administrator."
-msgstr "Le mot clÃ© \"%s\" a Ã©tÃ© rejetÃ© par l'administrateur."
+msgstr "Le mot clé \"%s\" a été rejeté par l'administrateur."
 
 #: Tag Aggregation Data
 msgid "Tag Aggregation Data"
-msgstr "DonnÃ©es d'aggrÃ©gation de mot clÃ©"
+msgstr "Données d'aggrégation de mot clé"
 
 #: Tag Name
 msgid "Tag Name"
-msgstr "Nom du mot clÃ©"
+msgstr "Nom du mot clé"
 
 #: Tagged Products List
 msgid "Tagged Products List"
-msgstr "Liste des produits ayant un mot clÃ©"
+msgstr "Liste des produits ayant un mot clé"
 
 #: Tags
 msgid "Tags"
-msgstr "Mots clÃ©s"
+msgstr "Mots clés"
 
 #: Tags List (All Available)
 msgid "Tags List (All Available)"
-msgstr "Liste des mots clÃ©s (Ceux disponibles)"
+msgstr "Liste des mots clés (Ceux disponibles)"
 
 #: Tags List Before
 msgid "Tags List Before"
-msgstr "Liste des mots-clÃ©s avant"
+msgstr "Liste des mots-clés avant"
 
 #: Tags:
 msgid "Tags:"
-msgstr "Mots clÃ©s :"
+msgstr "Mots clés :"
 
 #: Telephone
 msgid "Telephone"
-msgstr "TÃ©lÃ©phone"
+msgstr "Téléphone"
 
 #: The tag has been deleted.
 msgid "The tag has been deleted."
-msgstr "Le mot clÃ© a Ã©tÃ© effacÃ©"
+msgstr "Le mot clé a été effacé"
 
 #: There are no tags available.
 msgid "There are no tags available."
-msgstr "Aucun mot clÃ© disponible."
+msgstr "Aucun mot clé disponible."
 
 #: Unable to find any products tagged with '%s' in the current store
 msgid "Unable to find any products tagged with '%s' in the current store"
-msgstr "Aucune correspondance d'article pour le mot clÃ© : '%s'"
+msgstr "Aucune correspondance d'article pour le mot clé : '%s'"
 
 #: Unable to remove tag. Please, try again later.
 msgid "Unable to remove tag. Please, try again later."
-msgstr "Impossible de supprimer le mot clÃ©. Veuillez recommencer ultÃ¨rieurement."
+msgstr "Impossible de supprimer le mot clé. Veuillez recommencer ultèrieurement."
 
 #: Unable to save tag(s).
 msgid "Unable to save tag(s)."
-msgstr "Impossible de sauvegarder le(s) mot(s) clÃ©(s)."
+msgstr "Impossible de sauvegarder le(s) mot(s) clé(s)."
 
 #: Use spaces to separate tags. Use single quotes (') for phrases.
 msgid "Use spaces to separate tags. Use single quotes (') for phrases."
-msgstr "Utilisez un espace pour sÃ©parer les mots clÃ©s. Utilisez l'apostrophe (') pour rÃ©diger une phrase."
+msgstr "Utilisez un espace pour séparer les mots clés. Utilisez l'apostrophe (') pour rédiger une phrase."
 
 #: View All Tags
 msgid "View All Tags"
-msgstr "Voir tous les mots clÃ©s"
+msgstr "Voir tous les mots clés"
 
 #: View Customers
 msgid "View Customers"
@@ -352,7 +352,7 @@ msgstr "XML"
 
 #: You have not tagged any products yet.
 msgid "You have not tagged any products yet."
-msgstr "Vous n'avez taggÃ© aucun produit pour le moment."
+msgstr "Vous n'avez taggé aucun produit pour le moment."
 
 #: ZIP/Post Code
 msgid "ZIP/Post Code"
@@ -428,7 +428,7 @@ msgstr ""
 
 #: Update
 msgid "Update"
-msgstr "Mettre Ã  jour"
+msgstr "Mettre à jour"
 
 #: Update product tag
 msgid "Update product tag"

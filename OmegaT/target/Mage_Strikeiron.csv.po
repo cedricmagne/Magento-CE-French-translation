@@ -1,6 +1,6 @@
 #: %s is not a supported currency.
 msgid "%s is not a supported currency."
-msgstr "%s n'est pas une devise supportÃ©e."
+msgstr "%s n'est pas une devise supportée."
 
 #: Accept
 msgid "Accept"
@@ -12,23 +12,23 @@ msgstr "Basique"
 
 #: Cannot retrieve rate from %s to %s.
 msgid "Cannot retrieve rate from %s to %s."
-msgstr "Impossible de rÃ©cupÃ©rer le taux de %s vers %s."
+msgstr "Impossible de récupérer le taux de %s vers %s."
 
 #: Cannot retrieve rate from Strikeiron.
 msgid "Cannot retrieve rate from Strikeiron."
-msgstr "Impossible de rÃ©cupÃ©rer le taux sur Strikeiron."
+msgstr "Impossible de récupérer le taux sur Strikeiron."
 
 #: Check All Email Servers
 msgid "Check All Email Servers"
-msgstr "VÃ©rifiez tous les serveurs email"
+msgstr "Vérifiez tous les serveurs email"
 
 #: Complete
 msgid "Complete"
-msgstr "TerminÃ©e"
+msgstr "Terminée"
 
 #: Country/Region/Postal Code Combination
 msgid "Country/Region/Postal Code Combination"
-msgstr "Combinaison de pays / rÃ©gion / code postal"
+msgstr "Combinaison de pays / région / code postal"
 
 #: Customer Tax Class
 msgid "Customer Tax Class"
@@ -36,11 +36,11 @@ msgstr "Classe de taxe client"
 
 #: Email Verification
 msgid "Email Verification"
-msgstr "VÃ©rification d'email"
+msgstr "Vérification d'email"
 
 #: Enable Email Verification
 msgid "Enable Email Verification"
-msgstr "Activer la vÃ©rification d'email"
+msgstr "Activer la vérification d'email"
 
 #: Enable Foreign Exchange Rate
 msgid "Enable Foreign Exchange Rate"
@@ -48,7 +48,7 @@ msgstr "Activer le taux de change"
 
 #: Enable Global Address Verification
 msgid "Enable Global Address Verification"
-msgstr "Activer la vÃ©rification d'adresse globale"
+msgstr "Activer la vérification d'adresse globale"
 
 #: Enable Sales and Use Tax
 msgid "Enable Sales and Use Tax"
@@ -56,7 +56,7 @@ msgstr "Activer la taxe de ventes et d'utilisation"
 
 #: Enable US Address Verification
 msgid "Enable US Address Verification"
-msgstr "Activer la vÃ©rification d'adresse US"
+msgstr "Activer la vérification d'adresse US"
 
 #: Error Address Action
 msgid "Error Address Action"
@@ -68,7 +68,7 @@ msgstr "Destinataire du mail d'erreur"
 
 #: Error Email Sender
 msgid "Error Email Sender"
-msgstr "ExpÃ©diteur du mail d'erreur"
+msgstr "Expéditeur du mail d'erreur"
 
 #: Error Email Template
 msgid "Error Email Template"
@@ -80,11 +80,11 @@ msgstr "Taux de change"
 
 #: Global Address Verification
 msgid "Global Address Verification"
-msgstr "VÃ©rification d'adresse globale"
+msgstr "Vérification d'adresse globale"
 
 #: If type is complete and zip code belongs to multiple tax rates, choose to charge minimum tax rate or maximum tax rate.
 msgid "If type is complete and zip code belongs to multiple tax rates, choose to charge minimum tax rate or maximum tax rate."
-msgstr "Si le type est complet et que le code postal correspond Ã  plusieurs taux de TVA, choisir d'appliquer le taux mini ou le taux maxi."
+msgstr "Si le type est complet et que le code postal correspond à plusieurs taux de TVA, choisir d'appliquer le taux mini ou le taux maxi."
 
 #: Invalid email address.
 msgid "Invalid email address."
@@ -136,7 +136,7 @@ msgstr "Section Strikeiron"
 
 #: Strikeiron foreign exchange rate is disabled.
 msgid "Strikeiron foreign exchange rate is disabled."
-msgstr "Le taux de change Strikeiron est dÃ©sactivÃ©."
+msgstr "Le taux de change Strikeiron est désactivé."
 
 #: Tax
 msgid "Tax"
@@ -144,31 +144,31 @@ msgstr "TVA & autres taxes"
 
 #: The email address cannot be verified. Please check again and make sure your email address is entered correctly.
 msgid "The email address cannot be verified. Please check again and make sure your email address is entered correctly."
-msgstr "L'adresse email ne peut pas Ãªtre contrÃ´lÃ©e. VÃ©rifiez que vous l'avez saisie correctement."
+msgstr "L'adresse email ne peut pas être contrôlée. Vérifiez que vous l'avez saisie correctement."
 
 #: There are no more hits remaining for the foreign Exchange Rate Service.
 msgid "There are no more hits remaining for the foreign Exchange Rate Service."
-msgstr "Il ne reste plus de crÃ©dit pour le service de taux de change."
+msgstr "Il ne reste plus de crédit pour le service de taux de change."
 
 #: There is an error in retrieving the tax rate. Please contact us.
 msgid "There is an error in retrieving the tax rate. Please contact us."
-msgstr "Une erreur est survenue lors de la rÃ©cupÃ©ration du taux de TVA. Merci de nous contacter."
+msgstr "Une erreur est survenue lors de la récupération du taux de TVA. Merci de nous contacter."
 
 #: There is an error in verifying an email. Please contact us.
 msgid "There is an error in verifying an email. Please contact us."
-msgstr "Une erreur est survenue lors de la vÃ©rification d'email. Merci de nous contacter."
+msgstr "Une erreur est survenue lors de la vérification d'email. Merci de nous contacter."
 
 #: There is no response back from Strikeiron server.
 msgid "There is no response back from Strikeiron server."
-msgstr "Aucune rÃ©ponse du serveur Strikeiron."
+msgstr "Aucune réponse du serveur Strikeiron."
 
 #: US Address Verification
 msgid "US Address Verification"
-msgstr "VÃ©rification d'adresse US"
+msgstr "Vérification d'adresse US"
 
 #: Undetermined Email Action
 msgid "Undetermined Email Action"
-msgstr "Action d'email indÃ©terminÃ©"
+msgstr "Action d'email indéterminé"
 
 #: Use
 msgid "Use"
@@ -180,9 +180,9 @@ msgstr "ID utilisateur"
 
 #: Verify Address in Admin
 msgid "Verify Address in Admin"
-msgstr "VÃ©rifier l'adresse dans l'admin"
+msgstr "Vérifier l'adresse dans l'admin"
 
 #: Verify Email in Admin
 msgid "Verify Email in Admin"
-msgstr "VÃ©rifier l'email dans l'admin"
+msgstr "Vérifier l'email dans l'admin"
 

@@ -1,6 +1,6 @@
 #: Cron (Scheduled Tasks) - all the times are in minutes
 msgid "Cron (Scheduled Tasks) - all the times are in minutes"
-msgstr "Cron (T√¢ches programm√©es) - tous les temps sont en minutes"
+msgstr "Cron (T‚ches programmÈes) - tous les temps sont en minutes"
 
 #: Daily
 msgid "Daily"
@@ -8,15 +8,15 @@ msgstr "Quotidien"
 
 #: Failure History Lifetime
 msgid "Failure History Lifetime"
-msgstr "Dur√©e de vie de l'historique des √©checs"
+msgstr "DurÈe de vie de l'historique des Èchecs"
 
 #: For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.
 msgid "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set."
-msgstr "Afin que les URLs soient g√©n√©r√©es correctement lors de l'ex√©cution de cron, assurez-vous que les URL non s√©curis√©e et s√©curis√©e sont correctement renseign√©es."
+msgstr "Afin que les URLs soient gÈnÈrÈes correctement lors de l'exÈcution de cron, assurez-vous que les URL non sÈcurisÈe et sÈcurisÈe sont correctement renseignÈes."
 
 #: Generate Schedules Every
 msgid "Generate Schedules Every"
-msgstr "G√©n√©rer les t√¢ches programm√©es toutes les"
+msgstr "GÈnÈrer les t‚ches programmÈes toutes les"
 
 #: History Cleanup Every
 msgid "History Cleanup Every"
@@ -28,11 +28,11 @@ msgstr "Appel non valide : %s::%s n'existe pas"
 
 #: Invalid model/method definition, expecting \"model/class::method\".
 msgid "Invalid model/method definition, expecting \"model/class::method\"."
-msgstr "D√©finition de mod√®le/m√©thode non valide, \"model/class::method\" attendu."
+msgstr "DÈfinition de modËle/mÈthode non valide, \"model/class::method\" attendu."
 
 #: Missed if Not Run Within
 msgid "Missed if Not Run Within"
-msgstr "Manqu√© si non ex√©cut√© dans les"
+msgstr "ManquÈ si non exÈcutÈ dans les"
 
 #: Monthly
 msgid "Monthly"
@@ -40,7 +40,7 @@ msgstr "Mensuel"
 
 #: No callbacks found
 msgid "No callbacks found"
-msgstr "Aucun appel trouv√©"
+msgstr "Aucun appel trouvÈ"
 
 #: Schedule Ahead for
 msgid "Schedule Ahead for"
@@ -48,7 +48,7 @@ msgstr "Programmer en avance de"
 
 #: Success History Lifetime
 msgid "Success History Lifetime"
-msgstr "Dur√©e de vie de l'historique des succ√®s"
+msgstr "DurÈe de vie de l'historique des succËs"
 
 #: Too late for the schedule.
 msgid "Too late for the schedule."

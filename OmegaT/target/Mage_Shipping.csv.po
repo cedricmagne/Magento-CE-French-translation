@@ -4,7 +4,7 @@ msgstr " pour plus d'information ou "
 
 #: # of Items (and above)
 msgid "# of Items (and above)"
-msgstr "Nombre d'articles (et au-delÃ )"
+msgstr "Nombre d'articles (et au-delà)"
 
 #: # of Items vs. Destination
 msgid "# of Items vs. Destination"
@@ -12,7 +12,7 @@ msgstr "Nombre d'articles par destination"
 
 #: Allow Shipping to Multiple Addresses
 msgid "Allow Shipping to Multiple Addresses"
-msgstr "Autoriser la livraison Ã  plusieurs adresses"
+msgstr "Autoriser la livraison à plusieurs adresses"
 
 #: An error occurred while import table rates.
 msgid "An error occurred while import table rates."
@@ -32,7 +32,7 @@ msgstr "Ville"
 
 #: Close Window
 msgid "Close Window"
-msgstr "Fermer la fenÃªtre"
+msgstr "Fermer la fenêtre"
 
 #: Condition
 msgid "Condition"
@@ -48,11 +48,11 @@ msgstr "Date"
 
 #: Delivered on:
 msgid "Delivered on:"
-msgstr "LivrÃ© le :"
+msgstr "Livré le :"
 
 #: Delivered to:
 msgid "Delivered to:"
-msgstr "LivrÃ© Ã  :"
+msgstr "Livré à :"
 
 #: Description
 msgid "Description"
@@ -60,11 +60,11 @@ msgstr "Description"
 
 #: Displayed Error Message
 msgid "Displayed Error Message"
-msgstr "Message d'erreur affichÃ©"
+msgstr "Message d'erreur affiché"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Error:
 msgid "Error:"
@@ -76,7 +76,7 @@ msgstr "Exporter"
 
 #: Fixed
 msgid "Fixed"
-msgstr "FixÃ©"
+msgstr "Fixé"
 
 #: Flat Rate
 msgid "Flat Rate"
@@ -128,11 +128,11 @@ msgstr "Lieu"
 
 #: Maximum Qty Allowed for Shipping to Multiple Addresses
 msgid "Maximum Qty Allowed for Shipping to Multiple Addresses"
-msgstr "QtÃ© maxi autorisÃ©e pour la livraison Ã  plusieurs adresses"
+msgstr "Qté maxi autorisée pour la livraison à plusieurs adresses"
 
 #: Method Name
 msgid "Method Name"
-msgstr "Nom de mÃ©thode"
+msgstr "Nom de méthode"
 
 #: Minimum Order Amount
 msgid "Minimum Order Amount"
@@ -140,7 +140,7 @@ msgstr "Montant de commande minimum"
 
 #: N/A
 msgid "N/A"
-msgstr "N/A"
+msgstr "N/A "
 
 #: None
 msgid "None"
@@ -152,7 +152,7 @@ msgstr "Options"
 
 #: Order Subtotal (and above)
 msgid "Order Subtotal (and above)"
-msgstr "Sous-total de la commande (et au-delÃ )"
+msgstr "Sous-total de la commande (et au-delà)"
 
 #: Origin
 msgid "Origin"
@@ -180,7 +180,7 @@ msgstr "Prix par destination"
 
 #: Region/State
 msgid "Region/State"
-msgstr "RÃ©gion/Ã‰tat"
+msgstr "Région/État"
 
 #: Service Type:
 msgid "Service Type:"
@@ -192,11 +192,11 @@ msgstr "Livrer aux pays applicables"
 
 #: Ship to Specific Countries
 msgid "Ship to Specific Countries"
-msgstr "Livrer aux pays spÃ©cifiques"
+msgstr "Livrer aux pays spécifiques"
 
 #: Shipment #
 msgid "Shipment #"
-msgstr "ExpÃ©dition nÂ°"
+msgstr "Expédition n°"
 
 #: Shipment Tracking Popup
 msgid "Shipment Tracking Popup"
@@ -204,7 +204,7 @@ msgstr "Popup de suivi de livraison"
 
 #: Shipped or billed on:
 msgid "Shipped or billed on:"
-msgstr "LivrÃ© ou facturÃ© le :"
+msgstr "Livré ou facturé le :"
 
 #: Shipping Methods
 msgid "Shipping Methods"
@@ -216,11 +216,11 @@ msgstr "Section des modes de livraison"
 
 #: Shipping Settings
 msgid "Shipping Settings"
-msgstr "ParamÃ¨tres de livraison"
+msgstr "Paramètres de livraison"
 
 #: Shipping Settings Section
 msgid "Shipping Settings Section"
-msgstr "Section des paramÃ¨tres de livraison"
+msgstr "Section des paramètres de livraison"
 
 #: Show Method if Not Applicable
 msgid "Show Method if Not Applicable"
@@ -228,7 +228,7 @@ msgstr "Afficher le mode s'il n'est pas applicable"
 
 #: Signed by:
 msgid "Signed by:"
-msgstr "SignÃ© par :"
+msgstr "Signé par :"
 
 #: Sort Order
 msgid "Sort Order"
@@ -264,11 +264,11 @@ msgstr "Aucun suivi disponible."
 
 #: This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.
 msgid "This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us."
-msgstr "Ce mode de livraison est actuellement indisponible. Si vous souhaitez Ãªtre livrÃ© par ce mode, veuillez nous contacter."
+msgstr "Ce mode de livraison est actuellement indisponible. Si vous souhaitez être livré par ce mode, veuillez nous contacter."
 
 #: This shipping method is not available, please specify ZIP-code
 msgid "This shipping method is not available, please specify ZIP-code"
-msgstr "Le mode de livraison n'est pas disponible, prÃ©cisez le code postal."
+msgstr "Le mode de livraison n'est pas disponible, précisez le code postal."
 
 #: Title
 msgid "Title"
@@ -284,7 +284,7 @@ msgstr "Informations de suivi"
 
 #: Tracking Number:
 msgid "Tracking Number:"
-msgstr "NumÃ©ro de suivi :"
+msgstr "Numéro de suivi :"
 
 #: Tracking information is currently not available. Please
 msgid "Tracking information is currently not available. Please "
@@ -300,7 +300,7 @@ msgstr "Type"
 
 #: Weight (and above)
 msgid "Weight (and above)"
-msgstr "Poids (et au-delÃ )"
+msgstr "Poids (et au-delà)"
 
 #: Weight vs. Destination
 msgid "Weight vs. Destination"
@@ -320,7 +320,7 @@ msgstr "nous contacter"
 
 #: email us at
 msgid "email us at "
-msgstr "nous envoyer un email Ã   "
+msgstr "nous envoyer un email à  "
 
 #: for more information or
 msgid "for more information or"
@@ -332,7 +332,7 @@ msgstr "Les informations de suivi ne sont pas disponibles pour le moment. Vous p
 
 #: email us at
 msgid "email us at"
-msgstr "nous envoyer un email Ã  "
+msgstr "nous envoyer un email à "
 
 #: Street Address
 msgid "Street Address"
@@ -344,7 +344,7 @@ msgstr "Adresse - ligne 2"
 
 #: Divide to equal weight (one request)
 msgid "Divide to equal weight (one request)"
-msgstr ""
+msgstr "Divide to equal weight (one request)"
 
 #: Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\").
 msgid "Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\")."

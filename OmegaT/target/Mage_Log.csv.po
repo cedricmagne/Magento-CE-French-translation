@@ -8,7 +8,7 @@ msgstr "Destinataire du mail d'erreur"
 
 #: Error Email Sender
 msgid "Error Email Sender"
-msgstr "ExpÃ©diteur du mail d'erreur"
+msgstr "Expéditeur du mail d'erreur"
 
 #: Error Email Template
 msgid "Error Email Template"
@@ -16,7 +16,7 @@ msgstr "Gabarit du mail d'erreur"
 
 #: Frequency
 msgid "Frequency"
-msgstr "FrÃ©quence"
+msgstr "Fréquence"
 
 #: Log Cleaning
 msgid "Log Cleaning"
@@ -32,5 +32,5 @@ msgstr "Nombre de jours de sauvegarde des logs"
 
 #: Start Time
 msgid "Start Time"
-msgstr "Heure de dÃ©but"
+msgstr "Heure de début"
 

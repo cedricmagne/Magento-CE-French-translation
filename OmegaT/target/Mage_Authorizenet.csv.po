@@ -8,7 +8,7 @@ msgstr "ID de connexion de l'API"
 
 #: Accepted Currency
 msgid "Accepted Currency"
-msgstr "Devise acceptÃ©e"
+msgstr "Devise acceptée"
 
 #: Authorize.net Direct Post
 msgid "Authorize.net Direct Post"
@@ -16,11 +16,11 @@ msgstr "Soumission directe Authorize.net"
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: Card Verification Number Visual Reference
 msgid "Card Verification Number Visual Reference"
-msgstr "RÃ©fÃ©rence visuelle numÃ©rique de vÃ©rification de carte"
+msgstr "Référence visuelle numérique de vérification de carte"
 
 #: Close
 msgid "Close"
@@ -32,11 +32,11 @@ msgstr "Information de carte bancaire"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit Card Types
 msgid "Credit Card Types"
@@ -44,11 +44,11 @@ msgstr "Types de cartes de paiement"
 
 #: Credit Card Verification
 msgid "Credit Card Verification"
-msgstr "VÃ©rification de carte de paiement"
+msgstr "Vérification de carte de paiement"
 
 #: Debug
 msgid "Debug"
-msgstr "DÃ©boguage"
+msgstr "Déboguage"
 
 #: Email Customer
 msgid "Email Customer"
@@ -56,7 +56,7 @@ msgstr "Envoyer un email au client"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Expiration Date
 msgid "Expiration Date"
@@ -72,11 +72,11 @@ msgstr "Montant maxi de commande"
 
 #: Merchant MD5
 msgid "Merchant MD5"
-msgstr "MD5 du commerÃ§ant"
+msgstr "MD5 du commerçant"
 
 #: Merchant's Email
 msgid "Merchant's Email"
-msgstr "Email du commerÃ§ant"
+msgstr "Email du commerçant"
 
 #: Minimum Order Total
 msgid "Minimum Order Total"
@@ -104,19 +104,19 @@ msgstr "Erreur lors de l'autorisation du paiement. L'id de transaction est vide.
 
 #: Payment error. Order was not found.
 msgid "Payment error. Order was not found."
-msgstr "Erreur de paiement. La commande n'a pas Ã©tÃ© trouvÃ©e."
+msgstr "Erreur de paiement. La commande n'a pas été trouvée."
 
 #: Payment error. Paid amount doesn't match the order amount.
 msgid "Payment error. Paid amount doesn't match the order amount."
-msgstr "Erreur de paiement. Le montant payÃ© ne correspond pas au montant de la commande."
+msgstr "Erreur de paiement. Le montant payé ne correspond pas au montant de la commande."
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr "Mode de paiement autorisÃ© pour"
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr "Mode de paiement autorisÃ© pour les pays spÃ©cifiques"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Please, choose payment method
 msgid "Please, choose payment method"
@@ -124,7 +124,7 @@ msgstr "Choisissez un moyen de paiement"
 
 #: Response hash validation failed. Transaction declined.
 msgid "Response hash validation failed. Transaction declined."
-msgstr "La validation du hash de la rÃ©ponse a Ã©chouÃ©. Transaction refusÃ©e."
+msgstr "La validation du hash de la réponse a échoué. Transaction refusée."
 
 #: Sort Order
 msgid "Sort Order"
@@ -136,11 +136,11 @@ msgstr "Mode test"
 
 #: The order has been created.
 msgid "The order has been created."
-msgstr "La commande a Ã©tÃ© crÃ©Ã©."
+msgstr "La commande a été créé."
 
 #: There was an error processing your order. Please contact us or try again later.
 msgid "There was an error processing your order. Please contact us or try again later."
-msgstr "Erreur lors du traitement de votre commande, veuillez rÃ©essayer plus tard."
+msgstr "Erreur lors du traitement de votre commande, veuillez réessayer plus tard."
 
 #: Title
 msgid "Title"
@@ -148,7 +148,7 @@ msgstr "Titre"
 
 #: Transaction Key
 msgid "Transaction Key"
-msgstr "ClÃ© de la transaction"
+msgstr "Clé de la transaction"
 
 #: What is this?
 msgid "What is this?"

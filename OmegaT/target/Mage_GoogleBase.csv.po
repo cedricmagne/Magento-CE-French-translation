@@ -24,11 +24,11 @@ msgstr "Ajouter un attribut"
 
 #: Add to Google Base
 msgid "Add to Google Base"
-msgstr "Ajouter Ã  Google Base"
+msgstr "Ajouter à Google Base"
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: Attribute
 msgid "Attribute"
@@ -68,7 +68,7 @@ msgstr "Livre sterling"
 
 #: Cannot update Google Base Item for Store '%s'
 msgid "Cannot update Google Base Item for Store '%s'"
-msgstr "Impossible de mettre Ã  jour l'article Google Base pour le magasin '%s'"
+msgstr "Impossible de mettre à jour l'article Google Base pour le magasin '%s'"
 
 #: Captcha confirmation error: %s
 msgid "Captcha confirmation error: %s"
@@ -76,7 +76,7 @@ msgstr "Erreur de confirmation de captcha : %s"
 
 #: Captcha has been confirmed.
 msgid "Captcha has been confirmed."
-msgstr "Le captcha a Ã©tÃ© confirmÃ©."
+msgstr "Le captcha a été confirmé."
 
 #: Catalog
 msgid "Catalog"
@@ -96,11 +96,11 @@ msgstr "Confirmer"
 
 #: Current Mapping will be reloaded. Continue?
 msgid "Current Mapping will be reloaded. Continue?"
-msgstr "Le mapping en cours sera rechargÃ©. Souhaitez-vous continuer ?"
+msgstr "Le mapping en cours sera rechargé. Souhaitez-vous continuer ?"
 
 #: Custom attribute, no mapping
 msgid "Custom attribute, no mapping"
-msgstr "Attribut personnalisÃ©, pas de mapping"
+msgstr "Attribut personnalisé, pas de mapping"
 
 #: Delete
 msgid "Delete"
@@ -112,11 +112,11 @@ msgstr "Effacer le mapping"
 
 #: Edit Item Type
 msgid "Edit Item Type"
-msgstr "Ã‰diter le type d'article"
+msgstr "Éditer le type d'article"
 
 #: Edit Item Type \"%s\"
 msgid "Edit Item Type \"%s\""
-msgstr "Ã‰diter le type d'article \"%s\""
+msgstr "Éditer le type d'article \"%s\""
 
 #: Error: %s
 msgid "Error: %s"
@@ -172,11 +172,11 @@ msgstr "Masquer"
 
 #: Hosted
 msgid "Hosted"
-msgstr "HÃ©bergÃ©"
+msgstr "Hébergé"
 
 #: Hosted or Google
 msgid "Hosted or Google"
-msgstr "HÃ©bergÃ© ou Google"
+msgstr "Hébergé ou Google"
 
 #: Impr.
 msgid "Impr."
@@ -184,11 +184,11 @@ msgstr "Impr."
 
 #: Invalid Product Model for Google Base Item
 msgid "Invalid Product Model for Google Base Item"
-msgstr "ModÃ¨le de produit invalide pour un article Google Base"
+msgstr "Modèle de produit invalide pour un article Google Base"
 
 #: Item Type was deleted
 msgid "Item Type was deleted"
-msgstr "Le type d'article a Ã©tÃ© effacÃ©"
+msgstr "Le type d'article a été effacé"
 
 #: Item Types
 msgid "Item Types"
@@ -196,7 +196,7 @@ msgstr "Types d'article"
 
 #: Item model is not specified to delete Google Base entry.
 msgid "Item model is not specified to delete Google Base entry."
-msgstr "Le modÃ¨le d'article n'est pas spÃ©cifiÃ© pour effacer l'entrÃ©e Google Base"
+msgstr "Le modèle d'article n'est pas spécifié pour effacer l'entrée Google Base"
 
 #: Items
 msgid "Items"
@@ -204,15 +204,15 @@ msgstr "Articles"
 
 #: Manage Attribute Mapping
 msgid "Manage Attribute Mapping"
-msgstr "GÃ©rer le mapping d'attributs"
+msgstr "Gérer le mapping d'attributs"
 
 #: Manage Attributes
 msgid "Manage Attributes"
-msgstr "GÃ©rer les attributs"
+msgstr "Gérer les attributs"
 
 #: Manage Items
 msgid "Manage Items"
-msgstr "GÃ©rer les articles"
+msgstr "Gérer les articles"
 
 #: New Item Type
 msgid "New Item Type"
@@ -228,23 +228,23 @@ msgstr "Non"
 
 #: No items were deleted from Google Base
 msgid "No items were deleted from Google Base"
-msgstr "Aucun article n'a Ã©tÃ© effacÃ© de Google Base"
+msgstr "Aucun article n'a été effacé de Google Base"
 
 #: No items were published
 msgid "No items were published"
-msgstr "Aucun article n'a Ã©tÃ© publiÃ©"
+msgstr "Aucun article n'a été publié"
 
 #: No items were saved as inactive items
 msgid "No items were saved as inactive items"
-msgstr "Aucun article n'a Ã©tÃ© sauvegardÃ© en tant qu'article inactif"
+msgstr "Aucun article n'a été sauvegardé en tant qu'article inactif"
 
 #: No products were added to Google Base
 msgid "No products were added to Google Base"
-msgstr "Aucun produit n'a Ã©tÃ© ajoutÃ© Ã  Google Base"
+msgstr "Aucun produit n'a été ajouté à Google Base"
 
 #: Object model is not specified to save Google Base entry.
 msgid "Object model is not specified to save Google Base entry."
-msgstr "Le modÃ¨le objet n'est pas spÃ©cifiÃ© pour sauvegarder l'entrÃ©e Google Base."
+msgstr "Le modèle objet n'est pas spécifié pour sauvegarder l'entrée Google Base."
 
 #: Page views
 msgid "Page views"
@@ -252,7 +252,7 @@ msgstr "Vues de page"
 
 #: Please, select Attribute Set and Google Item Type to load attributes
 msgid "Please, select Attribute Set and Google Item Type to load attributes"
-msgstr "Veuillez sÃ©lectionner un jeu d'attributs et un type d'article Google pour charger les attributs"
+msgstr "Veuillez sélectionner un jeu d'attributs et un type d'article Google pour charger les attributs"
 
 #: Product Name
 msgid "Product Name"
@@ -264,7 +264,7 @@ msgstr "Publier"
 
 #: Published
 msgid "Published"
-msgstr "PubliÃ©"
+msgstr "Publié"
 
 #: Remove
 msgid "Remove"
@@ -276,7 +276,7 @@ msgstr "Sauvegarder le mapping"
 
 #: Session expired during export. Please revise exported products and repeat the process if necessary.
 msgid "Session expired during export. Please revise exported products and repeat the process if necessary."
-msgstr "La session a expirÃ© durant l'export. VÃ©rifiez les produits exportÃ©s et relancez le process si nÃ©cessaire."
+msgstr "La session a expiré durant l'export. Vérifiez les produits exportés et relancez le process si nécessaire."
 
 #: Synchronize
 msgid "Synchronize"
@@ -288,31 +288,31 @@ msgstr "Pays cible"
 
 #: The item type has been saved.
 msgid "The item type has been saved."
-msgstr "Le type d'article a Ã©tÃ© sauvegardÃ©."
+msgstr "Le type d'article a été sauvegardé."
 
 #: This action will update items statistics and remove the items which are not available in Google Base. Continue?
 msgid "This action will update items statistics and remove the items which are not available in Google Base. Continue?"
-msgstr "Cette action mettra Ã  jour les statistiques des articles et effacera les articles qui ne sont pas disponibles dans Google Base. Souhaitez-vous continuer ?"
+msgstr "Cette action mettra à jour les statistiques des articles et effacera les articles qui ne sont pas disponibles dans Google Base. Souhaitez-vous continuer ?"
 
 #: Total of %d items(s) have been deleted; total of %d items(s) have been updated.
 msgid "Total of %d items(s) have been deleted; total of %d items(s) have been updated."
-msgstr "Un total de %d article(s) a Ã©tÃ© effacÃ©. Un total de %d article(s) a Ã©tÃ© mis Ã  jour."
+msgstr "Un total de %d article(s) a été effacé. Un total de %d article(s) a été mis à jour."
 
 #: Total of %d items(s) have been published.
 msgid "Total of %d items(s) have been published."
-msgstr "Un total de %d article(s) a Ã©tÃ© publiÃ©."
+msgstr "Un total de %d article(s) a été publié."
 
 #: Total of %d items(s) have been removed from Google Base.
 msgid "Total of %d items(s) have been removed from Google Base."
-msgstr "Un total de %d article(s) a Ã©tÃ© supprimÃ© de Google Base."
+msgstr "Un total de %d article(s) a été supprimé de Google Base."
 
 #: Total of %d items(s) have been saved as inactive items.
 msgid "Total of %d items(s) have been saved as inactive items."
-msgstr "Un total de %d article(s) a Ã©tÃ© sauvegardÃ© en tant qu'articles inactifs."
+msgstr "Un total de %d article(s) a été sauvegardé en tant qu'articles inactifs."
 
 #: Total of %d product(s) have been added to Google Base.
 msgid "Total of %d product(s) have been added to Google Base."
-msgstr "Un total de %d article(s) a Ã©tÃ© ajoutÃ© Ã  Google Base."
+msgstr "Un total de %d article(s) a été ajouté à Google Base."
 
 #: US Dollar
 msgid "US Dollar"
@@ -320,11 +320,11 @@ msgstr "Dollar US"
 
 #: Unable to connect to Google Base. Please, check Account settings in configuration.
 msgid "Unable to connect to Google Base. Please, check Account settings in configuration."
-msgstr "Impossible de se connecter Ã  Google Base. Veuillez vÃ©rifier votre configuration."
+msgstr "Impossible de se connecter à Google Base. Veuillez vérifier votre configuration."
 
 #: Unable to select a Store View.
 msgid "Unable to select a Store View."
-msgstr "Impossible de sÃ©lectionner une vue magasin."
+msgstr "Impossible de sélectionner une vue magasin."
 
 #: United Kingdom
 msgid "United Kingdom"
@@ -332,11 +332,11 @@ msgstr "Royaume Uni"
 
 #: United States
 msgid "United States"
-msgstr "Ã‰tats-Unis"
+msgstr "États-Unis"
 
 #: Update Google Base Item when Product is Updated
 msgid "Update Google Base Item when Product is Updated"
-msgstr "Mettre Ã  jour Google Base quand le produit est mis Ã  jour."
+msgstr "Mettre à jour Google Base quand le produit est mis à jour."
 
 #: View Available Products
 msgid "View Available Products"
@@ -352,5 +352,5 @@ msgstr "Oui"
 
 #: Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.
 msgid "Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base."
-msgstr "La devise de base devrait Ãªtre %s pour %s dans la configuration systÃ¨me. Sinon les prix ne seront pas corrects dans Google Base."
+msgstr "La devise de base devrait être %s pour %s dans la configuration système. Sinon les prix ne seront pas corrects dans Google Base."
 

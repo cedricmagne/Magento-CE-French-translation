@@ -8,27 +8,27 @@ msgstr "%s Commentaire(s)"
 
 #: (Posted on %s)
 msgid "(Posted on %s)"
-msgstr "(PostÃ© le %s)"
+msgstr "(Posté le %s)"
 
 #: 1 star
 msgid "1 star"
-msgstr "1 Ã©toile"
+msgstr "1 étoile"
 
 #: 2 stars
 msgid "2 stars"
-msgstr "2 Ã©toiles"
+msgstr "2 étoiles"
 
 #: 3 stars
 msgid "3 stars"
-msgstr "3 Ã©toiles"
+msgstr "3 étoiles"
 
 #: 4 stars
 msgid "4 stars"
-msgstr "4 Ã©toiles"
+msgstr "4 étoiles"
 
 #: 5 stars
 msgid "5 stars"
-msgstr "5 Ã©toiles"
+msgstr "5 étoiles"
 
 #: Add New Review
 msgid "Add New Review"
@@ -52,15 +52,15 @@ msgstr "Tous les commentaires du client '%s'"
 
 #: Allow Guests to Write Reviews
 msgid "Allow Guests to Write Reviews"
-msgstr "Autoriser les invitÃ©s Ã  Ã©crire des commentaires"
+msgstr "Autoriser les invités à écrire des commentaires"
 
 #: Are you sure you want to do this?
 msgid "Are you sure you want to do this?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir effectuer cette opÃ©ration ?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
 
 #: Are you sure?
 msgid "Are you sure?"
-msgstr "ÃŠtes-vous sÃ»r(e) ?"
+msgstr "Êtes-vous sûr(e) ?"
 
 #: Average Customer Rating
 msgid "Average Customer Rating"
@@ -76,11 +76,11 @@ msgstr "Retour"
 
 #: Back to Main Product Info
 msgid "Back to Main Product Info"
-msgstr "Retour Ã  la fiche du produit"
+msgstr "Retour à la fiche du produit"
 
 #: Back to My Reviews
 msgid "Back to My Reviews"
-msgstr "Retour Ã  mes commentaires"
+msgstr "Retour à mes commentaires"
 
 #: Back to Product Reviews
 msgid "Back to Product Reviews"
@@ -88,7 +88,7 @@ msgstr "Retour aux commentaires"
 
 #: Be the first to review this product
 msgid "Be the first to review this product"
-msgstr "Soyez le premier Ã  commenter ce produit"
+msgstr "Soyez le premier à commenter ce produit"
 
 #: Catalog Product Review View
 msgid "Catalog Product Review View"
@@ -100,7 +100,7 @@ msgstr "Liste des commentaires de produits"
 
 #: Created On
 msgid "Created On"
-msgstr "CrÃ©Ã© le"
+msgstr "Créé le"
 
 #: Customer
 msgid "Customer"
@@ -112,7 +112,7 @@ msgstr "Commentaires de produit dans le compte client"
 
 #: Customer My Account Review Details
 msgid "Customer My Account Review Details"
-msgstr "DÃ©tails des commentaires dans le compte client"
+msgstr "Détails des commentaires dans le compte client"
 
 #: Customer Reviews
 msgid "Customer Reviews"
@@ -128,19 +128,19 @@ msgstr "Supprimer le commentaire"
 
 #: Detailed Rating
 msgid "Detailed Rating"
-msgstr "Notation dÃ©taillÃ©e"
+msgstr "Notation détaillée"
 
 #: Edit Review '%s'
 msgid "Edit Review '%s'"
-msgstr "Ã‰diter le commentaire '%s'"
+msgstr "Éditer le commentaire '%s'"
 
 #: Guest
 msgid "Guest"
-msgstr "InvitÃ©"
+msgstr "Invité"
 
 #: How do you rate this product?
 msgid "How do you rate this product?"
-msgstr "Quelle note donneriez-vous Ã  ce produit ?"
+msgstr "Quelle note donneriez-vous à ce produit ?"
 
 #: ID
 msgid "ID"
@@ -148,7 +148,7 @@ msgstr "ID"
 
 #: Manage Ratings
 msgid "Manage Ratings"
-msgstr "GÃ©rer les notations"
+msgstr "Gérer les notations"
 
 #: My Product Reviews
 msgid "My Product Reviews"
@@ -176,7 +176,7 @@ msgstr "Pseudo"
 
 #: Only registered users can write reviews. Please, <a href=\"%s\">log in</a> or <a href=\"%s\">register</a>
 msgid "Only registered users can write reviews. Please, <a href=\"%s\">log in</a> or <a href=\"%s\">register</a>"
-msgstr "Seuls les utilisateurs inscrits peuvent Ã©crire des commentaires. Veuillez <a href=\"%s\">vous connecter</a> ou <a href=\"%s\">vous enregistrer</a>"
+msgstr "Seuls les utilisateurs inscrits peuvent écrire des commentaires. Veuillez <a href=\"%s\">vous connecter</a> ou <a href=\"%s\">vous enregistrer</a>"
 
 #: Pending Reviews
 msgid "Pending Reviews"
@@ -188,15 +188,15 @@ msgstr "Commentaires en attente du client '%s'"
 
 #: Please select a product
 msgid "Please select a product"
-msgstr "SÃ©lectionnez un produit"
+msgstr "Sélectionnez un produit"
 
 #: Please select one of each of the ratings above
 msgid "Please select one of each of the ratings above"
-msgstr "SÃ©lectionnez une notation de chaque parmi les suivantes"
+msgstr "Sélectionnez une notation de chaque parmi les suivantes"
 
 #: Posted By
 msgid "Posted By"
-msgstr "PostÃ© par"
+msgstr "Posté par"
 
 #: Price
 msgid "Price"
@@ -220,7 +220,7 @@ msgstr "Note du produit :"
 
 #: Product Review (submitted on %s):
 msgid "Product Review (submitted on %s):"
-msgstr "<strong>Commentaire</strong> (postÃ© le %s) :"
+msgstr "<strong>Commentaire</strong> (posté le %s) :"
 
 #: Product Reviews
 msgid "Product Reviews"
@@ -228,11 +228,11 @@ msgstr "Commentaires"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "RÃ©f. Produit"
+msgstr "Réf. Produit"
 
 #: Qty
 msgid "Qty"
-msgstr "QtÃ©"
+msgstr "Qté"
 
 #: Rating:
 msgid "Rating:"
@@ -248,7 +248,7 @@ msgstr "Commentaire (soumis le %s) :"
 
 #: Review Details
 msgid "Review Details"
-msgstr "DÃ©tail du commentaire"
+msgstr "Détail du commentaire"
 
 #: Review Form Fields Before
 msgid "Review Form Fields Before"
@@ -264,7 +264,7 @@ msgstr "Commentaires et notations"
 
 #: SKU
 msgid "SKU"
-msgstr "RÃ©f."
+msgstr "Réf."
 
 #: Save Review
 msgid "Save Review"
@@ -280,15 +280,15 @@ msgstr "Poster le commentaire"
 
 #: Summary Rating
 msgid "Summary Rating"
-msgstr "AperÃ§u des notations"
+msgstr "Aperçu des notations"
 
 #: Summary of Review
 msgid "Summary of Review"
-msgstr "RÃ©sumÃ© du commentaire"
+msgstr "Résumé du commentaire"
 
 #: Summary of Your Review
 msgid "Summary of Your Review"
-msgstr "RÃ©sumÃ© de votre commentaire"
+msgstr "Résumé de votre commentaire"
 
 #: Title
 msgid "Title"
@@ -304,7 +304,7 @@ msgstr "Impossible de poster le commentaire"
 
 #: Update Status
 msgid "Update Status"
-msgstr "Mettre Ã  jour le statut"
+msgstr "Mettre à jour le statut"
 
 #: View All Reviews
 msgid "View All Reviews"
@@ -312,7 +312,7 @@ msgstr "Voir tous les commentaires"
 
 #: View Details
 msgid "View Details"
-msgstr "Voir les dÃ©tails"
+msgstr "Voir les détails"
 
 #: Visible In
 msgid "Visible In"
@@ -324,11 +324,11 @@ msgstr "Sites web"
 
 #: Write Your Own Review
 msgid "Write Your Own Review"
-msgstr "RÃ©digez votre propre commentaire"
+msgstr "Rédigez votre propre commentaire"
 
 #: You have submitted no reviews.
 msgid "You have submitted no reviews."
-msgstr "Vous n'avez postÃ© aucun commentaire"
+msgstr "Vous n'avez posté aucun commentaire"
 
 #: You're reviewing:
 msgid "You're reviewing:"
@@ -340,23 +340,23 @@ msgstr "Votre note :"
 
 #: Your Review (submitted on %s):
 msgid "Your Review (submitted on %s):"
-msgstr "<strong>Votre commentaire</strong> (postÃ© le %s) :"
+msgstr "<strong>Votre commentaire</strong> (posté le %s) :"
 
 #: Your review has been accepted for moderation.
 msgid "Your review has been accepted for moderation."
-msgstr "Votre commentaire a Ã©tÃ© acceptÃ© pour modÃ©ration."
+msgstr "Votre commentaire a été accepté pour modération."
 
 #: Not Approved
 msgid "Not Approved"
-msgstr "Non approuvÃ©"
+msgstr "Non approuvé"
 
 #: Customers Reviews
 msgid "Customers Reviews"
-msgstr "Clients ayant commentÃ©"
+msgstr "Clients ayant commenté"
 
 #: Products Reviews
 msgid "Products Reviews"
-msgstr "Produits commentÃ©s"
+msgstr "Produits commentés"
 
 #: <a href=\"%1$s\" onclick=\"this.target='blank'\">%2$s %3$s</a> <a href=\"mailto:%4$s\">(%4$s)</a>
 msgid "<a href=\"%1$s\" onclick=\"this.target='blank'\">%2$s %3$s</a> <a href=\"mailto:%4$s\">(%4$s)</a>"

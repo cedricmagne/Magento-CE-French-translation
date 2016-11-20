@@ -1,6 +1,6 @@
 #: All Credit Cards / Visa, Mastercard, AMEX, JCB, Diners (powered by Moneybookers) - International
 msgid "All Credit Cards / Visa, Mastercard, AMEX, JCB, Diners (powered by Moneybookers) - International"
-msgstr "Toutes les cartes de crÃ©dit / Visa, Mastercard, AMEX, JCB, Diners (powered by Moneybookers) - International"
+msgstr "Toutes les cartes de crédit / Visa, Mastercard, AMEX, JCB, Diners (powered by Moneybookers) - International"
 
 #: CartaSi (powered by Moneybookers) - Italy
 msgid "CartaSi (powered by Moneybookers) - Italy"
@@ -24,7 +24,7 @@ msgstr "EPS Online-Ãœberweisung (powered by Moneybookers) - Autriche"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Giropay (powered by Moneybookers) - Germany
 msgid "Giropay (powered by Moneybookers) - Germany"
@@ -40,7 +40,7 @@ msgstr "Lastschrift (ELV) (powered by Moneybookers) - Allemagne"
 
 #: Loading secure payment page (SSL)
 msgid "Loading secure payment page (SSL)"
-msgstr "Chargement de la page de paiement sÃ©curisÃ© (SSL)"
+msgstr "Chargement de la page de paiement sécurisé (SSL)"
 
 #: Moneybookers
 msgid "Moneybookers"
@@ -52,7 +52,7 @@ msgstr "Moneybookers URL d'information"
 
 #: Moneybookers Settings
 msgid "Moneybookers Settings"
-msgstr "ParamÃ¨trage Moneybookers"
+msgstr "Paramètrage Moneybookers"
 
 #: Moneybookers Transaction ID: %s
 msgid "Moneybookers Transaction ID: %s"
@@ -72,7 +72,7 @@ msgstr "Nordea Solo (powered by Moneybookers) - Finlande"
 
 #: Nordea Solo (powered by Moneybookers) - Sweden
 msgid "Nordea Solo (powered by Moneybookers) - Sweden"
-msgstr "Nordea Solo (powered by Moneybookers) - SuÃ¨de"
+msgstr "Nordea Solo (powered by Moneybookers) - Suède"
 
 #: Order ID
 msgid "Order ID"
@@ -84,23 +84,23 @@ msgstr "POLi (powered by Moneybookers) - Australie"
 
 #: Payment failed.
 msgid "Payment failed."
-msgstr "Le paiement a Ã©chouÃ©"
+msgstr "Le paiement a échoué"
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr "Mode de paiement autorisÃ© pour"
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr "Mode de paiement autorisÃ© pour les pays spÃ©cifiques"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Payment has not been processed yet.
 msgid "Payment has not been processed yet."
-msgstr "Le paiement n'a pas encore Ã©tÃ© traitÃ©e."
+msgstr "Le paiement n'a pas encore été traitée."
 
 #: Payment was canceled.
 msgid "Payment was canceled."
-msgstr "Le paiement a Ã©tÃ© annulÃ©."
+msgstr "Le paiement a été annulé."
 
 #: Pending bank transfer created.
 msgid "Pending bank transfer created."
@@ -108,7 +108,7 @@ msgstr "Paiement en attente de transfert par la banque."
 
 #: Please pay your order now
 msgid "Please pay your order now"
-msgstr "Veuillez effectuer votre rÃ©glement"
+msgstr "Veuillez effectuer votre réglement"
 
 #: Postepay (powered by Moneybookers) - Italy
 msgid "Postepay (powered by Moneybookers) - Italy"
@@ -128,15 +128,15 @@ msgstr "Ordre de tri"
 
 #: The amount has been authorized and captured by Moneybookers.
 msgid "The amount has been authorized and captured by Moneybookers."
-msgstr "Le rÃ¨glement de la commande a Ã©tÃ© autorisÃ© et capturÃ© par Moneybookers."
+msgstr "Le règlement de la commande a été autorisé et capturé par Moneybookers."
 
 #: The customer was redirected to Moneybookers.
 msgid "The customer was redirected to Moneybookers."
-msgstr "Le client a Ã©tÃ© redirigÃ© vers Moneybookers."
+msgstr "Le client a été redirigé vers Moneybookers."
 
 #: The order has been canceled.
 msgid "The order has been canceled."
-msgstr "La commande a Ã©tÃ© annulÃ©e."
+msgstr "La commande a été annulée."
 
 #: Title
 msgid "Title"
@@ -144,7 +144,7 @@ msgstr "Titre"
 
 #: You will be redirected to our secure payment page when you place an order.
 msgid "You will be redirected to our secure payment page when you place an order."
-msgstr "Vous allez Ãªtre redirigÃ© vers notre page de paiement sÃ©curisÃ©."
+msgstr "Vous allez être redirigé vers notre page de paiement sécurisé."
 
 #: eNETS (powered by Moneybookers) - Singapore
 msgid "eNETS (powered by Moneybookers) - Singapore"
@@ -168,7 +168,7 @@ msgstr "Mot secret"
 
 #: Pre-shared secret key to secure the transaction. After activation Moneybookers will give you access to a new section in your Moneybookers account called "Merchant tools". Please choose a secret word (do not use your password for this) and provide it in your Moneybookers admin area and above.
 msgid "Pre-shared secret key to secure the transaction. After activation Moneybookers will give you access to a new section in your Moneybookers account called \"Merchant tools\". Please choose a secret word (do not use your password for this) and provide it in your Moneybookers admin area and above."
-msgstr "ClÃ© secrÃ¨te prÃ©-partagÃ©e pour sÃ©curiser la transaction. AprÃ¨s l'activation, MoneyBookers vous donnera un accÃ¨s Ã  une nouvelle section dans votre compte MoneyBookers appelÃ©e \"Merchant tools\". Choisissez un mot secret (n'utilisez pas votre mot de passe ici) et renseignez-le dans votre compte MoneyBookers et ci-dessus."
+msgstr "Clé secrète pré-partagée pour sécuriser la transaction. Après l'activation, MoneyBookers vous donnera un accès à une nouvelle section dans votre compte MoneyBookers appelée \"Merchant tools\". Choisissez un mot secret (n'utilisez pas votre mot de passe ici) et renseignez-le dans votre compte MoneyBookers et ci-dessus."
 
 #: Find out more about Online Bank Transfer
 msgid "Find out more about Online Bank Transfer"
@@ -176,13 +176,13 @@ msgstr "En savoir plus sur le transfert de banque en ligne"
 
 #: Maestro (powered by Moneybookers) - United Kingdom, Austria, Spain
 msgid "Maestro (powered by Moneybookers) - United Kingdom, Austria, Spain"
-msgstr "Maestro (proposÃ© par Moneybookers) - Royaume-Uni, Autriche, Espagne"
+msgstr "Maestro (proposé par Moneybookers) - Royaume-Uni, Autriche, Espagne"
 
 #: Online Bank Transfer (powered by Moneybookers)
 msgid "Online Bank Transfer (powered by Moneybookers)"
-msgstr "Transfert de banque en ligne (proposÃ© par Moneybookers)"
+msgstr "Transfert de banque en ligne (proposé par Moneybookers)"
 
 #: Powered by Moneybookers
 msgid "Powered by Moneybookers"
-msgstr "ProposÃ© par Moneybookers"
+msgstr "Proposé par Moneybookers"
 

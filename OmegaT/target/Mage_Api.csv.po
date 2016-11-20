@@ -8,35 +8,35 @@ msgstr "(Chemin absolu ou relatif vers la racine d'installation de Magento, par 
 
 #: (For US 2-letter state names)
 msgid "(For US 2-letter state names)"
-msgstr "(Pour les US, 2 lettres du nom de l'Ã©tat)"
+msgstr "(Pour les US, 2 lettres du nom de l'état)"
 
 #: (If left empty will be auto-generated)
 msgid "(If left empty will be auto-generated)"
-msgstr "(GÃ©nÃ©rÃ© automatiquement si non renseignÃ©)"
+msgstr "(Généré automatiquement si non renseigné)"
 
 #: (Leave empty for first spreadsheet)
 msgid "(Leave empty for first spreadsheet)"
-msgstr "(Laisser vide pour la premiÃ¨re feuille de calcul)"
+msgstr "(Laisser vide pour la première feuille de calcul)"
 
 #: (Products will be added/updated to this store if 'store' column is blank or missing in the import file.)
 msgid "(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)"
-msgstr "(Les produits seront ajoutÃ©s/mis Ã  jour dans ce magasin si la colonne 'store' est vide ou manquante dans le fichier d'import)"
+msgstr "(Les produits seront ajoutés/mis à jour dans ce magasin si la colonne 'store' est vide ou manquante dans le fichier d'import)"
 
 #: (Shift-)Click or drag to change value
 msgid "(Shift-)Click or drag to change value"
-msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncÃ©e ou glissez"
+msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncée ou glissez"
 
 #: (Starting with)
 msgid "(Starting with)"
-msgstr "(CommenÃ§ant par)"
+msgstr "(Commençant par)"
 
 #: (When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)
 msgid "(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)"
-msgstr "(Si 'Non', seuls les champs mappÃ©s seront importÃ©s. Lorsque vous utilisez le mapping, utilisez 'column1', 'column2', etc.)"
+msgstr "(Si 'Non', seuls les champs mappés seront importés. Lorsque vous utilisez le mapping, utilisez 'column1', 'column2', etc.)"
 
 #: (You have to increase php memory_limit before changing this value)
 msgid "(You have to increase php memory_limit before changing this value)"
-msgstr "(Vous devez augmenter la mÃ©moire allouÃ©e Ã  PHP (php_limit) avant de modifier cette valeur)"
+msgstr "(Vous devez augmenter la mémoire allouée à PHP (php_limit) avant de modifier cette valeur)"
 
 #: (\\t for tab)
 msgid "(\\t for tab)"
@@ -48,23 +48,23 @@ msgstr "- Cliquez sur n'importe quelle partie de l'heure pour l'augmenter"
 
 #: - Hold mouse button on any of the above buttons for faster selection.
 msgid "- Hold mouse button on any of the above buttons for faster selection."
-msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sÃ©lection rapide"
+msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sélection rapide"
 
 #: - Use the %s buttons to select month
 msgid "- Use the %s buttons to select month"
-msgstr "- Utilisez les boutons %s pour sÃ©lectionner le mois"
+msgstr "- Utilisez les boutons %s pour sélectionner le mois"
 
 #: - Use the %s, %s buttons to select year
 msgid "- Use the %s, %s buttons to select year"
-msgstr "- Utilisez les boutons %s, %s pour sÃ©lectionner l'annÃ©e"
+msgstr "- Utilisez les boutons %s, %s pour sélectionner l'année"
 
 #: - or Shift-click to decrease it
 msgid "- or Shift-click to decrease it"
-msgstr "- ou cliquez en maintenant la touche shift enfoncÃ©e pour l'augmenter"
+msgstr "- ou cliquez en maintenant la touche shift enfoncée pour l'augmenter"
 
 #: - or click and drag for faster selection.
 msgid "- or click and drag for faster selection."
-msgstr "- ou cliquez et glissez pour une sÃ©lection plus rapide"
+msgstr "- ou cliquez et glissez pour une sélection plus rapide"
 
 #: -- Please Select Billing Agreement--
 msgid "-- Please Select Billing Agreement--"
@@ -72,23 +72,23 @@ msgstr "-- Veuillez choisir l'entente de facturation--"
 
 #: About the calendar
 msgid "About the calendar"
-msgstr "Ã€ propos du calendrier"
+msgstr "À propos du calendrier"
 
 #: Access denied.
 msgid "Access denied."
-msgstr "AccÃ¨s refusÃ©."
+msgstr "Accès refusé."
 
 #: Account Created in:
 msgid "Account Created in:"
-msgstr "Compte crÃ©Ã© dans :"
+msgstr "Compte créé dans :"
 
 #: Account Created on (%s):
 msgid "Account Created on (%s):"
-msgstr "Compte crÃ©Ã© le (%s) :"
+msgstr "Compte créé le (%s) :"
 
 #: Account Created on:
 msgid "Account Created on:"
-msgstr "Compte crÃ©Ã© le :"
+msgstr "Compte créé le :"
 
 #: Action
 msgid "Action"
@@ -108,7 +108,7 @@ msgstr "Ajouter un champ avec l'URL :"
 
 #: Add New Role
 msgid "Add New Role"
-msgstr "Nouveau rÃ´le"
+msgstr "Nouveau rôle"
 
 #: Add New User
 msgid "Add New User"
@@ -116,11 +116,11 @@ msgstr "Nouvel utilisateur"
 
 #: Add PHP Extension dependency
 msgid "Add PHP Extension dependency"
-msgstr "Ajouter une dÃ©pendance d'extension PHP"
+msgstr "Ajouter une dépendance d'extension PHP"
 
 #: Add Package dependency
 msgid "Add Package dependency"
-msgstr "Ajouter une dÃ©pendance de package"
+msgstr "Ajouter une dépendance de package"
 
 #: Address Type:
 msgid "Address Type:"
@@ -144,11 +144,11 @@ msgstr "Nom du fichier d'archive :"
 
 #: Are you sure that you want to delete this template?
 msgid "Are you sure that you want to delete this template?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce gabarit ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?"
 
 #: Are you sure that you want to strip tags?
 msgid "Are you sure that you want to strip tags?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer les tags ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer les tags ?"
 
 #: Attribute Set Name:
 msgid "Attribute Set Name:"
@@ -180,19 +180,19 @@ msgstr "Entente de facturation"
 
 #: Bundle Items
 msgid "Bundle Items"
-msgstr "Articles packagÃ©s"
+msgstr "Articles packagés"
 
 #: Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.
 msgid "Bundle with dynamic pricing cannot include custom defined options. Options will not be saved."
-msgstr "Un bundle avec un prix dynamique ne peut pas inclure d'options dÃ©finies. Les options ne seront pas sauvegardÃ©es."
+msgstr "Un bundle avec un prix dynamique ne peut pas inclure d'options définies. Les options ne seront pas sauvegardées."
 
 #: CSV / Tab separated
 msgid "CSV / Tab separated"
-msgstr "CSV / sÃ©parÃ© par des tabulations"
+msgstr "CSV / séparé par des tabulations"
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: Catalog
 msgid "Catalog"
@@ -228,11 +228,11 @@ msgstr "Historique de commentaires"
 
 #: Confirmed email:
 msgid "Confirmed email:"
-msgstr "Email confirmÃ© :"
+msgstr "Email confirmé :"
 
 #: Connect with the Magento Community
 msgid "Connect with the Magento Community"
-msgstr "Connexion Ã  la communautÃ© de Magento"
+msgstr "Connexion à la communauté de Magento"
 
 #: Contents
 msgid "Contents"
@@ -244,19 +244,19 @@ msgstr "Pays :"
 
 #: Created At
 msgid "Created At"
-msgstr "CrÃ©Ã© le"
+msgstr "Créé le"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"
-msgstr "<strong>NumÃ©ro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit Card Type: %s
 msgid "Credit Card Type: %s"
@@ -272,11 +272,11 @@ msgstr "Totaux de l'avoir"
 
 #: Current Configuration Scope:
 msgid "Current Configuration Scope:"
-msgstr "PortÃ©e de la configuration courante :"
+msgstr "Portée de la configuration courante :"
 
 #: Custom
 msgid "Custom"
-msgstr "PersonnalisÃ©"
+msgstr "Personnalisé"
 
 #: Customer
 msgid "Customer"
@@ -296,7 +296,7 @@ msgstr "Clients"
 
 #: DHTML Date/Time Selector
 msgid "DHTML Date/Time Selector"
-msgstr "SÃ©lecteur de date/heure DHTML"
+msgstr "Sélecteur de date/heure DHTML"
 
 #: Dashboard
 msgid "Dashboard"
@@ -304,39 +304,39 @@ msgstr "Tableau de bord"
 
 #: Data Format
 msgid "Data Format"
-msgstr "Format de donnÃ©es"
+msgstr "Format de données"
 
 #: Data transfer:
 msgid "Data transfer:"
-msgstr "Transfert de donnÃ©es"
+msgstr "Transfert de données"
 
 #: Date selection:
 msgid "Date selection:"
-msgstr "SÃ©lection de date :"
+msgstr "Sélection de date :"
 
 #: Date selector
 msgid "Date selector"
-msgstr "SÃ©lecteur de date"
+msgstr "Sélecteur de date"
 
 #: Decimal separator:
 msgid "Decimal separator:"
-msgstr "SÃ©parateur de dÃ©cimales :"
+msgstr "Séparateur de décimales :"
 
 #: Default (Admin) Values
 msgid "Default (Admin) Values"
-msgstr "Valeurs par dÃ©faut (admin)"
+msgstr "Valeurs par défaut (admin)"
 
 #: Default Billing Address
 msgid "Default Billing Address"
-msgstr "Adresse de facturation par dÃ©faut"
+msgstr "Adresse de facturation par défaut"
 
 #: Default Response Charset
 msgid "Default Response Charset"
-msgstr "Charset de rÃ©ponse par dÃ©faut"
+msgstr "Charset de réponse par défaut"
 
 #: Default Values
 msgid "Default Values"
-msgstr "Valeurs par dÃ©faut"
+msgstr "Valeurs par défaut"
 
 #: Delete
 msgid "Delete"
@@ -352,19 +352,19 @@ msgstr "Afficher d'abord %s"
 
 #: Distributed under GNU LGPL. See %s for details.
 msgid "Distributed under GNU LGPL. See %s for details."
-msgstr "DistribuÃ© sous licence GNU LGPL. Voir %s pour plus de dÃ©tails."
+msgstr "Distribué sous licence GNU LGPL. Voir %s pour plus de détails."
 
 #: Drag to move
 msgid "Drag to move"
-msgstr "Glisser pour dÃ©placer"
+msgstr "Glisser pour déplacer"
 
 #: Edit Role
 msgid "Edit Role"
-msgstr "Modifier le rÃ´le"
+msgstr "Modifier le rôle"
 
 #: Edit User '%s'
 msgid "Edit User '%s'"
-msgstr "Ã‰diter l'utilisateur '%s'"
+msgstr "Éditer l'utilisateur '%s'"
 
 #: Email
 msgid "Email"
@@ -372,7 +372,7 @@ msgstr "Email"
 
 #: Email Preview
 msgid "Email Preview"
-msgstr "PrÃ©visualisation de l'email"
+msgstr "Prévisualisation de l'email"
 
 #: Email:
 msgid "Email:"
@@ -384,7 +384,7 @@ msgstr "Entourer les valeurs avec :"
 
 #: Entity type:
 msgid "Entity type:"
-msgstr "Type d'entitÃ© :"
+msgstr "Type d'entité :"
 
 #: Excl. Tax
 msgid "Excl. Tax"
@@ -424,7 +424,7 @@ msgstr "Extensions"
 
 #: FTP Host[:Port]
 msgid "FTP Host[:Port]"
-msgstr "HÃ´te FTP [:Port]"
+msgstr "Hôte FTP [:Port]"
 
 #: Field Mapping
 msgid "Field Mapping"
@@ -448,15 +448,15 @@ msgstr "Prix final"
 
 #: Finished profile execution.
 msgid "Finished profile execution."
-msgstr "ExÃ©cution du profil terminÃ©e."
+msgstr "Exécution du profil terminée."
 
 #: First Name:
 msgid "First Name:"
-msgstr "PrÃ©nom :"
+msgstr "Prénom :"
 
 #: For latest version visit: %s
 msgid "For latest version visit: %s"
-msgstr "Pour la visite de la derniÃ¨re version : %s"
+msgstr "Pour la visite de la dernière version : %s"
 
 #: From
 msgid "From"
@@ -464,11 +464,11 @@ msgstr "De"
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: General Settings
 msgid "General Settings"
-msgstr "ParamÃ¨tres gÃ©nÃ©raux"
+msgstr "Paramètres généraux"
 
 #: Get help for this page
 msgid "Get help for this page"
@@ -480,7 +480,7 @@ msgstr "Recherche globale"
 
 #: Go Today
 msgid "Go Today"
-msgstr "Aller Ã  aujourd'hui"
+msgstr "Aller à aujourd'hui"
 
 #: Google Base Items
 msgid "Google Base Items"
@@ -492,7 +492,7 @@ msgstr "Groupe :"
 
 #: Help Us Keep Magento Healthy - Report All Bugs
 msgid "Help Us Keep Magento Healthy - Report All Bugs"
-msgstr "Aidez-nous Ã  amÃ©liorer Magento - Signalez tous les bugs"
+msgstr "Aidez-nous à améliorer Magento - Signalez tous les bugs"
 
 #: Ignore
 msgid "Ignore"
@@ -512,7 +512,7 @@ msgstr "Service d'importation"
 
 #: In Database:
 msgid "In Database:"
-msgstr "Dans la base de donnÃ©es :"
+msgstr "Dans la base de données :"
 
 #: In File:
 msgid "In File:"
@@ -536,11 +536,11 @@ msgstr "Langue de l'interface : %s"
 
 #: Invalid webservice adapter specified.
 msgid "Invalid webservice adapter specified."
-msgstr "L'adapter spÃ©cifiÃ© pour le webservice est invalide."
+msgstr "L'adapter spécifié pour le webservice est invalide."
 
 #: Invalid webservice handler specified.
 msgid "Invalid webservice handler specified."
-msgstr "Le handler spÃ©cifiÃ© pour le webservice est invalide"
+msgstr "Le handler spécifié pour le webservice est invalide"
 
 #: Invoice History
 msgid "Invoice History"
@@ -552,15 +552,15 @@ msgstr "Totaux de la facture"
 
 #: Is Closed
 msgid "Is Closed"
-msgstr "Est fermÃ©"
+msgstr "Est fermé"
 
 #: Issue Number
 msgid "Issue Number"
-msgstr "NumÃ©ro de problÃ¨me"
+msgstr "Numéro de problème"
 
 #: Issuer: %s
 msgid "Issuer: %s"
-msgstr "ProblÃ¨me : %s"
+msgstr "Problème : %s"
 
 #: JavaScript/CSS
 msgid "JavaScript/CSS"
@@ -572,19 +572,19 @@ msgstr "Cache JavaScript/CSS"
 
 #: Last 5 Orders
 msgid "Last 5 Orders"
-msgstr "5 derniÃ¨res commandes"
+msgstr "5 dernières commandes"
 
 #: Last 5 Search Terms
 msgid "Last 5 Search Terms"
-msgstr "5 derniers termes recherchÃ©s"
+msgstr "5 derniers termes recherchés"
 
 #: Last Logged In (%s):
 msgid "Last Logged In (%s):"
-msgstr "DerniÃ¨re connection (%s) le :"
+msgstr "Dernière connection (%s) le :"
 
 #: Last Logged In:
 msgid "Last Logged In:"
-msgstr "DerniÃ¨re connection le :"
+msgstr "Dernière connection le :"
 
 #: Last Name:
 msgid "Last Name:"
@@ -600,7 +600,7 @@ msgstr "Laissez vide pour utiliser l'identifiant de TVA"
 
 #: Links with associated products will retain only after saving current product.
 msgid "Links with associated products will retain only after saving current product."
-msgstr "Les liens vers les produits associÃ©s ne seront conservÃ©s qu'aprÃ¨s sauvegarde du produit actuel."
+msgstr "Les liens vers les produits associés ne seront conservés qu'après sauvegarde du produit actuel."
 
 #: Loading...
 msgid "Loading..."
@@ -616,11 +616,11 @@ msgstr "Serveur local/distant"
 
 #: Log Out
 msgid "Log Out"
-msgstr "DÃ©connexion"
+msgstr "Déconnexion"
 
 #: Logged in as %s
 msgid "Logged in as %s"
-msgstr "ConnectÃ© sous <strong>%s</strong>"
+msgstr "Connecté sous <strong>%s</strong>"
 
 #: MS Excel XML
 msgid "MS Excel XML"
@@ -644,11 +644,11 @@ msgstr "Magento <strong>ver. %s</strong>"
 
 #: Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.
 msgid "Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc."
-msgstr "Magento&trade; est une marque dÃ©posÃ©e de Magento Inc.<br/>Copyright &copy; %s Magento Inc."
+msgstr "Magento&trade; est une marque déposée de Magento Inc.<br/>Copyright &copy; %s Magento Inc."
 
 #: Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).
 msgid "Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI)."
-msgstr "Assurez-vous que l'encodage du fichier est cohÃ©rent et correspond Ã  l'un des encodages supportÃ©s (UTF-8 ou ANSI)."
+msgstr "Assurez-vous que l'encodage du fichier est cohérent et correspond à l'un des encodages supportés (UTF-8 ou ANSI)."
 
 #: Manage Stores
 msgid "Manage Stores"
@@ -664,7 +664,7 @@ msgstr "Min"
 
 #: N/A
 msgid "N/A"
-msgstr "N/A"
+msgstr "N/A "
 
 #: Name
 msgid "Name"
@@ -672,7 +672,7 @@ msgstr "Nom"
 
 #: Name on Card
 msgid "Name on Card"
-msgstr "PropriÃ©taire de la carte"
+msgstr "Propriétaire de la carte"
 
 #: Name on the Card: %s
 msgid "Name on the Card: %s"
@@ -692,7 +692,7 @@ msgstr "Page suivante"
 
 #: Next year (hold for menu)
 msgid "Next year (hold for menu)"
-msgstr "AnnÃ©e prochaine (maintenez pour le menu)"
+msgstr "Année prochaine (maintenez pour le menu)"
 
 #: No
 msgid "No"
@@ -700,7 +700,7 @@ msgstr "Non"
 
 #: No Data Found
 msgid "No Data Found"
-msgstr "Aucune donnÃ©e trouvÃ©e"
+msgstr "Aucune donnée trouvée"
 
 #: No information available.
 msgid "No information available."
@@ -708,11 +708,11 @@ msgstr "Aucune information disponible"
 
 #: No profile loaded...
 msgid "No profile loaded..."
-msgstr "Aucun profil chargÃ©..."
+msgstr "Aucun profil chargé..."
 
 #: No search keywords.
 msgid "No search keywords."
-msgstr "Aucun mot clÃ© de recherche."
+msgstr "Aucun mot clé de recherche."
 
 #: None
 msgid "None"
@@ -732,7 +732,7 @@ msgstr "Ancien taux :"
 
 #: Only mapped fields
 msgid "Only mapped fields"
-msgstr "Champs mappÃ©s uniquement"
+msgstr "Champs mappés uniquement"
 
 #: Order ID
 msgid "Order ID"
@@ -748,7 +748,7 @@ msgstr "Impossible de passer cette commande."
 
 #: Original Magento attribute names in first row:
 msgid "Original Magento attribute names in first row:"
-msgstr "Noms d'attribut d'origine dans la premiÃ¨re ligne :"
+msgstr "Noms d'attribut d'origine dans la première ligne :"
 
 #: Package
 msgid "Package"
@@ -788,15 +788,15 @@ msgstr "Informations personnelles"
 
 #: Phone:
 msgid "Phone:"
-msgstr "TÃ©lÃ©phone :"
+msgstr "Téléphone :"
 
 #: Please Select
 msgid "Please Select"
-msgstr "Veuillez sÃ©lectionner"
+msgstr "Veuillez sélectionner"
 
 #: Please confirm site switching. All data that hasn\'t been saved will be lost.
 msgid "Please confirm site switching. All data that hasn\'t been saved will be lost."
-msgstr "Veuillez confirmer le changement de site. Toutes les donnÃ©es non sauvegardÃ©es seront perdues."
+msgstr "Veuillez confirmer le changement de site. Toutes les données non sauvegardées seront perdues."
 
 #: Please continue with placing order.
 msgid "Please continue with placing order."
@@ -804,15 +804,15 @@ msgstr "Veuillez continuer et passer commande."
 
 #: Please enter 6 or more characters.
 msgid "Please enter 6 or more characters."
-msgstr "Veuillez saisir au moins 6 caractÃ¨res."
+msgstr "Veuillez saisir au moins 6 caractères."
 
 #: Please enter a number greater than 0 in this field.
 msgid "Please enter a number greater than 0 in this field."
-msgstr "Veuillez saisir un nombre supÃ©rieur Ã  0 dans ce champ."
+msgstr "Veuillez saisir un nombre supérieur à 0 dans ce champ."
 
 #: Please enter a valid $ amount. For example $100.00.
 msgid "Please enter a valid $ amount. For example $100.00."
-msgstr "Veuillez saisir un montant valide. Par exemple 100.00 â‚¬."
+msgstr "Veuillez saisir un montant valide. Par exemple 100.00 €."
 
 #: Please enter a valid URL. For example http://www.example.com or www.example.com
 msgid "Please enter a valid URL. For example http://www.example.com or www.example.com"
@@ -824,7 +824,7 @@ msgstr "Veuillez saisir une URL valide. Elle doit commencer par http://"
 
 #: Please enter a valid credit card number.
 msgid "Please enter a valid credit card number."
-msgstr "Veuillez saisir un numÃ©ro de carte bancaire valide."
+msgstr "Veuillez saisir un numéro de carte bancaire valide."
 
 #: Please enter a valid date.
 msgid "Please enter a valid date."
@@ -840,11 +840,11 @@ msgstr "Veuillez saisir un nombre valide."
 
 #: Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.
 msgid "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890."
-msgstr "Veuillez saisir un numÃ©ro de tÃ©lÃ©phone valide."
+msgstr "Veuillez saisir un numéro de téléphone valide."
 
 #: Please enter a valid social security number. For example 123-45-6789.
 msgid "Please enter a valid social security number. For example 123-45-6789."
-msgstr "Veuillez saisir un numÃ©ro de sÃ©curitÃ© sociale valide. Par exemple 123-45-6789."
+msgstr "Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789."
 
 #: Please enter a valid value from list
 msgid "Please enter a valid value from list"
@@ -868,19 +868,19 @@ msgstr "Veuillez saisir un mot de passe valide."
 
 #: Please make sure that your changes were saved before running the profile.
 msgid "Please make sure that your changes were saved before running the profile."
-msgstr "VÃ©rifiez que vos modifications ont Ã©tÃ© sauvegardÃ©es avant de lancer le profil."
+msgstr "Vérifiez que vos modifications ont été sauvegardées avant de lancer le profil."
 
 #: Please make sure your passwords match.
 msgid "Please make sure your passwords match."
-msgstr "VÃ©rifiez que vos mots de passe concordent."
+msgstr "Vérifiez que vos mots de passe concordent."
 
 #: Please select State/Province.
 msgid "Please select State/Province."
-msgstr "Veuillez choisir un Ã©tat/province."
+msgstr "Veuillez choisir un état/province."
 
 #: Please select an option.
 msgid "Please select an option."
-msgstr "SÃ©lectionnez une option"
+msgstr "Sélectionnez une option"
 
 #: Please select one of the above options.
 msgid "Please select one of the above options."
@@ -892,7 +892,7 @@ msgstr "Veuillez choisir une des options."
 
 #: Please use in this field only \"a-z,0-9,_\".
 msgid "Please use in this field only \"a-z,0-9,_\"."
-msgstr "Ce champ n'accepte que les caractÃ¨res \"a-z,0-9,_\"."
+msgstr "Ce champ n'accepte que les caractères \"a-z,0-9,_\"."
 
 #: Please use letters only (a-z) in this field.
 msgid "Please use letters only (a-z) in this field."
@@ -900,23 +900,23 @@ msgstr "Veuillez utiliser uniquement des lettres (a-z) dans ce champ."
 
 #: Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.
 msgid "Please use numbers only in this field. please avoid spaces or other characters such as dots or commas."
-msgstr "Seuls les chiffres sont autorisÃ©s dans ce champ. Ã‰vitez les espaces ou autres caractÃ¨res tels que les points ou les virgules."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
 
 #: Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
 msgid "Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractÃ¨res ne sont pas autorisÃ©s."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
 
 #: Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.
 msgid "Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field."
-msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des diÃ¨ses (#) dans ce champ."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ."
 
 #: Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.
 msgid "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
-msgstr "Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 DÃ©cembre 2012."
+msgstr "Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012."
 
 #: Please wait while the indexes are being refreshed.
 msgid "Please wait while the indexes are being refreshed."
-msgstr "Veuillez patienter pendant le rafraÃ®chissement des indexes."
+msgstr "Veuillez patienter pendant le rafraîchissement des indexes."
 
 #: Please wait, loading...
 msgid "Please wait, loading..."
@@ -924,19 +924,19 @@ msgstr "Veuillez patienter, chargement en cours..."
 
 #: Prev. month (hold for menu)
 msgid "Prev. month (hold for menu)"
-msgstr "Mois prÃ©cÃ©dent (maintenez pour le menu)"
+msgstr "Mois précédent (maintenez pour le menu)"
 
 #: Prev. year (hold for menu)
 msgid "Prev. year (hold for menu)"
-msgstr "AnnÃ©e prÃ©cÃ©dente (maintenez pour le menu)"
+msgstr "Année précédente (maintenez pour le menu)"
 
 #: Preview
 msgid "Preview"
-msgstr "PrÃ©visualiser"
+msgstr "Prévisualiser"
 
 #: Previous page
 msgid "Previous page"
-msgstr "Page prÃ©cÃ©dente"
+msgstr "Page précédente"
 
 #: Price
 msgid "Price"
@@ -960,15 +960,15 @@ msgstr "Informations sur le profil"
 
 #: Qty
 msgid "Qty"
-msgstr "QtÃ©"
+msgstr "Qté"
 
 #: Read details
 msgid "Read details"
-msgstr "Lire les dÃ©tails"
+msgstr "Lire les détails"
 
 #: Reference ID
 msgid "Reference ID"
-msgstr "RÃ©ference ID"
+msgstr "Réference ID"
 
 #: Remote FTP
 msgid "Remote FTP"
@@ -980,7 +980,7 @@ msgstr "Supprimer"
 
 #: Resource Access
 msgid "Resource Access"
-msgstr "AccÃ¨s aux ressources"
+msgstr "Accès aux ressources"
 
 #: Resources
 msgid "Resources"
@@ -988,43 +988,43 @@ msgstr "Ressources"
 
 #: Role Users
 msgid "Role Users"
-msgstr "Utilisateurs ayant ce rÃ´le"
+msgstr "Utilisateurs ayant ce rôle"
 
 #: Roles
 msgid "Roles"
-msgstr "RÃ´les"
+msgstr "Rôles"
 
 #: Roles Resources
 msgid "Roles Resources"
-msgstr "Ressources des rÃ´les"
+msgstr "Ressources des rôles"
 
 #: SKU
 msgid "SKU"
-msgstr "RÃ©f."
+msgstr "Réf."
 
 #: SKU:
 msgid "SKU:"
-msgstr "RÃ©f. :"
+msgstr "Réf. :"
 
 #: Select All
 msgid "Select All"
-msgstr "SÃ©lectionner tout"
+msgstr "Sélectionner tout"
 
 #: Select Date
 msgid "Select Date"
-msgstr "SÃ©lectionner une date"
+msgstr "Sélectionner une date"
 
 #: Select Range
 msgid "Select Range"
-msgstr "SÃ©lectionnez une tranche"
+msgstr "Sélectionnez une tranche"
 
 #: Select Visible
 msgid "Select Visible"
-msgstr "SÃ©lectionner les Ã©lÃ©ments visibles"
+msgstr "Sélectionner les éléments visibles"
 
 #: Select date
 msgid "Select date"
-msgstr "SÃ©lectionner la date"
+msgstr "Sélectionner la date"
 
 #: Shipment Comments
 msgid "Shipment Comments"
@@ -1040,11 +1040,11 @@ msgstr "Adresse de livraison"
 
 #: Shipping address selection is not applicable
 msgid "Shipping address selection is not applicable"
-msgstr "L'adresse de livraison sÃ©lectionnÃ©e n'est pas applicable"
+msgstr "L'adresse de livraison sélectionnée n'est pas applicable"
 
 #: Shipping method selection is not applicable
 msgid "Shipping method selection is not applicable"
-msgstr "Le mode de livraison sÃ©lectionnÃ© n'est pas applicable"
+msgstr "Le mode de livraison sélectionné n'est pas applicable"
 
 #: Show By
 msgid "Show By"
@@ -1056,7 +1056,7 @@ msgstr "Afficher le rapport pour"
 
 #: Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.
 msgid "Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created."
-msgstr "Certains articles dans cette commande ont des types de livraison et de facturation diffÃ©rents. Vous ne pouvez crÃ©er une livraison qu'aprÃ¨s avoir crÃ©Ã© une facture."
+msgstr "Certains articles dans cette commande ont des types de livraison et de facturation différents. Vous ne pouvez créer une livraison qu'après avoir créé une facture."
 
 #: Sort Order
 msgid "Sort Order"
@@ -1068,19 +1068,19 @@ msgstr "Nom de la feuille de calcul :"
 
 #: Start Date
 msgid "Start Date"
-msgstr "Date de dÃ©but"
+msgstr "Date de début"
 
 #: Start/Reset Validation...
 msgid "Start/Reset Validation..."
-msgstr "DÃ©marrer/RÃ©-initialiser la validation..."
+msgstr "Démarrer/Ré-initialiser la validation..."
 
 #: Starting profile execution, please wait...
 msgid "Starting profile execution, please wait..."
-msgstr "DÃ©marrage de l'exÃ©cution du profil, veuillez patienter..."
+msgstr "Démarrage de l'exécution du profil, veuillez patienter..."
 
 #: State/Province:
 msgid "State/Province:"
-msgstr "Ã‰tat/rÃ©gion :"
+msgstr "État/région :"
 
 #: Status
 msgid "Status"
@@ -1092,7 +1092,7 @@ msgstr "Statut :"
 
 #: Stock Quantity:
 msgid "Stock Quantity:"
-msgstr "QuantitÃ© en stock :"
+msgstr "Quantité en stock :"
 
 #: Store:
 msgid "Store:"
@@ -1100,11 +1100,11 @@ msgstr "Magasin :"
 
 #: Switch/Solo card issue number: %s
 msgid "Switch/Solo card issue number: %s"
-msgstr "NumÃ©ro de problÃ¨me de carte Switch/Solo : %s"
+msgstr "Numéro de problème de carte Switch/Solo : %s"
 
 #: Switch/Solo card start Date: %s/%s
 msgid "Switch/Solo card start Date: %s/%s"
-msgstr "Date de dÃ©but de carte Switch/Solo : %s/%s"
+msgstr "Date de début de carte Switch/Solo : %s/%s"
 
 #: Switch/Solo/Maestro Only
 msgid "Switch/Solo/Maestro Only"
@@ -1116,11 +1116,11 @@ msgstr "Switch/Solo/Maestro(UK Domestic) seulement"
 
 #: Switch/Solo/Maestro(UK Domestic) card issue number: %s
 msgid "Switch/Solo/Maestro(UK Domestic) card issue number: %s"
-msgstr "NumÃ©ro de problÃ¨me de carte Switch/Solo/Maestro(UK Domestic) : %s"
+msgstr "Numéro de problème de carte Switch/Solo/Maestro(UK Domestic) : %s"
 
 #: Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s
 msgid "Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s"
-msgstr "Date de dÃ©but de carte Switch/Solo/Maestro(UK Domestic) : %s/%s"
+msgstr "Date de début de carte Switch/Solo/Maestro(UK Domestic) : %s/%s"
 
 #: Target
 msgid "Target"
@@ -1128,19 +1128,19 @@ msgstr "Cible"
 
 #: The card has failed verification with the issuer bank.
 msgid "The card has failed verification with the issuer bank."
-msgstr "La vÃ©rification de la carte a Ã©chouÃ© auprÃ¨s de la banque."
+msgstr "La vérification de la carte a échoué auprès de la banque."
 
 #: The information in this tab has been changed.
 msgid "The information in this tab has been changed."
-msgstr "Les informations contenues dans cet onglet ont Ã©tÃ© changÃ©es."
+msgstr "Les informations contenues dans cet onglet ont été changées."
 
 #: There has been wrong payment information submitted or time limit has expired. Please, try again.
 msgid "There has been wrong payment information submitted or time limit has expired. Please, try again."
-msgstr "Des informations de paiement erronÃ©es ont Ã©tÃ© soumises ou la limite de temps a Ã©tÃ© atteinte. Veuillez rÃ©essayer."
+msgstr "Des informations de paiement erronées ont été soumises ou la limite de temps a été atteinte. Veuillez réessayer."
 
 #: This is a demo store. Any orders placed through this store will not be honored or fulfilled.
 msgid "This is a demo store. Any orders placed through this store will not be honored or fulfilled."
-msgstr "Ceci est une boutique de dÃ©monstration. Aucune commande passÃ©e sur cette boutique ne sera honorÃ©e."
+msgstr "Ceci est une boutique de démonstration. Aucune commande passée sur cette boutique ne sera honorée."
 
 #: This is a required field.
 msgid "This is a required field."
@@ -1148,7 +1148,7 @@ msgstr "Ce champ est obligatoire."
 
 #: This tab contains invalid data. Please solve the problem before saving.
 msgid "This tab contains invalid data. Please solve the problem before saving."
-msgstr "Cet onglet contient des donnÃ©es non valides. Veuillez rÃ©soudre le problÃ¨me avant de sauvegarder."
+msgstr "Cet onglet contient des données non valides. Veuillez résoudre le problème avant de sauvegarder."
 
 #: Thumbnail
 msgid "Thumbnail"
@@ -1156,7 +1156,7 @@ msgstr "Miniature"
 
 #: Time selection:
 msgid "Time selection:"
-msgstr "SÃ©lection de l'heure :"
+msgstr "Sélection de l'heure :"
 
 #: Time:
 msgid "Time:"
@@ -1164,15 +1164,15 @@ msgstr "Heure :"
 
 #: To
 msgid "To"
-msgstr "Ã€"
+msgstr "À"
 
 #: Top 5 Search Terms
 msgid "Top 5 Search Terms"
-msgstr "5 termes les plus recherchÃ©s"
+msgstr "5 termes les plus recherchés"
 
 #: Total %d records found
 msgid "Total %d records found"
-msgstr "%d enregistrement(s) trouvÃ©(s)"
+msgstr "%d enregistrement(s) trouvé(s)"
 
 #: Track Order
 msgid "Track Order"
@@ -1184,11 +1184,11 @@ msgstr "Suivre cette livraison"
 
 #: Transaction Data
 msgid "Transaction Data"
-msgstr "DonnÃ©es de transaction"
+msgstr "Données de transaction"
 
 #: Transaction Details
 msgid "Transaction Details"
-msgstr "DÃ©tail de la transaction"
+msgstr "Détail de la transaction"
 
 #: Transaction ID
 msgid "Transaction ID"
@@ -1212,19 +1212,19 @@ msgstr "Impossible de se connecter."
 
 #: Unselect All
 msgid "Unselect All"
-msgstr "DÃ©sÃ©lectionner tout"
+msgstr "Désélectionner tout"
 
 #: Unselect Visible
 msgid "Unselect Visible"
-msgstr "DÃ©sÃ©lectionner les Ã©lÃ©ments visibles"
+msgstr "Désélectionner les éléments visibles"
 
 #: Updated At
 msgid "Updated At"
-msgstr "Mise Ã  jour Ã "
+msgstr "Mise à jour à"
 
 #: Use Default Value
 msgid "Use Default Value"
-msgstr "Utiliser la valeur par dÃ©faut"
+msgstr "Utiliser la valeur par défaut"
 
 #: User
 msgid "User"
@@ -1236,7 +1236,7 @@ msgstr "Nom d'utilisateur"
 
 #: User Roles
 msgid "User Roles"
-msgstr "RÃ´les utilisateurs"
+msgstr "Rôles utilisateurs"
 
 #: User name
 msgid "User name"
@@ -1248,19 +1248,19 @@ msgstr "Utilisateurs"
 
 #: Value Delimiter:
 msgid "Value Delimiter:"
-msgstr "DÃ©limiteur de valeurs :"
+msgstr "Délimiteur de valeurs :"
 
 #: Verification Failed
 msgid "Verification Failed"
-msgstr "Ã‰chec de la vÃ©rification"
+msgstr "Échec de la vérification"
 
 #: Verification Successful
 msgid "Verification Successful"
-msgstr "VÃ©rification rÃ©ussie !"
+msgstr "Vérification réussie !"
 
 #: Verification cannot be processed
 msgid "Verification cannot be processed"
-msgstr "La vÃ©rification ne peut pas aboutir."
+msgstr "La vérification ne peut pas aboutir."
 
 #: View
 msgid "View"
@@ -1272,27 +1272,27 @@ msgstr "Voir les statistiques pour"
 
 #: Visibility:
 msgid "Visibility:"
-msgstr "VisibilitÃ© :"
+msgstr "Visibilité :"
 
 #: Warning! Empty value can cause problems with CSV format.
 msgid "Warning! Empty value can cause problems with CSV format."
-msgstr "Attention ! Les valeurs vides peuvent poser problÃ¨me avec le format CSV."
+msgstr "Attention ! Les valeurs vides peuvent poser problème avec le format CSV."
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: Please do not close the window during importing/exporting data
 msgid "Warning: Please do not close the window during importing/exporting data"
-msgstr "Attention : ne fermez pas la fenÃªtre pendant l'import/export de donnÃ©es."
+msgstr "Attention : ne fermez pas la fenêtre pendant l'import/export de données."
 
 #: We detected that your JavaScript seem to be disabled.
 msgid "We detected that your JavaScript seem to be disabled."
-msgstr "Il semblerait que la prise en charge de JavaScript par votre navigateur soit dÃ©sactivÃ©e."
+msgstr "Il semblerait que la prise en charge de JavaScript par votre navigateur soit désactivée."
 
 #: Web Services
 msgid "Web Services"
@@ -1312,15 +1312,15 @@ msgstr "Vous avez"
 
 #: You must have JavaScript enabled in your browser to utilize the functionality of this website.
 msgid "You must have JavaScript enabled in your browser to utilize the functionality of this website."
-msgstr "Javascript doit Ãªtre activÃ© dans votre navigateur pour utiliser toutes les fonctionnalitÃ©s de ce site."
+msgstr "Javascript doit être activé dans votre navigateur pour utiliser toutes les fonctionnalités de ce site."
 
 #: Your account has been deactivated.
 msgid "Your account has been deactivated."
-msgstr "Votre compte a Ã©tÃ© dÃ©sactivÃ©."
+msgstr "Votre compte a été désactivé."
 
 #: Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.
 msgid "Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files."
-msgstr "Les paramÃ¨tres de votre serveur PHP ne vous autorisent pas Ã  uploader des fichiers de plus de %s Ã  la fois. Modifiez les valeurs de post_max_size (valeur actuelle %s) et upload_max_filesize (valeur actuelle %s) dans php.ini si vous voulez pouvoir uploader des fichiers plus gros."
+msgstr "Les paramètres de votre serveur PHP ne vous autorisent pas à uploader des fichiers de plus de %s à la fois. Modifiez les valeurs de post_max_size (valeur actuelle %s) et upload_max_filesize (valeur actuelle %s) dans php.ini si vous voulez pouvoir uploader des fichiers plus gros."
 
 #: Zip/Postal Code:
 msgid "Zip/Postal Code:"
@@ -1336,7 +1336,7 @@ msgstr "images/logo.gif"
 
 #: items selected
 msgid "items selected"
-msgstr "Ã©lÃ©ment(s) sÃ©lectionnÃ©(s)"
+msgstr "élément(s) sélectionné(s)"
 
 #: major
 msgid "major"
@@ -1360,7 +1360,7 @@ msgstr "par page"
 
 #: to
 msgid "to"
-msgstr "Ã "
+msgstr "à"
 
 #: note that the URLs provided below are the correct values for your current website):
 msgid "note that the URLs provided below are the correct values for your current website):"
@@ -1396,19 +1396,19 @@ msgstr "Ajouter au panier"
 
 #: Add to Wishlist
 msgid "Add to Wishlist"
-msgstr "Ajouter Ã  la liste d'envies"
+msgstr "Ajouter à la liste d'envies"
 
 #: AirMail Template Preview
 msgid "AirMail Template Preview"
-msgstr "PrÃ©visualisation du gabarit de AirMail"
+msgstr "Prévisualisation du gabarit de AirMail"
 
 #: Apply Theme
 msgid "Apply Theme"
-msgstr "Appliquer le thÃ¨me"
+msgstr "Appliquer le thème"
 
 #: As low as:
 msgid "As low as:"
-msgstr "Prix spÃ©cial :"
+msgstr "Prix spécial :"
 
 #: Back
 msgid "Back"
@@ -1432,7 +1432,7 @@ msgstr "Changer l'orientation"
 
 #: Choose a selection...
 msgid "Choose a selection..."
-msgstr "Choisissez une sÃ©lection"
+msgstr "Choisissez une sélection"
 
 #: Continue
 msgid "Continue"
@@ -1440,11 +1440,11 @@ msgstr "Continuer"
 
 #: Credit Card %s
 msgid "Credit Card %s"
-msgstr "Carte de crÃ©dit %s"
+msgstr "Carte de crédit %s"
 
 #: Custom Colors
 msgid "Custom Colors"
-msgstr "Couleurs personnalisÃ©es"
+msgstr "Couleurs personnalisées"
 
 #: Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.
 msgid "Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode."
@@ -1452,19 +1452,19 @@ msgstr "Ne pas activer les options AVS ou CSC. Ces options ne fonctionnent pas e
 
 #: Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.
 msgid "Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout."
-msgstr "Dans le bloc d'informations de facturation et de livraison de votre compte Payflow, ne rendez Ã©ditable aucun champ."
+msgstr "Dans le bloc d'informations de facturation et de livraison de votre compte Payflow, ne rendez éditable aucun champ."
 
 #: Edit Filter
 msgid "Edit Filter"
-msgstr "Ã‰diter le filtre"
+msgstr "Éditer le filtre"
 
 #: Enable Secure Token:
 msgid "Enable Secure Token:"
-msgstr "Ã‰diter le jeton de sÃ©curitÃ© :"
+msgstr "Éditer le jeton de sécurité :"
 
 #: Entity Attributes
 msgid "Entity Attributes"
-msgstr "Attributs d'entitÃ©"
+msgstr "Attributs d'entité"
 
 #: Export FAQ
 msgid "Export FAQ"
@@ -1472,11 +1472,11 @@ msgstr "FAQ d'export"
 
 #: FILTERS APPLIED
 msgid "FILTERS APPLIED"
-msgstr "FILTRES APPLIQUÃ‰S"
+msgstr "FILTRES APPLIQUÉS"
 
 #: Go to messages inbox
 msgid "Go to messages inbox"
-msgstr "Aller Ã  la boÃ®te de rÃ©ception"
+msgstr "Aller à la boîte de réception"
 
 #: Go to notifications
 msgid "Go to notifications"
@@ -1488,7 +1488,7 @@ msgstr "Accueil"
 
 #: If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.
 msgid "If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website."
-msgstr "Si votre instance Magento est utilisÃ©e pour plusieurs sites web, vous devez configurer un compte Payflow Link pour chaque site web."
+msgstr "Si votre instance Magento est utilisée pour plusieurs sites web, vous devez configurer un compte Payflow Link pour chaque site web."
 
 #: Import / Export FAQ (Frequently Asked Questions)
 msgid "Import / Export FAQ (Frequently Asked Questions)"
@@ -1524,7 +1524,7 @@ msgstr "Rendre inactif"
 
 #: Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.
 msgid "Make sure that you configure the design settings for the Payflow Link form in your Payflow link account."
-msgstr "Assurez-vous d'avoir configurÃ© le design pour le formulaire Payflow Link dans votre compte Payflow Link."
+msgstr "Assurez-vous d'avoir configuré le design pour le formulaire Payflow Link dans votre compte Payflow Link."
 
 #: More Tabs
 msgid "More Tabs"
@@ -1536,31 +1536,31 @@ msgstr "Sur mon site web"
 
 #: Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below
 msgid "Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below"
-msgstr "Une fois connectÃ© dans votre compte Payflow Link, allez dans le menu ParamÃ©trages du service - Pages de commande hÃ©bergÃ©es - Configuration et renseignez les options dÃ©crites ci-dessous"
+msgstr "Une fois connecté dans votre compte Payflow Link, allez dans le menu Paramétrages du service - Pages de commande hébergées - Configuration et renseignez les options décrites ci-dessous"
 
 #: Options menu items
 msgid "Options menu items"
-msgstr "Ã‰lÃ©ments du menu d'options"
+msgstr "Éléments du menu d'options"
 
 #: Out of stock
 msgid "Out of stock"
-msgstr "Ã‰puisÃ©"
+msgstr "Épuisé"
 
 #: Please confirm site switching. All data that hasn't been saved will be lost.
 msgid "Please confirm site switching. All data that hasn't been saved will be lost."
-msgstr "Confirmez-vous le changement de site ? Toutes les donnÃ©es non sauvegardÃ©es seront perdues."
+msgstr "Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues."
 
 #: Please enter another credit card number to complete your purchase.
 msgid "Please enter another credit card number to complete your purchase."
-msgstr "Veuillez saisir un autre numÃ©ro de carte bancaire afin de poursuivre votre commande."
+msgstr "Veuillez saisir un autre numéro de carte bancaire afin de poursuivre votre commande."
 
 #: Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.
 msgid "Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
-msgstr "Seuls les chiffres sont autorisÃ©s dans ce champ. Ã‰vitez les espaces ou autres caractÃ¨res tels que les points ou les virgules."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
 
 #: Preset Theme
 msgid "Preset Theme"
-msgstr "ThÃ¨me prÃ©-configurÃ©"
+msgstr "Thème pré-configuré"
 
 #: Product Name3
 msgid "Product Name3"
@@ -1576,7 +1576,7 @@ msgstr "Product Name3 2"
 
 #: Qty:
 msgid "Qty:"
-msgstr "QtÃ© :"
+msgstr "Qté :"
 
 #: Regular Price:
 msgid "Regular Price:"
@@ -1584,15 +1584,15 @@ msgstr "Prix normal :"
 
 #: Required settings
 msgid "Required settings"
-msgstr "ParamÃ¨tres obligatoires"
+msgstr "Paramètres obligatoires"
 
 #: Reset
 msgid "Reset"
-msgstr "RÃ©initialiser"
+msgstr "Réinitialiser"
 
 #: Reset Successful
 msgid "Reset Successful"
-msgstr "RÃ©initialisation effectuÃ©e"
+msgstr "Réinitialisation effectuée"
 
 #: Return URL:
 msgid "Return URL:"
@@ -1604,15 +1604,15 @@ msgstr "TRIER PAR :"
 
 #: Save Theme
 msgid "Save Theme"
-msgstr "Enregistrer le thÃ¨me"
+msgstr "Enregistrer le thème"
 
 #: Screens:
 msgid "Screens:"
-msgstr "Ã‰crans :"
+msgstr "Écrans :"
 
 #: Select Template
 msgid "Select Template"
-msgstr "SÃ©lectionner le gabarit"
+msgstr "Sélectionner le gabarit"
 
 #: Show confirmation page:
 msgid "Show confirmation page:"
@@ -1628,7 +1628,7 @@ msgstr "Autre FAQ"
 
 #: Special Price:
 msgid "Special Price:"
-msgstr "Prix spÃ©cial :"
+msgstr "Prix spécial :"
 
 #: Synchronization is required.
 msgid "Synchronization is required."
@@ -1636,7 +1636,7 @@ msgstr "La synchronisation est obligatoire."
 
 #: System busy
 msgid "System busy"
-msgstr "Le systÃ¨me est occupÃ©"
+msgstr "Le système est occupé"
 
 #: T-Shirts
 msgid "T-Shirts"
@@ -1644,7 +1644,7 @@ msgstr "Tee-shirts"
 
 #: Tell a Friend
 msgid "Tell a Friend"
-msgstr "En parler Ã  un ami"
+msgstr "En parler à un ami"
 
 #: Template Name
 msgid "Template Name"
@@ -1652,7 +1652,7 @@ msgstr "Nom du gabarit"
 
 #: Theme has been saved.
 msgid "Theme has been saved."
-msgstr "Le thÃ¨me a Ã©tÃ© enregistrÃ©."
+msgstr "Le thème a été enregistré."
 
 #: Title bar
 msgid "Title bar"
@@ -1660,7 +1660,7 @@ msgstr "Barre de titre"
 
 #: To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.
 msgid "To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel."
-msgstr "Pour annuler les autorisations en cours et libÃ©rer les montants dÃ©jÃ  prÃ©levÃ©s pendant ce processus, cliquez sur Annuler."
+msgstr "Pour annuler les autorisations en cours et libérer les montants déjà prélevés pendant ce processus, cliquez sur Annuler."
 
 #: To use Payflow Link, you must configure your Payflow Link account on the Paypal website.
 msgid "To use Payflow Link, you must configure your Payflow Link account on the Paypal website."
@@ -1680,7 +1680,7 @@ msgstr "Erreur inconnue."
 
 #: Update Preview
 msgid "Update Preview"
-msgstr "Mettre Ã  jour la prÃ©visualisation"
+msgstr "Mettre à jour la prévisualisation"
 
 #: Use Silent Post:
 msgid "Use Silent Post:"
@@ -1688,11 +1688,11 @@ msgstr "Utiliser la soumission silencieuce (Silent Post) :"
 
 #: Validation Results
 msgid "Validation Results"
-msgstr "RÃ©sultat de validation"
+msgstr "Résultat de validation"
 
 #: View Details
 msgid "View Details"
-msgstr "Voir les dÃ©tails"
+msgstr "Voir les détails"
 
 #: View Gallery
 msgid "View Gallery"
@@ -1700,11 +1700,11 @@ msgstr "Voir la galerie"
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: You have %s unread message(s).
 msgid "You have %s unread message(s)."
@@ -1712,11 +1712,11 @@ msgstr "Vous avez %s message(s) non lu(s)."
 
 #: (For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)
 msgid "(For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
-msgstr "(Pour le type \"Serveur local\", il est nÃ©cessaire d'utiliser un chemin relatif vers les rÃ©pertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)"
+msgstr "(Pour le type \"Serveur local\", il est nécessaire d'utiliser un chemin relatif vers les répertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)"
 
 #: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
 msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriÃ©taire de l'application, vous Ãªtes responsable de vous conformer aux lois spÃ©cifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de rÃ©sidence.)"
+msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)"
 
 #: ASCII
 msgid "ASCII"
@@ -1728,7 +1728,7 @@ msgstr "Tous les lieux"
 
 #: Are you sure you want to delete this theme? This change will affect all applications.
 msgid "Are you sure you want to delete this theme? This change will affect all applications."
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce thÃ¨me ? Ce changement prendra effet sur toutes les applications."
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce thème ? Ce changement prendra effet sur toutes les applications."
 
 #: BINARY
 msgid "BINARY"
@@ -1740,11 +1740,11 @@ msgstr "Annuler"
 
 #: Delete theme
 msgid "Delete theme"
-msgstr "Supprimer le thÃ¨me"
+msgstr "Supprimer le thème"
 
 #: Deselect All
 msgid "Deselect All"
-msgstr "Tout dÃ©sÃ©lectionner"
+msgstr "Tout désélectionner"
 
 #: File mode
 msgid "File mode"
@@ -1752,7 +1752,7 @@ msgstr "Mode de fichier"
 
 #: Loading Preview...
 msgid "Loading Preview..."
-msgstr "PrÃ©visualisation en cours de chargement..."
+msgstr "Prévisualisation en cours de chargement..."
 
 #: Magento Core API
 msgid "Magento Core API"
@@ -1764,15 +1764,15 @@ msgstr "Section de l'API Core de Magento"
 
 #: Only custom theme can be deleted
 msgid "Only custom theme can be deleted"
-msgstr "Seuls les thÃ¨mes personnalisÃ©s peuvent Ãªtre supprimÃ©s"
+msgstr "Seuls les thèmes personnalisés peuvent être supprimés"
 
 #: Only default theme can be reset
 msgid "Only default theme can be reset"
-msgstr "Seul le thÃ¨me par dÃ©faut peut Ãªtre rÃ©initialisÃ©"
+msgstr "Seul le thème par défaut peut être réinitialisé"
 
 #: Reset theme to default
 msgid "Reset theme to default"
-msgstr "RÃ©initialiser le thÃ¨me par dÃ©faut"
+msgstr "Réinitialiser le thème par défaut"
 
 #: Save
 msgid "Save"
@@ -1784,19 +1784,19 @@ msgstr "Sauvegarder sous"
 
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
-msgstr "Les configurations du thÃ¨me ont bien Ã©tÃ© rÃ©initialisÃ©es."
+msgstr "Les configurations du thème ont bien été réinitialisées."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr "L'Ã©tiquette du thÃ¨me ne peut pas Ãªtre vide."
+msgstr "L'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"
-msgstr "Ã‰tiquette du thÃ¨me :"
+msgstr "Étiquette du thème :"
 
 #: WS-I Compliance
 msgid "WS-I Compliance"
-msgstr "CompatibilitÃ© WS-I"
+msgstr "Compatibilité WS-I"
 
 #: Warning!rnThis action will remove this user from already assigned rolernAre you sure?
 msgid "Warning!rnThis action will remove this user from already assigned rolernAre you sure?"
@@ -1816,7 +1816,7 @@ msgstr "Activer le cache WSDL"
 
 #: SOAP/XML-RPC - Roles
 msgid "SOAP/XML-RPC - Roles"
-msgstr "SOAP/XML-RPC - RÃ´les"
+msgstr "SOAP/XML-RPC - Rôles"
 
 #: SOAP/XML-RPC - Users
 msgid "SOAP/XML-RPC - Users"

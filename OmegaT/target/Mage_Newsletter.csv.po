@@ -12,11 +12,11 @@ msgstr "Ajouter un nouveau gabarit"
 
 #: Add to Queue
 msgid "Add to Queue"
-msgstr "Ajouter Ã  la file"
+msgstr "Ajouter à la file"
 
 #: Allow Guest Subscription
 msgid "Allow Guest Subscription"
-msgstr "Autoriser l'inscription des invitÃ©s"
+msgstr "Autoriser l'inscription des invités"
 
 #: An error occurred while saving your subscription.
 msgid "An error occurred while saving your subscription."
@@ -24,11 +24,11 @@ msgstr "Erreur lors de la sauvegarde de votre inscription."
 
 #: Are you sure that you want to delete this template?
 msgid "Are you sure that you want to delete this template?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce gabarit ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?"
 
 #: Are you sure that you want to strip all tags?
 msgid "Are you sure that you want to strip all tags?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer tous les tags ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer tous les tags ?"
 
 #: Back
 msgid "Back"
@@ -40,15 +40,15 @@ msgstr "Annuler"
 
 #: Cancelled
 msgid "Cancelled"
-msgstr "AnnulÃ©"
+msgstr "Annulé"
 
 #: Cannot mark as received subscriber.
 msgid "Cannot mark as received subscriber."
-msgstr "Impossible de marquer en tant qu'inscrit reÃ§u."
+msgstr "Impossible de marquer en tant qu'inscrit reçu."
 
 #: Confirmation Email Sender
 msgid "Confirmation Email Sender"
-msgstr "ExpÃ©diteur du mail de confirmation"
+msgstr "Expéditeur du mail de confirmation"
 
 #: Confirmation Email Template
 msgid "Confirmation Email Template"
@@ -56,7 +56,7 @@ msgstr "Gabarit du mail de confirmation"
 
 #: Confirmation request has been sent.
 msgid "Confirmation request has been sent."
-msgstr "La requÃªte de confirmation a Ã©tÃ© envoyÃ©e."
+msgstr "La requête de confirmation a été envoyée."
 
 #: Convert to Plain Text
 msgid "Convert to Plain Text"
@@ -64,7 +64,7 @@ msgstr "Convertir en texte simple"
 
 #: Create Newsletter Template
 msgid "Create Newsletter Template"
-msgstr "CrÃ©er un nouveau gabarit de newsletter"
+msgstr "Créer un nouveau gabarit de newsletter"
 
 #: Customer
 msgid "Customer"
@@ -72,7 +72,7 @@ msgstr "Client"
 
 #: Customer First Name
 msgid "Customer First Name"
-msgstr "PrÃ©nom du client"
+msgstr "Prénom du client"
 
 #: Customer Last Name
 msgid "Customer Last Name"
@@ -80,7 +80,7 @@ msgstr "Nom de famille du client"
 
 #: Customer My Account Newsletter Subscriptions
 msgid "Customer My Account Newsletter Subscriptions"
-msgstr "Inscriptions Ã  la newsletter du compte client"
+msgstr "Inscriptions à la newsletter du compte client"
 
 #: Date Added
 msgid "Date Added"
@@ -88,7 +88,7 @@ msgstr "Date d'ajout"
 
 #: Date Updated
 msgid "Date Updated"
-msgstr "Date de mise Ã  jour"
+msgstr "Date de mise à jour"
 
 #: Delete
 msgid "Delete"
@@ -96,7 +96,7 @@ msgstr "Supprimer"
 
 #: Delete Selected Problems
 msgid "Delete Selected Problems"
-msgstr "Supprimer les problÃ¨mes sÃ©lectionnÃ©s"
+msgstr "Supprimer les problèmes sélectionnés"
 
 #: Delete Template
 msgid "Delete Template"
@@ -108,23 +108,23 @@ msgstr "Voulez-vous vraiment supprimer la file ?"
 
 #: Duplicate template code.
 msgid "Duplicate template code."
-msgstr "Code de gabarit dupliquÃ©."
+msgstr "Code de gabarit dupliqué."
 
 #: Edit Newsletter
 msgid "Edit Newsletter"
-msgstr "Ã‰diter la newsletter"
+msgstr "Éditer la newsletter"
 
 #: Edit Newsletter Template
 msgid "Edit Newsletter Template"
-msgstr "Ã‰diter le gabarit de newsletter"
+msgstr "Éditer le gabarit de newsletter"
 
 #: Edit Queue
 msgid "Edit Queue"
-msgstr "Ã‰diter file"
+msgstr "Éditer file"
 
 #: Edit Template
 msgid "Edit Template"
-msgstr "Ã‰diter le gabarit"
+msgstr "Éditer le gabarit"
 
 #: Email
 msgid "Email"
@@ -144,11 +144,11 @@ msgstr "Texte d'erreur"
 
 #: Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>
 msgid "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>"
-msgstr "Cliquez sur ce lien pour vous dÃ©sinscrire <!-- Sert au lien de dÃ©sinscription --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>"
+msgstr "Cliquez sur ce lien pour vous désinscrire <!-- Sert au lien de désinscription --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>"
 
 #: Guest
 msgid "Guest"
-msgstr "InvitÃ©"
+msgstr "Invité"
 
 #: ID
 msgid "ID"
@@ -156,7 +156,7 @@ msgstr "ID"
 
 #: Invalid queue selected.
 msgid "Invalid queue selected."
-msgstr "File d'attente sÃ©lectionnÃ©e invalide."
+msgstr "File d'attente sélectionnée invalide."
 
 #: Invalid subscription ID.
 msgid "Invalid subscription ID."
@@ -172,7 +172,7 @@ msgstr "Message"
 
 #: Need to Confirm
 msgid "Need to Confirm"
-msgstr "Confirmation nÃ©cessaire"
+msgstr "Confirmation nécessaire"
 
 #: New Newsletter Template
 msgid "New Newsletter Template"
@@ -188,11 +188,11 @@ msgstr "Newsletter"
 
 #: Newsletter Message Preview
 msgid "Newsletter Message Preview"
-msgstr "PrÃ©visualisation du message de la newsletter"
+msgstr "Prévisualisation du message de la newsletter"
 
 #: Newsletter Problem Reports
 msgid "Newsletter Problem Reports"
-msgstr "Rapports des problÃ¨mes de newsletter"
+msgstr "Rapports des problèmes de newsletter"
 
 #: Newsletter Queue
 msgid "Newsletter Queue"
@@ -204,7 +204,7 @@ msgstr "Section newsletter"
 
 #: Newsletter Sign-up:
 msgid "Newsletter Sign-up:"
-msgstr "Inscription Ã  la newsletter :"
+msgstr "Inscription à la newsletter :"
 
 #: Newsletter Styles
 msgid "Newsletter Styles"
@@ -212,11 +212,11 @@ msgstr "Styles de newsletter"
 
 #: Newsletter Subscribers
 msgid "Newsletter Subscribers"
-msgstr "AbonnÃ©s Ã  la newsletter"
+msgstr "Abonnés à la newsletter"
 
 #: Newsletter Subscription
 msgid "Newsletter Subscription"
-msgstr "Abonnement Ã  la newsletter"
+msgstr "Abonnement à la newsletter"
 
 #: Newsletter Subscription Form Before
 msgid "Newsletter Subscription Form Before"
@@ -224,7 +224,7 @@ msgstr "Avant le formulaire d'inscription de newsletter"
 
 #: Newsletter Subscriptions
 msgid "Newsletter Subscriptions"
-msgstr "Abonnements Ã  la newsletter"
+msgstr "Abonnements à la newsletter"
 
 #: Newsletter Templates
 msgid "Newsletter Templates"
@@ -232,35 +232,35 @@ msgstr "Gabarits newsletter"
 
 #: Newsletter subscription confirmation
 msgid "Newsletter subscription confirmation"
-msgstr "Confirmation de l'abonnement Ã  la newsletter"
+msgstr "Confirmation de l'abonnement à la newsletter"
 
 #: Newsletter subscription success
 msgid "Newsletter subscription success"
-msgstr "Abonnement Ã  la newsletter rÃ©ussi"
+msgstr "Abonnement à la newsletter réussi"
 
 #: Newsletter unsubscription success
 msgid "Newsletter unsubscription success"
-msgstr "DÃ©sabonnement de la newsletter rÃ©ussi"
+msgstr "Désabonnement de la newsletter réussi"
 
 #: No Templates Found
 msgid "No Templates Found"
-msgstr "Aucun gabarit trouvÃ©"
+msgstr "Aucun gabarit trouvé"
 
 #: No problems found.
 msgid "No problems found."
-msgstr "Aucun problÃ¨me rencontrÃ©."
+msgstr "Aucun problème rencontré."
 
 #: No subscribers selected.
 msgid "No subscribers selected."
-msgstr "Aucun inscrit sÃ©lectionnÃ©."
+msgstr "Aucun inscrit sélectionné."
 
 #: Not Activated
 msgid "Not Activated"
-msgstr "Non activÃ©"
+msgstr "Non activé"
 
 #: Not Sent
 msgid "Not Sent"
-msgstr "Pas envoyÃ©"
+msgstr "Pas envoyé"
 
 #: Pause
 msgid "Pause"
@@ -268,7 +268,7 @@ msgstr "Pause"
 
 #: Paused
 msgid "Paused"
-msgstr "ArrÃªtÃ©"
+msgstr "Arrêté"
 
 #: Please enter a valid email address.
 msgid "Please enter a valid email address."
@@ -280,23 +280,23 @@ msgstr "Saisissez un nouveau nom de gabarit"
 
 #: Please select subscriber(s)
 msgid "Please select subscriber(s)"
-msgstr "SÃ©lectionnez des abonnÃ©s"
+msgstr "Sélectionnez des abonnés"
 
 #: Preview
 msgid "Preview"
-msgstr "PrÃ©visualiser"
+msgstr "Prévisualiser"
 
 #: Preview Template
 msgid "Preview Template"
-msgstr "PrÃ©visualiser le gabarit"
+msgstr "Prévisualiser le gabarit"
 
 #: Processed
 msgid "Processed"
-msgstr "TerminÃ©"
+msgstr "Terminé"
 
 #: Queue Date Start
 msgid "Queue Date Start"
-msgstr "Date de dÃ©marrage de la file"
+msgstr "Date de démarrage de la file"
 
 #: Queue Finish
 msgid "Queue Finish"
@@ -312,7 +312,7 @@ msgstr "File de newsletter"
 
 #: Queue Start
 msgid "Queue Start"
-msgstr "DÃ©but de la file"
+msgstr "Début de la file"
 
 #: Queue Subject
 msgid "Queue Subject"
@@ -324,7 +324,7 @@ msgstr "Destinataires"
 
 #: Reset
 msgid "Reset"
-msgstr "RÃ©initialiser"
+msgstr "Réinitialiser"
 
 #: Resume
 msgid "Resume"
@@ -332,7 +332,7 @@ msgstr "Reprendre"
 
 #: Return HTML Version
 msgid "Return HTML Version"
-msgstr "Revenir Ã  la version HTML"
+msgstr "Revenir à la version HTML"
 
 #: Save As
 msgid "Save As"
@@ -352,23 +352,23 @@ msgstr "Sauvegarder et continuer"
 
 #: Selected problem subscribers have been unsubscribed.
 msgid "Selected problem subscribers have been unsubscribed."
-msgstr "Les inscrits qui posaient problÃ¨me et qui Ã©taient sÃ©lectionnÃ©s ont Ã©tÃ© dÃ©sinscrits."
+msgstr "Les inscrits qui posaient problème et qui étaient sélectionnés ont été désinscrits."
 
 #: Selected problems have been deleted.
 msgid "Selected problems have been deleted."
-msgstr "Les problÃ¨mes sÃ©lectionnÃ©s ont Ã©tÃ© supprimÃ©s."
+msgstr "Les problèmes sélectionnés ont été supprimés."
 
 #: Sender
 msgid "Sender"
-msgstr "ExpÃ©diteur"
+msgstr "Expéditeur"
 
 #: Sender Email
 msgid "Sender Email"
-msgstr "Email de l'expÃ©diteur"
+msgstr "Email de l'expéditeur"
 
 #: Sender Name
 msgid "Sender Name"
-msgstr "Nom de l'expÃ©diteur"
+msgstr "Nom de l'expéditeur"
 
 #: Sending
 msgid "Sending"
@@ -376,19 +376,19 @@ msgstr "Envoi en cours"
 
 #: Sent
 msgid "Sent"
-msgstr "EnvoyÃ©"
+msgstr "Envoyé"
 
 #: Sign Up for Our Newsletter:
 msgid "Sign Up for Our Newsletter:"
-msgstr "Inscription Ã  notre newsletter :"
+msgstr "Inscription à notre newsletter :"
 
 #: Sign up for our newsletter
 msgid "Sign up for our newsletter"
-msgstr "Abonnez-vous Ã  la newsletter"
+msgstr "Abonnez-vous à la newsletter"
 
 #: Sorry, but administrator denied subscription for guests. Please <a href=\"%s\">register</a>.
 msgid "Sorry, but administrator denied subscription for guests. Please <a href=\"%s\">register</a>."
-msgstr "L'inscription n'est pas autorisÃ©e aux invitÃ©s. Veuillez <a href=\"%s\">crÃ©er un compte</a>."
+msgstr "L'inscription n'est pas autorisée aux invités. Veuillez <a href=\"%s\">créer un compte</a>."
 
 #: Start
 msgid "Start"
@@ -424,15 +424,15 @@ msgstr "Inscrit"
 
 #: Subscriber
 msgid "Subscriber"
-msgstr "AbonnÃ©"
+msgstr "Abonné"
 
 #: Subscribers
 msgid "Subscribers"
-msgstr "AbonnÃ©s"
+msgstr "Abonnés"
 
 #: Subscribers From
 msgid "Subscribers From"
-msgstr "AbonnÃ©s de"
+msgstr "Abonnés de"
 
 #: Subscription Options
 msgid "Subscription Options"
@@ -440,11 +440,11 @@ msgstr "Options d'inscription"
 
 #: Success Email Sender
 msgid "Success Email Sender"
-msgstr "ExpÃ©diteur du mail de succÃ¨s"
+msgstr "Expéditeur du mail de succès"
 
 #: Success Email Template
 msgid "Success Email Template"
-msgstr "Gabarit du mail de succÃ¨s"
+msgstr "Gabarit du mail de succès"
 
 #: Template Content
 msgid "Template Content"
@@ -476,27 +476,27 @@ msgstr "Merci de votre inscription."
 
 #: The subscription has been removed.
 msgid "The subscription has been removed."
-msgstr "Vous n'Ãªtes plus inscrit(e) Ã  la newsletter."
+msgstr "Vous n'êtes plus inscrit(e) à la newsletter."
 
 #: The subscription has been saved.
 msgid "The subscription has been saved."
-msgstr "Merci de vous Ãªtre inscrit(e) Ã  la newsletter."
+msgstr "Merci de vous être inscrit(e) à la newsletter."
 
 #: There was a problem with the subscription.
 msgid "There was a problem with the subscription."
-msgstr "ProblÃ¨me lors de l'inscription."
+msgstr "Problème lors de l'inscription."
 
 #: There was a problem with the subscription: %s
 msgid "There was a problem with the subscription: %s"
-msgstr "Il y a eu un problÃ¨me lors de l'inscription : %s"
+msgstr "Il y a eu un problème lors de l'inscription : %s"
 
 #: There was a problem with the un-subscription.
 msgid "There was a problem with the un-subscription."
-msgstr "Un problÃ¨me est survenu lors de la dÃ©sinscription"
+msgstr "Un problème est survenu lors de la désinscription"
 
 #: This email address is already assigned to another user.
 msgid "This email address is already assigned to another user."
-msgstr "Cet email est dÃ©jÃ  assignÃ© Ã  un utilisateur."
+msgstr "Cet email est déjà assigné à un utilisateur."
 
 #: Type
 msgid "Type"
@@ -504,27 +504,27 @@ msgstr "Type"
 
 #: Unconfirmed
 msgid "Unconfirmed"
-msgstr "Non confirmÃ©"
+msgstr "Non confirmé"
 
 #: Unsubscribe
 msgid "Unsubscribe"
-msgstr "DÃ©sabonner"
+msgstr "Désabonner"
 
 #: Unsubscribe Selected
 msgid "Unsubscribe Selected"
-msgstr "DÃ©sinscription sÃ©lectionnÃ©e"
+msgstr "Désinscription sélectionnée"
 
 #: Unsubscribed
 msgid "Unsubscribed"
-msgstr "DÃ©sinscrit"
+msgstr "Désinscrit"
 
 #: Unsubscription Email Sender
 msgid "Unsubscription Email Sender"
-msgstr "ExpÃ©diteur du mail de dÃ©sinscription"
+msgstr "Expéditeur du mail de désinscription"
 
 #: Unsubscription Email Template
 msgid "Unsubscription Email Template"
-msgstr "Gabarit du mail de dÃ©sinscription"
+msgstr "Gabarit du mail de désinscription"
 
 #: View Newsletter
 msgid "View Newsletter"
@@ -536,11 +536,11 @@ msgstr "Site web"
 
 #: You have been unsubscribed.
 msgid "You have been unsubscribed."
-msgstr "Vous n'Ãªtes plus inscrit(e) Ã  la newsletter."
+msgstr "Vous n'êtes plus inscrit(e) à la newsletter."
 
 #: Your subscription has been confirmed.
 msgid "Your subscription has been confirmed."
-msgstr "Votre inscription a Ã©tÃ© confirmÃ©e."
+msgstr "Votre inscription a été confirmée."
 
 #: Copy
 msgid "Copy"

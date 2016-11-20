@@ -1,10 +1,10 @@
 #:  The customer does not exist in the system anymore.
 msgid " The customer does not exist in the system anymore."
-msgstr " Le client n'existe plus dans le systÃ¨me."
+msgstr " Le client n'existe plus dans le système."
 
 #:  [deleted]
 msgid " [deleted]"
-msgstr " [effacÃ©]"
+msgstr " [effacé]"
 
 #: and
 msgid "and"
@@ -12,19 +12,19 @@ msgstr "et"
 
 #: %s (Default Template from Locale)
 msgid "%s (Default Template from Locale)"
-msgstr "%s (Gabarit par dÃ©faut pour la langue)"
+msgstr "%s (Gabarit par défaut pour la langue)"
 
 #: %s cache type(s) disabled.
 msgid "%s cache type(s) disabled."
-msgstr "%s type(s) de cache dÃ©sactivÃ©(s)."
+msgstr "%s type(s) de cache désactivé(s)."
 
 #: %s cache type(s) enabled.
 msgid "%s cache type(s) enabled."
-msgstr "%s type(s) de cache activÃ©(s)."
+msgstr "%s type(s) de cache activé(s)."
 
 #: %s cache type(s) refreshed.
 msgid "%s cache type(s) refreshed."
-msgstr "%s type(s) de cache actualisÃ©(s)."
+msgstr "%s type(s) de cache actualisé(s)."
 
 #: (Absolute path or Relative to Magento install root, ex. var/export)
 msgid "(Absolute path or Relative to Magento install root, ex. var/export)"
@@ -32,35 +32,35 @@ msgstr "(Chemin absolu ou relatif vers la racine d'installation de Magento, par 
 
 #: (For US 2-letter state names)
 msgid "(For US 2-letter state names)"
-msgstr "(Pour les US, 2 lettres du nom de l'Ã©tat)"
+msgstr "(Pour les US, 2 lettres du nom de l'état)"
 
 #: (If left empty will be auto-generated)
 msgid "(If left empty will be auto-generated)"
-msgstr "(GÃ©nÃ©rÃ© automatiquement si non renseignÃ©)"
+msgstr "(Généré automatiquement si non renseigné)"
 
 #: (Leave empty for first spreadsheet)
 msgid "(Leave empty for first spreadsheet)"
-msgstr "(Laisser vide pour la premiÃ¨re feuille de calcul)"
+msgstr "(Laisser vide pour la première feuille de calcul)"
 
 #: (Products will be added/updated to this store if 'store' column is blank or missing in the import file.)
 msgid "(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)"
-msgstr "(Les produits seront ajoutÃ©s/mis Ã  jour dans ce magasin si la colonne 'store' est vide ou manquante dans le fichier d'import)"
+msgstr "(Les produits seront ajoutés/mis à jour dans ce magasin si la colonne 'store' est vide ou manquante dans le fichier d'import)"
 
 #: (Shift-)Click or drag to change value
 msgid "(Shift-)Click or drag to change value"
-msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncÃ©e ou glissez"
+msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncée ou glissez"
 
 #: (Starting with)
 msgid "(Starting with)"
-msgstr "(CommenÃ§ant par)"
+msgstr "(Commençant par)"
 
 #: (When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)
 msgid "(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)"
-msgstr "(Si 'Non', seuls les champs mappÃ©s seront importÃ©s. Lorsque vous utilisez le mapping, utilisez 'column1', 'column2', etc.)"
+msgstr "(Si 'Non', seuls les champs mappés seront importés. Lorsque vous utilisez le mapping, utilisez 'column1', 'column2', etc.)"
 
 #: (You have to increase php memory_limit before changing this value)
 msgid "(You have to increase php memory_limit before changing this value)"
-msgstr "(Vous devez augmenter la mÃ©moire allouÃ©e Ã  PHP (php_limit) avant de modifier cette valeur)"
+msgstr "(Vous devez augmenter la mémoire allouée à PHP (php_limit) avant de modifier cette valeur)"
 
 #: (\\t for tab)
 msgid "(\\t for tab)"
@@ -68,7 +68,7 @@ msgstr "(\\t pour une tabulation)"
 
 #: * - If indexing is in progress, it will be killed and new indexing process will start.
 msgid "* - If indexing is in progress, it will be killed and new indexing process will start."
-msgstr "* - Si l'indexation est en cours, elle sera stoppÃ©e et un nouveau process d'indexation dÃ©marrera."
+msgstr "* - Si l'indexation est en cours, elle sera stoppée et un nouveau process d'indexation démarrera."
 
 #: - Click on any of the time parts to increase it
 msgid "- Click on any of the time parts to increase it"
@@ -76,27 +76,27 @@ msgstr "- Cliquez sur n'importe quelle partie de l'heure pour l'augmenter"
 
 #: - Hold mouse button on any of the above buttons for faster selection.
 msgid "- Hold mouse button on any of the above buttons for faster selection."
-msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sÃ©lection rapide"
+msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sélection rapide"
 
 #: - Use the %s buttons to select month
 msgid "- Use the %s buttons to select month"
-msgstr "- Utilisez les boutons %s pour sÃ©lectionner le mois"
+msgstr "- Utilisez les boutons %s pour sélectionner le mois"
 
 #: - Use the %s, %s buttons to select year
 msgid "- Use the %s, %s buttons to select year"
-msgstr "- Utilisez les boutons %s, %s pour sÃ©lectionner l'annÃ©e"
+msgstr "- Utilisez les boutons %s, %s pour sélectionner l'année"
 
 #: - or Shift-click to decrease it
 msgid "- or Shift-click to decrease it"
-msgstr "- ou cliquez en maintenant la touche shift enfoncÃ©e pour l'augmenter"
+msgstr "- ou cliquez en maintenant la touche shift enfoncée pour l'augmenter"
 
 #: - or click and drag for faster selection.
 msgid "- or click and drag for faster selection."
-msgstr "- ou cliquez et glissez pour une sÃ©lection plus rapide"
+msgstr "- ou cliquez et glissez pour une sélection plus rapide"
 
 #: -- Not Selected --
 msgid "-- Not Selected --"
-msgstr "-- Non sÃ©lectionnÃ© --"
+msgstr "-- Non sélectionné --"
 
 #: -- Please Select --
 msgid "-- Please Select --"
@@ -108,7 +108,7 @@ msgstr "-- Veuillez choisir l'entente de facturation--"
 
 #: -- Please Select a Category --
 msgid "-- Please Select a Category --"
-msgstr "-- Choisissez une catÃ©gorie --"
+msgstr "-- Choisissez une catégorie --"
 
 #: -- Please select --
 msgid "-- Please select --"
@@ -144,7 +144,7 @@ msgstr "24h"
 
 #: 2YTD
 msgid "2YTD"
-msgstr "Depuis le dÃ©but de l'annÃ©e derniÃ¨re"
+msgstr "Depuis le début de l'année dernière"
 
 #: 6 Hours
 msgid "6 Hours"
@@ -156,51 +156,51 @@ msgstr "<h1 class=\"page-heading\">Erreur 404</h1><p>Page introuvable.</p>"
 
 #: A new password was sent to your email address. Please check your email and click Back to Login.
 msgid "A new password was sent to your email address. Please check your email and click Back to Login."
-msgstr "Un nouveau mot de passe a Ã©tÃ© envoyÃ© Ã  votre adresse email. Veuillez vÃ©rifier votre courrier Ã©lectronique et cliquez sur Retour pour vous connecter."
+msgstr "Un nouveau mot de passe a été envoyé à votre adresse email. Veuillez vérifier votre courrier électronique et cliquez sur Retour pour vous connecter."
 
 #: A user with the same user name or email aleady exists.
 msgid "A user with the same user name or email aleady exists."
-msgstr "Il existe dÃ©jÃ  un utilisateur avec le mÃªme nom d'utilisateur ou email."
+msgstr "Il existe déjà un utilisateur avec le même nom d'utilisateur ou email."
 
 #: API Key
 msgid "API Key"
-msgstr "ClÃ© d'API"
+msgstr "Clé d'API"
 
 #: API Key Confirmation
 msgid "API Key Confirmation"
-msgstr "Confirmation de la clÃ© d'API"
+msgstr "Confirmation de la clé d'API"
 
 #: Abandoned Carts
 msgid "Abandoned Carts"
-msgstr "Paniers abandonnÃ©s"
+msgstr "Paniers abandonnés"
 
 #: About the calendar
 msgid "About the calendar"
-msgstr "Ã€ propos du calendrier"
+msgstr "À propos du calendrier"
 
 #: Access Denied
 msgid "Access Denied"
-msgstr "AccÃ¨s refusÃ©"
+msgstr "Accès refusé"
 
 #: Access denied
 msgid "Access denied"
-msgstr "AccÃ¨s refusÃ©"
+msgstr "Accès refusé"
 
 #: Access denied.
 msgid "Access denied."
-msgstr "AccÃ¨s refusÃ©."
+msgstr "Accès refusé."
 
 #: Account Created in:
 msgid "Account Created in:"
-msgstr "Compte crÃ©Ã© dans :"
+msgstr "Compte créé dans :"
 
 #: Account Created on (%s):
 msgid "Account Created on (%s):"
-msgstr "Compte crÃ©Ã© le (%s) :"
+msgstr "Compte créé le (%s) :"
 
 #: Account Created on:
 msgid "Account Created on:"
-msgstr "Compte crÃ©Ã© le :"
+msgstr "Compte créé le :"
 
 #: Account Information
 msgid "Account Information"
@@ -260,7 +260,7 @@ msgstr "Nouveau profil"
 
 #: Add New Role
 msgid "Add New Role"
-msgstr "Nouveau rÃ´le"
+msgstr "Nouveau rôle"
 
 #: Add New Template
 msgid "Add New Template"
@@ -268,7 +268,7 @@ msgstr "Ajouter un nouveau gabarit"
 
 #: Add New URL Rewrite
 msgid "Add New URL Rewrite"
-msgstr "Nouvelle rÃ©Ã©criture d'URL"
+msgstr "Nouvelle réécriture d'URL"
 
 #: Add New User
 msgid "Add New User"
@@ -288,31 +288,31 @@ msgstr "Ajoutez un nouveau profil osCommerce"
 
 #: Add PHP Extension dependency
 msgid "Add PHP Extension dependency"
-msgstr "Ajouter une dÃ©pendance d'extension PHP"
+msgstr "Ajouter une dépendance d'extension PHP"
 
 #: Add Package dependency
 msgid "Add Package dependency"
-msgstr "Ajouter une dÃ©pendance de package"
+msgstr "Ajouter une dépendance de package"
 
 #: Add URL Rewrite
 msgid "Add URL Rewrite"
-msgstr "Ajouter une rÃ©Ã©criture d'URL"
+msgstr "Ajouter une réécriture d'URL"
 
 #: Add URL Rewrite for a Category
 msgid "Add URL Rewrite for a Category"
-msgstr "Ajoutez une rÃ©Ã©criture d'URL pour une catÃ©gorie"
+msgstr "Ajoutez une réécriture d'URL pour une catégorie"
 
 #: Add URL Rewrite for a Product
 msgid "Add URL Rewrite for a Product"
-msgstr "Ajoutez une rÃ©Ã©criture d'URL pour un produit"
+msgstr "Ajoutez une réécriture d'URL pour un produit"
 
 #: Add after
 msgid "Add after"
-msgstr "Ajoutez aprÃ¨s"
+msgstr "Ajoutez après"
 
 #: Additional Cache Management
 msgid "Additional Cache Management"
-msgstr "Gestion Ã©tendue du cache"
+msgstr "Gestion étendue du cache"
 
 #: Address Type:
 msgid "Address Type:"
@@ -324,15 +324,15 @@ msgstr "Administration"
 
 #: Advanced Admin Section
 msgid "Advanced Admin Section"
-msgstr "Section admin avancÃ©e"
+msgstr "Section admin avancée"
 
 #: Advanced Profiles
 msgid "Advanced Profiles"
-msgstr "Profils avancÃ©s"
+msgstr "Profils avancés"
 
 #: Advanced Section
 msgid "Advanced Section"
-msgstr "Section avancÃ©e"
+msgstr "Section avancée"
 
 #: All
 msgid "All"
@@ -340,7 +340,7 @@ msgstr "Tous"
 
 #: All Allowed Countries
 msgid "All Allowed Countries"
-msgstr "Tous les pays autorisÃ©s"
+msgstr "Tous les pays autorisés"
 
 #: All Cache
 msgid "All Cache"
@@ -360,7 +360,7 @@ msgstr "Toutes les vues magasin"
 
 #: All Tags
 msgid "All Tags"
-msgstr "Tous les mots clÃ©s"
+msgstr "Tous les mots clés"
 
 #: All Websites
 msgid "All Websites"
@@ -376,15 +376,15 @@ msgstr "Tous les champs"
 
 #: All possible rates were fetched, please click on \"Save\" to apply
 msgid "All possible rates were fetched, please click on \"Save\" to apply"
-msgstr "Tous les taux possibles ont Ã©tÃ© rÃ©cupÃ©rÃ©s, cliquez sur \"Sauvegarder\" pour les appliquer."
+msgstr "Tous les taux possibles ont été récupérés, cliquez sur \"Sauvegarder\" pour les appliquer."
 
 #: All rates were fetched, please click on \"Save\" to apply
 msgid "All rates were fetched, please click on \"Save\" to apply"
-msgstr "Tous les taux ont Ã©tÃ© rÃ©cupÃ©rÃ©s, cliquez sur \"Sauvegarder\" pour les appliquer."
+msgstr "Tous les taux ont été récupérés, cliquez sur \"Sauvegarder\" pour les appliquer."
 
 #: All valid rates have been saved.
 msgid "All valid rates have been saved."
-msgstr "Tous les taux valides ont Ã©tÃ© sauvegardÃ©s."
+msgstr "Tous les taux valides ont été sauvegardés."
 
 #: Amounts
 msgid "Amounts"
@@ -400,15 +400,15 @@ msgstr "Erreur lors de la purge du cache des images."
 
 #: An error occurred while creating the backup.
 msgid "An error occurred while creating the backup."
-msgstr "Erreur lors de la crÃ©ation de la sauvegarde."
+msgstr "Erreur lors de la création de la sauvegarde."
 
 #: An error occurred while deleting email template data. Please review log and try again.
 msgid "An error occurred while deleting email template data. Please review log and try again."
-msgstr "Erreur lors de la suppression des donnÃ©es de gabarit d'email. Consultez les logs."
+msgstr "Erreur lors de la suppression des données de gabarit d'email. Consultez les logs."
 
 #: An error occurred while deleting this role.
 msgid "An error occurred while deleting this role."
-msgstr "Erreur lors de la suppression de ce rÃ´le."
+msgstr "Erreur lors de la suppression de ce rôle."
 
 #: An error occurred while deleting this set.
 msgid "An error occurred while deleting this set."
@@ -420,7 +420,7 @@ msgstr "Erreur lors de la suppression de ce gabarit."
 
 #: An error occurred while finishing process. Please refresh the cache
 msgid "An error occurred while finishing process. Please refresh the cache"
-msgstr "Erreur lors de la finalisation de ce process. RafraÃ®chissez le cache."
+msgstr "Erreur lors de la finalisation de ce process. Rafraîchissez le cache."
 
 #: An error occurred while rebuilding the CatalogInventory Stock Status.
 msgid "An error occurred while rebuilding the CatalogInventory Stock Status."
@@ -432,11 +432,11 @@ msgstr "Erreur lors de la reconstruction de l'index du catalogue."
 
 #: An error occurred while rebuilding the flat catalog category.
 msgid "An error occurred while rebuilding the flat catalog category."
-msgstr "Erreur lors de la reconstruction du catalogue Ã  plat des catÃ©gories."
+msgstr "Erreur lors de la reconstruction du catalogue à plat des catégories."
 
 #: An error occurred while rebuilding the flat product catalog.
 msgid "An error occurred while rebuilding the flat product catalog."
-msgstr "Erreur lors de la reconstruction du catalogue Ã  plat des produits."
+msgstr "Erreur lors de la reconstruction du catalogue à plat des produits."
 
 #: An error occurred while rebuilding the search index.
 msgid "An error occurred while rebuilding the search index."
@@ -444,7 +444,7 @@ msgstr "Erreur lors de la reconstruction de l'index de recherche."
 
 #: An error occurred while refreshing the Catalog Rewrites.
 msgid "An error occurred while refreshing the Catalog Rewrites."
-msgstr "Erreur lors de la reconstruction des rÃ©Ã©critures du catalogue."
+msgstr "Erreur lors de la reconstruction des réécritures du catalogue."
 
 #: An error occurred while refreshing the Layered Navigation indices.
 msgid "An error occurred while refreshing the Layered Navigation indices."
@@ -452,7 +452,7 @@ msgstr "Erreur lors de la reconstruction des indexes de navigation par filtre."
 
 #: An error occurred while refreshing the catalog rewrites.
 msgid "An error occurred while refreshing the catalog rewrites."
-msgstr "Erreur lors de la reconstruction des rÃ©Ã©critures du catalogue."
+msgstr "Erreur lors de la reconstruction des réécritures du catalogue."
 
 #: An error occurred while refreshing the layered navigation indices.
 msgid "An error occurred while refreshing the layered navigation indices."
@@ -472,7 +472,7 @@ msgstr "Erreur lors de la sauvegarde de cette configuration."
 
 #: An error occurred while saving this role.
 msgid "An error occurred while saving this role."
-msgstr "Erreur lors de la sauvegarde de ce rÃ´le."
+msgstr "Erreur lors de la sauvegarde de ce rôle."
 
 #: An error occurred while saving this template.
 msgid "An error occurred while saving this template."
@@ -480,7 +480,7 @@ msgstr "Erreur lors de la sauvegarde de ce gabarit."
 
 #: An error occurred while updating the selected review(s).
 msgid "An error occurred while updating the selected review(s)."
-msgstr "Erreur lors de la mise Ã  jour des commentaires sÃ©lectionnÃ©s."
+msgstr "Erreur lors de la mise à jour des commentaires sélectionnés."
 
 #: Any
 msgid "Any"
@@ -508,7 +508,7 @@ msgstr "Tous les types"
 
 #: Any Visibility
 msgid "Any Visibility"
-msgstr "Toutes les visibilitÃ©s"
+msgstr "Toutes les visibilités"
 
 #: Archive file name:
 msgid "Archive file name:"
@@ -516,15 +516,15 @@ msgstr "Nom du fichier d'archive :"
 
 #: Are you sure that you want to delete this template?
 msgid "Are you sure that you want to delete this template?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce gabarit ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?"
 
 #: Are you sure that you want to strip tags?
 msgid "Are you sure that you want to strip tags?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer les tags ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer les tags ?"
 
 #: Are you sure you want to do this?
 msgid "Are you sure you want to do this?"
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir effectuer cette opÃ©ration ?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
 
 #: Area
 msgid "Area"
@@ -532,11 +532,11 @@ msgstr "Zone"
 
 #: Assigned
 msgid "Assigned"
-msgstr "AffectÃ©"
+msgstr "Affecté"
 
 #: Associated Tags
 msgid "Associated Tags"
-msgstr "Tags associÃ©s"
+msgstr "Tags associés"
 
 #: Attribute Set Name:
 msgid "Attribute Set Name:"
@@ -572,7 +572,7 @@ msgstr "Retour"
 
 #: Back to Login
 msgid "Back to Login"
-msgstr "Retour Ã  l'identification"
+msgstr "Retour à l'identification"
 
 #: Backup
 msgid "Backup"
@@ -580,7 +580,7 @@ msgstr "Sauvegarde"
 
 #: Backup record was deleted.
 msgid "Backup record was deleted."
-msgstr "L'enregistrement de sauvegarde a Ã©tÃ© effacÃ©."
+msgstr "L'enregistrement de sauvegarde a été effacé."
 
 #: Backups
 msgid "Backups"
@@ -636,11 +636,11 @@ msgstr "Parcourir les fichiers..."
 
 #: Bundle Items
 msgid "Bundle Items"
-msgstr "Articles packagÃ©s"
+msgstr "Articles packagés"
 
 #: Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.
 msgid "Bundle with dynamic pricing cannot include custom defined options. Options will not be saved."
-msgstr "Un bundle avec un prix dynamique ne peut pas inclure d'options dÃ©finies. Les options ne seront pas sauvegardÃ©es."
+msgstr "Un bundle avec un prix dynamique ne peut pas inclure d'options définies. Les options ne seront pas sauvegardées."
 
 #: CMS
 msgid "CMS"
@@ -656,15 +656,15 @@ msgstr "CSV"
 
 #: CSV / Tab separated
 msgid "CSV / Tab separated"
-msgstr "CSV / sÃ©parÃ© par des tabulations"
+msgstr "CSV / séparé par des tabulations"
 
 #: Cache Control
 msgid "Cache Control"
-msgstr "ContrÃ´le du cache"
+msgstr "Contrôle du cache"
 
 #: Cache Control (beta)
 msgid "Cache Control (beta)"
-msgstr "ContrÃ´le du cache (beta)"
+msgstr "Contrôle du cache (beta)"
 
 #: Cache Management
 msgid "Cache Management"
@@ -684,15 +684,15 @@ msgstr "Impossible d'ajouter un commentaire."
 
 #: Cannot add tracking number.
 msgid "Cannot add tracking number."
-msgstr "Impossible d'ajouter un numÃ©ro de suivi."
+msgstr "Impossible d'ajouter un numéro de suivi."
 
 #: Cannot create an invoice without products.
 msgid "Cannot create an invoice without products."
-msgstr "Impossible de crÃ©er une facture sans produits."
+msgstr "Impossible de créer une facture sans produits."
 
 #: Cannot create credit memo for the order.
 msgid "Cannot create credit memo for the order."
-msgstr "Impossible de crÃ©er un avoir pour la commande."
+msgstr "Impossible de créer un avoir pour la commande."
 
 #: Cannot delete the design change.
 msgid "Cannot delete the design change."
@@ -700,15 +700,15 @@ msgstr "Impossible de supprimer le changement de design."
 
 #: Cannot delete tracking number.
 msgid "Cannot delete tracking number."
-msgstr "Impossible de supprimer le numÃ©ro de suivi."
+msgstr "Impossible de supprimer le numéro de suivi."
 
 #: Cannot do shipment for the order separately from invoice.
 msgid "Cannot do shipment for the order separately from invoice."
-msgstr "Impossible de crÃ©er une expÃ©dition pour la commande sÃ©parÃ©ment de la facture."
+msgstr "Impossible de créer une expédition pour la commande séparément de la facture."
 
 #: Cannot do shipment for the order.
 msgid "Cannot do shipment for the order."
-msgstr "Impossible de crÃ©er une expÃ©dition pour la commande."
+msgstr "Impossible de créer une expédition pour la commande."
 
 #: Cannot find the email address.
 msgid "Cannot find the email address."
@@ -716,11 +716,11 @@ msgstr "Impossible de trouver l'email."
 
 #: Cannot initialize shipment for adding tracking number.
 msgid "Cannot initialize shipment for adding tracking number."
-msgstr "Impossible d'initialiser l'expÃ©dition pour ajouter le numÃ©ro de suivi."
+msgstr "Impossible d'initialiser l'expédition pour ajouter le numéro de suivi."
 
 #: Cannot initialize shipment for delete tracking number.
 msgid "Cannot initialize shipment for delete tracking number."
-msgstr "Impossible d'initialiser l'expÃ©dition pour supprimer le numÃ©ro de suivi."
+msgstr "Impossible d'initialiser l'expédition pour supprimer le numéro de suivi."
 
 #: Cannot load track with retrieving identifier.
 msgid "Cannot load track with retrieving identifier."
@@ -728,11 +728,11 @@ msgstr "Impossible de charger le suivi avec l'identifiant."
 
 #: Cannot retrieve tracking number detail.
 msgid "Cannot retrieve tracking number detail."
-msgstr "Impossible de rÃ©cupÃ©rer le dÃ©tail du suivi pour ce numÃ©ro."
+msgstr "Impossible de récupérer le détail du suivi pour ce numéro."
 
 #: Cannot save shipment.
 msgid "Cannot save shipment."
-msgstr "Impossible de sauvegarder l'expÃ©dition."
+msgstr "Impossible de sauvegarder l'expédition."
 
 #: Cannot save the credit memo.
 msgid "Cannot save the credit memo."
@@ -740,19 +740,19 @@ msgstr "Impossible de sauvegarder l'avoir."
 
 #: Cannot send shipment information.
 msgid "Cannot send shipment information."
-msgstr "Impossible d'envoyer les informations d'expÃ©dition."
+msgstr "Impossible d'envoyer les informations d'expédition."
 
 #: Cannot update item quantity.
 msgid "Cannot update item quantity."
-msgstr "Impossible de mettre Ã  jour la quantitÃ© de l'article."
+msgstr "Impossible de mettre à jour la quantité de l'article."
 
 #: Cannot update the item\'s quantity.
 msgid "Cannot update the item\'s quantity."
-msgstr "Impossible de mettre Ã  jour la quantitÃ© de l'article."
+msgstr "Impossible de mettre à jour la quantité de l'article."
 
 #: Card Verification Number
 msgid "Card Verification Number"
-msgstr "NumÃ©ro de vÃ©rification"
+msgstr "Numéro de vérification"
 
 #: Catalog
 msgid "Catalog"
@@ -760,19 +760,19 @@ msgstr "Catalogue"
 
 #: Catalog Price Rules
 msgid "Catalog Price Rules"
-msgstr "RÃ¨gles de prix catalogue"
+msgstr "Règles de prix catalogue"
 
 #: Catalog Rewrites
 msgid "Catalog Rewrites"
-msgstr "RÃ©Ã©criture du catalogue"
+msgstr "Réécriture du catalogue"
 
 #: Categories
 msgid "Categories"
-msgstr "CatÃ©gories"
+msgstr "Catégories"
 
 #: Category:
 msgid "Category:"
-msgstr "CatÃ©gorie :"
+msgstr "Catégorie :"
 
 #: Channel
 msgid "Channel"
@@ -780,11 +780,11 @@ msgstr "Canal"
 
 #: Chart is disabled. If you want to enable chart, click <a href=\"%s\">here</a>.
 msgid "Chart is disabled. If you want to enable chart, click <a href=\"%s\">here</a>."
-msgstr "Le graphique est dÃ©sactivÃ©. Pour l'activer, cliquez <a href=\"%s\">ici</a>"
+msgstr "Le graphique est désactivé. Pour l'activer, cliquez <a href=\"%s\">ici</a>"
 
 #: Checkbox
 msgid "Checkbox"
-msgstr "Case Ã  cocher"
+msgstr "Case à cocher"
 
 #: Child Transactions
 msgid "Child Transactions"
@@ -800,7 +800,7 @@ msgstr "Choisir un attribut"
 
 #: Chosen product does not associated with any website.
 msgid "Chosen product does not associated with any website."
-msgstr "Le produit choisi n'est associÃ© Ã  aucun site web."
+msgstr "Le produit choisi n'est associé à aucun site web."
 
 #: Clear
 msgid "Clear"
@@ -812,7 +812,7 @@ msgstr "Fermer"
 
 #: Comment text field cannot be empty.
 msgid "Comment text field cannot be empty."
-msgstr "Le champ texte du commentaire ne peut pas Ãªtre vide."
+msgstr "Le champ texte du commentaire ne peut pas être vide."
 
 #: Comments History
 msgid "Comments History"
@@ -820,7 +820,7 @@ msgstr "Historique de commentaires"
 
 #: Complete
 msgid "Complete"
-msgstr "TerminÃ©e"
+msgstr "Terminée"
 
 #: Configuration
 msgid "Configuration"
@@ -828,11 +828,11 @@ msgstr "Configuration"
 
 #: Confirmed email:
 msgid "Confirmed email:"
-msgstr "Email confirmÃ© :"
+msgstr "Email confirmé :"
 
 #: Connect with the Magento Community
 msgid "Connect with the Magento Community"
-msgstr "Connexion Ã  la communautÃ© de Magento"
+msgstr "Connexion à la communauté de Magento"
 
 #: Contents
 msgid "Contents"
@@ -844,7 +844,7 @@ msgstr "Convertir en texte simple"
 
 #: Cookie (unsafe)
 msgid "Cookie (unsafe)"
-msgstr "Cookie (non sÃ©curisÃ©)"
+msgstr "Cookie (non sécurisé)"
 
 #: Country
 msgid "Country"
@@ -856,39 +856,39 @@ msgstr "Pays :"
 
 #: Coupons
 msgid "Coupons"
-msgstr "Bons de rÃ©duction"
+msgstr "Bons de réduction"
 
 #: Create
 msgid "Create"
-msgstr "CrÃ©er"
+msgstr "Créer"
 
 #: Create DB Backup
 msgid "Create DB Backup"
-msgstr "CrÃ©er une sauvegarde de la BDD"
+msgstr "Créer une sauvegarde de la BDD"
 
 #: Create New Attribute
 msgid "Create New Attribute"
-msgstr "CrÃ©er un nouvel attribut"
+msgstr "Créer un nouvel attribut"
 
 #: Create URL Rewrite:
 msgid "Create URL Rewrite:"
-msgstr "CrÃ©er une rÃ©Ã©criture d'URL :"
+msgstr "Créer une réécriture d'URL :"
 
 #: Created At
 msgid "Created At"
-msgstr "CrÃ©Ã© le"
+msgstr "Créé le"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "NumÃ©ro de carte de crÃ©dit"
+msgstr "Numéro de carte de crédit"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"
-msgstr "<strong>NumÃ©ro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
 
 #: Credit Card Type
 msgid "Credit Card Type"
-msgstr "Type de carte de crÃ©dit"
+msgstr "Type de carte de crédit"
 
 #: Credit Card Type: %s
 msgid "Credit Card Type: %s"
@@ -908,15 +908,15 @@ msgstr "Avoirs"
 
 #: Credit memo #%s comment added
 msgid "Credit memo #%s comment added"
-msgstr "Commentaire ajoutÃ© pour l'avoir nÂ°%s"
+msgstr "Commentaire ajouté pour l'avoir n°%s"
 
 #: Credit memo #%s created
 msgid "Credit memo #%s created"
-msgstr "Avoir nÂ°%s crÃ©Ã©"
+msgstr "Avoir n°%s créé"
 
 #: Credit memo\'s total must be positive.
 msgid "Credit memo\'s total must be positive."
-msgstr "Le total de l'avoir doit Ãªtre positif."
+msgstr "Le total de l'avoir doit être positif."
 
 #: Currency
 msgid "Currency"
@@ -932,7 +932,7 @@ msgstr "Section d'installation de devise"
 
 #: Current Configuration Scope:
 msgid "Current Configuration Scope:"
-msgstr "PortÃ©e de la configuration courante :"
+msgstr "Portée de la configuration courante :"
 
 #: Current Month
 msgid "Current Month"
@@ -940,15 +940,15 @@ msgstr "Mois en cours"
 
 #: Custom
 msgid "Custom"
-msgstr "PersonnalisÃ©"
+msgstr "Personnalisé"
 
 #: Custom Variable \"%s\"
 msgid "Custom Variable \"%s\""
-msgstr "Variable personnalisÃ©e \"%s\""
+msgstr "Variable personnalisée \"%s\""
 
 #: Custom Variables
 msgid "Custom Variables"
-msgstr "Variables personnalisÃ©es"
+msgstr "Variables personnalisées"
 
 #: Customer
 msgid "Customer"
@@ -984,7 +984,7 @@ msgstr "Classes de taxe client"
 
 #: Customer with the same email already exists.
 msgid "Customer with the same email already exists."
-msgstr "Un client avec la mÃªme adresse email existe dÃ©jÃ ."
+msgstr "Un client avec la même adresse email existe déjà."
 
 #: Customers
 msgid "Customers"
@@ -1000,7 +1000,7 @@ msgstr "Clients par montant de commande"
 
 #: DHTML Date/Time Selector
 msgid "DHTML Date/Time Selector"
-msgstr "SÃ©lecteur de date/heure DHTML"
+msgstr "Sélecteur de date/heure DHTML"
 
 #: Dashboard
 msgid "Dashboard"
@@ -1008,11 +1008,11 @@ msgstr "Tableau de bord"
 
 #: Data Format
 msgid "Data Format"
-msgstr "Format de donnÃ©es"
+msgstr "Format de données"
 
 #: Data transfer:
 msgid "Data transfer:"
-msgstr "Transfert de donnÃ©es"
+msgstr "Transfert de données"
 
 #: Date
 msgid "Date"
@@ -1028,15 +1028,15 @@ msgstr "Date d'ajout"
 
 #: Date Updated
 msgid "Date Updated"
-msgstr "Date de mise Ã  jour"
+msgstr "Date de mise à jour"
 
 #: Date selection:
 msgid "Date selection:"
-msgstr "SÃ©lection de date :"
+msgstr "Sélection de date :"
 
 #: Date selector
 msgid "Date selector"
-msgstr "SÃ©lecteur de date"
+msgstr "Sélecteur de date"
 
 #: Day
 msgid "Day"
@@ -1044,35 +1044,35 @@ msgstr "Jour"
 
 #: Decimal separator:
 msgid "Decimal separator:"
-msgstr "SÃ©parateur de dÃ©cimales :"
+msgstr "Séparateur de décimales :"
 
 #: Default (Admin) Values
 msgid "Default (Admin) Values"
-msgstr "Valeurs par dÃ©faut (admin)"
+msgstr "Valeurs par défaut (admin)"
 
 #: Default Billing Address
 msgid "Default Billing Address"
-msgstr "Adresse de facturation par dÃ©faut"
+msgstr "Adresse de facturation par défaut"
 
 #: Default Config
 msgid "Default Config"
-msgstr "Configuration par dÃ©faut"
+msgstr "Configuration par défaut"
 
 #: Default Template from Locale
 msgid "Default Template from Locale"
-msgstr "Gabarit par dÃ©faut pour la langue"
+msgstr "Gabarit par défaut pour la langue"
 
 #: Default Values
 msgid "Default Values"
-msgstr "Valeurs par dÃ©faut"
+msgstr "Valeurs par défaut"
 
 #: Default display currency \"%s\" is not available in allowed currencies.
 msgid "Default display currency \"%s\" is not available in allowed currencies."
-msgstr "La devise d'affichage par dÃ©faut \"%s\" n'est pas disponible dans les devises autorisÃ©es."
+msgstr "La devise d'affichage par défaut \"%s\" n'est pas disponible dans les devises autorisées."
 
 #: Default scope
 msgid "Default scope"
-msgstr "PortÃ©e par dÃ©faut"
+msgstr "Portée par défaut"
 
 #: Delete
 msgid "Delete"
@@ -1100,7 +1100,7 @@ msgstr "Effacer le profil"
 
 #: Delete Role
 msgid "Delete Role"
-msgstr "Supprimer le rÃ´le"
+msgstr "Supprimer le rôle"
 
 #: Delete Store
 msgid "Delete Store"
@@ -1136,11 +1136,11 @@ msgstr "Section design"
 
 #: Details
 msgid "Details"
-msgstr "DÃ©tails"
+msgstr "Détails"
 
 #: Developer Section
 msgid "Developer Section"
-msgstr "Section dÃ©veloppeur"
+msgstr "Section développeur"
 
 #: Direction:
 msgid "Direction:"
@@ -1148,11 +1148,11 @@ msgstr "Direction :"
 
 #: Disable
 msgid "Disable"
-msgstr "DÃ©sactiver"
+msgstr "Désactiver"
 
 #: Disabled
 msgid "Disabled"
-msgstr "DÃ©sactivÃ©"
+msgstr "Désactivé"
 
 #: Display %s first
 msgid "Display %s first"
@@ -1160,75 +1160,75 @@ msgstr "Afficher d'abord %s"
 
 #: Display default currency
 msgid "Display default currency"
-msgstr "Afficher la devise par dÃ©faut"
+msgstr "Afficher la devise par défaut"
 
 #: Distributed under GNU LGPL. See %s for details.
 msgid "Distributed under GNU LGPL. See %s for details."
-msgstr "DistribuÃ© sous licence GNU LGPL. Voir %s pour plus de dÃ©tails."
+msgstr "Distribué sous licence GNU LGPL. Voir %s pour plus de détails."
 
 #: Do you really want to KILL parallel process and start new indexing process?
 msgid "Do you really want to KILL parallel process and start new indexing process?"
-msgstr "Voulez-vous vraiment supprimer le processus parallÃ¨les et lancer un nouveaux processus d'indexation ?"
+msgstr "Voulez-vous vraiment supprimer le processus parallèles et lancer un nouveaux processus d'indexation ?"
 
 #: Download
 msgid "Download"
-msgstr "TÃ©lÃ©charger"
+msgstr "Télécharger"
 
 #: Downloads
 msgid "Downloads"
-msgstr "TÃ©lÃ©chargements"
+msgstr "Téléchargements"
 
 #: Drag to move
 msgid "Drag to move"
-msgstr "Glisser pour dÃ©placer"
+msgstr "Glisser pour déplacer"
 
 #: Drop-down
 msgid "Drop-down"
-msgstr "Liste dÃ©roulante"
+msgstr "Liste déroulante"
 
 #: Edit
 msgid "Edit"
-msgstr "Ã‰diter"
+msgstr "Éditer"
 
 #: Edit Design Change
 msgid "Edit Design Change"
-msgstr "Ã‰diter le changement de design"
+msgstr "Éditer le changement de design"
 
 #: Edit Email Template
 msgid "Edit Email Template"
-msgstr "Ã‰diter le gabarit de l'email"
+msgstr "Éditer le gabarit de l'email"
 
 #: Edit Poll
 msgid "Edit Poll"
-msgstr "Ã‰diter le sondage"
+msgstr "Éditer le sondage"
 
 #: Edit Queue
 msgid "Edit Queue"
-msgstr "Ã‰diter file"
+msgstr "Éditer file"
 
 #: Edit Review
 msgid "Edit Review"
-msgstr "Ã‰diter le commentaire '%s'"
+msgstr "Éditer le commentaire '%s'"
 
 #: Edit Role
 msgid "Edit Role"
-msgstr "Modifier le rÃ´le"
+msgstr "Modifier le rôle"
 
 #: Edit Store View
 msgid "Edit Store View"
-msgstr "Ã‰diter la vue magasin"
+msgstr "Éditer la vue magasin"
 
 #: Edit System Template
 msgid "Edit System Template"
-msgstr "Ã‰diter le gabarit systÃ¨me"
+msgstr "Éditer le gabarit système"
 
 #: Edit Template
 msgid "Edit Template"
-msgstr "Ã‰diter le gabarit"
+msgstr "Éditer le gabarit"
 
 #: Edit URL Rewrite
 msgid "Edit URL Rewrite"
-msgstr "Ã‰diter la rÃ©Ã©criture d'URL"
+msgstr "Éditer la réécriture d'URL"
 
 #: Edit User
 msgid "Edit User"
@@ -1236,7 +1236,7 @@ msgstr "Modifier l'utilisateur"
 
 #: Edit User '%s'
 msgid "Edit User '%s'"
-msgstr "Ã‰diter l'utilisateur '%s'"
+msgstr "Éditer l'utilisateur '%s'"
 
 #: Edit Website
 msgid "Edit Website"
@@ -1252,11 +1252,11 @@ msgstr "Adresse mail :"
 
 #: Email Preview
 msgid "Email Preview"
-msgstr "PrÃ©visualisation de l'email"
+msgstr "Prévisualisation de l'email"
 
 #: Email to a Friend
 msgid "Email to a Friend"
-msgstr "Envoyer Ã  un ami"
+msgstr "Envoyer à un ami"
 
 #: Email:
 msgid "Email:"
@@ -1268,7 +1268,7 @@ msgstr "Activer"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Enclose Values In:
 msgid "Enclose Values In:"
@@ -1276,11 +1276,11 @@ msgstr "Entourer les valeurs avec :"
 
 #: Entity Type
 msgid "Entity Type"
-msgstr "Type d'entitÃ©"
+msgstr "Type d'entité"
 
 #: Entity type:
 msgid "Entity type:"
-msgstr "Type d'entitÃ© :"
+msgstr "Type d'entité :"
 
 #: Excel
 msgid "Excel"
@@ -1328,7 +1328,7 @@ msgstr "Extensions"
 
 #: FTP Host[:Port]
 msgid "FTP Host[:Port]"
-msgstr "HÃ´te FTP [:Port]"
+msgstr "Hôte FTP [:Port]"
 
 #: Failed to add a product to cart by id \"%s\".
 msgid "Failed to add a product to cart by id \"%s\"."
@@ -1348,7 +1348,7 @@ msgstr "Impossible d'effacer le contrat de facturation."
 
 #: Failed to update the profile.
 msgid "Failed to update the profile."
-msgstr "Impossible de mettre Ã  jour le profil."
+msgstr "Impossible de mettre à jour le profil."
 
 #: Field
 msgid "Field"
@@ -1372,7 +1372,7 @@ msgstr "Nom du fichier :"
 
 #: File size should be more than 0 bytes
 msgid "File size should be more than 0 bytes"
-msgstr "Le fichier doit avoir une taille supÃ©rieure Ã  0 octets"
+msgstr "Le fichier doit avoir une taille supérieure à 0 octets"
 
 #: Files
 msgid "Files"
@@ -1384,27 +1384,27 @@ msgstr "Prix final"
 
 #: Finished profile execution.
 msgid "Finished profile execution."
-msgstr "ExÃ©cution du profil terminÃ©e."
+msgstr "Exécution du profil terminée."
 
 #: First Invoice Created Date
 msgid "First Invoice Created Date"
-msgstr "Date de crÃ©ation de la premiÃ¨re facture"
+msgstr "Date de création de la première facture"
 
 #: First Name
 msgid "First Name"
-msgstr "PrÃ©nom"
+msgstr "Prénom"
 
 #: First Name is required field.
 msgid "First Name is required field."
-msgstr "Le prÃ©nom est requis."
+msgstr "Le prénom est requis."
 
 #: First Name:
 msgid "First Name:"
-msgstr "PrÃ©nom :"
+msgstr "Prénom :"
 
 #: Fixed
 msgid "Fixed"
-msgstr "FixÃ©"
+msgstr "Fixé"
 
 #: Flush Catalog Images Cache
 msgid "Flush Catalog Images Cache"
@@ -1416,11 +1416,11 @@ msgstr "Purger le cache JavaScript/CSS"
 
 #: For category
 msgid "For category"
-msgstr "Pour une catÃ©gorie"
+msgstr "Pour une catégorie"
 
 #: For latest version visit: %s
 msgid "For latest version visit: %s"
-msgstr "Pour la visite de la derniÃ¨re version : %s"
+msgstr "Pour la visite de la dernière version : %s"
 
 #: For product
 msgid "For product"
@@ -1428,11 +1428,11 @@ msgstr "Pour un produit"
 
 #: Forgot your password?
 msgid "Forgot your password?"
-msgstr "Mot de passe oubliÃ© ?"
+msgstr "Mot de passe oublié ?"
 
 #: Forgot your user name or password?
 msgid "Forgot your user name or password?"
-msgstr "Nom d'utilisateur ou mot de passe oubliÃ© ?"
+msgstr "Nom d'utilisateur ou mot de passe oublié ?"
 
 #: From
 msgid "From"
@@ -1448,15 +1448,15 @@ msgstr "Go"
 
 #: General Information
 msgid "General Information"
-msgstr "Informations gÃ©nÃ©rales"
+msgstr "Informations générales"
 
 #: General Section
 msgid "General Section"
-msgstr "Section gÃ©nÃ©rale"
+msgstr "Section générale"
 
 #: Get Image Base64
 msgid "Get Image Base64"
-msgstr "RÃ©cupÃ©rer l'image Base64"
+msgstr "Récupérer l'image Base64"
 
 #: Get help for this page
 msgid "Get help for this page"
@@ -1476,7 +1476,7 @@ msgstr "Recherche globale"
 
 #: Go Today
 msgid "Go Today"
-msgstr "Aller Ã  aujourd'hui"
+msgstr "Aller à aujourd'hui"
 
 #: Google Base
 msgid "Google Base"
@@ -1496,7 +1496,7 @@ msgstr "Montant global"
 
 #: Grid (default) / List
 msgid "Grid (default) / List"
-msgstr "Grille (par dÃ©faut) / Liste"
+msgstr "Grille (par défaut) / Liste"
 
 #: Grid Only
 msgid "Grid Only"
@@ -1508,11 +1508,11 @@ msgstr "Groupe :"
 
 #: Guest
 msgid "Guest"
-msgstr "InvitÃ©"
+msgstr "Invité"
 
 #: HTTP (unsecure)
 msgid "HTTP (unsecure)"
-msgstr "HTTP (non sÃ©curisÃ©)"
+msgstr "HTTP (non sécurisé)"
 
 #: HTTPS (SSL)
 msgid "HTTPS (SSL)"
@@ -1520,7 +1520,7 @@ msgstr "HTTPS (SSL)"
 
 #: Help Us Keep Magento Healthy - Report All Bugs
 msgid "Help Us Keep Magento Healthy - Report All Bugs"
-msgstr "Aidez-nous Ã  amÃ©liorer Magento - Signalez tous les bugs"
+msgstr "Aidez-nous à améliorer Magento - Signalez tous les bugs"
 
 #: Home
 msgid "Home"
@@ -1540,7 +1540,7 @@ msgstr "Adresse IP"
 
 #: IPN (Instant Payment Notification) Only
 msgid "IPN (Instant Payment Notification) Only"
-msgstr "Notification instantanÃ©e de paiement (IPN) seulement"
+msgstr "Notification instantanée de paiement (IPN) seulement"
 
 #: If this message persists, please contact the store owner.
 msgid "If this message persists, please contact the store owner."
@@ -1584,7 +1584,7 @@ msgstr "Importer/Exporter"
 
 #: Import/Export Advanced
 msgid "Import/Export Advanced"
-msgstr "Import/export avancÃ©"
+msgstr "Import/export avancé"
 
 #: Import/Export Profile
 msgid "Import/Export Profile"
@@ -1592,7 +1592,7 @@ msgstr "Profil d'importation/exportation"
 
 #: Imported <strong>%s</strong> records
 msgid "Imported <strong>%s</strong> records"
-msgstr "<strong>%s</strong> enregistrements importÃ©s"
+msgstr "<strong>%s</strong> enregistrements importés"
 
 #: In
 msgid "In"
@@ -1600,7 +1600,7 @@ msgstr "En"
 
 #: In Database:
 msgid "In Database:"
-msgstr "Dans la base de donnÃ©es :"
+msgstr "Dans la base de données :"
 
 #: In File:
 msgid "In File:"
@@ -1624,7 +1624,7 @@ msgstr "Message entrant"
 
 #: Insert Variable...
 msgid "Insert Variable..."
-msgstr "InsÃ©rer une variable..."
+msgstr "Insérer une variable..."
 
 #: Interactive
 msgid "Interactive"
@@ -1636,19 +1636,19 @@ msgstr "Langue de l'interface : %s"
 
 #: Invalid Form Key. Please refresh the page.
 msgid "Invalid Form Key. Please refresh the page."
-msgstr "ClÃ© de formulaire invalide. Veuillez actualiser la page."
+msgstr "Clé de formulaire invalide. Veuillez actualiser la page."
 
 #: Invalid Import Service Specified
 msgid "Invalid Import Service Specified"
-msgstr "Service d'importation spÃ©cifiÃ© non valide"
+msgstr "Service d'importation spécifié non valide"
 
 #: Invalid POST data (please check post_max_size and upload_max_filesize settings in your php.ini file).
 msgid "Invalid POST data (please check post_max_size and upload_max_filesize settings in your php.ini file)."
-msgstr "DonnÃ©es POST invalides (vÃ©rifiez les paramÃ¨tres post_max_size et upload_max_filesize dans votre fichier php.ini)."
+msgstr "Données POST invalides (vérifiez les paramètres post_max_size et upload_max_filesize dans votre fichier php.ini)."
 
 #: Invalid Secret Key. Please refresh the page.
 msgid "Invalid Secret Key. Please refresh the page."
-msgstr "ClÃ© secrÃ¨te invalide. Veuillez actualiser la page."
+msgstr "Clé secrète invalide. Veuillez actualiser la page."
 
 #: Invalid Username or Password.
 msgid "Invalid Username or Password."
@@ -1656,7 +1656,7 @@ msgstr "Identifiant ou mot de passe non valide"
 
 #: Invalid directory: %s
 msgid "Invalid directory: %s"
-msgstr "RÃ©pertoire invalide : %s"
+msgstr "Répertoire invalide : %s"
 
 #: Invalid email address \"%s\".
 msgid "Invalid email address \"%s\"."
@@ -1668,7 +1668,7 @@ msgstr "Fichier invalide : %s"
 
 #: Invalid input data for %s => %s rate
 msgid "Invalid input data for %s => %s rate"
-msgstr "DonnÃ©es d'entrÃ©e pour %s => taux %s : non valides"
+msgstr "Données d'entrée pour %s => taux %s : non valides"
 
 #: Invalid parent block for this block
 msgid "Invalid parent block for this block"
@@ -1680,11 +1680,11 @@ msgstr "Block parent invalide pour ce block."
 
 #: Invalid sender name \"%s\". Please use only visible characters and spaces.
 msgid "Invalid sender name \"%s\". Please use only visible characters and spaces."
-msgstr "Le nom \"%s\" de l'expÃ©diteur est invalide."
+msgstr "Le nom \"%s\" de l'expéditeur est invalide."
 
 #: Invalidated
 msgid "Invalidated"
-msgstr "InvalidÃ©"
+msgstr "Invalidé"
 
 #: Inventory Stock Status
 msgid "Inventory Stock Status"
@@ -1692,11 +1692,11 @@ msgstr "Statut du stock de l'inventaire"
 
 #: Invoice #%s comment added
 msgid "Invoice #%s comment added"
-msgstr "Commentaire ajoutÃ© Ã  la facture nÂ°%s"
+msgstr "Commentaire ajouté à la facture n°%s"
 
 #: Invoice #%s created
 msgid "Invoice #%s created"
-msgstr "Facture nÂ°%s crÃ©Ã©e"
+msgstr "Facture n°%s créée"
 
 #: Invoice History
 msgid "Invoice History"
@@ -1724,15 +1724,15 @@ msgstr "Factures"
 
 #: Is Closed
 msgid "Is Closed"
-msgstr "Est fermÃ©"
+msgstr "Est fermé"
 
 #: Issue Number
 msgid "Issue Number"
-msgstr "NumÃ©ro de problÃ¨me"
+msgstr "Numéro de problème"
 
 #: Issuer: %s
 msgid "Issuer: %s"
-msgstr "ProblÃ¨me : %s"
+msgstr "Problème : %s"
 
 #: Items
 msgid "Items"
@@ -1752,15 +1752,15 @@ msgstr "Ko"
 
 #: Last 24 Hours
 msgid "Last 24 Hours"
-msgstr "DerniÃ¨res 24 heures"
+msgstr "Dernières 24 heures"
 
 #: Last 5 Orders
 msgid "Last 5 Orders"
-msgstr "5 derniÃ¨res commandes"
+msgstr "5 dernières commandes"
 
 #: Last 5 Search Terms
 msgid "Last 5 Search Terms"
-msgstr "5 derniers termes recherchÃ©s"
+msgstr "5 derniers termes recherchés"
 
 #: Last 7 Days
 msgid "Last 7 Days"
@@ -1768,19 +1768,19 @@ msgstr "7 derniers jours"
 
 #: Last Credit Memo Created Date
 msgid "Last Credit Memo Created Date"
-msgstr "Date de crÃ©ation du dernier avoir"
+msgstr "Date de création du dernier avoir"
 
 #: Last Invoice Created Date
 msgid "Last Invoice Created Date"
-msgstr "Date de crÃ©ation de la derniÃ¨re facture"
+msgstr "Date de création de la dernière facture"
 
 #: Last Logged In (%s):
 msgid "Last Logged In (%s):"
-msgstr "DerniÃ¨re connection (%s) le :"
+msgstr "Dernière connection (%s) le :"
 
 #: Last Logged In:
 msgid "Last Logged In:"
-msgstr "DerniÃ¨re connection le :"
+msgstr "Dernière connection le :"
 
 #: Last Name
 msgid "Last Name"
@@ -1796,7 +1796,7 @@ msgstr "Nom :"
 
 #: Last updated: %s. To refresh last day\'s <a href=\"%s\">statistics</a>, click <a href=\"%s\">here</a>.
 msgid "Last updated: %s. To refresh last day\'s <a href=\"%s\">statistics</a>, click <a href=\"%s\">here</a>."
-msgstr "DerniÃ¨re mise Ã  jour : %s. Pour rafraichir les <a href=\"%s\">statistiques</a>. du dernier jour, cliquez <a href=\"%s\">ici</a>."
+msgstr "Dernière mise à jour : %s. Pour rafraichir les <a href=\"%s\">statistiques</a>. du dernier jour, cliquez <a href=\"%s\">ici</a>."
 
 #: Latest Message:
 msgid "Latest Message:"
@@ -1808,7 +1808,7 @@ msgstr "Index de navigation par filtre"
 
 #: Layered Navigation Indices were refreshed.
 msgid "Layered Navigation Indices were refreshed."
-msgstr "Les indexes de navigation par filtre ont Ã©tÃ© rafraÃ®chis."
+msgstr "Les indexes de navigation par filtre ont été rafraîchis."
 
 #: Leave empty to use tax identifier
 msgid "Leave empty to use tax identifier"
@@ -1816,11 +1816,11 @@ msgstr "Laissez vide pour utiliser l'identifiant de TVA"
 
 #: Lifetime Sales
 msgid "Lifetime Sales"
-msgstr "Ventes depuis le dÃ©but"
+msgstr "Ventes depuis le début"
 
 #: Lifetime statistics have been updated.
 msgid "Lifetime statistics have been updated."
-msgstr "Les statistiques depuis le dÃ©but ont Ã©tÃ© mises Ã  jour."
+msgstr "Les statistiques depuis le début ont été mises à jour."
 
 #: Links
 msgid "Links"
@@ -1828,11 +1828,11 @@ msgstr "Liens"
 
 #: Links with associated products will retain only after saving current product.
 msgid "Links with associated products will retain only after saving current product."
-msgstr "Les liens vers les produits associÃ©s ne seront conservÃ©s qu'aprÃ¨s sauvegarde du produit actuel."
+msgstr "Les liens vers les produits associés ne seront conservés qu'après sauvegarde du produit actuel."
 
 #: List (default) / Grid
 msgid "List (default) / Grid"
-msgstr "Liste (par dÃ©faut) / grille"
+msgstr "Liste (par défaut) / grille"
 
 #: List Only
 msgid "List Only"
@@ -1844,7 +1844,7 @@ msgstr "Charger le gabarit"
 
 #: Load default template
 msgid "Load default template"
-msgstr "Charger le gabarit par dÃ©faut"
+msgstr "Charger le gabarit par défaut"
 
 #: Loading...
 msgid "Loading..."
@@ -1864,19 +1864,19 @@ msgstr "Profil local"
 
 #: Log Out
 msgid "Log Out"
-msgstr "DÃ©connexion"
+msgstr "Déconnexion"
 
 #: Log in to Admin Panel
 msgid "Log in to Admin Panel"
-msgstr "<em>Connexion</em> Ã  l'administration"
+msgstr "<em>Connexion</em> à l'administration"
 
 #: Log into Magento Admin Page
 msgid "Log into Magento Admin Page"
-msgstr "Connexion Ã  l'administration Magento"
+msgstr "Connexion à l'administration Magento"
 
 #: Logged in as %s
 msgid "Logged in as %s"
-msgstr "ConnectÃ© sous <strong>%s</strong>"
+msgstr "Connecté sous <strong>%s</strong>"
 
 #: Login
 msgid "Login"
@@ -1920,7 +1920,7 @@ msgstr "Logo Magento"
 
 #: Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc.
 msgid "Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc."
-msgstr "Magento est une marque dÃ©posÃ©e de Magento Inc. Copyright &copy; %s Magento Inc."
+msgstr "Magento est une marque déposée de Magento Inc. Copyright &copy; %s Magento Inc."
 
 #: Magento ver. %s
 msgid "Magento ver. %s"
@@ -1928,27 +1928,27 @@ msgstr "Magento <strong>ver. %s</strong>"
 
 #: Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.
 msgid "Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc."
-msgstr "Magento&trade; est une marque dÃ©posÃ©e de Magento Inc.<br/>Copyright &copy; %s Magento Inc."
+msgstr "Magento&trade; est une marque déposée de Magento Inc.<br/>Copyright &copy; %s Magento Inc."
 
 #: Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).
 msgid "Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI)."
-msgstr "Assurez-vous que l'encodage du fichier est cohÃ©rent et correspond Ã  l'un des encodages supportÃ©s (UTF-8 ou ANSI)."
+msgstr "Assurez-vous que l'encodage du fichier est cohérent et correspond à l'un des encodages supportés (UTF-8 ou ANSI)."
 
 #: Manage Attribute Sets
 msgid "Manage Attribute Sets"
-msgstr "GÃ©rer les jeux d'attributs"
+msgstr "Gérer les jeux d'attributs"
 
 #: Manage Attributes
 msgid "Manage Attributes"
-msgstr "GÃ©rer les attributs"
+msgstr "Gérer les attributs"
 
 #: Manage Categories
 msgid "Manage Categories"
-msgstr "GÃ©rer les catÃ©gories"
+msgstr "Gérer les catégories"
 
 #: Manage Content
 msgid "Manage Content"
-msgstr "GÃ©rer le contenu"
+msgstr "Gérer le contenu"
 
 #: Manage Currency Rates
 msgid "Manage Currency Rates"
@@ -1956,11 +1956,11 @@ msgstr "Gestion des taux des devises"
 
 #: Manage Customers
 msgid "Manage Customers"
-msgstr "GÃ©rer les clients"
+msgstr "Gérer les clients"
 
 #: Manage Ratings
 msgid "Manage Ratings"
-msgstr "GÃ©rer les notations"
+msgstr "Gérer les notations"
 
 #: Manage Stores
 msgid "Manage Stores"
@@ -1968,11 +1968,11 @@ msgstr "Gestion des magasins"
 
 #: Manage Tax Rules
 msgid "Manage Tax Rules"
-msgstr "GÃ©rer les rÃ¨gles de taxes"
+msgstr "Gérer les règles de taxes"
 
 #: Manage Tax Zones and Rates
 msgid "Manage Tax Zones and Rates"
-msgstr "GÃ©rer les zones de taxes et les taux"
+msgstr "Gérer les zones de taxes et les taux"
 
 #: Manage osCommerce Orders
 msgid "Manage osCommerce Orders"
@@ -2000,11 +2000,11 @@ msgstr "Mo"
 
 #: Media (.avi, .flv, .swf)
 msgid "Media (.avi, .flv, .swf)"
-msgstr "MÃ©dia (.avi, .flv, .swf)"
+msgstr "Média (.avi, .flv, .swf)"
 
 #: Messages Inbox
 msgid "Messages Inbox"
-msgstr "Messages reÃ§us"
+msgstr "Messages reçus"
 
 #: Min
 msgid "Min"
@@ -2016,15 +2016,15 @@ msgstr "Mois"
 
 #: Most Viewed
 msgid "Most Viewed"
-msgstr "Les plus consultÃ©s"
+msgstr "Les plus consultés"
 
 #: Most Viewed Products
 msgid "Most Viewed Products"
-msgstr "Produits les plus consultÃ©s"
+msgstr "Produits les plus consultés"
 
 #: Multiple Select
 msgid "Multiple Select"
-msgstr "SÃ©lection multiple"
+msgstr "Sélection multiple"
 
 #: My Account
 msgid "My Account"
@@ -2032,7 +2032,7 @@ msgstr "Mon compte"
 
 #: N/A
 msgid "N/A"
-msgstr "N/A"
+msgstr "N/A "
 
 #: NOTICE
 msgid "NOTICE"
@@ -2044,7 +2044,7 @@ msgstr "Nom"
 
 #: Name on Card
 msgid "Name on Card"
-msgstr "PropriÃ©taire de la carte"
+msgstr "Propriétaire de la carte"
 
 #: Name on the Card: %s
 msgid "Name on the Card: %s"
@@ -2060,7 +2060,7 @@ msgstr "Nouveau"
 
 #: New API Key
 msgid "New API Key"
-msgstr "Nouvelle clÃ© d'API"
+msgstr "Nouvelle clé d'API"
 
 #: New Accounts
 msgid "New Accounts"
@@ -2076,7 +2076,7 @@ msgstr "Nouveau bloc"
 
 #: New Category
 msgid "New Category"
-msgstr "Nouvelle catÃ©gorie"
+msgstr "Nouvelle catégorie"
 
 #: New Class
 msgid "New Class"
@@ -2088,7 +2088,7 @@ msgstr "Nouvelle condition"
 
 #: New Custom Variable
 msgid "New Custom Variable"
-msgstr "Nouvelle variable personnalisÃ©e"
+msgstr "Nouvelle variable personnalisée"
 
 #: New Customer
 msgid "New Customer"
@@ -2124,7 +2124,7 @@ msgstr "Nouvel avoir"
 
 #: New Memo for #%s
 msgid "New Memo for #%s"
-msgstr "Nouvel avoir pour nÂ°%s"
+msgstr "Nouvel avoir pour n°%s"
 
 #: New Page
 msgid "New Page"
@@ -2156,11 +2156,11 @@ msgstr "Nouveau commentaire"
 
 #: New Role
 msgid "New Role"
-msgstr "Nouveau rÃ´le"
+msgstr "Nouveau rôle"
 
 #: New Rule
 msgid "New Rule"
-msgstr "Nouvelle rÃ¨gle"
+msgstr "Nouvelle règle"
 
 #: New Search
 msgid "New Search"
@@ -2184,11 +2184,11 @@ msgstr "Nouvelle vue magasin"
 
 #: New System Template
 msgid "New System Template"
-msgstr "Nouveau gabarit systÃ¨me"
+msgstr "Nouveau gabarit système"
 
 #: New Tag
 msgid "New Tag"
-msgstr "Nouveau mot clÃ©"
+msgstr "Nouveau mot clé"
 
 #: New Template
 msgid "New Template"
@@ -2216,7 +2216,7 @@ msgstr "Newsletter"
 
 #: Newsletter Problems
 msgid "Newsletter Problems"
-msgstr "ProblÃ¨mes de newsletter"
+msgstr "Problèmes de newsletter"
 
 #: Newsletter Queue
 msgid "Newsletter Queue"
@@ -2224,7 +2224,7 @@ msgstr "File d'attente newsletter"
 
 #: Newsletter Subscribers
 msgid "Newsletter Subscribers"
-msgstr "AbonnÃ©s Ã  la newsletter"
+msgstr "Abonnés à la newsletter"
 
 #: Newsletter Templates
 msgid "Newsletter Templates"
@@ -2240,7 +2240,7 @@ msgstr "Page suivante"
 
 #: Next year (hold for menu)
 msgid "Next year (hold for menu)"
-msgstr "AnnÃ©e prochaine (maintenez pour le menu)"
+msgstr "Année prochaine (maintenez pour le menu)"
 
 #: No
 msgid "No"
@@ -2252,11 +2252,11 @@ msgstr "Non (prix sans taxes)"
 
 #: No Data Found
 msgid "No Data Found"
-msgstr "Aucune donnÃ©e trouvÃ©e"
+msgstr "Aucune donnée trouvée"
 
 #: No Templates Found
 msgid "No Templates Found"
-msgstr "Aucun gabarit trouvÃ©"
+msgstr "Aucun gabarit trouvé"
 
 #: No change
 msgid "No change"
@@ -2268,27 +2268,27 @@ msgstr "Aucune information disponible"
 
 #: No profile loaded...
 msgid "No profile loaded..."
-msgstr "Aucun profil chargÃ©..."
+msgstr "Aucun profil chargé..."
 
 #: No records found for this period.
 msgid "No records found for this period."
-msgstr "Aucune donnÃ©e pour cette pÃ©riode."
+msgstr "Aucune donnée pour cette période."
 
 #: No records found.
 msgid "No records found."
-msgstr "Aucun Ã©lÃ©ment trouvÃ©."
+msgstr "Aucun élément trouvé."
 
 #: No report code specified.
 msgid "No report code specified."
-msgstr "Le code de rapport n'est pas spÃ©cifiÃ©."
+msgstr "Le code de rapport n'est pas spécifié."
 
 #: No search keywords.
 msgid "No search keywords."
-msgstr "Aucun mot clÃ© de recherche."
+msgstr "Aucun mot clé de recherche."
 
 #: No search modules were registered
 msgid "No search modules were registered"
-msgstr "Aucun module de recherche n'a Ã©tÃ© enregistrÃ©"
+msgstr "Aucun module de recherche n'a été enregistré"
 
 #: None
 msgid "None"
@@ -2332,11 +2332,11 @@ msgstr "Clients en ligne"
 
 #: Only attributes with scope \"Global\", input type \"Dropdown\" and Use To Create Configurable Product \"Yes\" are available.
 msgid "Only attributes with scope \"Global\", input type \"Dropdown\" and Use To Create Configurable Product \"Yes\" are available."
-msgstr "Ne sont disponibles que les attributs ayant une portÃ©e \"Global\", un type de saisie \"Liste dÃ©roulante\" et ayant la valeur \"Oui\" Ã  \"Utiliser pour crÃ©er un produit configurable\"."
+msgstr "Ne sont disponibles que les attributs ayant une portée \"Global\", un type de saisie \"Liste déroulante\" et ayant la valeur \"Oui\" à \"Utiliser pour créer un produit configurable\"."
 
 #: Only mapped fields
 msgid "Only mapped fields"
-msgstr "Champs mappÃ©s uniquement"
+msgstr "Champs mappés uniquement"
 
 #: Optional
 msgid "Optional"
@@ -2348,15 +2348,15 @@ msgstr "Options"
 
 #: Order #%s
 msgid "Order #%s"
-msgstr "Commande nÂ°%s"
+msgstr "Commande n°%s"
 
 #: Order #%s (%s)
 msgid "Order #%s (%s)"
-msgstr "Commande nÂ°%s (%s)"
+msgstr "Commande n°%s (%s)"
 
 #: Order Created Date
 msgid "Order Created Date"
-msgstr "Date de crÃ©ation de commande"
+msgstr "Date de création de commande"
 
 #: Order ID
 msgid "Order ID"
@@ -2368,11 +2368,11 @@ msgstr "Totaux commande"
 
 #: Order Updated Date
 msgid "Order Updated Date"
-msgstr "Date de mise Ã  jour de commande"
+msgstr "Date de mise à jour de commande"
 
 #: Order Updated Date report is real-time, does not need statistics refreshing.
 msgid "Order Updated Date report is real-time, does not need statistics refreshing."
-msgstr "Le rapport de date de mise Ã  jour de commande est en temps rÃ©el, il ne nÃ©cessite pas de rafraÃ®chir les statistiques."
+msgstr "Le rapport de date de mise à jour de commande est en temps réel, il ne nécessite pas de rafraîchir les statistiques."
 
 #: Order cannot be placed.
 msgid "Order cannot be placed."
@@ -2384,11 +2384,11 @@ msgstr "Commandes"
 
 #: Original Magento attribute names in first row:
 msgid "Original Magento attribute names in first row:"
-msgstr "Noms d'attribut d'origine dans la premiÃ¨re ligne :"
+msgstr "Noms d'attribut d'origine dans la première ligne :"
 
 #: PDT (Payment Data Transfer) Only
 msgid "PDT (Payment Data Transfer) Only"
-msgstr "Transfert de donnÃ©es de paiement (PDT) seulement"
+msgstr "Transfert de données de paiement (PDT) seulement"
 
 #: Package
 msgid "Package"
@@ -2436,7 +2436,7 @@ msgstr "Les deux mots de passe saisis ne sont pas identiques."
 
 #: Password must be at least of %d characters.
 msgid "Password must be at least of %d characters."
-msgstr "Le mot de passe doit comporter au moins %d caractÃ¨res."
+msgstr "Le mot de passe doit comporter au moins %d caractères."
 
 #: Password must include both numeric and alphabetic characters.
 msgid "Password must include both numeric and alphabetic characters."
@@ -2464,7 +2464,7 @@ msgstr "Le mode de paiement n'est pas disponible."
 
 #: Payment method must be specified.
 msgid "Payment method must be specified."
-msgstr "Le mode de paiement doit Ãªtre spÃ©cifiÃ©."
+msgstr "Le mode de paiement doit être spécifié."
 
 #: Pending Reviews
 msgid "Pending Reviews"
@@ -2472,7 +2472,7 @@ msgstr "Commentaires en attente"
 
 #: Pending Tags
 msgid "Pending Tags"
-msgstr "Mots clÃ©s en attente"
+msgstr "Mots clés en attente"
 
 #: Per Item
 msgid "Per Item"
@@ -2488,11 +2488,11 @@ msgstr "Pourcent"
 
 #: Performed At
 msgid "Performed At"
-msgstr "EffectuÃ© le"
+msgstr "Effectué le"
 
 #: Period
 msgid "Period"
-msgstr "PÃ©riode"
+msgstr "Période"
 
 #: Permanent (301)
 msgid "Permanent (301)"
@@ -2508,15 +2508,15 @@ msgstr "Informations personnelles"
 
 #: Phone:
 msgid "Phone:"
-msgstr "TÃ©lÃ©phone :"
+msgstr "Téléphone :"
 
 #: Please Select
 msgid "Please Select"
-msgstr "Veuillez sÃ©lectionner"
+msgstr "Veuillez sélectionner"
 
 #: Please confirm site switching. All data that hasn't been saved will be lost.
 msgid "Please confirm site switching. All data that hasn't been saved will be lost."
-msgstr "Confirmez-vous le changement de site ? Toutes les donnÃ©es non sauvegardÃ©es seront perdues."
+msgstr "Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues."
 
 #: Please continue with placing order.
 msgid "Please continue with placing order."
@@ -2524,15 +2524,15 @@ msgstr "Veuillez continuer et passer commande."
 
 #: Please enter 6 or more characters.
 msgid "Please enter 6 or more characters."
-msgstr "Veuillez saisir au moins 6 caractÃ¨res."
+msgstr "Veuillez saisir au moins 6 caractères."
 
 #: Please enter a number greater than 0 in this field.
 msgid "Please enter a number greater than 0 in this field."
-msgstr "Veuillez saisir un nombre supÃ©rieur Ã  0 dans ce champ."
+msgstr "Veuillez saisir un nombre supérieur à 0 dans ce champ."
 
 #: Please enter a valid $ amount. For example $100.00.
 msgid "Please enter a valid $ amount. For example $100.00."
-msgstr "Veuillez saisir un montant valide. Par exemple 100.00 â‚¬."
+msgstr "Veuillez saisir un montant valide. Par exemple 100.00 €."
 
 #: Please enter a valid URL. For example http://www.example.com or www.example.com
 msgid "Please enter a valid URL. For example http://www.example.com or www.example.com"
@@ -2544,7 +2544,7 @@ msgstr "Veuillez saisir une URL valide. Elle doit commencer par http://"
 
 #: Please enter a valid credit card number.
 msgid "Please enter a valid credit card number."
-msgstr "Veuillez saisir un numÃ©ro de carte bancaire valide."
+msgstr "Veuillez saisir un numéro de carte bancaire valide."
 
 #: Please enter a valid date.
 msgid "Please enter a valid date."
@@ -2564,11 +2564,11 @@ msgstr "Veuillez saisir un nombre valide."
 
 #: Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.
 msgid "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890."
-msgstr "Veuillez saisir un numÃ©ro de tÃ©lÃ©phone valide."
+msgstr "Veuillez saisir un numéro de téléphone valide."
 
 #: Please enter a valid social security number. For example 123-45-6789.
 msgid "Please enter a valid social security number. For example 123-45-6789."
-msgstr "Veuillez saisir un numÃ©ro de sÃ©curitÃ© sociale valide. Par exemple 123-45-6789."
+msgstr "Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789."
 
 #: Please enter a valid value from list
 msgid "Please enter a valid value from list"
@@ -2592,39 +2592,39 @@ msgstr "Veuillez saisir un mot de passe valide."
 
 #: Please make sure that all global admin search modules are installed and activated.
 msgid "Please make sure that all global admin search modules are installed and activated."
-msgstr "VÃ©rifiez que tous les modules admin de recherche sont installÃ©s et activÃ©s"
+msgstr "Vérifiez que tous les modules admin de recherche sont installés et activés"
 
 #: Please make sure that your changes were saved before running the profile.
 msgid "Please make sure that your changes were saved before running the profile."
-msgstr "VÃ©rifiez que vos modifications ont Ã©tÃ© sauvegardÃ©es avant de lancer le profil."
+msgstr "Vérifiez que vos modifications ont été sauvegardées avant de lancer le profil."
 
 #: Please make sure your passwords match.
 msgid "Please make sure your passwords match."
-msgstr "VÃ©rifiez que vos mots de passe concordent."
+msgstr "Vérifiez que vos mots de passe concordent."
 
 #: Please select State/Province.
 msgid "Please select State/Province."
-msgstr "Veuillez choisir un Ã©tat/province."
+msgstr "Veuillez choisir un état/province."
 
 #: Please select a customer.
 msgid "Please select a customer."
-msgstr "SÃ©lectionnez un client"
+msgstr "Sélectionnez un client"
 
 #: Please select a store.
 msgid "Please select a store."
-msgstr "SÃ©lectionnez un magasin"
+msgstr "Sélectionnez un magasin"
 
 #: Please select an option.
 msgid "Please select an option."
-msgstr "SÃ©lectionnez une option"
+msgstr "Sélectionnez une option"
 
 #: Please select catalog searches.
 msgid "Please select catalog searches."
-msgstr "SÃ©lectionnez les recherches catalogue"
+msgstr "Sélectionnez les recherches catalogue"
 
 #: Please select customer(s).
 msgid "Please select customer(s)."
-msgstr "SÃ©lectionnez au moins un client"
+msgstr "Sélectionnez au moins un client"
 
 #: Please select one of the above options.
 msgid "Please select one of the above options."
@@ -2636,27 +2636,27 @@ msgstr "Veuillez choisir une des options."
 
 #: Please select review(s).
 msgid "Please select review(s)."
-msgstr "SÃ©lectionnez au moins un commentaire"
+msgstr "Sélectionnez au moins un commentaire"
 
 #: Please select tag(s).
 msgid "Please select tag(s)."
-msgstr "SÃ©lectionnez au moins un tag"
+msgstr "Sélectionnez au moins un tag"
 
 #: Please specify at least start or end date.
 msgid "Please specify at least start or end date."
-msgstr "Veuillez indiquer au moins une date de dÃ©but ou de fin."
+msgstr "Veuillez indiquer au moins une date de début ou de fin."
 
 #: Please specify the admin custom URL.
 msgid "Please specify the admin custom URL."
-msgstr "SpÃ©cifiez l'URL d'admin personnalisÃ©e"
+msgstr "Spécifiez l'URL d'admin personnalisée"
 
 #: Please try to logout and sign in again.
 msgid "Please try to logout and sign in again."
-msgstr "Veuillez essayer de vous dÃ©connecter et vous reconnecter Ã  nouveau."
+msgstr "Veuillez essayer de vous déconnecter et vous reconnecter à nouveau."
 
 #: Please use in this field only \"a-z,0-9,_\".
 msgid "Please use in this field only \"a-z,0-9,_\"."
-msgstr "Ce champ n'accepte que les caractÃ¨res \"a-z,0-9,_\"."
+msgstr "Ce champ n'accepte que les caractères \"a-z,0-9,_\"."
 
 #: Please use letters only (a-z) in this field.
 msgid "Please use letters only (a-z) in this field."
@@ -2664,23 +2664,23 @@ msgstr "Veuillez utiliser uniquement des lettres (a-z) dans ce champ."
 
 #: Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.
 msgid "Please use numbers only in this field. please avoid spaces or other characters such as dots or commas."
-msgstr "Seuls les chiffres sont autorisÃ©s dans ce champ. Ã‰vitez les espaces ou autres caractÃ¨res tels que les points ou les virgules."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
 
 #: Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
 msgid "Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractÃ¨res ne sont pas autorisÃ©s."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
 
 #: Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.
 msgid "Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field."
-msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des diÃ¨ses (#) dans ce champ."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ."
 
 #: Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.
 msgid "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
-msgstr "Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 DÃ©cembre 2012."
+msgstr "Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012."
 
 #: Please wait while the indexes are being refreshed.
 msgid "Please wait while the indexes are being refreshed."
-msgstr "Veuillez patienter pendant le rafraÃ®chissement des indexes."
+msgstr "Veuillez patienter pendant le rafraîchissement des indexes."
 
 #: Please wait, loading...
 msgid "Please wait, loading..."
@@ -2692,11 +2692,11 @@ msgstr "Veuillez patienter..."
 
 #: Please, add some answers to this poll first.
 msgid "Please, add some answers to this poll first."
-msgstr "Ajoutez d'abord des rÃ©ponses Ã  ce sondage."
+msgstr "Ajoutez d'abord des réponses à ce sondage."
 
 #: Please, select \"Visible in Stores\" for this poll first.
 msgid "Please, select \"Visible in Stores\" for this poll first."
-msgstr "SÃ©lectionnez d'abord \"Visible dans les magasins\" pour ce sondage."
+msgstr "Sélectionnez d'abord \"Visible dans les magasins\" pour ce sondage."
 
 #: Poll Manager
 msgid "Poll Manager"
@@ -2716,27 +2716,27 @@ msgstr "Position du filigrane pour %s"
 
 #: Pregenerated product images files.
 msgid "Pregenerated product images files."
-msgstr "Fichiers image de produits prÃ©-gÃ©nÃ©rÃ©s."
+msgstr "Fichiers image de produits pré-générés."
 
 #: Prev. month (hold for menu)
 msgid "Prev. month (hold for menu)"
-msgstr "Mois prÃ©cÃ©dent (maintenez pour le menu)"
+msgstr "Mois précédent (maintenez pour le menu)"
 
 #: Prev. year (hold for menu)
 msgid "Prev. year (hold for menu)"
-msgstr "AnnÃ©e prÃ©cÃ©dente (maintenez pour le menu)"
+msgstr "Année précédente (maintenez pour le menu)"
 
 #: Preview
 msgid "Preview"
-msgstr "PrÃ©visualiser"
+msgstr "Prévisualiser"
 
 #: Preview Template
 msgid "Preview Template"
-msgstr "PrÃ©visualiser le gabarit"
+msgstr "Prévisualiser le gabarit"
 
 #: Previous page
 msgid "Previous page"
-msgstr "Page prÃ©cÃ©dente"
+msgstr "Page précédente"
 
 #: Price
 msgid "Price"
@@ -2744,7 +2744,7 @@ msgstr "Prix"
 
 #: Price alert subscription was saved.
 msgid "Price alert subscription was saved."
-msgstr "L'inscription Ã  l'alerte de changement de prix a Ã©tÃ© enregistrÃ©e."
+msgstr "L'inscription à l'alerte de changement de prix a été enregistrée."
 
 #: Price:
 msgid "Price:"
@@ -2752,7 +2752,7 @@ msgstr "Prix :"
 
 #: Processed <strong>%s%% %s/%d</strong> records
 msgid "Processed <strong>%s%% %s/%d</strong> records"
-msgstr "<strong>%s%% %s/%d</strong> enregistrements traitÃ©s"
+msgstr "<strong>%s%% %s/%d</strong> enregistrements traités"
 
 #: Product
 msgid "Product"
@@ -2764,7 +2764,7 @@ msgstr "Commentaires"
 
 #: Product Thumbnail Itself
 msgid "Product Thumbnail Itself"
-msgstr "Vignette du produit lui-mÃªme"
+msgstr "Vignette du produit lui-même"
 
 #: Product:
 msgid "Product:"
@@ -2780,7 +2780,7 @@ msgstr "Rapport des meilleures ventes"
 
 #: Products Ordered
 msgid "Products Ordered"
-msgstr "Produits commandÃ©s"
+msgstr "Produits commandés"
 
 #: Products in Carts
 msgid "Products in Carts"
@@ -2836,15 +2836,15 @@ msgstr "Promotions"
 
 #: Purchased Item
 msgid "Purchased Item"
-msgstr "Article achetÃ©"
+msgstr "Article acheté"
 
 #: Qty
 msgid "Qty"
-msgstr "QtÃ©"
+msgstr "Qté"
 
 #: Quantity
 msgid "Quantity"
-msgstr "QuantitÃ©"
+msgstr "Quantité"
 
 #: Queue Refresh
 msgid "Queue Refresh"
@@ -2864,7 +2864,7 @@ msgstr "Taux"
 
 #: Read details
 msgid "Read details"
-msgstr "Lire les dÃ©tails"
+msgstr "Lire les détails"
 
 #: Rebuild
 msgid "Rebuild"
@@ -2876,27 +2876,27 @@ msgstr "Reconstruire l'index du catalogue"
 
 #: Rebuild Flat Catalog Category
 msgid "Rebuild Flat Catalog Category"
-msgstr "Reconstruire le catalogue Ã  plat des catÃ©gories"
+msgstr "Reconstruire le catalogue à plat des catégories"
 
 #: Rebuild Flat Catalog Product
 msgid "Rebuild Flat Catalog Product"
-msgstr "Reconstruire le catalogue Ã  plat des produits"
+msgstr "Reconstruire le catalogue à plat des produits"
 
 #: Recent Orders
 msgid "Recent Orders"
-msgstr "Commandes rÃ©centes"
+msgstr "Commandes récentes"
 
 #: Recent statistics have been updated.
 msgid "Recent statistics have been updated."
-msgstr "Les statistiques rÃ©centes ont Ã©tÃ© mise Ã  jour."
+msgstr "Les statistiques récentes ont été mise à jour."
 
 #: Recurring Profile View
 msgid "Recurring Profile View"
-msgstr "Affichage de profil pÃ©riodique"
+msgstr "Affichage de profil périodique"
 
 #: Recursive Dir
 msgid "Recursive Dir"
-msgstr "RÃ©pertoire rÃ©cursif"
+msgstr "Répertoire récursif"
 
 #: Redirect
 msgid "Redirect"
@@ -2904,19 +2904,19 @@ msgstr "Rediriger"
 
 #: Reference
 msgid "Reference"
-msgstr "RÃ©fÃ©rence"
+msgstr "Référence"
 
 #: Reference ID
 msgid "Reference ID"
-msgstr "RÃ©ference ID"
+msgstr "Réference ID"
 
 #: Refresh
 msgid "Refresh"
-msgstr "RafraÃ®chir"
+msgstr "Rafraîchir"
 
 #: Refresh Now*
 msgid "Refresh Now*"
-msgstr "RafraÃ®chir maintenant *"
+msgstr "Rafraîchir maintenant *"
 
 #: Refresh Statistics
 msgid "Refresh Statistics"
@@ -2924,7 +2924,7 @@ msgstr "Actualiser les statistiques"
 
 #: Region/State
 msgid "Region/State"
-msgstr "RÃ©gion/Ã‰tat"
+msgstr "Région/État"
 
 #: Release
 msgid "Release"
@@ -2932,7 +2932,7 @@ msgstr "Version"
 
 #: Release Stability
 msgid "Release Stability"
-msgstr "StabilitÃ© de la version"
+msgstr "Stabilité de la version"
 
 #: Release Version
 msgid "Release Version"
@@ -2952,7 +2952,7 @@ msgstr "Rapports"
 
 #: Request Path
 msgid "Request Path"
-msgstr "Chemin de requÃªte"
+msgstr "Chemin de requête"
 
 #: Required
 msgid "Required"
@@ -2960,11 +2960,11 @@ msgstr "Obligatoire"
 
 #: Reset
 msgid "Reset"
-msgstr "RÃ©initialiser"
+msgstr "Réinitialiser"
 
 #: Reset Filter
 msgid "Reset Filter"
-msgstr "RÃ©initialiser le filtre"
+msgstr "Réinitialiser le filtre"
 
 #: Resize
 msgid "Resize"
@@ -2972,7 +2972,7 @@ msgstr "Redimensionner"
 
 #: Resource Access
 msgid "Resource Access"
-msgstr "AccÃ¨s aux ressources"
+msgstr "Accès aux ressources"
 
 #: Resources
 msgid "Resources"
@@ -2980,15 +2980,15 @@ msgstr "Ressources"
 
 #: Results
 msgid "Results"
-msgstr "RÃ©sultats"
+msgstr "Résultats"
 
 #: Retrieve Password
 msgid "Retrieve Password"
-msgstr "RÃ©cupÃ©rer mot de passe"
+msgstr "Récupérer mot de passe"
 
 #: Return Html Version
 msgid "Return Html Version"
-msgstr "Revenir Ã  la version HTML"
+msgstr "Revenir à la version HTML"
 
 #: Revenue
 msgid "Revenue"
@@ -3004,39 +3004,39 @@ msgstr "Commentaires et notations"
 
 #: Rewrite Rules
 msgid "Rewrite Rules"
-msgstr "RÃ¨gles de rÃ©Ã©criture"
+msgstr "Règles de réécriture"
 
 #: Role ID
 msgid "Role ID"
-msgstr "Identifiant du rÃ´le"
+msgstr "Identifiant du rôle"
 
 #: Role Info
 msgid "Role Info"
-msgstr "Infos du rÃ´le"
+msgstr "Infos du rôle"
 
 #: Role Information
 msgid "Role Information"
-msgstr "Informations du rÃ´le"
+msgstr "Informations du rôle"
 
 #: Role Name
 msgid "Role Name"
-msgstr "Nom du rÃ´le"
+msgstr "Nom du rôle"
 
 #: Role Resources
 msgid "Role Resources"
-msgstr "Ressources du rÃ´le"
+msgstr "Ressources du rôle"
 
 #: Role Users
 msgid "Role Users"
-msgstr "Utilisateurs ayant ce rÃ´le"
+msgstr "Utilisateurs ayant ce rôle"
 
 #: Roles
 msgid "Roles"
-msgstr "RÃ´les"
+msgstr "Rôles"
 
 #: Roles Resources
 msgid "Roles Resources"
-msgstr "Ressources des rÃ´les"
+msgstr "Ressources des rôles"
 
 #: Rotate CCW
 msgid "Rotate CCW"
@@ -3048,7 +3048,7 @@ msgstr "Tourner dans le sens des aiguilles d'une montre"
 
 #: Run
 msgid "Run"
-msgstr "ExÃ©cuter"
+msgstr "Exécuter"
 
 #: Run Profile
 msgid "Run Profile"
@@ -3056,7 +3056,7 @@ msgstr "Lancer le profil"
 
 #: Run Profile Inside This Window
 msgid "Run Profile Inside This Window"
-msgstr "Lancer le profil dans cette fenÃªtre"
+msgstr "Lancer le profil dans cette fenêtre"
 
 #: Run Profile in Popup
 msgid "Run Profile in Popup"
@@ -3068,15 +3068,15 @@ msgstr "En cours... Tuer"
 
 #: SKU
 msgid "SKU"
-msgstr "RÃ©f."
+msgstr "Réf."
 
 #: SKU:
 msgid "SKU:"
-msgstr "RÃ©f. :"
+msgstr "Réf. :"
 
 #: SSL Error: Invalid or self-signed certificate
 msgid "SSL Error: Invalid or self-signed certificate"
-msgstr "Erreur SSL : Certificat invalide ou auto-signÃ©"
+msgstr "Erreur SSL : Certificat invalide ou auto-signé"
 
 #: Sales
 msgid "Sales"
@@ -3096,7 +3096,7 @@ msgstr "Sauvegarder"
 
 #: Save & Generate
 msgid "Save & Generate"
-msgstr "Sauvegarder & gÃ©nÃ©rer"
+msgstr "Sauvegarder & générer"
 
 #: Save Account
 msgid "Save Account"
@@ -3104,7 +3104,7 @@ msgstr "Sauvegarder le compte"
 
 #: Save Cache Settings
 msgid "Save Cache Settings"
-msgstr "Sauvegarder les paramÃ¨tres de cache"
+msgstr "Sauvegarder les paramètres de cache"
 
 #: Save Config
 msgid "Save Config"
@@ -3120,7 +3120,7 @@ msgstr "Sauvegarder le profil"
 
 #: Save Role
 msgid "Save Role"
-msgstr "Sauvegarder le rÃ´le"
+msgstr "Sauvegarder le rôle"
 
 #: Save Template
 msgid "Save Template"
@@ -3132,7 +3132,7 @@ msgstr "Sauvegarder l'utilisateur"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"
-msgstr "Sauvegarder et continuer Ã  Ã©diter"
+msgstr "Sauvegarder et continuer à éditer"
 
 #: Search
 msgid "Search"
@@ -3152,67 +3152,67 @@ msgstr "Termes de recherche"
 
 #: Select
 msgid "Select"
-msgstr "SÃ©lectionnez"
+msgstr "Sélectionnez"
 
 #: Select All
 msgid "Select All"
-msgstr "SÃ©lectionner tout"
+msgstr "Sélectionner tout"
 
 #: Select Category
 msgid "Select Category"
-msgstr "SÃ©lectionner une catÃ©gorie"
+msgstr "Sélectionner une catégorie"
 
 #: Select Date
 msgid "Select Date"
-msgstr "SÃ©lectionner une date"
+msgstr "Sélectionner une date"
 
 #: Select Range
 msgid "Select Range"
-msgstr "SÃ©lectionnez une tranche"
+msgstr "Sélectionnez une tranche"
 
 #: Select Visible
 msgid "Select Visible"
-msgstr "SÃ©lectionner les Ã©lÃ©ments visibles"
+msgstr "Sélectionner les éléments visibles"
 
 #: Select date
 msgid "Select date"
-msgstr "SÃ©lectionner la date"
+msgstr "Sélectionner la date"
 
 #: Selected allowed currency \"%s\" is not available in installed currencies.
 msgid "Selected allowed currency \"%s\" is not available in installed currencies."
-msgstr "La devise autorisÃ©e choisie \"%s\" n'est pas disponible dans les devises installÃ©es."
+msgstr "La devise autorisée choisie \"%s\" n'est pas disponible dans les devises installées."
 
 #: Selected base currency is not available in installed currencies.
 msgid "Selected base currency is not available in installed currencies."
-msgstr "La devise de base choisie n'est pas disponible dans les devises installÃ©es."
+msgstr "La devise de base choisie n'est pas disponible dans les devises installées."
 
 #: Selected default display currency is not available in allowed currencies.
 msgid "Selected default display currency is not available in allowed currencies."
-msgstr "La devise d'affichage par dÃ©faut ne fait pas partie des devises autorisÃ©es."
+msgstr "La devise d'affichage par défaut ne fait pas partie des devises autorisées."
 
 #: Selected default display currency is not available in installed currencies.
 msgid "Selected default display currency is not available in installed currencies."
-msgstr "La devise d'affichage par dÃ©faut ne fait pas partie des devises installÃ©es."
+msgstr "La devise d'affichage par défaut ne fait pas partie des devises installées."
 
 #: Self-assigned roles cannot be deleted.
 msgid "Self-assigned roles cannot be deleted."
-msgstr "Les rÃ´les auto-assignÃ©es ne peuvent pas Ãªtre effacÃ©s."
+msgstr "Les rôles auto-assignées ne peuvent pas être effacés."
 
 #: Sender
 msgid "Sender"
-msgstr "ExpÃ©diteur"
+msgstr "Expéditeur"
 
 #: Separate Email
 msgid "Separate Email"
-msgstr "Email sÃ©parÃ©"
+msgstr "Email séparé"
 
 #: Shipment #%s comment added
 msgid "Shipment #%s comment added"
-msgstr "Commentaire ajoutÃ© pour l'expÃ©dition nÂ°%s"
+msgstr "Commentaire ajouté pour l'expédition n°%s"
 
 #: Shipment #%s created
 msgid "Shipment #%s created"
-msgstr "Livraison nÂ°%s crÃ©Ã©e"
+msgstr "Livraison n°%s créée"
 
 #: Shipment Comments
 msgid "Shipment Comments"
@@ -3224,7 +3224,7 @@ msgstr "Historique de livraison"
 
 #: Shipments
 msgid "Shipments"
-msgstr "ExpÃ©ditions"
+msgstr "Expéditions"
 
 #: Shipping
 msgid "Shipping"
@@ -3248,15 +3248,15 @@ msgstr "Tarif de livraison"
 
 #: Shipping address selection is not applicable
 msgid "Shipping address selection is not applicable"
-msgstr "L'adresse de livraison sÃ©lectionnÃ©e n'est pas applicable"
+msgstr "L'adresse de livraison sélectionnée n'est pas applicable"
 
 #: Shipping method must be specified.
 msgid "Shipping method must be specified."
-msgstr "Le mode de livraison doit Ãªtre spÃ©cifiÃ©"
+msgstr "Le mode de livraison doit être spécifié"
 
 #: Shipping method selection is not applicable
 msgid "Shipping method selection is not applicable"
-msgstr "Le mode de livraison sÃ©lectionnÃ© n'est pas applicable"
+msgstr "Le mode de livraison sélectionné n'est pas applicable"
 
 #: Shopping Cart
 msgid "Shopping Cart"
@@ -3264,7 +3264,7 @@ msgstr "Panier"
 
 #: Shopping Cart Price Rules
 msgid "Shopping Cart Price Rules"
-msgstr "RÃ¨gles de prix panier"
+msgstr "Règles de prix panier"
 
 #: Shopping Cart from %s
 msgid "Shopping Cart from %s"
@@ -3292,19 +3292,19 @@ msgstr "Taille pour %s"
 
 #: Skip Category Selection
 msgid "Skip Category Selection"
-msgstr "Passer la sÃ©lection de catÃ©gorie"
+msgstr "Passer la sélection de catégorie"
 
 #: Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.
 msgid "Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created."
-msgstr "Certains articles dans cette commande ont des types de livraison et de facturation diffÃ©rents. Vous ne pouvez crÃ©er une livraison qu'aprÃ¨s avoir crÃ©Ã© une facture."
+msgstr "Certains articles dans cette commande ont des types de livraison et de facturation différents. Vous ne pouvez créer une livraison qu'après avoir créé une facture."
 
 #: Some of the ordered items do not exist in the catalog anymore and will be removed if you try to edit the order.
 msgid "Some of the ordered items do not exist in the catalog anymore and will be removed if you try to edit the order."
-msgstr "Certains articles commandÃ©s n'existent plus dans le catalogue et seront retirÃ©s si vous Ã©ditez la commande."
+msgstr "Certains articles commandés n'existent plus dans le catalogue et seront retirés si vous éditez la commande."
 
 #: Sorry, this feature is coming soon...
 msgid "Sorry, this feature is coming soon..."
-msgstr "DÃ©solÃ©, cette fonctionnalitÃ© sera disponible prochainement..."
+msgstr "Désolé, cette fonctionnalité sera disponible prochainement..."
 
 #: Sort Order
 msgid "Sort Order"
@@ -3316,11 +3316,11 @@ msgstr "Certains pays"
 
 #: Specified
 msgid "Specified"
-msgstr "SpÃ©cifiÃ©"
+msgstr "Spécifié"
 
 #: Specified profile does not exist.
 msgid "Specified profile does not exist."
-msgstr "Le profil spÃ©cifique n'existe pas."
+msgstr "Le profil spécifique n'existe pas."
 
 #: Spreadsheet Name:
 msgid "Spreadsheet Name:"
@@ -3328,19 +3328,19 @@ msgstr "Nom de la feuille de calcul :"
 
 #: Start Date
 msgid "Start Date"
-msgstr "Date de dÃ©but"
+msgstr "Date de début"
 
 #: Start/Reset Validation...
 msgid "Start/Reset Validation..."
-msgstr "DÃ©marrer/RÃ©-initialiser la validation..."
+msgstr "Démarrer/Ré-initialiser la validation..."
 
 #: Starting profile execution, please wait...
 msgid "Starting profile execution, please wait..."
-msgstr "DÃ©marrage de l'exÃ©cution du profil, veuillez patienter..."
+msgstr "Démarrage de l'exécution du profil, veuillez patienter..."
 
 #: State/Province:
 msgid "State/Province:"
-msgstr "Ã‰tat/rÃ©gion :"
+msgstr "État/région :"
 
 #: Static Blocks
 msgid "Static Blocks"
@@ -3356,11 +3356,11 @@ msgstr "Statut :"
 
 #: Stock Quantity:
 msgid "Stock Quantity:"
-msgstr "QuantitÃ© en stock :"
+msgstr "Quantité en stock :"
 
 #: Stock notification was saved.
 msgid "Stock notification was saved."
-msgstr "La notification de disponibilitÃ© a Ã©tÃ© enregistrÃ©e."
+msgstr "La notification de disponibilité a été enregistrée."
 
 #: Store
 msgid "Store"
@@ -3392,7 +3392,7 @@ msgstr "Valider"
 
 #: Subpackage cannot be conflicting.
 msgid "Subpackage cannot be conflicting."
-msgstr "Le sous-package ne peut pas Ãªtre en conflit."
+msgstr "Le sous-package ne peut pas être en conflit."
 
 #: Subtotal
 msgid "Subtotal"
@@ -3400,11 +3400,11 @@ msgstr "Sous-total"
 
 #: Switch/Solo card issue number: %s
 msgid "Switch/Solo card issue number: %s"
-msgstr "NumÃ©ro de problÃ¨me de carte Switch/Solo : %s"
+msgstr "Numéro de problème de carte Switch/Solo : %s"
 
 #: Switch/Solo card start Date: %s/%s
 msgid "Switch/Solo card start Date: %s/%s"
-msgstr "Date de dÃ©but de carte Switch/Solo : %s/%s"
+msgstr "Date de début de carte Switch/Solo : %s/%s"
 
 #: Switch/Solo/Maestro Only
 msgid "Switch/Solo/Maestro Only"
@@ -3416,23 +3416,23 @@ msgstr "Switch/Solo/Maestro(UK Domestic) seulement"
 
 #: Switch/Solo/Maestro(UK Domestic) card issue number: %s
 msgid "Switch/Solo/Maestro(UK Domestic) card issue number: %s"
-msgstr "NumÃ©ro de problÃ¨me de carte Switch/Solo/Maestro(UK Domestic) : %s"
+msgstr "Numéro de problème de carte Switch/Solo/Maestro(UK Domestic) : %s"
 
 #: Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s
 msgid "Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s"
-msgstr "Date de dÃ©but de carte Switch/Solo/Maestro(UK Domestic) : %s/%s"
+msgstr "Date de début de carte Switch/Solo/Maestro(UK Domestic) : %s/%s"
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: System Section
 msgid "System Section"
-msgstr "Section systÃ¨me"
+msgstr "Section système"
 
 #: Tags
 msgid "Tags"
-msgstr "Mots clÃ©s"
+msgstr "Mots clés"
 
 #: Target
 msgid "Target"
@@ -3484,7 +3484,7 @@ msgstr "Temporaire (302)"
 
 #: Terms and Conditions
 msgid "Terms and Conditions"
-msgstr "Conditions gÃ©nÃ©rales de ventes"
+msgstr "Conditions générales de ventes"
 
 #: Text
 msgid "Text"
@@ -3492,139 +3492,139 @@ msgstr "Texte"
 
 #: The Catalog Rewrites were refreshed.
 msgid "The Catalog Rewrites were refreshed."
-msgstr "Les rÃ©Ã©critures du catalogue ont Ã©tÃ© rafraÃ®chies."
+msgstr "Les réécritures du catalogue ont été rafraîchies."
 
 #: The CatalogInventory Stock Status has been rebuilt.
 msgid "The CatalogInventory Stock Status has been rebuilt."
-msgstr "Les statuts de stock ont Ã©tÃ© reconstruits."
+msgstr "Les statuts de stock ont été reconstruits."
 
 #: The Comment Text field cannot be empty.
 msgid "The Comment Text field cannot be empty."
-msgstr "Le champ texte du commentaire ne peut pas Ãªtre vide."
+msgstr "Le champ texte du commentaire ne peut pas être vide."
 
 #: The Flat Catalog Product was rebuilt
 msgid "The Flat Catalog Product was rebuilt"
-msgstr "Le catalogue Ã  plat des produits a Ã©tÃ© reconstruit."
+msgstr "Le catalogue à plat des produits a été reconstruit."
 
 #: The JavaScript/CSS cache has been cleaned.
 msgid "The JavaScript/CSS cache has been cleaned."
-msgstr "Le cache javascript/CSS a Ã©tÃ© nettoyÃ©."
+msgstr "Le cache javascript/CSS a été nettoyé."
 
 #: The JavaScript/CSS cache has been cleared.
 msgid "The JavaScript/CSS cache has been cleared."
-msgstr "Le cache javascript/CSS a Ã©tÃ© effacÃ©."
+msgstr "Le cache javascript/CSS a été effacé."
 
 #: The Layered Navigation indexing has been queued.
 msgid "The Layered Navigation indexing has been queued."
-msgstr "L'indexation de la navigation par filtres a Ã©tÃ© ajoutÃ©e Ã  la file d'attente."
+msgstr "L'indexation de la navigation par filtres a été ajoutée à la file d'attente."
 
 #: The Layered Navigation indexing queue has been canceled.
 msgid "The Layered Navigation indexing queue has been canceled."
-msgstr "L'indexation de la navigation par filtres a Ã©tÃ© enlevÃ©e de la file d'attente."
+msgstr "L'indexation de la navigation par filtres a été enlevée de la file d'attente."
 
 #: The Layered Navigation indices were refreshed.
 msgid "The Layered Navigation indices were refreshed."
-msgstr "Les indexes de navigation par filtres ont Ã©tÃ© rafraÃ®chis."
+msgstr "Les indexes de navigation par filtres ont été rafraîchis."
 
 #: The Layered Navigation process has been queued to be killed.
 msgid "The Layered Navigation process has been queued to be killed."
-msgstr "Le process d'indexation de navigation par filtres est en attente d'Ãªtre tuÃ©."
+msgstr "Le process d'indexation de navigation par filtres est en attente d'être tué."
 
 #: The Magento cache storage has been flushed.
 msgid "The Magento cache storage has been flushed."
-msgstr "Le cache Magento a Ã©tÃ© purgÃ©."
+msgstr "Le cache Magento a été purgé."
 
 #: The URL Rewrite has been deleted.
 msgid "The URL Rewrite has been deleted."
-msgstr "La rÃ©Ã©criture d'URL a Ã©tÃ© effacÃ©e."
+msgstr "La réécriture d'URL a été effacée."
 
 #: The URL Rewrite has been saved.
 msgid "The URL Rewrite has been saved."
-msgstr "La rÃ©Ã©criture d'URL a Ã©tÃ© sauvegardÃ©e."
+msgstr "La réécriture d'URL a été sauvegardée."
 
 #: The account has been saved.
 msgid "The account has been saved."
-msgstr "Le compte a Ã©tÃ© sauvegardÃ©."
+msgstr "Le compte a été sauvegardé."
 
 #: The archive can be uncompressed with <a href=\"%s\">%s</a> on Windows systems
 msgid "The archive can be uncompressed with <a href=\"%s\">%s</a> on Windows systems"
-msgstr "L'archive peut Ãªtre dÃ©compressÃ©e avec <a href=\"%s\">%s</a> sous Windows"
+msgstr "L'archive peut être décompressée avec <a href=\"%s\">%s</a> sous Windows"
 
 #: The attribute set has been removed.
 msgid "The attribute set has been removed."
-msgstr "Le jeu d'attributs a Ã©tÃ© supprimÃ©."
+msgstr "Le jeu d'attributs a été supprimé."
 
 #: The backup has been created.
 msgid "The backup has been created."
-msgstr "La sauvegarde a Ã©tÃ© crÃ©Ã©e."
+msgstr "La sauvegarde a été créée."
 
 #: The billing agreement has been canceled.
 msgid "The billing agreement has been canceled."
-msgstr "Le contrat de facturation a Ã©tÃ© annulÃ©."
+msgstr "Le contrat de facturation a été annulé."
 
 #: The billing agreement has been deleted.
 msgid "The billing agreement has been deleted."
-msgstr "Le contrat de facturation a Ã©tÃ© supprimÃ©."
+msgstr "Le contrat de facturation a été supprimé."
 
 #: The cache storage has been flushed.
 msgid "The cache storage has been flushed."
-msgstr "Le cache a Ã©tÃ© purgÃ©."
+msgstr "Le cache a été purgé."
 
 #: The card has failed verification with the issuer bank.
 msgid "The card has failed verification with the issuer bank."
-msgstr "La vÃ©rification de la carte a Ã©chouÃ© auprÃ¨s de la banque."
+msgstr "La vérification de la carte a échoué auprès de la banque."
 
 #: The carrier needs to be specified.
 msgid "The carrier needs to be specified."
-msgstr "Le transporteur doit Ãªtre spÃ©cifiÃ©."
+msgstr "Le transporteur doit être spécifié."
 
 #: The catalog index has been rebuilt.
 msgid "The catalog index has been rebuilt."
-msgstr "L'index de catalogue a Ã©tÃ© reconstruit."
+msgstr "L'index de catalogue a été reconstruit."
 
 #: The catalog rewrites have been refreshed.
 msgid "The catalog rewrites have been refreshed."
-msgstr "Les rÃ©Ã©critures du catalogue ont Ã©tÃ© rafraÃ®chies."
+msgstr "Les réécritures du catalogue ont été rafraîchies."
 
 #: The configuration has been saved.
 msgid "The configuration has been saved."
-msgstr "La configuration a Ã©tÃ© sauvegardÃ©e."
+msgstr "La configuration a été sauvegardée."
 
 #: The credit memo has been canceled.
 msgid "The credit memo has been canceled."
-msgstr "L'avoir a Ã©tÃ© annulÃ©."
+msgstr "L'avoir a été annulé."
 
 #: The credit memo has been created.
 msgid "The credit memo has been created."
-msgstr "L'avoir a Ã©tÃ© crÃ©Ã©."
+msgstr "L'avoir a été créé."
 
 #: The credit memo has been voided.
 msgid "The credit memo has been voided."
-msgstr "L'avoir a Ã©tÃ© invalidÃ©."
+msgstr "L'avoir a été invalidé."
 
 #: The custom variable has been deleted.
 msgid "The custom variable has been deleted."
-msgstr "La variable personnalisÃ©e a Ã©tÃ© effacÃ©e."
+msgstr "La variable personnalisée a été effacée."
 
 #: The custom variable has been saved.
 msgid "The custom variable has been saved."
-msgstr "La variable personnalisÃ©e a Ã©tÃ© sauvegardÃ©e."
+msgstr "La variable personnalisée a été sauvegardée."
 
 #: The customer has been deleted.
 msgid "The customer has been deleted."
-msgstr "Le client a Ã©tÃ© supprimÃ©."
+msgstr "Le client a été supprimé."
 
 #: The customer has been saved.
 msgid "The customer has been saved."
-msgstr "Le client a Ã©tÃ© sauvegardÃ©."
+msgstr "Le client a été sauvegardé."
 
 #: The design change has been deleted.
 msgid "The design change has been deleted."
-msgstr "Le changement de design a Ã©tÃ© supprimÃ©."
+msgstr "Le changement de design a été supprimé."
 
 #: The design change has been saved.
 msgid "The design change has been saved."
-msgstr "Le changement de design a Ã©tÃ© sauvegardÃ©."
+msgstr "Le changement de design a été sauvegardé."
 
 #: The email address is empty.
 msgid "The email address is empty."
@@ -3632,51 +3632,51 @@ msgstr "L'email est vide."
 
 #: The email template has been deleted.
 msgid "The email template has been deleted."
-msgstr "Le gabarit d'email a Ã©tÃ© supprimÃ©."
+msgstr "Le gabarit d'email a été supprimé."
 
 #: The email template has been saved.
 msgid "The email template has been saved."
-msgstr "Le gabarit d'email a Ã©tÃ© sauvegardÃ©."
+msgstr "Le gabarit d'email a été sauvegardé."
 
 #: The flat catalog category has been rebuilt.
 msgid "The flat catalog category has been rebuilt."
-msgstr "Le catalogue Ã  plat des catÃ©gories a Ã©tÃ© reconstruit."
+msgstr "Le catalogue à plat des catégories a été reconstruit."
 
 #: The group node name must be specified with field node name.
 msgid "The group node name must be specified with field node name."
-msgstr "Le nom du nÅ“ud de groupe doit Ãªtre spÃ©cifiÃ© avec un nom de nÅ“ud de champ."
+msgstr "Le nom du nœud de groupe doit être spécifié avec un nom de nœud de champ."
 
 #: The image cache was cleaned.
 msgid "The image cache was cleaned."
-msgstr "Le cache des images a Ã©tÃ© nettoyÃ©."
+msgstr "Le cache des images a été nettoyé."
 
 #: The image cache was cleared.
 msgid "The image cache was cleared."
-msgstr "Le cache des images a Ã©tÃ© effacÃ©."
+msgstr "Le cache des images a été effacé."
 
 #: The information in this tab has been changed.
 msgid "The information in this tab has been changed."
-msgstr "Les informations contenues dans cet onglet ont Ã©tÃ© changÃ©es."
+msgstr "Les informations contenues dans cet onglet ont été changées."
 
 #: The invoice and shipment have been created.
 msgid "The invoice and shipment have been created."
-msgstr "La facture et l'expÃ©dition ont Ã©tÃ© crÃ©Ã©es."
+msgstr "La facture et l'expédition ont été créées."
 
 #: The invoice has been canceled.
 msgid "The invoice has been canceled."
-msgstr "La facture a Ã©tÃ© annulÃ©e."
+msgstr "La facture a été annulée."
 
 #: The invoice has been captured.
 msgid "The invoice has been captured."
-msgstr "La facture a Ã©tÃ© capturÃ©e."
+msgstr "La facture a été capturée."
 
 #: The invoice has been created.
 msgid "The invoice has been created."
-msgstr "La facture a Ã©tÃ© crÃ©Ã©e."
+msgstr "La facture a été créée."
 
 #: The invoice has been voided.
 msgid "The invoice has been voided."
-msgstr "La facture a Ã©tÃ© invalidÃ©e."
+msgstr "La facture a été invalidée."
 
 #: The invoice no longer exists.
 msgid "The invoice no longer exists."
@@ -3684,7 +3684,7 @@ msgstr "La facture n'existe plus."
 
 #: The order does not allow creating an invoice.
 msgid "The order does not allow creating an invoice."
-msgstr "La commande n'autorise pas la crÃ©ation d'une facture."
+msgstr "La commande n'autorise pas la création d'une facture."
 
 #: The order no longer exists.
 msgid "The order no longer exists."
@@ -3692,23 +3692,23 @@ msgstr "La commande n'existe plus."
 
 #: The poll has been deleted.
 msgid "The poll has been deleted."
-msgstr "Le sondage a Ã©tÃ© supprimÃ©."
+msgstr "Le sondage a été supprimé."
 
 #: The poll has been saved.
 msgid "The poll has been saved."
-msgstr "Le sondage a Ã©tÃ© sauvegardÃ©."
+msgstr "Le sondage a été sauvegardé."
 
 #: The profile has been deleted.
 msgid "The profile has been deleted."
-msgstr "Le profil a Ã©tÃ© supprimÃ©."
+msgstr "Le profil a été supprimé."
 
 #: The profile has been saved.
 msgid "The profile has been saved."
-msgstr "Le profil a Ã©tÃ© sauvegardÃ©."
+msgstr "Le profil a été sauvegardé."
 
 #: The profile has been updated.
 msgid "The profile has been updated."
-msgstr "Le profil a Ã©tÃ© mis Ã  jour."
+msgstr "Le profil a été mis à jour."
 
 #: The profile has no changes.
 msgid "The profile has no changes."
@@ -3716,59 +3716,59 @@ msgstr "Le profil n'a aucun changement."
 
 #: The rating has been deleted.
 msgid "The rating has been deleted."
-msgstr "La notation a Ã©tÃ© supprimÃ©e."
+msgstr "La notation a été supprimée."
 
 #: The rating has been saved.
 msgid "The rating has been saved."
-msgstr "La notation a Ã©tÃ© sauvegardÃ©e."
+msgstr "La notation a été sauvegardée."
 
 #: The role has been deleted.
 msgid "The role has been deleted."
-msgstr "Le rÃ´le a Ã©tÃ© supprimÃ©."
+msgstr "Le rôle a été supprimé."
 
 #: The role has been saved.
 msgid "The role has been saved."
-msgstr "Le rÃ´le a Ã©tÃ© sauvegardÃ©."
+msgstr "Le rôle a été sauvegardé."
 
 #: The role has been successfully saved.
 msgid "The role has been successfully saved."
-msgstr "Le rÃ´le a Ã©tÃ© sauvegardÃ©."
+msgstr "Le rôle a été sauvegardé."
 
 #: The search index has been rebuilt.
 msgid "The search index has been rebuilt."
-msgstr "L'index de recherche a Ã©tÃ© reconstruit."
+msgstr "L'index de recherche a été reconstruit."
 
 #: The shipment has been created.
 msgid "The shipment has been created."
-msgstr "L'expÃ©dition a Ã©tÃ© crÃ©Ã©e."
+msgstr "L'expédition a été créée."
 
 #: The shipment has been sent.
 msgid "The shipment has been sent."
-msgstr "L'expÃ©dition a Ã©tÃ© envoyÃ©e."
+msgstr "L'expédition a été envoyée."
 
 #: The tag has been deleted.
 msgid "The tag has been deleted."
-msgstr "Le mot clÃ© a Ã©tÃ© effacÃ©"
+msgstr "Le mot clé a été effacé"
 
 #: The tag has been saved.
 msgid "The tag has been saved."
-msgstr "Le tag a Ã©tÃ© sauvegardÃ©."
+msgstr "Le tag a été sauvegardé."
 
 #: The user has been deleted.
 msgid "The user has been deleted."
-msgstr "L'utilisateur a Ã©tÃ© supprimÃ©."
+msgstr "L'utilisateur a été supprimé."
 
 #: The user has been saved.
 msgid "The user has been saved."
-msgstr "L'utilisateur a Ã©tÃ© sauvegardÃ©."
+msgstr "L'utilisateur a été sauvegardé."
 
 #: Themes JavaScript and CSS files combined to one file.
 msgid "Themes JavaScript and CSS files combined to one file."
-msgstr "Fichiers de thÃ¨mes JavaScript et CSS combinÃ©s en un seul fichier."
+msgstr "Fichiers de thèmes JavaScript et CSS combinés en un seul fichier."
 
 #: There has been wrong payment information submitted or time limit has expired. Please, try again.
 msgid "There has been wrong payment information submitted or time limit has expired. Please, try again."
-msgstr "Des informations de paiement erronÃ©es ont Ã©tÃ© soumises ou la limite de temps a Ã©tÃ© atteinte. Veuillez rÃ©essayer."
+msgstr "Des informations de paiement erronées ont été soumises ou la limite de temps a été atteinte. Veuillez réessayer."
 
 #: There is an error in one of the option rows.
 msgid "There is an error in one of the option rows."
@@ -3784,11 +3784,11 @@ msgstr "Ce gabarit d'email n'existe plus."
 
 #: This Role no longer exists
 msgid "This Role no longer exists"
-msgstr "Ce rÃ´le n'existe plus"
+msgstr "Ce rôle n'existe plus"
 
 #: This Role no longer exists.
 msgid "This Role no longer exists."
-msgstr "Ce rÃ´le n'existe plus."
+msgstr "Ce rôle n'existe plus."
 
 #: This account is
 msgid "This account is"
@@ -3800,15 +3800,15 @@ msgstr "Ce compte est inactif."
 
 #: This attribute set does not have attributes which we can use for configurable product
 msgid "This attribute set does not have attributes which we can use for configurable product"
-msgstr "Ce jeu d'attributs ne possÃ¨de pas d'attributs utilisables pour un produit configurable."
+msgstr "Ce jeu d'attributs ne possède pas d'attributs utilisables pour un produit configurable."
 
 #: This attribute shares the same value in all the stores
 msgid "This attribute shares the same value in all the stores"
-msgstr "Cet attribut partage les mÃªmes valeurs dans tous les magasins."
+msgstr "Cet attribut partage les mêmes valeurs dans tous les magasins."
 
 #: This is a demo store. Any orders placed through this store will not be honored or fulfilled.
 msgid "This is a demo store. Any orders placed through this store will not be honored or fulfilled."
-msgstr "Ceci est une boutique de dÃ©monstration. Aucune commande passÃ©e sur cette boutique ne sera honorÃ©e."
+msgstr "Ceci est une boutique de démonstration. Aucune commande passée sur cette boutique ne sera honorée."
 
 #: This is a required field.
 msgid "This is a required field."
@@ -3816,19 +3816,19 @@ msgstr "Ce champ est obligatoire."
 
 #: This product is currently disabled.
 msgid "This product is currently disabled."
-msgstr "Ce produit est dÃ©sactivÃ©."
+msgstr "Ce produit est désactivé."
 
 #: This report depends on timezone configuration. Once timezone is changed, the lifetime statistics need to be refreshed.
 msgid "This report depends on timezone configuration. Once timezone is changed, the lifetime statistics need to be refreshed."
-msgstr "Ce rapport dÃ©pend de la configuration du fuseau horaire. Si le fuseau horaire est modifiÃ©, les statistiques doivent Ãªtre rafraÃ®chies."
+msgstr "Ce rapport dépend de la configuration du fuseau horaire. Si le fuseau horaire est modifié, les statistiques doivent être rafraîchies."
 
 #: This section is not allowed.
 msgid "This section is not allowed."
-msgstr "Cette section n'est pas autorisÃ©e."
+msgstr "Cette section n'est pas autorisée."
 
 #: This tab contains invalid data. Please solve the problem before saving.
 msgid "This tab contains invalid data. Please solve the problem before saving."
-msgstr "Cet onglet contient des donnÃ©es non valides. Veuillez rÃ©soudre le problÃ¨me avant de sauvegarder."
+msgstr "Cet onglet contient des données non valides. Veuillez résoudre le problème avant de sauvegarder."
 
 #: This user no longer exists.
 msgid "This user no longer exists."
@@ -3844,7 +3844,7 @@ msgstr "Heure"
 
 #: Time selection:
 msgid "Time selection:"
-msgstr "SÃ©lection de l'heure :"
+msgstr "Sélection de l'heure :"
 
 #: Time:
 msgid "Time:"
@@ -3852,11 +3852,11 @@ msgstr "Heure :"
 
 #: To
 msgid "To"
-msgstr "Ã€"
+msgstr "À"
 
 #: Toggle Editor
 msgid "Toggle Editor"
-msgstr "Changer d'Ã©diteur"
+msgstr "Changer d'éditeur"
 
 #: Tools
 msgid "Tools"
@@ -3864,7 +3864,7 @@ msgstr "Outils"
 
 #: Top 5 Search Terms
 msgid "Top 5 Search Terms"
-msgstr "5 termes les plus recherchÃ©s"
+msgstr "5 termes les plus recherchés"
 
 #: Total
 msgid "Total"
@@ -3872,7 +3872,7 @@ msgstr "Total"
 
 #: Total %d records found
 msgid "Total %d records found"
-msgstr "%d enregistrement(s) trouvÃ©(s)"
+msgstr "%d enregistrement(s) trouvé(s)"
 
 #: Total Invoiced
 msgid "Total Invoiced"
@@ -3884,15 +3884,15 @@ msgstr "Montant total de commande"
 
 #: Total Refunded
 msgid "Total Refunded"
-msgstr "Total remboursÃ©"
+msgstr "Total remboursé"
 
 #: Total of %d record(s) have been deleted.
 msgid "Total of %d record(s) have been deleted."
-msgstr "%d enregistrement(s) a (ont) Ã©tÃ© effacÃ©(s)."
+msgstr "%d enregistrement(s) a (ont) été effacé(s)."
 
 #: Total of %d record(s) have been updated.
 msgid "Total of %d record(s) have been updated."
-msgstr "%d enregistrement(s) a (ont) Ã©tÃ© mis Ã  jour."
+msgstr "%d enregistrement(s) a (ont) été mis à jour."
 
 #: Track Order
 msgid "Track Order"
@@ -3904,19 +3904,19 @@ msgstr "Suivre cette livraison"
 
 #: Tracking number %s for %s assigned
 msgid "Tracking number %s for %s assigned"
-msgstr "NumÃ©ro de suivi %s assignÃ© Ã  %s"
+msgstr "Numéro de suivi %s assigné à %s"
 
 #: Tracking number cannot be empty.
 msgid "Tracking number cannot be empty."
-msgstr "Le numÃ©ro de suivi ne peut pas Ãªtre vide."
+msgstr "Le numéro de suivi ne peut pas être vide."
 
 #: Transaction Data
 msgid "Transaction Data"
-msgstr "DonnÃ©es de transaction"
+msgstr "Données de transaction"
 
 #: Transaction Details
 msgid "Transaction Details"
-msgstr "DÃ©tail de la transaction"
+msgstr "Détail de la transaction"
 
 #: Transaction ID
 msgid "Transaction ID"
@@ -3944,15 +3944,15 @@ msgstr "Type :"
 
 #: URL Rewrite
 msgid "URL Rewrite"
-msgstr "RÃ©-Ã©criture d'URL"
+msgstr "Ré-écriture d'URL"
 
 #: URL Rewrite Information
 msgid "URL Rewrite Information"
-msgstr "Information sur la rÃ©Ã©criture d'URL"
+msgstr "Information sur la réécriture d'URL"
 
 #: URL Rewrite Management
 msgid "URL Rewrite Management"
-msgstr "Gestion de rÃ©Ã©criture d'URL"
+msgstr "Gestion de réécriture d'URL"
 
 #: Unable to cancel the credit memo.
 msgid "Unable to cancel the credit memo."
@@ -3960,31 +3960,31 @@ msgstr "Impossible d'annuler l'avoir."
 
 #: Unable to find a Email Template to delete.
 msgid "Unable to find a Email Template to delete."
-msgstr "Impossible de trouver un gabarit d'email Ã  effacer"
+msgstr "Impossible de trouver un gabarit d'email à effacer"
 
 #: Unable to find a poll to delete.
 msgid "Unable to find a poll to delete."
-msgstr "Impossible de trouver le sondage Ã  supprimer."
+msgstr "Impossible de trouver le sondage à supprimer."
 
 #: Unable to find a tag to delete.
 msgid "Unable to find a tag to delete."
-msgstr "Impossible de trouver le tag Ã  supprimer."
+msgstr "Impossible de trouver le tag à supprimer."
 
 #: Unable to find a user to delete.
 msgid "Unable to find a user to delete."
-msgstr "Impossible de trouver l'utilisateur Ã  supprimer."
+msgstr "Impossible de trouver l'utilisateur à supprimer."
 
 #: Unable to initialize import model
 msgid "Unable to initialize import model"
-msgstr "Impossible d'initialiser le modÃ¨le d'import"
+msgstr "Impossible d'initialiser le modèle d'import"
 
 #: Unable to refresh lifetime statistics.
 msgid "Unable to refresh lifetime statistics."
-msgstr "Impossible de rafraÃ®chir les statistiques."
+msgstr "Impossible de rafraîchir les statistiques."
 
 #: Unable to refresh recent statistics.
 msgid "Unable to refresh recent statistics."
-msgstr "Impossible de rafraÃ®chir les statistiques rÃ©centes."
+msgstr "Impossible de rafraîchir les statistiques récentes."
 
 #: Unable to save the cron expression.
 msgid "Unable to save the cron expression."
@@ -4000,7 +4000,7 @@ msgstr "Impossible d'envoyer l'email de facture."
 
 #: Unable to send the shipment email.
 msgid "Unable to send the shipment email."
-msgstr "Impossible d'envoyer l'email d'expÃ©dition."
+msgstr "Impossible d'envoyer l'email d'expédition."
 
 #: Unable to void the credit memo.
 msgid "Unable to void the credit memo."
@@ -4012,47 +4012,47 @@ msgstr "Inconnu"
 
 #: Unlimited
 msgid "Unlimited"
-msgstr "IllimitÃ©"
+msgstr "Illimité"
 
 #: Unselect All
 msgid "Unselect All"
-msgstr "DÃ©sÃ©lectionner tout"
+msgstr "Désélectionner tout"
 
 #: Unselect Visible
 msgid "Unselect Visible"
-msgstr "DÃ©sÃ©lectionner les Ã©lÃ©ments visibles"
+msgstr "Désélectionner les éléments visibles"
 
 #: Update
 msgid "Update"
-msgstr "Mettre Ã  jour"
+msgstr "Mettre à jour"
 
 #: Updated At
 msgid "Updated At"
-msgstr "Mise Ã  jour Ã "
+msgstr "Mise à jour à"
 
 #: Upload File
 msgid "Upload File"
-msgstr "TÃ©lÃ©charger le fichier"
+msgstr "Télécharger le fichier"
 
 #: Upload Files
 msgid "Upload Files"
-msgstr "TÃ©lÃ©charger les fichiers"
+msgstr "Télécharger les fichiers"
 
 #: Upload HTTP Error
 msgid "Upload HTTP Error"
-msgstr "Erreur HTTP de tÃ©lÃ©chargement"
+msgstr "Erreur HTTP de téléchargement"
 
 #: Upload I/O Error
 msgid "Upload I/O Error"
-msgstr "Erreur entrÃ©e/Sortie de tÃ©lÃ©chargement"
+msgstr "Erreur entrée/Sortie de téléchargement"
 
 #: Upload Security Error
 msgid "Upload Security Error"
-msgstr "Erreur de sÃ©curitÃ© de tÃ©lÃ©chargement"
+msgstr "Erreur de sécurité de téléchargement"
 
 #: Upload import file
 msgid "Upload import file"
-msgstr "TÃ©lÃ©charger le fichier Ã  importer"
+msgstr "Télécharger le fichier à importer"
 
 #: Use All Available Attributes
 msgid "Use All Available Attributes"
@@ -4060,19 +4060,19 @@ msgstr "Utiliser tous les attributs disponibles"
 
 #: Use Config Settings
 msgid "Use Config Settings"
-msgstr "Utiliser les paramÃ¨tres de la configuration"
+msgstr "Utiliser les paramètres de la configuration"
 
 #: Use Default
 msgid "Use Default"
-msgstr "Utiliser la valeur par dÃ©faut"
+msgstr "Utiliser la valeur par défaut"
 
 #: Use Default Value
 msgid "Use Default Value"
-msgstr "Utiliser la valeur par dÃ©faut"
+msgstr "Utiliser la valeur par défaut"
 
 #: Use Default Variable Values
 msgid "Use Default Variable Values"
-msgstr "Utiliser les valeurs par dÃ©faut"
+msgstr "Utiliser les valeurs par défaut"
 
 #: Use Website
 msgid "Use Website"
@@ -4080,11 +4080,11 @@ msgstr "Valeur du site web"
 
 #: Used Currently For
 msgid "Used Currently For"
-msgstr "UtilisÃ© actuellement pour"
+msgstr "Utilisé actuellement pour"
 
 #: Used as Default For
 msgid "Used as Default For"
-msgstr "UtilisÃ© par dÃ©faut pour"
+msgstr "Utilisé par défaut pour"
 
 #: User
 msgid "User"
@@ -4120,15 +4120,15 @@ msgstr "Nom d'utilisateur :"
 
 #: User Role
 msgid "User Role"
-msgstr "RÃ´le de l'utilisateur"
+msgstr "Rôle de l'utilisateur"
 
 #: User Roles
 msgid "User Roles"
-msgstr "RÃ´les utilisateurs"
+msgstr "Rôles utilisateurs"
 
 #: User Roles Information
 msgid "User Roles Information"
-msgstr "Informations rÃ´le utilisateur"
+msgstr "Informations rôle utilisateur"
 
 #: User name
 msgid "User name"
@@ -4144,7 +4144,7 @@ msgstr "Valeur"
 
 #: Value Delimiter:
 msgid "Value Delimiter:"
-msgstr "DÃ©limiteur de valeurs :"
+msgstr "Délimiteur de valeurs :"
 
 #: Variable
 msgid "Variable"
@@ -4172,15 +4172,15 @@ msgstr "Valeur texte de la variable"
 
 #: Verification Failed
 msgid "Verification Failed"
-msgstr "Ã‰chec de la vÃ©rification"
+msgstr "Échec de la vérification"
 
 #: Verification Successful
 msgid "Verification Successful"
-msgstr "VÃ©rification rÃ©ussie !"
+msgstr "Vérification réussie !"
 
 #: Verification cannot be processed
 msgid "Verification cannot be processed"
-msgstr "La vÃ©rification ne peut pas aboutir."
+msgstr "La vérification ne peut pas aboutir."
 
 #: View
 msgid "View"
@@ -4200,7 +4200,7 @@ msgstr "Voir l'avoir"
 
 #: View Memo for #%s
 msgid "View Memo for #%s"
-msgstr "Voir l'avoir pour nÂ°%s"
+msgstr "Voir l'avoir pour n°%s"
 
 #: View Shipment
 msgid "View Shipment"
@@ -4212,23 +4212,23 @@ msgstr "Voir les statistiques pour"
 
 #: Visibility:
 msgid "Visibility:"
-msgstr "VisibilitÃ© :"
+msgstr "Visibilité :"
 
 #: Warning! Empty value can cause problems with CSV format.
 msgid "Warning! Empty value can cause problems with CSV format."
-msgstr "Attention ! Les valeurs vides peuvent poser problÃ¨me avec le format CSV."
+msgstr "Attention ! Les valeurs vides peuvent poser problème avec le format CSV."
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: Please do not close the window during importing/exporting data
 msgid "Warning: Please do not close the window during importing/exporting data"
-msgstr "Attention : ne fermez pas la fenÃªtre pendant l'import/export de donnÃ©es."
+msgstr "Attention : ne fermez pas la fenêtre pendant l'import/export de données."
 
 #: Watermark File for %s
 msgid "Watermark File for %s"
@@ -4236,15 +4236,15 @@ msgstr "Fichier de filigrane pour %s"
 
 #: We appreciate our merchants\' feedback, please <a href=\"#\" onclick=\"surveyAction(\'yes\'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction(\'no\'); return false;\">Remove this notification</a>
 msgid "We appreciate our merchants\' feedback, please <a href=\"#\" onclick=\"surveyAction(\'yes\'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction(\'no\'); return false;\">Remove this notification</a>"
-msgstr "Nous apprÃ©cions les retours de nos marchands, nous aimerions que vous rÃ©pondiez <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">Ã  notre sondage</a> pour indiquer les fonctionnalitÃ©s que vous aimeriez voir intÃ©grÃ©es dans Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Supprimer cette notification</a>"
+msgstr "Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">à notre sondage</a> pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Supprimer cette notification</a>"
 
 #: We detected that your JavaScript seem to be disabled.
 msgid "We detected that your JavaScript seem to be disabled."
-msgstr "Il semblerait que la prise en charge de JavaScript par votre navigateur soit dÃ©sactivÃ©e."
+msgstr "Il semblerait que la prise en charge de JavaScript par votre navigateur soit désactivée."
 
 #: We\'re in our typing table, coding away more features for Magento. Thank you for your patience.
 msgid "We\'re in our typing table, coding away more features for Magento. Thank you for your patience."
-msgstr "Nous sommes en train de dÃ©velopper de nouvelles fonctionnalitÃ©s pour Magento. Merci de votre patience."
+msgstr "Nous sommes en train de développer de nouvelles fonctionnalités pour Magento. Merci de votre patience."
 
 #: Web Section
 msgid "Web Section"
@@ -4272,7 +4272,7 @@ msgstr "Listes d'envies"
 
 #: Wrong billing agreement ID specified.
 msgid "Wrong billing agreement ID specified."
-msgstr "L'ID d'entente de facturation spÃ©cifiÃ© est incorrect."
+msgstr "L'ID d'entente de facturation spécifié est incorrect."
 
 #: Wrong column format.
 msgid "Wrong column format."
@@ -4288,7 +4288,7 @@ msgstr "Mauvaise configuration d'onglet."
 
 #: Wrong tag was specified.
 msgid "Wrong tag was specified."
-msgstr "Mauvais tag spÃ©cifiÃ©."
+msgstr "Mauvais tag spécifié."
 
 #: Wrong transaction ID specified.
 msgid "Wrong transaction ID specified."
@@ -4300,11 +4300,11 @@ msgstr "XML"
 
 #: YTD
 msgid "YTD"
-msgstr "Depuis le dÃ©but de l'annÃ©e"
+msgstr "Depuis le début de l'année"
 
 #: Year
 msgid "Year"
-msgstr "AnnÃ©e"
+msgstr "Année"
 
 #: Yes
 msgid "Yes"
@@ -4312,11 +4312,11 @@ msgstr "Oui"
 
 #: Yes (301 Moved Permanently)
 msgid "Yes (301 Moved Permanently)"
-msgstr "Oui (301 Document dÃ©placÃ© de faÃ§on permanente)"
+msgstr "Oui (301 Document déplacé de façon permanente)"
 
 #: Yes (302 Found)
 msgid "Yes (302 Found)"
-msgstr "Oui (302 Document dÃ©placÃ© de faÃ§on temporaire)"
+msgstr "Oui (302 Document déplacé de façon temporaire)"
 
 #: Yes (only price with tax)
 msgid "Yes (only price with tax)"
@@ -4332,31 +4332,31 @@ msgstr "Vous avez"
 
 #: You have logged out.
 msgid "You have logged out."
-msgstr "Vous vous Ãªtes dÃ©connectÃ©(e)."
+msgstr "Vous vous êtes déconnecté(e)."
 
 #: You have not enough permissions to use this functionality.
 msgid "You have not enough permissions to use this functionality."
-msgstr "Nous n'avez pas la permission d'utiliser cette fonctionnalitÃ©."
+msgstr "Nous n'avez pas la permission d'utiliser cette fonctionnalité."
 
 #: You must have JavaScript enabled in your browser to utilize the functionality of this website.
 msgid "You must have JavaScript enabled in your browser to utilize the functionality of this website."
-msgstr "Javascript doit Ãªtre activÃ© dans votre navigateur pour utiliser toutes les fonctionnalitÃ©s de ce site."
+msgstr "Javascript doit être activé dans votre navigateur pour utiliser toutes les fonctionnalités de ce site."
 
 #: You need to specify order items.
 msgid "You need to specify order items."
-msgstr "Vous devez spÃ©cifier les articles de la commande."
+msgstr "Vous devez spécifier les articles de la commande."
 
 #: Your answers contain duplicates.
 msgid "Your answers contain duplicates."
-msgstr "Vos rÃ©ponses contiennent des doublons."
+msgstr "Vos réponses contiennent des doublons."
 
 #: Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.
 msgid "Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files."
-msgstr "Les paramÃ¨tres de votre serveur PHP ne vous autorisent pas Ã  uploader des fichiers de plus de %s Ã  la fois. Modifiez les valeurs de post_max_size (valeur actuelle %s) et upload_max_filesize (valeur actuelle %s) dans php.ini si vous voulez pouvoir uploader des fichiers plus gros."
+msgstr "Les paramètres de votre serveur PHP ne vous autorisent pas à uploader des fichiers de plus de %s à la fois. Modifiez les valeurs de post_max_size (valeur actuelle %s) et upload_max_filesize (valeur actuelle %s) dans php.ini si vous voulez pouvoir uploader des fichiers plus gros."
 
 #: Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.
 msgid "Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider."
-msgstr "Votre serveur web est mal configurÃ©. Les fichiers de configuration comportant des informations sensibles sont accessibles de l'extÃ©rieur. Consultez votre hÃ©bergeur."
+msgstr "Votre serveur web est mal configuré. Les fichiers de configuration comportant des informations sensibles sont accessibles de l'extérieur. Consultez votre hébergeur."
 
 #: Zip/Postal Code
 msgid "Zip/Postal Code"
@@ -4368,7 +4368,7 @@ msgstr "Code postal :"
 
 #: [ deleted ]
 msgid "[ deleted ]"
-msgstr "[ effacÃ© ]"
+msgstr "[ effacé ]"
 
 #: [GLOBAL]
 msgid "[GLOBAL]"
@@ -4396,7 +4396,7 @@ msgstr "critique"
 
 #: example: \"sitemap/\" or \"/\" for base path (path must be writeable)
 msgid "example: \"sitemap/\" or \"/\" for base path (path must be writeable)"
-msgstr "exemple : \"sitemap/\" ou \"/\" pour le chemin de base (le chemin doit Ãªtre accessible en Ã©criture)"
+msgstr "exemple : \"sitemap/\" ou \"/\" pour le chemin de base (le chemin doit être accessible en écriture)"
 
 #: example: sitemap.xml
 msgid "example: sitemap.xml"
@@ -4412,7 +4412,7 @@ msgstr "images/logo.gif"
 
 #: items selected
 msgid "items selected"
-msgstr "Ã©lÃ©ment(s) sÃ©lectionnÃ©(s)"
+msgstr "élément(s) sélectionné(s)"
 
 #: major
 msgid "major"
@@ -4436,19 +4436,19 @@ msgstr "par page"
 
 #: store(%s) scope
 msgid "store(%s) scope"
-msgstr "portÃ©e du magasin (%s)"
+msgstr "portée du magasin (%s)"
 
 #: to
 msgid "to"
-msgstr "Ã "
+msgstr "à"
 
 #: website(%s) scope
 msgid "website(%s) scope"
-msgstr "portÃ©e du site web (%s)"
+msgstr "portée du site web (%s)"
 
 #: {{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=\"%s\">configuration</a>.
 msgid "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=\"%s\">configuration</a>."
-msgstr "L'utilisation de {{base_url}} n'est pas recommandÃ©e dans un environnement de production. Nous vous recommandons de modifier cette valeur dans votre <a href=\"%s\">configuration</a> Magento."
+msgstr "L'utilisation de {{base_url}} n'est pas recommandée dans un environnement de production. Nous vous recommandons de modifier cette valeur dans votre <a href=\"%s\">configuration</a> Magento."
 
 #: Moneybookers activate email
 msgid "Moneybookers activate email"
@@ -4456,15 +4456,15 @@ msgstr "Email d'activation de Moneybookers"
 
 #: Please confirm site switching. All data that hasn't been saved will be lost.
 msgid "Please confirm site switching. All data that hasn't been saved will be lost."
-msgstr "Confirmez-vous le changement de site ? Toutes les donnÃ©es non sauvegardÃ©es seront perdues."
+msgstr "Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues."
 
 #: unread message(s). <a href="%s">Go to messages inbox</a>.
 msgid "unread message(s). <a href="%s">Go to messages inbox</a>."
-msgstr "message(s) non lu(s). <a href=\"%s\">Aller Ã  la boÃ®te de rÃ©ception</a>."
+msgstr "message(s) non lu(s). <a href=\"%s\">Aller à la boîte de réception</a>."
 
 #: Last updated: %s. To refresh last day's <a href="%s">statistics</a>, click <a href="%s">here</a>.
 msgid "Last updated: %s. To refresh last day's <a href=\"%s\">statistics</a>, click <a href=\"%s\">here</a>."
-msgstr "DerniÃ¨re mise Ã  jour : %s. Pour rafraÃ®chir les <a href=\"%s\">statistiques</a> du dernier jour, <a href=\"%s\">cliquez ici</a>."
+msgstr "Dernière mise à jour : %s. Pour rafraîchir les <a href=\"%s\">statistiques</a> du dernier jour, <a href=\"%s\">cliquez ici</a>."
 
 #: Allow everything
 msgid "Allow everything"
@@ -4480,11 +4480,11 @@ msgstr "Ajouter un mainteneur"
 
 #: Add Subpackage dependency
 msgid "Add Subpackage dependency"
-msgstr "Ajouter une dÃ©pendance de sous-paquet"
+msgstr "Ajouter une dépendance de sous-paquet"
 
 #: API Stability
 msgid "API Stability"
-msgstr "StabilitÃ© de l'API"
+msgstr "Stabilité de l'API"
 
 #: API Version
 msgid "API Version"
@@ -4496,19 +4496,19 @@ msgstr "Conflits"
 
 #: Create Extension Package
 msgid "Create Extension Package"
-msgstr "CrÃ©er un package d'extension"
+msgstr "Créer un package d'extension"
 
 #: Dependencies
 msgid "Dependencies"
-msgstr "DÃ©pendances"
+msgstr "Dépendances"
 
 #: Exclude (comma separated)
 msgid "Exclude (comma separated)"
-msgstr "Ã€ exclure (sÃ©prarÃ©s par des virgules)"
+msgstr "À exclure (séprarés par des virgules)"
 
 #: Folder
 msgid "Folder"
-msgstr "RÃ©pertoire"
+msgstr "Répertoire"
 
 #: Level
 msgid "Level"
@@ -4552,7 +4552,7 @@ msgstr "Version de PHP"
 
 #: Recommended
 msgid "Recommended"
-msgstr "RecommandÃ©"
+msgstr "Recommandé"
 
 #: Release Info
 msgid "Release Info"
@@ -4560,7 +4560,7 @@ msgstr "Information sur la version"
 
 #: Role
 msgid "Role"
-msgstr "RÃ´le"
+msgstr "Rôle"
 
 #: Save As...
 msgid "Save As..."
@@ -4568,11 +4568,11 @@ msgstr "Sauvegarder sous..."
 
 #: Save data and Create Package
 msgid "Save data and Create Package"
-msgstr "Sauvegarder et crÃ©er le paquet"
+msgstr "Sauvegarder et créer le paquet"
 
 #: Save package with custom package file name
 msgid "Save package with custom package file name"
-msgstr "Sauvegarder le package avec un nom du fichier de package personnalisÃ©"
+msgstr "Sauvegarder le package avec un nom du fichier de package personnalisé"
 
 #: Subpackage
 msgid "Subpackage"
@@ -4584,19 +4584,19 @@ msgstr "Sous-paquets"
 
 #: Summary
 msgid "Summary"
-msgstr "RÃ©sumÃ©"
+msgstr "Résumé"
 
 #: Package %s data was successfully loaded
 msgid "Package %s data was successfully loaded"
-msgstr "Les donnÃ©es du paquet %s ont bien Ã©tÃ© chargÃ©es"
+msgstr "Les données du paquet %s ont bien été chargées"
 
 #: The customer does not exist in the system anymore.
 msgid "The customer does not exist in the system anymore."
-msgstr "Le client n'existe plus dans le systÃ¨me."
+msgstr "Le client n'existe plus dans le système."
 
 #: [deleted]
 msgid "[deleted]"
-msgstr "[effacÃ©]"
+msgstr "[effacé]"
 
 #:  note that the URLs provided below are the correct values for your current website):
 msgid " note that the URLs provided below are the correct values for your current website): "
@@ -4628,11 +4628,11 @@ msgstr "Ajouter au panier"
 
 #: Add to Wishlist
 msgid "Add to Wishlist"
-msgstr "Ajouter Ã  la liste d'envies"
+msgstr "Ajouter à la liste d'envies"
 
 #: AirMail Template Preview
 msgid "AirMail Template Preview"
-msgstr "PrÃ©visualisation du gabarit de AirMail"
+msgstr "Prévisualisation du gabarit de AirMail"
 
 #: An error has occured while syncronizing media storages.
 msgid "An error has occured while syncronizing media storages."
@@ -4640,11 +4640,11 @@ msgstr "Erreur lors de la synchronisation des stockages de media."
 
 #: Apply Theme
 msgid "Apply Theme"
-msgstr "Appliquer le thÃ¨me"
+msgstr "Appliquer le thème"
 
 #: As low as:
 msgid "As low as:"
-msgstr "Prix spÃ©cial :"
+msgstr "Prix spécial :"
 
 #: Billing Address:
 msgid "Billing Address:"
@@ -4656,7 +4656,7 @@ msgstr "URL d'annulation :"
 
 #: Cannot update the item's quantity.
 msgid "Cannot update the item's quantity."
-msgstr "Impossible de mettre Ã  jour la quantitÃ© de l'article."
+msgstr "Impossible de mettre à jour la quantité de l'article."
 
 #: Carrier
 msgid "Carrier"
@@ -4672,15 +4672,15 @@ msgstr "Changer l'orientation"
 
 #: Choose a selection...
 msgid "Choose a selection..."
-msgstr "Choisissez une sÃ©lection"
+msgstr "Choisissez une sélection"
 
 #: Chosen category does not associated with any website,
 msgid "Chosen category does not associated with any website,"
-msgstr "La catÃ©gorie choisie n'est associÃ©e Ã  aucun site web."
+msgstr "La catégorie choisie n'est associée à aucun site web."
 
 #: Chosen product does not associated with any website,
 msgid "Chosen product does not associated with any website,"
-msgstr "Le produit choisi n'est associÃ© Ã  aucun site web."
+msgstr "Le produit choisi n'est associé à aucun site web."
 
 #: Continue
 msgid "Continue"
@@ -4688,31 +4688,31 @@ msgstr "Continuer"
 
 #: Credit Card %s
 msgid "Credit Card %s"
-msgstr "Carte de crÃ©dit %s"
+msgstr "Carte de crédit %s"
 
 #: Credit memo's total must be positive.
 msgid "Credit memo's total must be positive."
-msgstr "Le total de l'avoir doit Ãªtre positif"
+msgstr "Le total de l'avoir doit être positif"
 
 #: Custom Colors
 msgid "Custom Colors"
-msgstr "Couleurs personnalisÃ©es"
+msgstr "Couleurs personnalisées"
 
 #: Database
 msgid "Database"
-msgstr "Base de donnÃ©es"
+msgstr "Base de données"
 
 #: Dataflow - Advance Profiles
 msgid "Dataflow - Advance Profiles"
-msgstr "Flux de donnÃ©es - Profils avancÃ©s"
+msgstr "Flux de données - Profils avancés"
 
 #: Dataflow - Advanced Profiles
 msgid "Dataflow - Advanced Profiles"
-msgstr "Flux de donnÃ©es - Profils avancÃ©s"
+msgstr "Flux de données - Profils avancés"
 
 #: Dataflow - Profiles
 msgid "Dataflow - Profiles"
-msgstr "Flux de donnÃ©es - Profils"
+msgstr "Flux de données - Profils"
 
 #: Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.
 msgid "Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode."
@@ -4720,19 +4720,19 @@ msgstr "Ne pas activer les options AVS ou CSC. Ces options ne fonctionnent pas e
 
 #: Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.
 msgid "Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout."
-msgstr "Dans le bloc d'informations de facturation et de livraison de votre compte Payflow, ne rendez Ã©ditable aucun champ."
+msgstr "Dans le bloc d'informations de facturation et de livraison de votre compte Payflow, ne rendez éditable aucun champ."
 
 #: Edit Filter
 msgid "Edit Filter"
-msgstr "Ã‰diter le filtre"
+msgstr "Éditer le filtre"
 
 #: Enable Secure Token:
 msgid "Enable Secure Token:"
-msgstr "Ã‰diter le jeton de sÃ©curitÃ© :"
+msgstr "Éditer le jeton de sécurité :"
 
 #: Entity Attributes
 msgid "Entity Attributes"
-msgstr "Attributs d'entitÃ©"
+msgstr "Attributs d'entité"
 
 #: Excel XML
 msgid "Excel XML"
@@ -4744,15 +4744,15 @@ msgstr "FAQ d'export"
 
 #: FILTERS APPLIED
 msgid "FILTERS APPLIED"
-msgstr "FILTRES APPLIQUÃ‰S"
+msgstr "FILTRES APPLIQUÉS"
 
 #: File System
 msgid "File System"
-msgstr "SystÃ¨me de fichiers"
+msgstr "Système de fichiers"
 
 #: Go to messages inbox
 msgid "Go to messages inbox"
-msgstr "Aller Ã  la boÃ®te de rÃ©ception"
+msgstr "Aller à la boîte de réception"
 
 #: Go to notifications
 msgid "Go to notifications"
@@ -4760,11 +4760,11 @@ msgstr "Voir les notifications"
 
 #: Helper for options rendering doesn't implement required interface.
 msgid "Helper for options rendering doesn't implement required interface."
-msgstr "Le helper utilisÃ© pour le rendu des options n'implÃ©mente pas l'interface requise."
+msgstr "Le helper utilisé pour le rendu des options n'implémente pas l'interface requise."
 
 #: If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.
 msgid "If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website."
-msgstr "Si votre instance Magento est utilisÃ©e pour plusieurs sites web, vous devez configurer un compte Payflow Link pour chaque site web."
+msgstr "Si votre instance Magento est utilisée pour plusieurs sites web, vous devez configurer un compte Payflow Link pour chaque site web."
 
 #: Import / Export FAQ (Frequently Asked Questions)
 msgid "Import / Export FAQ (Frequently Asked Questions)"
@@ -4800,11 +4800,11 @@ msgstr "Rendre inactif"
 
 #: Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.
 msgid "Make sure that you configure the design settings for the Payflow Link form in your Payflow link account."
-msgstr "Assurez-vous d'avoir configurÃ© le design pour le formulaire Payflow Link dans votre compte Payflow Link."
+msgstr "Assurez-vous d'avoir configuré le design pour le formulaire Payflow Link dans votre compte Payflow Link."
 
 #: Media storages synchronization has completed!
 msgid "Media storages synchronization has completed!"
-msgstr "La synchronisation des stockages de media est terminÃ©e."
+msgstr "La synchronisation des stockages de media est terminée."
 
 #: More Tabs
 msgid "More Tabs"
@@ -4812,11 +4812,11 @@ msgstr "Plus d'onglets"
 
 #: No customer id defined.
 msgid "No customer id defined."
-msgstr "Aucun id de client n'a Ã©tÃ© dÃ©fini."
+msgstr "Aucun id de client n'a été défini."
 
 #: No wishlist item id defined.
 msgid "No wishlist item id defined."
-msgstr "L'id de l'Ã©lÃ©ment de la liste d'envies n'a pas Ã©tÃ© dÃ©fini."
+msgstr "L'id de l'élément de la liste d'envies n'a pas été défini."
 
 #: On my website
 msgid "On my website"
@@ -4824,35 +4824,35 @@ msgstr "Sur mon site web"
 
 #: Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below
 msgid "Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below"
-msgstr "Une fois connectÃ© dans votre compte Payflow Link, allez dans le menu ParamÃ©trages du service - Pages de commande hÃ©bergÃ©es - Configuration et renseignez les options dÃ©crites ci-dessous"
+msgstr "Une fois connecté dans votre compte Payflow Link, allez dans le menu Paramétrages du service - Pages de commande hébergées - Configuration et renseignez les options décrites ci-dessous"
 
 #: One or more media files failed to be synchronized during the media storages syncronization process. Refer to the log file for details.
 msgid "One or more media files failed to be synchronized during the media storages syncronization process. Refer to the log file for details."
-msgstr "La synchronisation d'un ou plusieurs fichiers de media a Ã©chouÃ© pendant le processus. Pour plus de dÃ©tail, consultez les logs."
+msgstr "La synchronisation d'un ou plusieurs fichiers de media a échoué pendant le processus. Pour plus de détail, consultez les logs."
 
 #: Options menu items
 msgid "Options menu items"
-msgstr "Ã‰lÃ©ments du menu d'options"
+msgstr "Éléments du menu d'options"
 
 #: Out of stock
 msgid "Out of stock"
-msgstr "Ã‰puisÃ©"
+msgstr "Épuisé"
 
 #: Please enter another credit card number to complete your purchase.
 msgid "Please enter another credit card number to complete your purchase."
-msgstr "Veuillez saisir un autre numÃ©ro de carte bancaire afin de poursuivre votre commande."
+msgstr "Veuillez saisir un autre numéro de carte bancaire afin de poursuivre votre commande."
 
 #: Please select message(s).
 msgid "Please select message(s)."
-msgstr "Veuillez sÃ©lectionner un ou plusieurs messages."
+msgstr "Veuillez sélectionner un ou plusieurs messages."
 
 #: Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.
 msgid "Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
-msgstr "Seuls les chiffres sont autorisÃ©s dans ce champ. Ã‰vitez les espaces ou autres caractÃ¨res tels que les points ou les virgules."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
 
 #: Preset Theme
 msgid "Preset Theme"
-msgstr "ThÃ¨me prÃ©-configurÃ©"
+msgstr "Thème pré-configuré"
 
 #: Product Name3
 msgid "Product Name3"
@@ -4868,11 +4868,11 @@ msgstr "Product Name3 2"
 
 #: Product is not loaded.
 msgid "Product is not loaded."
-msgstr "Le produit n'est pas chargÃ©."
+msgstr "Le produit n'est pas chargé."
 
 #: Qty:
 msgid "Qty:"
-msgstr "QtÃ© :"
+msgstr "Qté :"
 
 #: Regular Price:
 msgid "Regular Price:"
@@ -4880,11 +4880,11 @@ msgstr "Prix normal :"
 
 #: Required settings
 msgid "Required settings"
-msgstr "ParamÃ¨tres obligatoires"
+msgstr "Paramètres obligatoires"
 
 #: Reset Successful
 msgid "Reset Successful"
-msgstr "RÃ©initialisation effectuÃ©e"
+msgstr "Réinitialisation effectuée"
 
 #: Return URL:
 msgid "Return URL:"
@@ -4896,15 +4896,15 @@ msgstr "TRIER PAR :"
 
 #: Save Theme
 msgid "Save Theme"
-msgstr "Enregistrer le thÃ¨me"
+msgstr "Enregistrer le thème"
 
 #: Screens:
 msgid "Screens:"
-msgstr "Ã‰crans :"
+msgstr "Écrans :"
 
 #: Select Template
 msgid "Select Template"
-msgstr "SÃ©lectionner le gabarit"
+msgstr "Sélectionner le gabarit"
 
 #: Shipping Address:
 msgid "Shipping Address:"
@@ -4924,7 +4924,7 @@ msgstr "Autre FAQ"
 
 #: Special Price:
 msgid "Special Price:"
-msgstr "Prix spÃ©cial :"
+msgstr "Prix spécial :"
 
 #: Synchronization is required.
 msgid "Synchronization is required."
@@ -4932,7 +4932,7 @@ msgstr "La synchronisation est obligatoire."
 
 #: Synchronization of media storages has been successfully completed.
 msgid "Synchronization of media storages has been successfully completed."
-msgstr "La synchronisation des stockages de media est terminÃ©e."
+msgstr "La synchronisation des stockages de media est terminée."
 
 #: Synchronize
 msgid "Synchronize"
@@ -4948,7 +4948,7 @@ msgstr "Synchronisation en cours..."
 
 #: System busy
 msgid "System busy"
-msgstr "Le systÃ¨me est occupÃ©"
+msgstr "Le système est occupé"
 
 #: T-Shirts
 msgid "T-Shirts"
@@ -4956,15 +4956,15 @@ msgstr "Tee-shirts"
 
 #: Tell a Friend
 msgid "Tell a Friend"
-msgstr "En parler Ã  un ami"
+msgstr "En parler à un ami"
 
 #: Theme has been saved.
 msgid "Theme has been saved."
-msgstr "Le thÃ¨me a Ã©tÃ© enregistrÃ©."
+msgstr "Le thème a été enregistré."
 
 #: Timeout limit for response from synchronize process was reached.
 msgid "Timeout limit for response from synchronize process was reached."
-msgstr "La limite du temps de rÃ©ponse pour le processus de synchronisation a Ã©tÃ© atteinte."
+msgstr "La limite du temps de réponse pour le processus de synchronisation a été atteinte."
 
 #: Title bar
 msgid "Title bar"
@@ -4972,7 +4972,7 @@ msgstr "Barre de titre"
 
 #: To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.
 msgid "To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel."
-msgstr "Pour annuler les autorisations en cours et libÃ©rer les montants dÃ©jÃ  prÃ©levÃ©s pendant ce processus, cliquez sur Annuler."
+msgstr "Pour annuler les autorisations en cours et libérer les montants déjà prélevés pendant ce processus, cliquez sur Annuler."
 
 #: To use Payflow Link, you must configure your Payflow Link account on the Paypal website.
 msgid "To use Payflow Link, you must configure your Payflow Link account on the Paypal website."
@@ -4980,7 +4980,7 @@ msgstr "Pour utiliser Payflow Link, vous devez configurer votre compte Payflow L
 
 #: Total of %d record(s) were canceled.
 msgid "Total of %d record(s) were canceled."
-msgstr "%d enregistrement(s) a (ont) Ã©tÃ© annulÃ©(s)."
+msgstr "%d enregistrement(s) a (ont) été annulé(s)."
 
 #: Try Magento Go for Free
 msgid "Try Magento Go for Free"
@@ -4996,7 +4996,7 @@ msgstr "Erreur inconnue."
 
 #: Update Preview
 msgid "Update Preview"
-msgstr "Mettre Ã  jour la prÃ©visualisation"
+msgstr "Mettre à jour la prévisualisation"
 
 #: Use Silent Post:
 msgid "Use Silent Post:"
@@ -5004,11 +5004,11 @@ msgstr "Utiliser la soumission silencieuce (Silent Post) :"
 
 #: Validation Results
 msgid "Validation Results"
-msgstr "RÃ©sultat de validation"
+msgstr "Résultat de validation"
 
 #: View Details
 msgid "View Details"
-msgstr "Voir les dÃ©tails"
+msgstr "Voir les détails"
 
 #: View Gallery
 msgid "View Gallery"
@@ -5016,31 +5016,31 @@ msgstr "Voir la galerie"
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rÃ´les dÃ©jÃ  assignÃ©s.\\r\\nÃŠtes-vous sÃ»r(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?
 msgid "Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?"
-msgstr "Attention : Tous les messagez relatifs Ã  AirMail seront effacÃ©s ! Voulez-vous continuer ?"
+msgstr "Attention : Tous les messagez relatifs à AirMail seront effacés ! Voulez-vous continuer ?"
 
 #: We appreciate our merchants' feedback, please <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Remove this notification</a>
 msgid "We appreciate our merchants' feedback, please <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Remove this notification</a>"
-msgstr "Nous apprÃ©cions les retours de nos marchands, nous aimerions que vous rÃ©pondiez <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">Ã  notre sondage</a> pour indiquer les fonctionnalitÃ©s que vous aimeriez voir intÃ©grÃ©es dans Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Supprimer cette notification</a>"
+msgstr "Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">à notre sondage</a> pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Supprimer cette notification</a>"
 
 #: We're in our typing table, coding away more features for Magento. Thank you for your patience.
 msgid "We're in our typing table, coding away more features for Magento. Thank you for your patience."
-msgstr "Nous sommes en train de dÃ©velopper de nouvelles fonctionnalitÃ©s pour Magento. Merci de votre patience."
+msgstr "Nous sommes en train de développer de nouvelles fonctionnalités pour Magento. Merci de votre patience."
 
 #: Wishlist item is not loaded.
 msgid "Wishlist item is not loaded."
-msgstr "L'Ã©lÃ©ment de liste d'enviez n'est pas chargÃ©."
+msgstr "L'élément de liste d'enviez n'est pas chargé."
 
 #: Wrong quote item.
 msgid "Wrong quote item."
-msgstr "Ã‰lÃ©ment de devis erronÃ©."
+msgstr "Élément de devis erroné."
 
 #: You have %s unread message(s).
 msgid "You have %s unread message(s)."
@@ -5048,7 +5048,7 @@ msgstr "Vous avez %s message(s) non lu(s)."
 
 #: so url rewrite is not possible.
 msgid "so url rewrite is not possible."
-msgstr "La rÃ©Ã©criture d'url n'est donc pas possible."
+msgstr "La réécriture d'url n'est donc pas possible."
 
 #: Web
 msgid "Web"
@@ -5068,11 +5068,11 @@ msgstr " les URLs fournies ci-dessous sont les valeurs correctes pour votre site
 
 #: (For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)
 msgid "(For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
-msgstr "(Pour le type \"Serveur local\", il est nÃ©cessaire d'utiliser un chemin relatif vers les rÃ©pertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)"
+msgstr "(Pour le type \"Serveur local\", il est nécessaire d'utiliser un chemin relatif vers les répertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)"
 
 #: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
 msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriÃ©taire de l'application, vous Ãªtes responsable de vous conformer aux lois spÃ©cifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de rÃ©sidence.)"
+msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)"
 
 #: (\t for tab)
 msgid "(\t for tab)"
@@ -5092,7 +5092,7 @@ msgstr "Tous les lieux"
 
 #: Are you sure you want to delete this theme? This change will affect all applications.
 msgid "Are you sure you want to delete this theme? This change will affect all applications."
-msgstr "ÃŠtes-vous sÃ»r(e) de vouloir supprimer ce thÃ¨me ? Ce changement prendra effet sur toutes les applications."
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce thème ? Ce changement prendra effet sur toutes les applications."
 
 #: BINARY
 msgid "BINARY"
@@ -5100,19 +5100,19 @@ msgstr "BINAIRE"
 
 #: Chosen category does not associated with any website, so url rewrite is not possible.
 msgid "Chosen category does not associated with any website, so url rewrite is not possible."
-msgstr "La catÃ©gorie choisie n'est associÃ©e Ã  aucun site web, la rÃ©Ã©criture URL n'est pas possible."
+msgstr "La catégorie choisie n'est associée à aucun site web, la réécriture URL n'est pas possible."
 
 #: Chosen product does not associated with any website, so url rewrite is not possible.
 msgid "Chosen product does not associated with any website, so url rewrite is not possible."
-msgstr "Le produit choisi n'est associÃ© Ã  aucun site web, la rÃ©Ã©criture URL n'est pas possible."
+msgstr "Le produit choisi n'est associé à aucun site web, la réécriture URL n'est pas possible."
 
 #: Delete theme
 msgid "Delete theme"
-msgstr "Supprimer le thÃ¨me"
+msgstr "Supprimer le thème"
 
 #: Deselect All
 msgid "Deselect All"
-msgstr "Tout dÃ©sÃ©lectionner"
+msgstr "Tout désélectionner"
 
 #: Error
 msgid "Error"
@@ -5124,7 +5124,7 @@ msgstr "Mode de fichier"
 
 #: Helper attributes should not be used in custom layout updates.
 msgid "Helper attributes should not be used in custom layout updates."
-msgstr "Les attributs de helper ne devraient pas Ãªtre utilisÃ©s dans les mises Ã  jour personnalisÃ©es de gabarits."
+msgstr "Les attributs de helper ne devraient pas être utilisés dans les mises à jour personnalisées de gabarits."
 
 #: Invalid timezone
 msgid "Invalid timezone"
@@ -5132,15 +5132,15 @@ msgstr "Fuseau horaire invalide"
 
 #: Loading Preview...
 msgid "Loading Preview..."
-msgstr "PrÃ©visualisation en cours de chargement..."
+msgstr "Prévisualisation en cours de chargement..."
 
 #: Only custom theme can be deleted
 msgid "Only custom theme can be deleted"
-msgstr "Seuls les thÃ¨mes personnalisÃ©s peuvent Ãªtre supprimÃ©s"
+msgstr "Seuls les thèmes personnalisés peuvent être supprimés"
 
 #: Only default theme can be reset
 msgid "Only default theme can be reset"
-msgstr "Seul le thÃ¨me par dÃ©faut peut Ãªtre rÃ©initialisÃ©"
+msgstr "Seul le thème par défaut peut être réinitialisé"
 
 #: Order
 msgid "Order"
@@ -5152,7 +5152,7 @@ msgstr "Classe de taxe produit"
 
 #: Reset theme to default
 msgid "Reset theme to default"
-msgstr "RÃ©initialiser le thÃ¨me par dÃ©faut"
+msgstr "Réinitialiser le thème par défaut"
 
 #: Save As
 msgid "Save As"
@@ -5160,27 +5160,27 @@ msgstr "Sauvegarder sous"
 
 #: The invoice and the shipment  have been created. The shipping label cannot be created at the moment.
 msgid "The invoice and the shipment  have been created. The shipping label cannot be created at the moment."
-msgstr "La facture et l'expÃ©dition ont Ã©tÃ© crÃ©Ã©es. L'Ã©tiquette d'expÃ©dition ne peut pas Ãªtre crÃ©Ã©e pour le moment."
+msgstr "La facture et l'expédition ont été créées. L'étiquette d'expédition ne peut pas être créée pour le moment."
 
 #: The profile you are trying to save no longer exists
 msgid "The profile you are trying to save no longer exists"
-msgstr "Le profil que vous Ãªtes en train d'essayer de sauvegarder n'existe plus"
+msgstr "Le profil que vous êtes en train d'essayer de sauvegarder n'existe plus"
 
 #: The shipment has been created. The shipping label has been created.
 msgid "The shipment has been created. The shipping label has been created."
-msgstr "L'envoi a Ã©tÃ© crÃ©Ã©. L'Ã©tiquette d'expÃ©dition a Ã©tÃ© crÃ©Ã©e."
+msgstr "L'envoi a été créé. L'étiquette d'expédition a été créée."
 
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
-msgstr "Les configurations du thÃ¨me ont bien Ã©tÃ© rÃ©initialisÃ©es."
+msgstr "Les configurations du thème ont bien été réinitialisées."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr "L'Ã©tiquette du thÃ¨me ne peut pas Ãªtre vide."
+msgstr "L'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"
-msgstr "Ã‰tiquette du thÃ¨me :"
+msgstr "Étiquette du thème :"
 
 #: Warning!rnThis action will remove this user from already assigned rolernAre you sure?
 msgid "Warning!rnThis action will remove this user from already assigned rolernAre you sure?"
@@ -5192,11 +5192,11 @@ msgstr "jj"
 
 #: Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?
 msgid "Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?"
-msgstr "**Attention : Tous les messagez relatifs Ã  AirMail seront effacÃ©s ! Voulez-vous continuer ?"
+msgstr "**Attention : Tous les messagez relatifs à AirMail seront effacés ! Voulez-vous continuer ?"
 
 #: XML data is invalid.
 msgid "XML data is invalid."
-msgstr "Les donnÃ©es XML sont invalides"
+msgstr "Les données XML sont invalides"
 
 #: XML object is not instance of \"Varien_Simplexml_Element\".
 msgid "XML object is not instance of \"Varien_Simplexml_Element\"."
@@ -5204,11 +5204,11 @@ msgstr "L'objet XML n'est pas une instance de \"Varien_Simplexml_Element\"."
 
 #: PayPal Settlement Reports
 msgid "PayPal Settlement Reports"
-msgstr "Rapports de rÃ¨glements PayPal"
+msgstr "Rapports de règlements PayPal"
 
 #: General
 msgid "General"
-msgstr "GÃ©nÃ©ral"
+msgstr "Général"
 
 #: Inventory
 msgid "Inventory"
@@ -5244,7 +5244,7 @@ msgstr "et aller dans le "
 
 #: sections for your Hosted Checkout Pages.
 msgid "sections for your Hosted Checkout Pages."
-msgstr "sections pour vos pages de commande hÃ©bergÃ©es."
+msgstr "sections pour vos pages de commande hébergées."
 
 #: * Required Fields
 msgid "* Required Fields"
@@ -5260,11 +5260,11 @@ msgstr "2. personnaliser"
 
 #: <strong>%s</strong> requests access to your account
 msgid "<strong>%s</strong> requests access to your account"
-msgstr "<strong>%s</strong> nÃ©cessite l'accÃ¨s Ã  votre compte"
+msgstr "<strong>%s</strong> nécessite l'accès à votre compte"
 
 #: <strong>Attention</strong>: Captcha is case sensitive.
 msgid "<strong>Attention</strong>: Captcha is case sensitive."
-msgstr "<strong>Attention</strong> : le captcha est sensible Ã  la casse."
+msgstr "<strong>Attention</strong> : le captcha est sensible à la casse."
 
 #: Add Products
 msgid "Add Products"
@@ -5272,7 +5272,7 @@ msgstr "Ajouter des produits"
 
 #: After authorization application will have access to you account.
 msgid "After authorization application will have access to you account."
-msgstr "AprÃ¨s l'autorisation, l'application aura accÃ¨s Ã  votre compte."
+msgstr "Après l'autorisation, l'application aura accès à votre compte."
 
 #: Always (during development)
 msgid "Always (during development)"
@@ -5280,7 +5280,7 @@ msgstr "Toujours (pendant le developpement)"
 
 #: An error occurred while deleting URL Rewrite.
 msgid "An error occurred while deleting URL Rewrite."
-msgstr "Une erreur est survenue pendant la suppression des rÃ©Ã©critures d'URLs."
+msgstr "Une erreur est survenue pendant la suppression des réécritures d'URLs."
 
 #: An error occurred while deleting record(s).
 msgid "An error occurred while deleting record(s)."
@@ -5288,7 +5288,7 @@ msgstr "Une erreur est survenue pendant la suppression des enregistrements."
 
 #: An error occurred while saving URL Rewrite.
 msgid "An error occurred while saving URL Rewrite."
-msgstr "Une erreur est survenur pendant l'enregistrement de la rÃ©Ã©criture d'URL."
+msgstr "Une erreur est survenur pendant l'enregistrement de la réécriture d'URL."
 
 #: An error occurred while saving review.
 msgid "An error occurred while saving review."
@@ -5296,7 +5296,7 @@ msgstr "Une erreur est survenue lors de l'enregistrement du commentaire."
 
 #: Any data created since the backup was made will be lost including admin users, customers and orders.
 msgid "Any data created since the backup was made will be lost including admin users, customers and orders."
-msgstr "Toutes les donnÃ©es crÃ©Ã©es depuis que la sauvegarde a Ã©tÃ© rÃ©alisÃ©e seront perdues (dont les comptes administrateurs, les clients et les commandes)."
+msgstr "Toutes les données créées depuis que la sauvegarde a été réalisée seront perdues (dont les comptes administrateurs, les clients et les commandes)."
 
 #: Are you sure you want to proceed?
 msgid "Are you sure you want to proceed?"
@@ -5304,7 +5304,7 @@ msgstr "Voulez-vous vraiment continuer ?"
 
 #: Authorization confirmed
 msgid "Authorization confirmed"
-msgstr "Autorisation confirmÃ©e"
+msgstr "Autorisation confirmée"
 
 #: Authorize
 msgid "Authorize"
@@ -5316,15 +5316,15 @@ msgstr "Autoriser l'application"
 
 #: Authorized OAuth Tokens
 msgid "Authorized OAuth Tokens"
-msgstr "Jetons OAuth autorisÃ©s"
+msgstr "Jetons OAuth autorisés"
 
 #: Automatic (equalize price ranges)
 msgid "Automatic (equalize price ranges)"
-msgstr "Automatique (Ã©galise les tranches de prix)"
+msgstr "Automatique (égalise les tranches de prix)"
 
 #: Automatic (equalize product counts)
 msgid "Automatic (equalize product counts)"
-msgstr "Automatique (Ã©galise le nombre de produits)"
+msgstr "Automatique (égalise le nombre de produits)"
 
 #: Backup Name
 msgid "Backup Name"
@@ -5356,7 +5356,7 @@ msgstr "Confirmation de l'autorisation"
 
 #: Currency \"%s\" is used as %s in %s.
 msgid "Currency \"%s\" is used as %s in %s."
-msgstr "La devise \"%s\" est utilisÃ©e comme %s dans %s."
+msgstr "La devise \"%s\" est utilisée comme %s dans %s."
 
 #: Do you really want to proceed?
 msgid "Do you really want to proceed?"
@@ -5364,7 +5364,7 @@ msgstr "Voulez-vous vraiment continuer ?"
 
 #: Edit Order
 msgid "Edit Order"
-msgstr "Ã‰diter la commande"
+msgstr "Éditer la commande"
 
 #: Exclude media folder from backup
 msgid "Exclude media folder from backup"
@@ -5372,7 +5372,7 @@ msgstr "Exclure le dossier media de la sauvegarde"
 
 #: FTP Host
 msgid "FTP Host"
-msgstr "HÃ´te FTP"
+msgstr "Hôte FTP"
 
 #: FTP Login
 msgid "FTP Login"
@@ -5388,15 +5388,15 @@ msgstr "Informations de connexion FTP"
 
 #: Forgot Admin Password
 msgid "Forgot Admin Password"
-msgstr "Mot de passe admin oubliÃ©"
+msgstr "Mot de passe admin oublié"
 
 #: Give the verifier code to application administrator
 msgid "Give the verifier code to application administrator"
-msgstr "Donner le code de vÃ©rification Ã  l'administrateur de l'application"
+msgstr "Donner le code de vérification à l'administrateur de l'application"
 
 #: If there is an account associated with %s you will receive an email with a link to reset your password.
 msgid "If there is an account associated with %s you will receive an email with a link to reset your password."
-msgstr "S'il y a un compte associÃ© Ã  l'adresse %s, vous recevrez un email avec un lien pour rÃ©initialiser votre mot de passe."
+msgstr "S'il y a un compte associé à l'adresse %s, vous recevrez un email avec un lien pour réinitialiser votre mot de passe."
 
 #: Invalid User Name or Password.
 msgid "Invalid User Name or Password."
@@ -5408,11 +5408,11 @@ msgstr "Email invalide."
 
 #: Invalid password reset token.
 msgid "Invalid password reset token."
-msgstr "Jeton de rÃ©initialisation de mot de passe invalide."
+msgstr "Jeton de réinitialisation de mot de passe invalide."
 
 #: JavaScript seems to be disabled in your browser.
 msgid "JavaScript seems to be disabled in your browser."
-msgstr "Javascript est dÃ©sactivÃ© dans votre navigateur."
+msgstr "Javascript est désactivé dans votre navigateur."
 
 #: Log in to use <strong>%s</strong>
 msgid "Log in to use <strong>%s</strong>"
@@ -5420,7 +5420,7 @@ msgstr "Connectez-vous pour utiliser <strong>%s</strong>"
 
 #: Magento root directory
 msgid "Magento root directory"
-msgstr "RÃ©pertoire racine de Magento"
+msgstr "Répertoire racine de Magento"
 
 #: My Applications
 msgid "My Applications"
@@ -5432,7 +5432,7 @@ msgstr "Jamais (en production)"
 
 #: New password field cannot be empty.
 msgid "New password field cannot be empty."
-msgstr "Le champ de nouveau mot de passe ne peut pas Ãªtre vide."
+msgstr "Le champ de nouveau mot de passe ne peut pas être vide."
 
 #: Number of Views
 msgid "Number of Views"
@@ -5456,7 +5456,7 @@ msgstr "OK"
 
 #: Only Once (version upgrade)
 msgid "Only Once (version upgrade)"
-msgstr "Une fois seulement (mise Ã  jour de version)"
+msgstr "Une fois seulement (mise à jour de version)"
 
 #: PayPal Manager
 msgid "PayPal Manager"
@@ -5468,11 +5468,11 @@ msgstr "Saisissez le mot de passe"
 
 #: Please enter password to confirm rollback.
 msgid "Please enter password to confirm rollback."
-msgstr "Saisissez le mot de passe pour confirmer le retour arriÃ¨re (rollback)."
+msgstr "Saisissez le mot de passe pour confirmer le retour arrière (rollback)."
 
 #: Please specify backup creation options
 msgid "Please specify backup creation options"
-msgstr "SpÃ©cifiez les options de crÃ©ation de sauvegarde"
+msgstr "Spécifiez les options de création de sauvegarde"
 
 #: Please type the letters from the image:
 msgid "Please type the letters from the image:"
@@ -5492,15 +5492,15 @@ msgstr "Rapport des produits les plus vus"
 
 #: Put store on the maintenance mode while backup creation
 msgid "Put store on the maintenance mode while backup creation"
-msgstr "Mettre le magasin en mode maintenance pendant la crÃ©ation de la sauvegarde"
+msgstr "Mettre le magasin en mode maintenance pendant la création de la sauvegarde"
 
 #: Put store on the maintenance mode while rollback processing
 msgid "Put store on the maintenance mode while rollback processing"
-msgstr "Mettre le magasin en mode maintenance pendant l'exÃ©cution du retour arriÃ¨re (rollback)"
+msgstr "Mettre le magasin en mode maintenance pendant l'exécution du retour arrière (rollback)"
 
 #: REST Roles
 msgid "REST Roles"
-msgstr "RÃ´les REST"
+msgstr "Rôles REST"
 
 #: Reject
 msgid "Reject"
@@ -5524,15 +5524,15 @@ msgstr "Recharger le captcha"
 
 #: Reset Password
 msgid "Reset Password"
-msgstr "RÃ©initialiser le mot de passe"
+msgstr "Réinitialiser le mot de passe"
 
 #: Reset a Password
 msgid "Reset a Password"
-msgstr "RÃ©initialiser un mot de passe"
+msgstr "Réinitialiser un mot de passe"
 
 #: Service Settings
 msgid "Service Settings"
-msgstr "ParamÃ¨tres du service"
+msgstr "Paramètres du service"
 
 #: Set up & Customize
 msgid "Set up & Customize"
@@ -5548,55 +5548,55 @@ msgstr "Symbole"
 
 #: The backup's creation process will take time.
 msgid "The backup's creation process will take time."
-msgstr "La crÃ©ation de sauvegarde prendra du temps."
+msgstr "La création de sauvegarde prendra du temps."
 
 #: The item %s (SKU %s) does not exist in the catalog anymore.
 msgid "The item %s (SKU %s) does not exist in the catalog anymore."
-msgstr "L'article %s (RÃ©f. %s) n'existe plus dans le catalogue."
+msgstr "L'article %s (Réf. %s) n'existe plus dans le catalogue."
 
 #: The shipping label has been created.
 msgid "The shipping label has been created."
-msgstr "L'Ã©tiquette de livraison a Ã©tÃ© crÃ©Ã©e."
+msgstr "L'étiquette de livraison a été créée."
 
 #: The transaction details have been updated.
 msgid "The transaction details have been updated."
-msgstr "Les dÃ©tails de la transaction ont Ã©tÃ© mis Ã  jour."
+msgstr "Les détails de la transaction ont été mis à jour."
 
 #: This action cannot be undone.
 msgid "This action cannot be undone."
-msgstr "Cette action ne peut pas Ãªtre annulÃ©e."
+msgstr "Cette action ne peut pas être annulée."
 
 #: To use PayPal Payflow Link you must configure some settings in your Payflow account by logging into
 msgid "To use PayPal Payflow Link you must configure some settings in your Payflow account by logging into"
-msgstr "Pour utiliser PayPal Payflow Link, vous devez configurer certains paramÃ¨tres dans votre compte Payflow en vous connectant"
+msgstr "Pour utiliser PayPal Payflow Link, vous devez configurer certains paramètres dans votre compte Payflow en vous connectant"
 
 #: To use PayPal Payments Advanced you must configure some settings in your PayPal Payments Advanced account by logging into
 msgid "To use PayPal Payments Advanced you must configure some settings in your PayPal Payments Advanced account by logging into"
-msgstr "Pour utiliser les paiements avancÃ©s de PayPal, vous devez configurer certains paramÃ¨tres dans votre compte paiements avancÃ©s de PayPal en vous connectant"
+msgstr "Pour utiliser les paiements avancés de PayPal, vous devez configurer certains paramètres dans votre compte paiements avancés de PayPal en vous connectant"
 
 #: Total of %d record(s) were deleted
 msgid "Total of %d record(s) were deleted"
-msgstr "%d enregistrement(s) ont Ã©tÃ© effacÃ©s"
+msgstr "%d enregistrement(s) ont été effacés"
 
 #: Total of %d record(s) were deleted.
 msgid "Total of %d record(s) were deleted."
-msgstr "%d enregistrement(s) ont Ã©tÃ© effacÃ©s."
+msgstr "%d enregistrement(s) ont été effacés."
 
 #: Total of %d record(s) were updated
 msgid "Total of %d record(s) were updated"
-msgstr "%d enregistrement(s) ont Ã©tÃ© mis Ã  jour"
+msgstr "%d enregistrement(s) ont été mis à jour"
 
 #: Total of %d record(s) were updated.
 msgid "Total of %d record(s) were updated."
-msgstr "%d enregistrement(s) ont Ã©tÃ© mis Ã  jour."
+msgstr "%d enregistrement(s) ont été mis à jour."
 
 #: Unable to update transaction details.
 msgid "Unable to update transaction details."
-msgstr "Impossible de mettre Ã  jour les dÃ©tails de la transaction."
+msgstr "Impossible de mettre à jour les détails de la transaction."
 
 #: Uploaded file is larger than %.2f kilobytes allowed by server
 msgid "Uploaded file is larger than %.2f kilobytes allowed by server"
-msgstr "Le fichier uploadÃ© fait plus que les %.2f kilo octets autorisÃ©s par le serveur"
+msgstr "Le fichier uploadé fait plus que les %.2f kilo octets autorisés par le serveur"
 
 #: Use FTP Connection
 msgid "Use FTP Connection"
@@ -5612,15 +5612,15 @@ msgstr "Ressources du type d'utilisateur"
 
 #: VAT Number is Invalid
 msgid "VAT Number is Invalid"
-msgstr "Le numÃ©ro de TVA est invalide"
+msgstr "Le numéro de TVA est invalide"
 
 #: VAT Number is Valid
 msgid "VAT Number is Valid"
-msgstr "Le numÃ©ro de TVA est valide"
+msgstr "Le numéro de TVA est valide"
 
 #: Verifier code: %s
 msgid "Verifier code: %s"
-msgstr "Code de vÃ©rification : %s"
+msgstr "Code de vérification : %s"
 
 #: View Statistics For:
 msgid "View Statistics For:"
@@ -5632,15 +5632,15 @@ msgstr "Attention"
 
 #: Wrong account specified.
 msgid "Wrong account specified."
-msgstr "Le compte spÃ©cifiÃ© est erronÃ©"
+msgstr "Le compte spécifié est erroné"
 
 #: You have %s unread message(s). <a href=\"%s\">Go to messages inbox</a>.
 msgid "You have %s unread message(s). <a href=\"%s\">Go to messages inbox</a>."
-msgstr "Vous avez %s message(s) non lu(s). <a href=\"%s\">Aller Ã  la boÃ®te de rÃ©ception</a>."
+msgstr "Vous avez %s message(s) non lu(s). <a href=\"%s\">Aller à la boîte de réception</a>."
 
 #: You have %s, %s and %s unread messages. <a href=\"%s\">Go to messages inbox</a>.
 msgid "You have %s, %s and %s unread messages. <a href=\"%s\">Go to messages inbox</a>."
-msgstr "Vous avez %s, %s et %s message(s) non lu(s). <a href=\"%s\">Aller Ã  la boÃ®te de rÃ©ception</a>.<segmentÂ 1666>"
+msgstr "Vous avez %s, %s et %s message(s) non lu(s). <a href=\"%s\">Aller à la boîte de réception</a>.<segment 1666>"
 
 #: You will need to wait when the action ends.
 msgid "You will need to wait when the action ends."
@@ -5648,17 +5648,17 @@ msgstr "Vous devrez attendre que l'action se termine."
 
 #: Your password has been updated.
 msgid "Your password has been updated."
-msgstr "Votre mot de passe a Ã©tÃ© mis Ã  jour."
+msgstr "Votre mot de passe a été mis à jour."
 
 #: Your password reset link has expired.
 msgid "Your password reset link has expired."
-msgstr "Le lien de rÃ©initialisation de mot de passe a expirÃ©."
+msgstr "Le lien de réinitialisation de mot de passe a expiré."
 
 #: failed
 msgid "failed"
-msgstr "Ã©chouÃ©"
+msgstr "échoué"
 
 #: successful
 msgid "successful"
-msgstr "rÃ©ussi"
+msgstr "réussi"
 

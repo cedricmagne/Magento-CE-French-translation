@@ -1,22 +1,22 @@
 #: * Select shipping method
 msgid "* Select shipping method"
-msgstr "* SÃ©lectionnez un mode de livraison"
+msgstr "* Sélectionnez un mode de livraison"
 
 #: <strong style=\"color:red\">Warning!</strong> This option disables the merchant calculated shipping. With this option, Google API ignores any attempt to affect shipping prices.
 msgid "<strong style=\"color:red\">Warning!</strong> This option disables the merchant calculated shipping. With this option, Google API ignores any attempt to affect shipping prices."
-msgstr "<strong style=\"color:red\">Attention !</strong> Cette option dÃ©sactive le frais de port calculÃ©s par le marchand. Avec cette option, l'API Google ignore toute tentative de modification des frais de port."
+msgstr "<strong style=\"color:red\">Attention !</strong> Cette option désactive le frais de port calculés par le marchand. Avec cette option, l'API Google ignore toute tentative de modification des frais de port."
 
 #: A virtual item to reflect the discount total
 msgid "A virtual item to reflect the discount total"
-msgstr "Un produit virtuel pour reflÃ©ter le total de remise"
+msgstr "Un produit virtuel pour refléter le total de remise"
 
 #: A virtual item to reflect the tax total
 msgid "A virtual item to reflect the tax total"
-msgstr "Un produit virtuel pour reflÃ©ter le total de taxes"
+msgstr "Un produit virtuel pour refléter le total de taxes"
 
 #: AVS Status: %s
 msgid "AVS Status: %s"
-msgstr "Statut du systÃ¨me de vÃ©rification d'adresse (AVS)"
+msgstr "Statut du système de vérification d'adresse (AVS)"
 
 #: Add
 msgid "Add"
@@ -28,7 +28,7 @@ msgstr "Ajouter un mode de livraison"
 
 #: Allowed Methods
 msgid "Allowed Methods"
-msgstr "Modes de livraison autorisÃ©s"
+msgstr "Modes de livraison autorisés"
 
 #: Amount: %s
 msgid "Amount: %s"
@@ -36,15 +36,15 @@ msgstr "Montant : %s"
 
 #: Auto-generated from GoogleCheckout Charge
 msgid "Auto-generated from GoogleCheckout Charge"
-msgstr "GÃ©nÃ©rÃ© automatiquement depuis la facturation GoogleCheckout"
+msgstr "Généré automatiquement depuis la facturation GoogleCheckout"
 
 #: Buyer Account Age: %s days
 msgid "Buyer Account Age: %s days"
-msgstr "Ã‚ge des comptes acheteurs : %s jours"
+msgstr "Âge des comptes acheteurs : %s jours"
 
 #: CC Partial: xxxx-%s
 msgid "CC Partial: xxxx-%s"
-msgstr "Carte de crÃ©dit (partiel) : xxxx-%s"
+msgstr "Carte de crédit (partiel) : xxxx-%s"
 
 #: CID Status: %s
 msgid "CID Status: %s"
@@ -52,7 +52,7 @@ msgstr "Statut CID : %s"
 
 #: Carrier Calculated Methods
 msgid "Carrier Calculated Methods"
-msgstr "Modes de livraison autorisÃ©s par le transporteur"
+msgstr "Modes de livraison autorisés par le transporteur"
 
 #: Cart Discount
 msgid "Cart Discount"
@@ -60,7 +60,7 @@ msgstr "Remise panier"
 
 #: Checkout Image Style
 msgid "Checkout Image Style"
-msgstr "Style d'image du rÃ¨glement"
+msgstr "Style d'image du règlement"
 
 #: Continue Shopping URL
 msgid "Continue Shopping URL"
@@ -68,43 +68,43 @@ msgstr "URL de \"Poursuivez vos achats\""
 
 #: Credit memo has been created automatically
 msgid "Credit memo has been created automatically"
-msgstr "L'avoir a Ã©tÃ© crÃ©Ã© automatiquement"
+msgstr "L'avoir a été créé automatiquement"
 
 #: Debug
 msgid "Debug"
-msgstr "DÃ©boguage"
+msgstr "Déboguage"
 
 #: Default Package Height (in)
 msgid "Default Package Height (in)"
-msgstr "Hauteur par dÃ©faut du paquet (en pouces)"
+msgstr "Hauteur par défaut du paquet (en pouces)"
 
 #: Default Package Length (in)
 msgid "Default Package Length (in)"
-msgstr "Longueur par dÃ©faut du paquet (en pouces)"
+msgstr "Longueur par défaut du paquet (en pouces)"
 
 #: Default Package Width (in)
 msgid "Default Package Width (in)"
-msgstr "Largeur par dÃ©faut du paquet (en pouces)"
+msgstr "Largeur par défaut du paquet (en pouces)"
 
 #: Default Price for Methods
 msgid "Default Price for Methods"
-msgstr "Prix par dÃ©faut pour les mÃ©thodes"
+msgstr "Prix par défaut pour les méthodes"
 
 #: Default price:
 msgid "Default price:"
-msgstr "Prix par dÃ©faut :"
+msgstr "Prix par défaut :"
 
 #: Delivery Address Category
 msgid "Delivery Address Category"
-msgstr "CatÃ©gorie d'adresse de livraison"
+msgstr "Catégorie d'adresse de livraison"
 
 #: Delivery Schedule
 msgid "Delivery Schedule"
-msgstr "DÃ©lais de livraison"
+msgstr "Délais de livraison"
 
 #: Disable Default Tax Tables
 msgid "Disable Default Tax Tables"
-msgstr "DÃ©sactiver les tables de TVA par dÃ©fault"
+msgstr "Désactiver les tables de TVA par défault"
 
 #: Discount Tax
 msgid "Discount Tax"
@@ -112,7 +112,7 @@ msgstr "Taxe de remise"
 
 #: Eligible for Protection: %s
 msgid "Eligible for Protection: %s"
-msgstr "Ã‰ligible pour la protection : %s"
+msgstr "Éligible pour la protection : %s"
 
 #: Enable
 msgid "Enable"
@@ -120,11 +120,11 @@ msgstr "Activer"
 
 #: Enable Carrier Calculated
 msgid "Enable Carrier Calculated"
-msgstr "Activer CalculÃ© par le transporteur"
+msgstr "Activer Calculé par le transporteur"
 
 #: Enable Digital Delivery
 msgid "Enable Digital Delivery"
-msgstr "Activer la livraison numÃ©rique"
+msgstr "Activer la livraison numérique"
 
 #: Enable Flat Rate
 msgid "Enable Flat Rate"
@@ -132,11 +132,11 @@ msgstr "Activer les montants fixes"
 
 #: Enable Merchant Calculated
 msgid "Enable Merchant Calculated"
-msgstr "Activer CalculÃ© par le marchand"
+msgstr "Activer Calculé par le marchand"
 
 #: Enable this if your checkout request is too big and being cut off.
 msgid "Enable this if your checkout request is too big and being cut off."
-msgstr "Activer ceci si votre requÃªte de passage de commande est trop grosse et doit Ãªtre dÃ©coupÃ©e."
+msgstr "Activer ceci si votre requête de passage de commande est trop grosse et doit être découpée."
 
 #: Expiration: %s
 msgid "Expiration: %s"
@@ -180,11 +180,11 @@ msgstr "Google Checkout"
 
 #: Google Checkout Shipping - Carrier Calculated
 msgid "Google Checkout Shipping - Carrier Calculated"
-msgstr "Livraison Google Checkout - CalculÃ© par transporteur"
+msgstr "Livraison Google Checkout - Calculé par transporteur"
 
 #: Google Checkout Shipping - Digital Delivery
 msgid "Google Checkout Shipping - Digital Delivery"
-msgstr "Livraison Google Checkout - Livraison numÃ©rique"
+msgstr "Livraison Google Checkout - Livraison numérique"
 
 #: Google Checkout Shipping - Flat Rate
 msgid "Google Checkout Shipping - Flat Rate"
@@ -192,7 +192,7 @@ msgstr "Livraison Google Checkout - Montant fixe"
 
 #: Google Checkout Shipping - Merchant Calculated
 msgid "Google Checkout Shipping - Merchant Calculated"
-msgstr "Livraison Google Checkout - CalculÃ© par le marchand"
+msgstr "Livraison Google Checkout - Calculé par le marchand"
 
 #: Google Checkout: %s
 msgid "Google Checkout: %s"
@@ -200,7 +200,7 @@ msgstr "Google Checkout : %s"
 
 #: Google Order Number: %s
 msgid "Google Order Number: %s"
-msgstr "NumÃ©ro de commande Google : %s"
+msgstr "Numéro de commande Google : %s"
 
 #: Google Order Status Change:
 msgid "Google Order Status Change:"
@@ -212,7 +212,7 @@ msgstr "Remboursement Google :"
 
 #: Google Risk Information:
 msgid "Google Risk Information:"
-msgstr "Informations Google Ã  propos des risques :"
+msgstr "Informations Google à propos des risques :"
 
 #: Hide Cart Contents
 msgid "Hide Cart Contents"
@@ -224,11 +224,11 @@ msgstr "Adresse IP : %s"
 
 #: If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if \"Edit Cart\" link was activated.
 msgid "If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if \"Edit Cart\" link was activated."
-msgstr "Si vous l'activez, le contenu du panier sera cachÃ© aprÃ¨s que le client aura cliquÃ© sur le bouton Google Checkout, puis restaurÃ© si le lien \"Ã‰diter le panier\" a Ã©tÃ© activÃ©."
+msgstr "Si vous l'activez, le contenu du panier sera caché après que le client aura cliqué sur le bouton Google Checkout, puis restauré si le lien \"Éditer le panier\" a été activé."
 
 #: Invoice Auto-Created: %s
 msgid "Invoice Auto-Created: %s"
-msgstr "Facture crÃ©Ã©e automatiquement : %s"
+msgstr "Facture créée automatiquement : %s"
 
 #: Is Buyer Willing to Receive Marketing Emails: %s
 msgid "Is Buyer Willing to Receive Marketing Emails: %s"
@@ -240,7 +240,7 @@ msgstr "Grand - %s"
 
 #: Latest Charge: %s
 msgid "Latest Charge: %s"
-msgstr "Derniers frais facturÃ© : %s"
+msgstr "Derniers frais facturé : %s"
 
 #: Latest Chargeback: %s
 msgid "Latest Chargeback: %s"
@@ -264,11 +264,11 @@ msgstr "ID de marchand"
 
 #: Merchant Key
 msgid "Merchant Key"
-msgstr "ClÃ© de marchand"
+msgstr "Clé de marchand"
 
 #: Method
 msgid "Method"
-msgstr "MÃ©thode"
+msgstr "Méthode"
 
 #: New Order Status
 msgid "New Order Status"
@@ -292,11 +292,11 @@ msgstr "Pays de livraison applicables pour le taux 1"
 
 #: Rate 1 Ship to Specific Countries
 msgid "Rate 1 Ship to Specific Countries"
-msgstr "Pays de livraison spÃ©cifiques pour le taux 1"
+msgstr "Pays de livraison spécifiques pour le taux 1"
 
 #: Rate 1 Title
 msgid "Rate 1 Title"
-msgstr "LibellÃ© du taux 1"
+msgstr "Libellé du taux 1"
 
 #: Rate 2 Amount
 msgid "Rate 2 Amount"
@@ -308,11 +308,11 @@ msgstr "Pays de livraison applicables pour le taux 2"
 
 #: Rate 2 Ship to Specific Countries
 msgid "Rate 2 Ship to Specific Countries"
-msgstr "Pays de livraison spÃ©cifiques pour le taux 2"
+msgstr "Pays de livraison spécifiques pour le taux 2"
 
 #: Rate 2 Title
 msgid "Rate 2 Title"
-msgstr "LibellÃ© du taux 2"
+msgstr "Libellé du taux 2"
 
 #: Rate 3 Amount
 msgid "Rate 3 Amount"
@@ -324,11 +324,11 @@ msgstr "Pays de livraison applicables pour le taux 3"
 
 #: Rate 3 Ship to Specific Countries
 msgid "Rate 3 Ship to Specific Countries"
-msgstr "Pays de livraison spÃ©cifiques pour le taux 3"
+msgstr "Pays de livraison spécifiques pour le taux 3"
 
 #: Rate 3 Title
 msgid "Rate 3 Title"
-msgstr "LibellÃ© du taux 3"
+msgstr "Libellé du taux 3"
 
 #: Remove
 msgid "Remove"
@@ -340,11 +340,11 @@ msgstr "Obligatoire pour les transactions en direct avec Google Chekcout."
 
 #: Sandbox
 msgid "Sandbox"
-msgstr "Bac Ã  sable (sandbox)"
+msgstr "Bac à sable (sandbox)"
 
 #: Secure Callback URL
 msgid "Secure Callback URL"
-msgstr "URL d'appel de retour sÃ©curisÃ©e"
+msgstr "URL d'appel de retour sécurisée"
 
 #: Small - %s
 msgid "Small - %s"
@@ -360,11 +360,11 @@ msgstr "Total de Chargeback : %s"
 
 #: Total Charged: %s
 msgid "Total Charged: %s"
-msgstr "Total facturÃ© : %s"
+msgstr "Total facturé : %s"
 
 #: Total Refunded: %s
 msgid "Total Refunded: %s"
-msgstr "Total remboursÃ© : %s"
+msgstr "Total remboursé : %s"
 
 #: Transparent
 msgid "Transparent"
@@ -376,7 +376,7 @@ msgstr "Royaume Uni"
 
 #: United States
 msgid "United States"
-msgstr "Ã‰tats-Unis"
+msgstr "États-Unis"
 
 #: White Background
 msgid "White Background"
@@ -388,7 +388,7 @@ msgstr "Oui"
 
 #: You will be redirected to GoogleCheckout in a few seconds.
 msgid "You will be redirected to GoogleCheckout in a few seconds."
-msgstr "Vous allez Ãªtre redirigÃ© vers Google Checkout dans quelques secondes."
+msgstr "Vous allez être redirigé vers Google Checkout dans quelques secondes."
 
 #: <br />Warning: <strong>%s</strong><br />
 msgid "<br />Warning: <strong>%s</strong><br />"
@@ -396,11 +396,11 @@ msgstr "<br/>Attention : <strong>%s</strong><br/>"
 
 #: The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount
 msgid "The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount"
-msgstr "Le montant de taxe a Ã©tÃ© appliquÃ© Ã  partir des informations reÃ§ues de Google Checkout, car le montant de taxe reÃ§u de Google Checkout diffÃ¨re de celui calculÃ©."
+msgstr "Le montant de taxe a été appliqué à partir des informations reçues de Google Checkout, car le montant de taxe reçu de Google Checkout diffère de celui calculé."
 
 #: Account Number
 msgid "Account Number"
-msgstr "NumÃ©ro de compte"
+msgstr "Numéro de compte"
 
 #: Optimistic
 msgid "Optimistic"
@@ -416,7 +416,7 @@ msgstr "Livraison par email"
 
 #: <a href="http://www.magentocommerce.com/redirect/google-checkout/" target="_blank">Signup for Google Checkout</a>
 msgid "<a href=\"http://www.magentocommerce.com/redirect/google-checkout/\" target=\"_blank\">Signup for Google Checkout</a>"
-msgstr "<a href=\"http://www.magentocommerce.com/redirect/google-checkout/\" target=\"_blank\">CrÃ©ez un compte Google Checkout</a>"
+msgstr "<a href=\"http://www.magentocommerce.com/redirect/google-checkout/\" target=\"_blank\">Créez un compte Google Checkout</a>"
 
 #: 2Day
 msgid "2Day"
@@ -448,7 +448,7 @@ msgstr "Courrier Express"
 
 #: Express Saver
 msgid "Express Saver"
-msgstr "Express Ã©conome"
+msgstr "Express économe"
 
 #: FedEx
 msgid "FedEx"
@@ -464,7 +464,7 @@ msgstr "Sol"
 
 #: Home Delivery
 msgid "Home Delivery"
-msgstr "Livraison Ã  domicile"
+msgstr "Livraison à domicile"
 
 #: Inches
 msgid "Inches"

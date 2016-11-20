@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s Coupon(s) have been generated</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>%s bon(s) de réduction ont été générés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s Index process is working now. Please try run this process later.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -2158,6 +2166,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Accepter les paiements avec une méthode de checkout PCI-compliant qui garde les clients sur votre (via votre compte marchand Paypal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Accepter les paiements avec une méthode de checkout PCI-compliant qui garde les clients sur votre site (via votre propre compte marchand).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accept payments without customers leaving your website. Many popular web-hosting services and shopping carts come with the Payflow payment gateways built in, so they are easy to set up.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3326,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add new comment to credit memo</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Ajouter un commentaire à l'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add new comment to shipment</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -4482,6 +4514,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alphabetical</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Alphabétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alphanumeric</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Alphanumérique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -4918,6 +4966,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors de la finalisation de ce process. Rafraîchissez le cache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while generating coupons. Please review the log and try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Erreur lors de la génération des bons de réduction. Vérifiez les logs et réessayez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,10 +5906,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appears in the info section of your app (example:  Copyright 2010 â€“ Your Company, Inc.)</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>ApparaÃ®t dans la section infos de votre appli (par exemple : Copyright 2011 - Votre sociÃ©tÃ©)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appears in the info section of your app (example:  Copyright 2010 – Your Company, Inc.)</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Apparaît dans la section infos de votre appli (par exemple : Copyright 2011 - Votre société)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appears in the info section of your app (example: Copyright 2010 â€“ Your Company, Inc.)</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>ApparaÃ®t dans la section infos de votre appli (par exemple : Copyright 2011 - Votre sociÃ©tÃ©)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>L'image sera automatiquement redimensionnÃ©e pour l'affichage dans l'App Store et sur les terminaux des utilisateurs. Un brillant sera appliquÃ©, vous n'avez donc pas Ã  appliquer de gradient. L'image doit faire au moins 512 x 512 px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply will automatically resize this image for display in the App Store and on users’ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6226,6 +6306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to delete all items from shopping cart?</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Êtes-vous sûr(e) de vouloir enlever tous les produits de votre panier ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete current folder?</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6246,6 +6334,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120626T151627Z">
         <seg>Êtes-vous sûr(e) de vouloir effacer les sauvegardes sélectionnées ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete the selected coupon(s)?</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Êtes-vous sûr(e) de vouloir supprimer les bons de réduction sélectionné(s)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7042,6 +7138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorize action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>L'action d'autorisation n'est pas disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorize and Capture</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -7126,6 +7230,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Facturer automatiquement au prochain cycle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Generated Specific Coupon Codes</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Bons de réduction spécifiques générés automatiquement</seg>
       </tuv>
     </tu>
     <tu>
@@ -7622,6 +7734,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Banque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bank Transfer Payment</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Paiement transféré à la banque</seg>
       </tuv>
     </tu>
     <tu>
@@ -8778,6 +8898,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CNPJ</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T125905Z">
+        <seg>CNPJ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPF</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T125907Z">
+        <seg>CPF </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CRITICAL</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -9270,6 +9406,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>URL d'annulation :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel credit memo</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Annuler l'avoir</seg>
       </tuv>
     </tu>
     <tu>
@@ -9786,6 +9930,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot retrieve the payment information object instance.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Impossible de récupérer l'instance de l'objet des informations de paiement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot retrieve the payment method code.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Impossible de récupérer le code de la méthode de paiement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot retrieve the payment method model object.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -10014,6 +10174,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Capturer en ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>L'action de capture n'est pas disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10262,6 +10430,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120626T162246Z">
         <seg>Sensible à la casse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cash On Delivery Payment</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Paiement à la livraison</seg>
       </tuv>
     </tu>
     <tu>
@@ -11410,6 +11586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear Shopping Cart</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Vider le panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;a href="%s" onclick="this.target='_blank'"&gt;here to print&lt;/a&gt; a copy of your order confirmation.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120627T163158Z">
@@ -11446,6 +11630,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T122045Z">
         <seg>Cliquez pour afficher le prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click here if you are not redirected within 10 seconds...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T125122Z">
+        <seg>Cliquez ici si vous n'êtes pas redirigé d'ici 10 secondes...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11542,6 +11734,38 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Format</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Format du code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Length</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Longueur du code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Prefix</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Préfix du code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Suffix</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Suffixe du code</seg>
       </tuv>
     </tu>
     <tu>
@@ -12362,6 +12586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Controls whether customer IP is shown in orders, invoices, shipments, credit memos.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Contrôle si l'adresse IP du client est affichée dans les commandes, factures, livraisons et avoirs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conversion Page</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12610,6 +12842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coupon Qty</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Qté de bons de réduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coupon Redemption</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12678,6 +12918,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Bons de réduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coupons Information</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Informations des bons de réduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -13018,6 +13266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create new credit memo for order</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Créer un avoir pour la commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create new invoice for order</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -13354,6 +13610,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Credit card number mismatch with credit card type.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Le numéro de carte ne correspond pas au type de carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit card type is not allowed for this payment method.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Le type de carte n'est pas autorisé pour cette méthode de paiement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credit memo #%s comment added</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -13366,6 +13638,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Avoir n°%s créé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit memo canceling problem.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Problème lors de l'annulation de l'avoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit memo cannot be canceled.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>L'avoir ne peut pas être annulé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14786,6 +15074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dash Every X Characters</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Tiret tous les X caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dashboard</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -15766,6 +16062,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Logo par défaut, utilisé dans les documents PDF et HTML.&lt;br /&gt;(jpeg, tiff, png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default logo, will be used in PDF and HTML documents.&lt;br /&gt;(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Logo par défaut, utilisé dans les documents PDF et HTML.&lt;br/&gt;(jpeg, tiff, png). Si vous voyez des déformations dans les PDF, essayez d'utiliser des images plus larges</seg>
       </tuv>
     </tu>
     <tu>
@@ -16794,6 +17098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display Express Checkout in the Payment Information step</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Afficher l'option Express Checkout dans l'étape d'information de paiement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display Full Tax Summary</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -16994,6 +17306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Divide to equal weight (one request)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134450Z">
+        <seg>Divide to equal weight (one request)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not check transaction status if order older than {N} days.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17086,6 +17406,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Terminé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Donâ€™t have a PayPal merchant account? You can still accept credit card payments through the Payflow Pro Gateway.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Vous n'avez pas de compte marchand PayPal ? Vous pouvez toujours accepter les paiements par carte de crÃ©dit via la passerelle Payflow Pro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17334,6 +17662,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Placement d'EFT (opérations bancaires allemandes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EPS Online-Ãœberweisung (powered by Moneybookers) - Austria</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>EPS Online-Ãœberweisung (powered by Moneybookers) - Autriche</seg>
       </tuv>
     </tu>
     <tu>
@@ -19338,6 +19674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Excluding prefix, suffix and separators.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Exclure les prefixes, suffixes et les séparateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand All</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -20814,6 +21158,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Pour les transactions d'achat uniquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For Virtual Quotes Only</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Pour les commandes virtuelles seulement</seg>
       </tuv>
     </tu>
     <tu>
@@ -22690,6 +23042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Customer IP</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Masquer l'adresse IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High Resolution Application Icon</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -22978,6 +23338,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Icon that will appear on the userâ€™s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>IcÃ´ne qui apparaÃ®tra sur le tÃ©lÃ©phone de l'utilisateur aprÃ¨s le tÃ©lÃ©chargement de l'application. Il n'est pas nÃ©cessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandÃ©e : 57 x 57 px Ã  la rÃ©solution de 72 dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Icon that will appear on the user’s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -23038,6 +23406,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Si un article est %s panier et qu'il répond à %s ces conditions :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If empty no separation.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Pas de séparation si non renseigné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23254,6 +23630,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Si vous avez téléchargé complètement les paquets ou installé Magento via SVN, vous devez passer l'installation et la validation des paquets en cliquant sur le bouton suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select and save the rule you will be able to generate multiple coupon codes.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Si vous sélectionnez et sauvegardez la règle, vous allez générer plusieurs bons de réduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24170,6 +24554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T125642Z">
+        <seg>Instructions </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient information to create shipping label(s). Please verify your Store Information and Shipping Settings.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T122829Z">
@@ -24310,6 +24702,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Réponse invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Credit Card Number</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Numéro de carte de crédit non valide</seg>
       </tuv>
     </tu>
     <tu>
@@ -28058,6 +28458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Coupon Codes</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Gérer les bons de réduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Currency Rates</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -28606,6 +29014,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La taille maxi autorisée pour les images '%s' est de %sx%s px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum amount available to refund is %s</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Montant maximum disponible pour le remboursement est %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -29530,6 +29946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most Viewed Products Report</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Rapports des produits les plus consultés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -29884,8 +30308,8 @@
       <tuv lang="EN-US">
         <seg>N/A</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>N/A</seg>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T125718Z">
+        <seg>N/A </seg>
       </tuv>
     </tu>
     <tu>
@@ -30326,6 +30750,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nouvel avoir pour un invité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Credit Memo for Invoice #%s</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Nouvel avoir pour la facture #%s</seg>
       </tuv>
     </tu>
     <tu>
@@ -31954,6 +32386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not valid data provided</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Aucune donnée valide fournie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -32366,6 +32806,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nombre de listes d'envies : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numeric</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Numérique</seg>
       </tuv>
     </tu>
     <tu>
@@ -33394,6 +33842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>L'action de commande n'est pas disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order can't save</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -33406,6 +33862,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de passer cette commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order credit memo</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Avoir de la commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -33970,6 +34434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Package types are disregarded for USPS domestic shipments.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Les types de colis sont méconnus pour les expéditions USPS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packages</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -34460,7 +34932,7 @@
       <tuv lang="EN-US">
         <seg>PayPal</seg>
       </tuv>
-      <tuv lang="FR-FR">
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134409Z">
         <seg>PayPal</seg>
       </tuv>
     </tu>
@@ -34558,6 +35030,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>PayPal Mobile Embedded Payment (MEP) - Paiement PayPal embarqué sur mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal Payments Advanced</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Paiements PayPal avancés</seg>
       </tuv>
     </tu>
     <tu>
@@ -35795,6 +36275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please check billing address information. %s</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Vérifiez les informations de l'addresse de facturation. %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check default website or input website code in General Information</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35807,6 +36295,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez choisir le site web par défaut ou le code </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check shipping address information. %s</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Vérifiez les informations de l'addresse de livraison. %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -36723,6 +37219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please select a valid payment method.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Sélectionnez une méthode de paiement valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select an option.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -36947,6 +37451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please specify a shipping method.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Spécifiez une méthode de livraison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please specify a valid grid column alias name that exists in grid table.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -37119,6 +37631,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T152856Z">
         <seg>Saisissez les lettres de l'image :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please update order data to get shipping methods and rates</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Mettez à jour les données de commande pour avoir les méthodes et les taux de livraison</seg>
       </tuv>
     </tu>
     <tu>
@@ -38155,6 +38675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process credit cards directly on your website with PayPalâ€™s all-in-one online payment processing solution.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Traitez les paiements par cartes de crÃ©dit directement sur votre site web avec PayPal la solution de paiement en ligne tout-en-un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Process credit cards directly on your website with PayPal’s all-in-one online payment processing solution.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -38215,6 +38743,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>En cours de traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processing A</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>En cours de traitement A</seg>
       </tuv>
     </tu>
     <tu>
@@ -40683,6 +41219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refund action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>L'action de remboursement n'est pas disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refund issued by merchant.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41363,6 +41907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Require Customer's Billing Address</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Adresse de facturation client requise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Require Emails Confirmation</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41691,6 +42243,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retrieve credit memo info</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Récupérer les informations de l'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve credit memo information</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Récupérer les informations de l'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve credit memo list</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Récupérer la liste des avoirs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retrieve customer addresses</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41775,6 +42351,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer la liste des produits assignés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve list of credit memos by filters</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Récupérer la liste filtrée des avoirs</seg>
       </tuv>
     </tu>
     <tu>
@@ -42427,6 +43011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rule is not defined</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>La règle n'est pas définie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rule price</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -42831,6 +43423,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Identique à l'adresse de facturation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Same as shipping</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Identique à la livraison</seg>
       </tuv>
     </tu>
     <tu>
@@ -44027,6 +44627,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected payment type is not allowed for billing country.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected problem subscribers have been unsubscribed.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -44355,6 +44963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send shipment info</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Envoyer les informations de livraison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sender</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -44439,6 +45055,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Séparément</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server Error. Please try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Erreur du serveur. Veuillez réessayer ultérieurement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44903,6 +45527,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Livrer à cette adresse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ship to:</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Livré à:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45667,6 +46299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shopping cart has been updated with appropriate prices</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134423Z">
+        <seg>Shopping cart has been updated with appropriate prices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shopping cart is empty.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -46267,10 +46907,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SofortÃ¼berweisung (powered by Moneybookers) - Germany</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>SofortÃ¼berweisung (powered by Moneybookers) - Allemagne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sofortüberweisung (powered by Moneybookers) - Germany</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sofortüberweisung (powered by Moneybookers) - Allemagne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sold to:</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Vendu à:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46667,10 +47323,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifies what the Authorization Honor Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Indiquez quelle est la pÃ©riode d'autorisation d'honneur sur â€‹â€‹le compte PayPal du marchand. Il doit reflÃ©ter le paramÃ©trage dans PayPal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T181425Z">
         <seg>Indiquez quelle est la période d'autorisation d'honneur sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies what the Order Valid Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Indiquez quelle est la pÃ©riode de validitÃ© de commande sur â€‹â€‹le compte PayPal du marchand. Il doit reflÃ©ter le paramÃ©trage dans PayPal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52227,6 +52899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This feature needs be enabled first for the merchant account through PayPal technical support.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Cette fonctionnalité doit être activée tout d'abord pour le compte marchand via le support technique Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This group contains attributes, used in configurable products. Please move these attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -52256,6 +52936,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This icon will be  used for usersâ€™ devices in case if different than AppSore icon needed.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Cette icÃ´ne sera utilisÃ©e pour les terminaux des utilisateurs si une autre icÃ´ne AppStore est nÃ©cessaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52556,6 +53244,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will appear in the info section of your App (example:  Copyright 2010 â€“ Your Company, Inc.)</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>ApparaÃ®t dans la section infos de votre appli (par exemple : Copyright 2011 - Votre sociÃ©tÃ©)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will appear in the info section of your App (example:  Copyright 2010 – Your Company, Inc.)</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -52708,6 +53404,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Times Used</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Nombre d'utilisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timezone</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -52856,6 +53560,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Pour garantir la sécurité vos transactions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To have access to the international payment network of Moneybookers please register &lt;a href="http://www.moneybookers.com/partners/magento/" target="_blank"&gt;here&lt;/a&gt; for a free account if you donâ€™t have one yet.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Pour accÃ©der au rÃ©seau de paiement international, veuillez vous crÃ©er un &lt;a href="http://www.moneybookers.com/partners/magento/" target="_blank"&gt;compte gratuit ici&lt;/a&gt; si vous n'en avez pas encore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53316,6 +54028,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total model should be extended from Mage_Sales_Model_Order_Total_Abstract.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Le modèle Total doit être étendu depuis Mage_Sales_Model_Order_Total_Abstract.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total of %d index(es) have changed index mode.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -53624,6 +54344,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>La transaction "%s" est déjà en cours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transaction # %s | %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134438Z">
+        <seg>Transaction # %s | %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -53966,7 +54694,7 @@ Please, move system attributes to another group and try again.</seg>
       <tuv lang="EN-US">
         <seg>Type</seg>
       </tuv>
-      <tuv lang="FR-FR">
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134132Z">
         <seg>Type</seg>
       </tuv>
     </tu>
@@ -54408,6 +55136,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de créer le répertoire : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to create requested Coupon Qty. Please check settings and try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Impossible de créer la quantité de bons de réduction demandée. Vérifiez les réglages et réessayez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54892,6 +55628,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to update Order data.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Impossible de mettre à jour les données de la commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to update shipping method.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -55104,6 +55848,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur inconnue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown Error. Please try again later.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Erreur inconnue. Veuillez réessayer ultérieurement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55408,6 +56160,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Mettre à jour les articles et quantités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Order Data</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Modifier les données de la commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -55784,6 +56544,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Utiliser tous les attributs disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Auto Generation</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Utiliser la génération automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -56260,6 +57028,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Used</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Utilisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used Currently For</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -56524,6 +57300,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VAT Number</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Numéro de TVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VAT Number is Invalid</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T154648Z">
@@ -56760,6 +57544,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Vendeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendor / Merchant Login</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Vendeur / Identifiant du marchand</seg>
       </tuv>
     </tu>
     <tu>
@@ -57200,6 +57992,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Invalider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Void action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>L'action void n'est pas disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58905,6 +59705,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot void a verification transaction</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Vous ne pouvez pas éviter la vérification de la transaction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You could enable this option to use web server rewrites functionality for improved search engines optimization.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -59961,6 +60769,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cm</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134140Z">
+        <seg>cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>configuration</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60225,6 +61041,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134140Z">
+        <seg>in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in rows:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60277,6 +61101,22 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>élément(s) sélectionné(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kg</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134141Z">
+        <seg>kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lb</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="nriou" changedate="20120718T134142Z">
+        <seg>lb</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,10 +1,10 @@
 #: Express Checkout and Order have been canceled.
 msgid "Express Checkout and Order have been canceled."
-msgstr "Le paiement Express Chackout et la commande ont Ã©tÃ© annulÃ©s."
+msgstr "Le paiement Express Chackout et la commande ont été annulés."
 
 #: Express Checkout has been canceled.
 msgid "Express Checkout has been canceled."
-msgstr "Le paiement Express Checkout a Ã©tÃ© annulÃ©."
+msgstr "Le paiement Express Checkout a été annulé."
 
 #: Fetch
 msgid "Fetch"
@@ -24,7 +24,7 @@ msgstr "Formulaire de commentaire de commande PayPal Express"
 
 #: PayPal Settlement Reports
 msgid "PayPal Settlement Reports"
-msgstr "Rapports de rÃ¨glements PayPal"
+msgstr "Rapports de règlements PayPal"
 
 #: Pending PayPal
 msgid "Pending PayPal"
@@ -60,15 +60,15 @@ msgstr "Impossible de passer la commande."
 
 #: Unable to process Express Checkout approval.
 msgid "Unable to process Express Checkout approval."
-msgstr "Impossible de procÃ©der Ã  l'approbation PayPal Express."
+msgstr "Impossible de procéder à l'approbation PayPal Express."
 
 #: Unable to start Express Checkout.
 msgid "Unable to start Express Checkout."
-msgstr "Impossible de dÃ©marrer PayPal Express."
+msgstr "Impossible de démarrer PayPal Express."
 
 #: Unable to update shipping method.
 msgid "Unable to update shipping method."
-msgstr "Impossible de mettre Ã  jour le mode de livraison."
+msgstr "Impossible de mettre à jour le mode de livraison."
 
 #: View
 msgid "View"
@@ -84,9 +84,9 @@ msgstr "Le jeton pour PayPal Express est incorrect."
 
 #: You will be redirected to the PayPal website in a few seconds.
 msgid "You will be redirected to the PayPal website in a few seconds."
-msgstr "Vous serez redirigÃ© vers le site de PayPal dans quelques secondes."
+msgstr "Vous serez redirigé vers le site de PayPal dans quelques secondes."
 
 #: Payment has been declined. Please try again.
 msgid "Payment has been declined. Please try again."
-msgstr "Le paiement a Ã©tÃ© refusÃ©. Veuillez rÃ©essayer."
+msgstr "Le paiement a été refusé. Veuillez réessayer."
 

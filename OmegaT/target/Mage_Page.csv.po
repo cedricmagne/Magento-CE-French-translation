@@ -4,11 +4,11 @@ msgstr "%s article(s)"
 
 #: &copy; 2008 Magento Demo Store. All Rights Reserved.
 msgid "&copy; 2008 Magento Demo Store. All Rights Reserved."
-msgstr "&copy; 2008 Boutique de dÃ©mo Magento. Tous droits rÃ©servÃ©s."
+msgstr "&copy; 2008 Boutique de démo Magento. Tous droits réservés."
 
 #: (Shift-)Click or drag to change value
 msgid "(Shift-)Click or drag to change value"
-msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncÃ©e ou glissez"
+msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncée ou glissez"
 
 #: (ver. %s)
 msgid "(ver. %s)"
@@ -20,23 +20,23 @@ msgstr "- Cliquez sur n'importe quelle partie de l'heure pour l'augmenter"
 
 #: - Hold mouse button on any of the above buttons for faster selection.
 msgid "- Hold mouse button on any of the above buttons for faster selection."
-msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sÃ©lection rapide"
+msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sélection rapide"
 
 #: - Use the %s buttons to select month
 msgid "- Use the %s buttons to select month"
-msgstr "- Utilisez les boutons %s pour sÃ©lectionner le mois"
+msgstr "- Utilisez les boutons %s pour sélectionner le mois"
 
 #: - Use the %s, %s buttons to select year
 msgid "- Use the %s, %s buttons to select year"
-msgstr "- Utilisez les boutons %s, %s pour sÃ©lectionner l'annÃ©e"
+msgstr "- Utilisez les boutons %s, %s pour sélectionner l'année"
 
 #: - or Shift-click to decrease it
 msgid "- or Shift-click to decrease it"
-msgstr "- ou cliquez en maintenant la touche shift enfoncÃ©e pour l'augmenter"
+msgstr "- ou cliquez en maintenant la touche shift enfoncée pour l'augmenter"
 
 #: - or click and drag for faster selection.
 msgid "- or click and drag for faster selection."
-msgstr "- ou cliquez et glissez pour une sÃ©lection plus rapide"
+msgstr "- ou cliquez et glissez pour une sélection plus rapide"
 
 #: -- Please Select --
 msgid "-- Please Select --"
@@ -60,7 +60,7 @@ msgstr "3 colonnes"
 
 #: About the calendar
 msgid "About the calendar"
-msgstr "Ã€ propos du calendrier"
+msgstr "À propos du calendrier"
 
 #: All Empty Layout Pages
 msgid "All Empty Layout Pages"
@@ -104,23 +104,23 @@ msgstr "Fermer"
 
 #: Close Window
 msgid "Close Window"
-msgstr "Fermer la fenÃªtre"
+msgstr "Fermer la fenêtre"
 
 #: DHTML Date/Time Selector
 msgid "DHTML Date/Time Selector"
-msgstr "SÃ©lecteur de date/heure DHTML"
+msgstr "Sélecteur de date/heure DHTML"
 
 #: Date selection:
 msgid "Date selection:"
-msgstr "SÃ©lection de date :"
+msgstr "Sélection de date :"
 
 #: Default Description
 msgid "Default Description"
-msgstr "Description par dÃ©faut"
+msgstr "Description par défaut"
 
 #: Default welcome msg!
 msgid "Default welcome msg!"
-msgstr "Message d'accueil par dÃ©faut"
+msgstr "Message d'accueil par défaut"
 
 #: Display %s first
 msgid "Display %s first"
@@ -128,11 +128,11 @@ msgstr "Afficher d'abord %s"
 
 #: Distributed under GNU LGPL. See %s for details.
 msgid "Distributed under GNU LGPL. See %s for details."
-msgstr "DistribuÃ© sous licence GNU LGPL. Voir %s pour plus de dÃ©tails."
+msgstr "Distribué sous licence GNU LGPL. Voir %s pour plus de détails."
 
 #: Drag to move
 msgid "Drag to move"
-msgstr "Glisser pour dÃ©placer"
+msgstr "Glisser pour déplacer"
 
 #: Empty
 msgid "Empty"
@@ -140,19 +140,19 @@ msgstr "Vide"
 
 #: For latest version visit: %s
 msgid "For latest version visit: %s"
-msgstr "Pour la visite de la derniÃ¨re version : %s"
+msgstr "Pour la visite de la dernière version : %s"
 
 #: Free Shipping on orders over 50$
 msgid "Free Shipping on orders over 50$"
-msgstr "Livraison gratuite sur les commandes de plus de 50â‚¬"
+msgstr "Livraison gratuite sur les commandes de plus de 50€"
 
 #: Go Today
 msgid "Go Today"
-msgstr "Aller Ã  aujourd'hui"
+msgstr "Aller à aujourd'hui"
 
 #: Help Us to Keep Magento Healthy
 msgid "Help Us to Keep Magento Healthy"
-msgstr "Aidez-nous Ã  amÃ©liorer Magento"
+msgstr "Aidez-nous à améliorer Magento"
 
 #: Interface Language
 msgid "Interface Language"
@@ -160,11 +160,11 @@ msgstr "Langage de l'interface"
 
 #: Items %s to %s of %s total
 msgid "Items %s to %s of %s total"
-msgstr "Articles <strong>%s</strong> Ã  <strong>%s</strong> sur un total de <strong>%s</strong>"
+msgstr "Articles <strong>%s</strong> à <strong>%s</strong> sur un total de <strong>%s</strong>"
 
 #: JavaScript seem to be disabled in your browser.
 msgid "JavaScript seem to be disabled in your browser."
-msgstr "Apparemment, javascript est dÃ©sactivÃ© sur votre navigateur."
+msgstr "Apparemment, javascript est désactivé sur votre navigateur."
 
 #: Left Column
 msgid "Left Column"
@@ -188,7 +188,7 @@ msgstr "Mois suivant (maintenez pour le menu)"
 
 #: Next year (hold for menu)
 msgid "Next year (hold for menu)"
-msgstr "AnnÃ©e prochaine (maintenez pour le menu)"
+msgstr "Année prochaine (maintenez pour le menu)"
 
 #: Page Bottom
 msgid "Page Bottom"
@@ -200,7 +200,7 @@ msgstr "Pied de page"
 
 #: Page Header
 msgid "Page Header"
-msgstr "En-tÃªte de page"
+msgstr "En-tête de page"
 
 #: Page Top
 msgid "Page Top"
@@ -212,15 +212,15 @@ msgstr "Page :"
 
 #: Prev. month (hold for menu)
 msgid "Prev. month (hold for menu)"
-msgstr "Mois prÃ©cÃ©dent (maintenez pour le menu)"
+msgstr "Mois précédent (maintenez pour le menu)"
 
 #: Prev. year (hold for menu)
 msgid "Prev. year (hold for menu)"
-msgstr "AnnÃ©e prÃ©cÃ©dente (maintenez pour le menu)"
+msgstr "Année précédente (maintenez pour le menu)"
 
 #: Previous
 msgid "Previous"
-msgstr "PrÃ©cÃ©dent"
+msgstr "Précédent"
 
 #: Redirecting...
 msgid "Redirecting..."
@@ -244,7 +244,7 @@ msgstr "Choisir un magasin :"
 
 #: Select date
 msgid "Select date"
-msgstr "SÃ©lectionner la date"
+msgstr "Sélectionner la date"
 
 #: Show
 msgid "Show"
@@ -252,11 +252,11 @@ msgstr "Afficher"
 
 #: This is a demo store. Any orders placed through this store will not be honored or fulfilled.
 msgid "This is a demo store. Any orders placed through this store will not be honored or fulfilled."
-msgstr "Ceci est une boutique de dÃ©monstration. Aucune commande passÃ©e sur cette boutique ne sera honorÃ©e."
+msgstr "Ceci est une boutique de démonstration. Aucune commande passée sur cette boutique ne sera honorée."
 
 #: Time selection:
 msgid "Time selection:"
-msgstr "SÃ©lection de l'heure :"
+msgstr "Sélection de l'heure :"
 
 #: Time:
 msgid "Time:"
@@ -268,7 +268,7 @@ msgstr "Bienvenue, %s !"
 
 #: You must have JavaScript enabled in your browser to utilize the functionality of this website.
 msgid "You must have JavaScript enabled in your browser to utilize the functionality of this website."
-msgstr "Javascript doit Ãªtre activÃ© dans votre navigateur pour utiliser toutes les fonctionnalitÃ©s de ce site."
+msgstr "Javascript doit être activé dans votre navigateur pour utiliser toutes les fonctionnalités de ce site."
 
 #: Your Language
 msgid "Your Language"
@@ -292,7 +292,7 @@ msgstr "Autoriser"
 
 #: JavaScript seems to be disabled in your browser.
 msgid "JavaScript seems to be disabled in your browser."
-msgstr "Javascript est dÃ©sactivÃ© dans votre navigateur."
+msgstr "Javascript est désactivé dans votre navigateur."
 
 #: This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=\"%s\">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.
 msgid "This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=\"%s\">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below."

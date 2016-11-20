@@ -8,15 +8,15 @@ msgstr "Attente d'autorisation de la part d'Ogone"
 
 #: Authorization not known: A technical problem arose during authorization process, giving unpredictable result
 msgid "Authorization not known: A technical problem arose during authorization process, giving unpredictable result"
-msgstr "Autorisation inconnue : un problÃ¨me technique est survenue durant le process d'autorisation"
+msgstr "Autorisation inconnue : un problème technique est survenue durant le process d'autorisation"
 
 #: Background Color of Ogone Template
 msgid "Background Color of Ogone Template"
-msgstr "Couleur d'arriÃ¨re-plan du gabarit Ogone"
+msgstr "Couleur d'arrière-plan du gabarit Ogone"
 
 #: Button Background Color of the Ogone Template
 msgid "Button Background Color of the Ogone Template"
-msgstr "Couleur d'arriÃ¨re-plan de bouton pour le gabarit Ogone"
+msgstr "Couleur d'arrière-plan de bouton pour le gabarit Ogone"
 
 #: Button Text Color of the Ogone Template
 msgid "Button Text Color of the Ogone Template"
@@ -24,19 +24,19 @@ msgstr "Couleur de texte de bouton pour le gabarit Ogone"
 
 #: Cancelled Ogone
 msgid "Cancelled Ogone"
-msgstr "AnnulÃ© Ogone"
+msgstr "Annulé Ogone"
 
 #: Debug
 msgid "Debug"
-msgstr "DÃ©boguage"
+msgstr "Déboguage"
 
 #: Declined Ogone
 msgid "Declined Ogone"
-msgstr "RefusÃ© Ogone"
+msgstr "Refusé Ogone"
 
 #: Declined Order on Ogone side.
 msgid "Declined Order on Ogone side."
-msgstr "Commande refusÃ©e par Ogone."
+msgstr "Commande refusée par Ogone."
 
 #: Direct Sale
 msgid "Direct Sale"
@@ -56,11 +56,11 @@ msgstr "Par ex. \"white\"."
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Exception not defined
 msgid "Exception not defined"
-msgstr "Exception non dÃ©finie"
+msgstr "Exception non définie"
 
 #: Font Family of the Ogone Template
 msgid "Font Family of the Ogone Template"
@@ -76,15 +76,15 @@ msgstr "URL de passerelle"
 
 #: Horizontally grouped logo with group name on left
 msgid "Horizontally grouped logo with group name on left"
-msgstr "Logo groupÃ© horizontalement avec le nom du groupe Ã  gauche"
+msgstr "Logo groupé horizontalement avec le nom du groupe à gauche"
 
 #: Horizontally grouped logo with no group name
 msgid "Horizontally grouped logo with no group name"
-msgstr "Logo groupÃ© horizontalement sans le nom du groupe"
+msgstr "Logo groupé horizontalement sans le nom du groupe"
 
 #: If you choose \"No Operation\", Ogone will use default payment procedure setup in Ogone configuration.
 msgid "If you choose \"No Operation\", Ogone will use default payment procedure setup in Ogone configuration."
-msgstr "Si vous choisissez \"Pas d'opÃ©ration\", Ogone utilisera la procÃ©dure de paiement paramÃ©trÃ©e dans la configuration Ogone."
+msgstr "Si vous choisissez \"Pas d'opération\", Ogone utilisera la procédure de paiement paramétrée dans la configuration Ogone."
 
 #: If you choose \"Ogone Template\", you will need to fill in all the following fields.
 msgid "If you choose \"Ogone Template\", you will need to fill in all the following fields."
@@ -108,7 +108,7 @@ msgstr "Ogone"
 
 #: Ogone Default Operation
 msgid "Ogone Default Operation"
-msgstr "OpÃ©ration par dÃ©faut Ogone"
+msgstr "Opération par défaut Ogone"
 
 #: Order can't save
 msgid "Order can't save"
@@ -128,11 +128,11 @@ msgstr "Gabarit de paiement"
 
 #: Payment transaction has been declined.
 msgid "Payment transaction has been declined."
-msgstr "La transaction de paiement a Ã©tÃ© refusÃ©e."
+msgstr "La transaction de paiement a été refusée."
 
 #: Payment uncertain: A technical problem arose during payment process, giving unpredictable result
 msgid "Payment uncertain: A technical problem arose during payment process, giving unpredictable result"
-msgstr "Paiement incertain : un problÃ¨me technique est survenu lors du process de paiement."
+msgstr "Paiement incertain : un problème technique est survenu lors du process de paiement."
 
 #: Pending Ogone
 msgid "Pending Ogone"
@@ -140,15 +140,15 @@ msgstr "En attente Ogone"
 
 #: Please, wait a moment. This page will transfer your data to Ogone payment gateway in a few seconds.
 msgid "Please, wait a moment. This page will transfer your data to Ogone payment gateway in a few seconds."
-msgstr "Veuillez patienter. Vous serez redirigÃ© vers le site de paiement Ogone dans quelques secondes."
+msgstr "Veuillez patienter. Vous serez redirigé vers le site de paiement Ogone dans quelques secondes."
 
 #: Processed Ogone Payment
 msgid "Processed Ogone Payment"
-msgstr "Paiement Ogone traitÃ©"
+msgstr "Paiement Ogone traité"
 
 #: Processed by Ogone
 msgid "Processed by Ogone"
-msgstr "TraitÃ© par Ogone"
+msgstr "Traité par Ogone"
 
 #: Processing Ogone Payment
 msgid "Processing Ogone Payment"
@@ -160,15 +160,15 @@ msgstr "Signature de sortie SHA-1"
 
 #: SHA-1-IN Signature
 msgid "SHA-1-IN Signature"
-msgstr "Signature d'entrÃ©e SHA-1"
+msgstr "Signature d'entrée SHA-1"
 
 #: Start Ogone Processing
 msgid "Start Ogone Processing"
-msgstr "DÃ©marrer le traitement Ogone"
+msgstr "Démarrer le traitement Ogone"
 
 #: Table Background Color of the Ogone Template
 msgid "Table Background Color of the Ogone Template"
-msgstr "Couleur d'arriÃ¨re-plan de tableau pour le gabarit Ogone"
+msgstr "Couleur d'arrière-plan de tableau pour le gabarit Ogone"
 
 #: Table Text Color of the Ogone Template
 msgid "Table Text Color of the Ogone Template"
@@ -184,15 +184,15 @@ msgstr "Le hashage n'est pas valide."
 
 #: The order cannot be canceled for a system reason.
 msgid "The order cannot be canceled for a system reason."
-msgstr "La commande ne peut pas Ãªtre annulÃ©e pour une raison systÃ¨me."
+msgstr "La commande ne peut pas être annulée pour une raison système."
 
 #: The order cannot be saved for a system reason.
 msgid "The order cannot be saved for a system reason."
-msgstr "La commande ne peut pas Ãªtre enregistrÃ©e pour une raison systÃ¨me."
+msgstr "La commande ne peut pas être enregistrée pour une raison système."
 
 #: The order cannot be saved.
 msgid "The order cannot be saved."
-msgstr "La commande ne peut pas Ãªtre enregistrÃ©e."
+msgstr "La commande ne peut pas être enregistrée."
 
 #: The order is not valid
 msgid "The order is not valid"
@@ -200,7 +200,7 @@ msgstr "La commande n'est pas valide."
 
 #: The order was canceled on ogone side.
 msgid "The order was canceled on ogone side."
-msgstr "La commande a Ã©tÃ© annulÃ©e du cÃ´tÃ© Ogone."
+msgstr "La commande a été annulée du côté Ogone."
 
 #: Title
 msgid "Title"
@@ -212,7 +212,7 @@ msgstr "Titre du gabarit Ogone"
 
 #: URL/filename of the logo.<br />The URL must be absolute and stored on a secure server.
 msgid "URL/filename of the logo.<br />The URL must be absolute and stored on a secure server."
-msgstr "URL / nom de fichier du logo. <br/>L'URL doit Ãªtre absolue et stockÃ©e sur un serveur sÃ©curisÃ©."
+msgstr "URL / nom de fichier du logo. <br/>L'URL doit être absolue et stockée sur un serveur sécurisé."
 
 #: Unknown exception
 msgid "Unknown exception"
@@ -232,5 +232,5 @@ msgstr "Vous pouvez organiser la mise en page / liste des modes de paiement sur 
 
 #: You will be redirected to Ogone website when you place an order.
 msgid "You will be redirected to Ogone website when you place an order."
-msgstr "Vous serez redirigÃ© vers le site d'Ogone Ã  l'issue de votre commande."
+msgstr "Vous serez redirigé vers le site d'Ogone à l'issue de votre commande."
 

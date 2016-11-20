@@ -4,7 +4,7 @@ msgstr "-- Votre choix --"
 
 #: Allowed Currencies
 msgid "Allowed Currencies"
-msgstr "Devises autorisÃ©es"
+msgstr "Devises autorisées"
 
 #: Base Currency
 msgid "Base Currency"
@@ -12,11 +12,11 @@ msgstr "Devise de base"
 
 #: Base currency is used for all online payment transactions. Scope is defined by the catalog price scope (\"Catalog\" > \"Price\" > \"Catalog Price Scope\").
 msgid "Base currency is used for all online payment transactions. Scope is defined by the catalog price scope (\"Catalog\" > \"Price\" > \"Catalog Price Scope\")."
-msgstr "La devise de base est utilisÃ©e pour toutes les transactions de paiement en ligne. La portÃ©e est dÃ©finie par la porte des prix de catalogue (\"Catalogue\" > \"Prix\" > \"PortÃ©e des prix catalogue\")"
+msgstr "La devise de base est utilisée pour toutes les transactions de paiement en ligne. La portée est définie par la porte des prix de catalogue (\"Catalogue\" > \"Prix\" > \"Portée des prix catalogue\")"
 
 #: Cannot retrieve rate from %s.
 msgid "Cannot retrieve rate from %s."
-msgstr "Impossible de rÃ©cupÃ©rer les taux sur %s."
+msgstr "Impossible de récupérer les taux sur %s."
 
 #: Connection Timeout in Seconds
 msgid "Connection Timeout in Seconds"
@@ -36,7 +36,7 @@ msgstr "API de pays"
 
 #: Country and Format Type combination should be unique
 msgid "Country and Format Type combination should be unique"
-msgstr "La combinaison Pays et Type de format doit Ãªtre unique"
+msgstr "La combinaison Pays et Type de format doit être unique"
 
 #: Currency
 msgid "Currency"
@@ -48,23 +48,23 @@ msgstr "Options de devise"
 
 #: Currency Setup
 msgid "Currency Setup"
-msgstr "ParamÃ©trage des devises"
+msgstr "Paramétrage des devises"
 
 #: Currency Update Warnings
 msgid "Currency Update Warnings"
-msgstr "Alertes de mise Ã  jour des devises"
+msgstr "Alertes de mise à jour des devises"
 
 #: Default Display Currency
 msgid "Default Display Currency"
-msgstr "Devise Ã  afficher par dÃ©faut"
+msgstr "Devise à afficher par défaut"
 
 #: Directory
 msgid "Directory"
-msgstr "RÃ©pertoire"
+msgstr "Répertoire"
 
 #: Enabled
 msgid "Enabled"
-msgstr "ActivÃ©"
+msgstr "Activé"
 
 #: Error Email Recipient
 msgid "Error Email Recipient"
@@ -72,7 +72,7 @@ msgstr "Destinataire du mail d'erreur"
 
 #: Error Email Sender
 msgid "Error Email Sender"
-msgstr "ExpÃ©diteur du mail d'erreur"
+msgstr "Expéditeur du mail d'erreur"
 
 #: Error Email Template
 msgid "Error Email Template"
@@ -84,15 +84,15 @@ msgstr "ERREUR FATALE :"
 
 #: Frequency
 msgid "Frequency"
-msgstr "FrÃ©quence"
+msgstr "Fréquence"
 
 #: Installed Currencies
 msgid "Installed Currencies"
-msgstr "Devises installÃ©es"
+msgstr "Devises installées"
 
 #: Invalid Import Service specified.
 msgid "Invalid Import Service specified."
-msgstr "Le service d'import spÃ©cifiÃ© est invalide"
+msgstr "Le service d'import spécifié est invalide"
 
 #: Invalid country code: %s
 msgid "Invalid country code: %s"
@@ -100,7 +100,7 @@ msgstr "Code de pays non valide : %s"
 
 #: Invalid rates received
 msgid "Invalid rates received"
-msgstr "Taux reÃ§us non valides"
+msgstr "Taux reçus non valides"
 
 #: Invalid target currency.
 msgid "Invalid target currency."
@@ -112,7 +112,7 @@ msgstr "Liste des pays"
 
 #: List of regions in specified country
 msgid "List of regions in specified country"
-msgstr "Liste des rÃ©gions dans le pays spÃ©cifiÃ©"
+msgstr "Liste des régions dans le pays spécifié"
 
 #: Postal Code is Optional for the following countries
 msgid "Postal Code is Optional for the following countries"
@@ -120,15 +120,15 @@ msgstr "Pays pour lesquels le code postal est optionnel"
 
 #: Region
 msgid "Region"
-msgstr "RÃ©gion"
+msgstr "Région"
 
 #: Region Api
 msgid "Region Api"
-msgstr "API de rÃ©gion"
+msgstr "API de région"
 
 #: Scheduled Import Settings
 msgid "Scheduled Import Settings"
-msgstr "ParamÃ¨tres d'import programmÃ©"
+msgstr "Paramètres d'import programmé"
 
 #: Select Your Currency
 msgid "Select Your Currency"
@@ -140,23 +140,23 @@ msgstr "Service"
 
 #: Start Time
 msgid "Start Time"
-msgstr "Heure de dÃ©but"
+msgstr "Heure de début"
 
 #: State/Province
 msgid "State/Province"
-msgstr "Ã‰tat/RÃ©gion"
+msgstr "État/Région"
 
 #: Strikeiron Email Update Warnings
 msgid "Strikeiron Email Update Warnings"
-msgstr "Alertes de mise Ã  jour de l'email Strikeiron"
+msgstr "Alertes de mise à jour de l'email Strikeiron"
 
 #: Unable to initialize the import model.
 msgid "Unable to initialize the import model."
-msgstr "Impossible d'initialiser le modÃ¨le d'import."
+msgstr "Impossible d'initialiser le modèle d'import."
 
 #: Undefined rate from \"%s-%s\".
 msgid "Undefined rate from \"%s-%s\"."
-msgstr "Taux indÃ©fini depuis \"%s-%s\"."
+msgstr "Taux indéfini depuis \"%s-%s\"."
 
 #: WARNING:
 msgid "WARNING:"
@@ -176,7 +176,7 @@ msgstr "API de pays"
 
 #: Region API
 msgid "Region API"
-msgstr "API de rÃ©gion"
+msgstr "API de région"
 
 #: Can't convert rate from \"%s-%s\".
 msgid "Can't convert rate from \"%s-%s\"."

@@ -24,11 +24,11 @@ msgstr ""
 
 #: System
 msgid "System"
-msgstr "SystÃ¨me"
+msgstr "Système"
 
 #: Use Default
 msgid "Use Default"
-msgstr "Utiliser la valeur par dÃ©faut"
+msgstr "Utiliser la valeur par défaut"
 
 #: Use Standard
 msgid "Use Standard"

@@ -8,7 +8,7 @@ msgstr "Inscription de compte"
 
 #: All fields of script types have to be filled.
 msgid "All fields of script types have to be filled."
-msgstr "Tous les champs des types de script doivent Ãªtre renseignÃ©s."
+msgstr "Tous les champs des types de script doivent être renseignés."
 
 #: Attributes
 msgid "Attributes"
@@ -16,11 +16,11 @@ msgstr "Attributs"
 
 #: Category View Optimization
 msgid "Category View Optimization"
-msgstr "Optimisation de vue de catÃ©gorie"
+msgstr "Optimisation de vue de catégorie"
 
 #: Control Script
 msgid "Control Script"
-msgstr "Script de contrÃ´le"
+msgstr "Script de contrôle"
 
 #: Conversion Page
 msgid "Conversion Page"
@@ -52,7 +52,7 @@ msgstr "Installer les scripts"
 
 #: Multi Address Checkout
 msgid "Multi Address Checkout"
-msgstr "Passage de commande Ã  adresses multiples"
+msgstr "Passage de commande à adresses multiples"
 
 #: One Page Checkout
 msgid "One Page Checkout"
@@ -60,11 +60,11 @@ msgstr "Passage de commande en une seule page"
 
 #: Order Success (Multi Address Checkout)
 msgid "Order Success (Multi Address Checkout)"
-msgstr "Commande rÃ©ussie (Passage de commande Ã  adresses multiples)"
+msgstr "Commande réussie (Passage de commande à adresses multiples)"
 
 #: Order Success (One Page Checkout)
 msgid "Order Success (One Page Checkout)"
-msgstr "Commande rÃ©ussie (Passage de commande en une seule page)"
+msgstr "Commande réussie (Passage de commande en une seule page)"
 
 #: Original Page
 msgid "Original Page"
@@ -84,19 +84,19 @@ msgstr "Optimisation de page de vue"
 
 #: Please copy and paste this value to experiment edit form
 msgid "Please copy and paste this value to experiment edit form"
-msgstr "Copier/coller cette valeur pour tester le formulaire d'Ã©dition"
+msgstr "Copier/coller cette valeur pour tester le formulaire d'édition"
 
 #: Please copy and paste this value to experiment edit form.
 msgid "Please copy and paste this value to experiment edit form."
-msgstr "Copier/coller cette valeur pour tester le formulaire d'Ã©dition"
+msgstr "Copier/coller cette valeur pour tester le formulaire d'édition"
 
 #: Please select store view to see the URL
 msgid "Please select store view to see the URL"
-msgstr "SÃ©lectionnez la vue magasin pour voir l'URL"
+msgstr "Sélectionnez la vue magasin pour voir l'URL"
 
 #: Please select store view to see the URL.
 msgid "Please select store view to see the URL."
-msgstr "SÃ©lectionnez la vue magasin pour voir l'URL"
+msgstr "Sélectionnez la vue magasin pour voir l'URL"
 
 #: Product View Optimization
 msgid "Product View Optimization"
@@ -120,11 +120,11 @@ msgstr "Script de suivi"
 
 #: Use Default
 msgid "Use Default"
-msgstr "Utiliser la valeur par dÃ©faut"
+msgstr "Utiliser la valeur par défaut"
 
 #: Use Default Values
 msgid "Use Default Values"
-msgstr "Utiliser les valeurs par dÃ©faut"
+msgstr "Utiliser les valeurs par défaut"
 
 #: Variant Page
 msgid "Variant Page"
